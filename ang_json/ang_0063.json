@@ -1,0 +1,303 @@
+{
+  "ang": 63,
+  "line_count": 27,
+  "lines": [
+    {
+      "index": 1,
+      "verse_id": 2559,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਸਿਰੀਰਾਗੁ ਮਹਲਾ ੧ ॥",
+      "site_roman": "sirīrāg mahalā 1 .",
+      "sahib_singh_pa": "None",
+      "roman": "sirī rāg mahla 1",
+      "translation_ru": ""
+    },
+    {
+      "index": 2,
+      "verse_id": 2560,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਡੂੰਗਰੁ ਦੇਖਿ ਡਰਾਵਣੋ ਪੇਈਅੜੈ ਡਰੀਆਸੁ ॥",
+      "site_roman": "dūngar dēkh darāvanō pēīarai darīās .",
+      "sahib_singh_pa": "(ਇਕ ਪਾਸੇ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਹੈ; ਦੂਜੇ ਪਾਸੇ, ਇਸ ਵਿਚੋਂ ਪਾਰ ਲੰਘਣ ਲਈ ਗੁਰਮੁਖਾਂ ਵਾਲਾ ਰਸਤਾ ਹੈ। ਪਰ ਆਤਮਕ ਜੀਵਨ ਵਾਲਾ ਉਹ ਰਸਤਾ ਪਹਾੜੀ ਰਸਤਾ ਹੈ। ਆਤਮਕ ਜੀਵਨ ਦੀ ਸਿਖਰ ਤੇ ਪਹੁੰਚਣਾ, ਮਾਨੋ, ਇਕ ਬੜੇ ਉੱਚੇ ਡਰਾਉਣੇ ਪਹਾੜ ਉੱਤੇ ਚੜ੍ਹਨਾ ਹੈ, ਉਸ) ਡਰਾਉਣੇ ਪਹਾੜ ਨੂੰ ਵੇਖ ਕੇ ਪੇਕੇ ਘਰ ਵਿਚ (ਮਾਂ ਪਿਉ ਭੈਣ ਭਰਾ ਆਦਿਕ ਦੇ ਮੋਹ ਵਿਚ ਗ੍ਰਸੀ ਜੀਵ-ਇਸਤ੍ਰੀ) ਡਰ ਗਈ (ਕਿ ਇਸ ਪਹਾੜ ਉੱਤੇ ਚੜ੍ਹਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ, ਜਗਤ ਦਾ ਮੋਹ ਦੂਰ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ, ਆਪਾ ਵਾਰਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ)।",
+      "roman": "ḍūṅgar dekh ḍarāvaṇo peīaṛai ḍariās",
+      "translation_ru": "Увидев этот страшный горный путь, (душа-женщина), погружённая в привязанности к родному дому, испугалась (что на эту гору не взобраться, от привязанности к миру не избавиться, себя не пожертвовать)."
+    },
+    {
+      "index": 3,
+      "verse_id": 2561,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਊਚਉ ਪਰਬਤੁ ਗਾਖੜੋ ਨਾ ਪਉੜੀ ਤਿਤੁ ਤਾਸੁ ॥",
+      "site_roman": "ūchau parabat gākharō nā paurī tit tās .",
+      "sahib_singh_pa": "(ਆਤਮਕ ਜੀਵਨ ਦੀ ਸਿਖਰ ਤੇ ਅੱਪੜਨਾ, ਮਾਨੋ) ਬੜਾ ਉੱਚਾ ਤੇ ਔਖਾ ਪਹਾੜ ਹੈ; ਉਸ ਪਹਾੜ ਤੇ ਚੜ੍ਹਨ ਲਈ ਉਸ (ਜੀਵ-ਇਸਤ੍ਰੀ) ਦੇ ਪਾਸ ਕੋਈ ਪੌੜੀ ਭੀ ਨਹੀਂ ਹੈ।",
+      "roman": "ūchāu parbat gākhṛo nā pauṛī tit tās",
+      "translation_ru": "Этот путь — как очень высокая и трудная гора; и у неё нет никакой лестницы, чтобы на неё взобраться."
+    },
+    {
+      "index": 4,
+      "verse_id": 2562,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਗੁਰਮੁਖਿ ਅੰਤਰਿ ਜਾਣਿਆ ਗੁਰਿ ਮੇਲੀ ਤਰੀਆਸੁ ॥੧॥",
+      "site_roman": "guramukh antar jāniā gur mēlī tarīās .1.",
+      "sahib_singh_pa": "ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਰਹਿਣ ਵਾਲੀ ਜਿਸ ਜੀਵ-ਇਸਤ੍ਰੀ ਨੂੰ ਗੁਰੂ ਨੇ (ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ) ਮਿਲਾ ਲਿਆ, ਉਸ ਨੇ ਆਪਣੇ ਅੰਦਰ ਹੀ ਵੱਸਦੇ ਪ੍ਰਭੂ ਨੂੰ ਪਛਾਣ ਲਿਆ, ਤੇ, ਉਹ ਇਸ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘ ਗਈ ॥੧॥",
+      "roman": "gurmukh antar jāṇiā gur melī tarīās",
+      "translation_ru": "Та душа, которую Гуру соединил с Господом, стала гурмукхом, познала Бога внутри себя и переправилась через этот океан мира."
+    },
+    {
+      "index": 5,
+      "verse_id": 2563,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਭਾਈ ਰੇ ਭਵਜਲੁ ਬਿਖਮੁ ਡਰਾਂਉ ॥",
+      "site_roman": "bhāī rē bhavajal bikham darānhu .",
+      "sahib_singh_pa": "ਹੇ ਭਾਈ! ਇਹ ਸੰਸਾਰ-ਸਮੁੰਦਰ (ਬੜਾ) ਡਰਾਉਣਾ ਹੈ ਤੇ (ਤਰਨਾ) ਔਖਾ ਹੈ।",
+      "roman": "bhāī re bhavjal bikham ḍarāu",
+      "translation_ru": "О брат! Этот океан мира очень страшен и труден для переправы."
+    },
+    {
+      "index": 6,
+      "verse_id": 2564,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਪੂਰਾ ਸਤਿਗੁਰੁ ਰਸਿ ਮਿਲੈ ਗੁਰੁ ਤਾਰੇ ਹਰਿ ਨਾਉ ॥੧॥ ਰਹਾਉ ॥",
+      "site_roman": "pūrā satigur ras milai gur tārē har nāu .1. rahāu .",
+      "sahib_singh_pa": "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਪੂਰਾ ਗੁਰੂ ਪ੍ਰੇਮ ਨਾਲ ਮਿਲਦਾ ਹੈ ਉਸ ਨੂੰ ਉਹ ਗੁਰੂ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਦੇ ਕੇ (ਇਸ ਸਮੁੰਦਰ ਵਿਚੋਂ) ਪਾਰ ਲੰਘਾ ਲੈਂਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
+      "roman": "pūrā satgur ras milai gur tāre har nāu",
+      "translation_ru": "Тот, кому совершенный Гуру встречается с любовью, — Гуру, дав ему Имя Бога, переправляет его через этот океан."
+    },
+    {
+      "index": 7,
+      "verse_id": 2565,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਚਲਾ ਚਲਾ ਜੇ ਕਰੀ ਜਾਣਾ ਚਲਣਹਾਰੁ ॥",
+      "site_roman": "chalā chalā jē karī jānā chalanahār .",
+      "sahib_singh_pa": "ਜੇ ਮੈਂ ਸਦਾ ਚੇਤੇ ਰੱਖਾਂ ਕਿ ਮੈਂ ਜਗਤ ਤੋਂ ਜ਼ਰੂਰ ਚਲੇ ਜਾਣਾ ਹੈ, ਜੇ ਮੈਂ ਸਮਝ ਲਵਾਂ ਕਿ ਸਾਰਾ ਜਗਤ ਹੀ ਚਲੇ ਜਾਣ ਵਾਲਾ ਹੈ,",
+      "roman": "chalā chalā je karī jāṇā chalaṇhār",
+      "translation_ru": "Если я всегда помню, что мне предстоит уйти из мира, если понимаю, что весь мир уходящий,"
+    },
+    {
+      "index": 8,
+      "verse_id": 2566,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਜੋ ਆਇਆ ਸੋ ਚਲਸੀ ਅਮਰੁ ਸੁ ਗੁਰੁ ਕਰਤਾਰੁ ॥",
+      "site_roman": "jō āiā sō chalasī amar s gur karatār .",
+      "sahib_singh_pa": "ਜਗਤ ਵਿਚ ਜੋ ਭੀ ਆਇਆ ਹੈ ਉਹ ਆਖ਼ਰ ਚਲਾ ਜਾਇਗਾ, ਮੌਤ-ਰਹਿਤ ਇਕ ਗੁਰੂ ਪਰਮਾਤਮਾ ਹੀ ਹੈ,",
+      "roman": "jo āiā so chalsī amar so gur kartār",
+      "translation_ru": "всё, что пришло в мир, уйдёт; только один Гуру-Творец бессмертен,"
+    },
+    {
+      "index": 9,
+      "verse_id": 2567,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਭੀ ਸਚਾ ਸਾਲਾਹਣਾ ਸਚੈ ਥਾਨਿ ਪਿਆਰੁ ॥੨॥",
+      "site_roman": "bhī sachā sālāhanā sachai thān piār .2.",
+      "sahib_singh_pa": "ਤਾਂ ਫਿਰ ਸਤਸੰਗ ਵਿਚ (ਪ੍ਰਭੂ-ਚਰਨਾਂ ਨਾਲ) ਪਿਆਰ ਪਾ ਕੇ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ (ਬੱਸ! ਇਹੀ ਹੈ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਦੀਆਂ ਵਿਕਾਰ ਲਹਿਰਾਂ ਤੋਂ ਬਚਣ ਦਾ ਤਰੀਕਾ) ॥੨॥",
+      "roman": "bhī sachā sālāhaṇā sachai thān piār",
+      "translation_ru": "тогда, обретя любовь к Богу в обществе святых, следует восхвалять Вечного — это и есть способ спастись от волн пороков."
+    },
+    {
+      "index": 10,
+      "verse_id": 2568,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਦਰ ਘਰ ਮਹਲਾ ਸੋਹਣੇ ਪਕੇ ਕੋਟ ਹਜਾਰ ॥",
+      "site_roman": "dar ghar mahalā sōhanē pakē kōt hajār .",
+      "sahib_singh_pa": "ਸੋਹਣੇ ਦਰਵਾਜ਼ਿਆਂ ਵਾਲੇ ਸੋਹਣੇ ਘਰ ਤੇ ਮਹੱਲ, ਹਜ਼ਾਰਾਂ ਪੱਕੇ ਕਿਲ੍ਹੇ,",
+      "roman": "dar ghar mehlā sohaṇe pake koṭ hajār",
+      "translation_ru": "Прекрасные дома и дворцы с красивыми воротами, тысячи крепостей,"
+    },
+    {
+      "index": 11,
+      "verse_id": 2569,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਹਸਤੀ ਘੋੜੇ ਪਾਖਰੇ ਲਸਕਰ ਲਖ ਅਪਾਰ ॥",
+      "site_roman": "hasatī ghōrē pākharē lasakar lakh apār .",
+      "sahib_singh_pa": "ਹਾਥੀ, ਘੋੜੇ, ਕਾਠੀਆਂ, ਲੱਖਾਂ ਤੇ ਬੇਅੰਤ ਲਸ਼ਕਰ-ਇਹਨਾਂ ਵਿਚੋਂ ਕੋਈ ਭੀ ਕਿਸੇ ਦੇ ਨਾਲ ਨਹੀਂ ਗਏ।",
+      "roman": "hastī ghoṛe pākharē laskār lakh apār",
+      "translation_ru": "слоны, кони, седла, бесчисленные войска — ничто из этого не пошло с человеком."
+    },
+    {
+      "index": 12,
+      "verse_id": 2570,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਕਿਸ ਹੀ ਨਾਲਿ ਨ ਚਲਿਆ ਖਪਿ ਖਪਿ ਮੁਏ ਅਸਾਰ ॥੩॥",
+      "site_roman": "kis hī nāl n chaliā khap khap muē asār .3.",
+      "sahib_singh_pa": "ਬੇਸਮਝ ਐਵੇਂ ਹੀ ਖਪ ਖਪ ਕੇ ਆਤਮਕ ਮੌਤੇ ਮਰਦੇ ਰਹੇ (ਇਹਨਾਂ ਦੀ ਖ਼ਾਤਰ ਆਤਮਕ ਜੀਵਨ ਗਵਾ ਗਏ) ॥੩॥",
+      "roman": "kis hī nāl na chaliā khap khap muē asār",
+      "translation_ru": "Ничто не пошло с ним; глупые люди напрасно изнурялись и умирали духовной смертью."
+    },
+    {
+      "index": 13,
+      "verse_id": 2571,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਸੁਇਨਾ ਰੁਪਾ ਸੰਚੀਐ ਮਾਲੁ ਜਾਲੁ ਜੰਜਾਲੁ ॥",
+      "site_roman": "suinā rupā sanchīai māl jāl janjāl .",
+      "sahib_singh_pa": "ਜੇ ਸੋਨਾ ਚਾਂਦੀ ਇਕੱਠਾ ਕਰਦੇ ਜਾਈਏ, ਤਾਂ ਇਹ ਮਾਲ ਧਨ (ਜਿੰਦ ਨੂੰ ਮੋਹ ਵਿਚ ਫਸਾਣ ਲਈ) ਜਾਲ ਬਣਦਾ ਹੈ ਫਾਹੀ ਬਣਦਾ ਹੈ।",
+      "roman": "suinā rupā sanchīai māl jāl janjāl",
+      "translation_ru": "Если накапливать золото и серебро, это богатство становится сетью и петлёй, запутывающей душу."
+    },
+    {
+      "index": 14,
+      "verse_id": 2572,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਸਭ ਜਗ ਮਹਿ ਦੋਹੀ ਫੇਰੀਐ ਬਿਨੁ ਨਾਵੈ ਸਿਰਿ ਕਾਲੁ ॥",
+      "site_roman": "sabh jag mah dōhī phērīai bin nāvai sir kāl .",
+      "sahib_singh_pa": "ਜੇ ਆਪਣੀ ਤਾਕਤ ਦੀ ਦੁਹਾਈ ਸਾਰੇ ਜਗਤ ਵਿਚ ਫਿਰਾ ਸਕੀਏ, ਤਾਂ ਭੀ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਨ ਤੋਂ ਬਿਨਾ ਸਿਰ ਉੱਤੇ ਮੌਤ ਦਾ ਡਰ (ਕਾਇਮ ਰਹਿੰਦਾ) ਹੈ।",
+      "roman": "sabh jag meh dohī pherīai bin nāvai sir kāl",
+      "translation_ru": "Даже если можно прославиться по всему миру, без поминания Имени Бога страх смерти остаётся над головой."
+    },
+    {
+      "index": 15,
+      "verse_id": 2573,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਪਿੰਡੁ ਪੜੈ ਜੀਉ ਖੇਲਸੀ ਬਦਫੈਲੀ ਕਿਆ ਹਾਲੁ ॥੪॥",
+      "site_roman": "pind parai jīu khēlasī badaphailī kiā hāl .4.",
+      "sahib_singh_pa": "ਜਦੋਂ ਜਿੰਦ ਜ਼ਿੰਦਗੀ ਦੀ ਖੇਡ ਖੇਡ ਜਾਂਦੀ ਹੈ ਤੇ ਸਰੀਰ (ਮਿੱਟੀ ਹੋ ਕੇ) ਢਹਿ ਪੈਂਦਾ ਹੈ, ਤਦੋਂ (ਧਨ ਪਦਾਰਥ ਦੀ ਖ਼ਾਤਰ) ਮੰਦੇ ਕੰਮ ਕਰਨ ਵਾਲਿਆਂ ਦਾ ਭੈੜਾ ਹਾਲ ਹੀ ਹੁੰਦਾ ਹੈ ॥੪॥",
+      "roman": "piṇḍ paṛai jīu khelsī badfēlī kiā hāl",
+      "translation_ru": "Когда жизнь завершается и тело распадается в прах, у тех, кто совершал дурные дела, бывает лишь печальный исход."
+    },
+    {
+      "index": 16,
+      "verse_id": 2574,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਪੁਤਾ ਦੇਖਿ ਵਿਗਸੀਐ ਨਾਰੀ ਸੇਜ ਭਤਾਰ ॥",
+      "site_roman": "putā dēkh vigasīai nārī sēj bhatār .",
+      "sahib_singh_pa": "ਪਿਉ (ਆਪਣੇ) ਪੁੱਤਰਾਂ ਨੂੰ ਵੇਖ ਕੇ ਖ਼ੁਸ਼ ਹੁੰਦਾ ਹੈ, ਖਸਮ (ਆਪਣੀ) ਸੇਜ ਉਤੇ ਇਸਤ੍ਰੀ ਨੂੰ ਵੇਖ ਕੇ ਖਿੜਦਾ ਹੈ।",
+      "roman": "putā dekh vigasīai nārī sej bhatār",
+      "translation_ru": "Отец радуется, видя своих сыновей; муж радуется, видя жену на постели."
+    },
+    {
+      "index": 17,
+      "verse_id": 2575,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਚੋਆ ਚੰਦਨੁ ਲਾਈਐ ਕਾਪੜੁ ਰੂਪੁ ਸੀਗਾਰੁ ॥",
+      "site_roman": "chōā chandan lāīai kāpar rūp sīgār .",
+      "sahib_singh_pa": "(ਇਸ ਸਰੀਰ ਨੂੰ) ਅਤਰ ਤੇ ਚੰਦਨ ਲਾਈਦਾ ਹੈ। ਸੋਹਣਾ ਕੱਪੜਾ, ਰੂਪ, ਗਹਿਣਾ ਆਦਿਕ (ਵੇਖ ਕੇ ਮਨ ਖ਼ੁਸ਼ ਹੁੰਦਾ ਹੈ);",
+      "roman": "choā chandan lāīai kāpaṛ rūp sīgār",
+      "translation_ru": "Тело умащают ароматами и сандалом; красивые одежды, красота и украшения радуют ум."
+    },
+    {
+      "index": 18,
+      "verse_id": 2576,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਖੇਹੂ ਖੇਹ ਰਲਾਈਐ ਛੋਡਿ ਚਲੈ ਘਰ ਬਾਰੁ ॥੫॥",
+      "site_roman": "khēhū khēh ralāīai shōd chalai ghar bār .5.",
+      "sahib_singh_pa": "ਪਰ ਆਖ਼ਰ ਸਰੀਰ ਮਿੱਟੀ ਹੋ ਕੇ ਮਿੱਟੀ ਵਿਚ ਰਲ ਜਾਂਦਾ ਹੈ, ਤੇ ਮਾਣ ਕਰਨ ਵਾਲਾ (ਜੀਵ) ਘਰ ਬਾਰ ਛੱਡ ਕੇ (ਸੰਸਾਰ ਤੋਂ) ਚਲਾ ਜਾਂਦਾ ਹੈ ॥੫॥",
+      "roman": "khehū kheh ralāīai choḍ chalai ghar bār",
+      "translation_ru": "Но в конце тело становится пылью и смешивается с пылью, а человек, гордившийся, оставляет дом и уходит."
+    },
+    {
+      "index": 19,
+      "verse_id": 2577,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਮਹਰ ਮਲੂਕ ਕਹਾਈਐ ਰਾਜਾ ਰਾਉ ਕਿ ਖਾਨੁ ॥",
+      "site_roman": "mahar malūk kahāīai rājā rāu k khān .",
+      "sahib_singh_pa": "ਸਰਦਾਰ, ਬਾਦਸ਼ਾਹ, ਰਾਜਾ, ਰਾਉ ਜਾਂ ਖ਼ਾਨ ਅਖਵਾਈਦਾ ਹੈ।",
+      "roman": "mahar malūk kahāīai rājā rāu ki khān",
+      "translation_ru": "Человек зовётся вождём, царём, рао или ханом."
+    },
+    {
+      "index": 20,
+      "verse_id": 2578,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਚਉਧਰੀ ਰਾਉ ਸਦਾਈਐ ਜਲਿ ਬਲੀਐ ਅਭਿਮਾਨ ॥",
+      "site_roman": "chaudharī rāu sadāīai jal balīai abhimān .",
+      "sahib_singh_pa": "(ਆਪਣੇ ਆਪ ਨੂੰ) ਚੌਧਰੀ, ਰਾਇ (ਸਾਹਿਬ ਆਦਿਕ) ਸਦਾਈਦਾ ਹੈ, (ਇਸ ਵਡੱਪਣ ਦੇ) ਅਹੰਕਾਰ ਨਾਲ ਸੜ ਮਰੀਦਾ ਹੈ (ਜੇ ਕੋਈ ਪੂਰਾ ਮਾਣ-ਆਦਰ ਨਾਹ ਕਰੇ)।",
+      "roman": "chaudharī rāu sadāīai jal balīai abhimān",
+      "translation_ru": "Называет себя начальником, раем; и сгорает в гордости, если не получает должного почёта."
+    },
+    {
+      "index": 21,
+      "verse_id": 2579,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਮਨਮੁਖਿ ਨਾਮੁ ਵਿਸਾਰਿਆ ਜਿਉ ਡਵਿ ਦਧਾ ਕਾਨੁ ॥੬॥",
+      "site_roman": "manamukh nām visāriā jiu dav dadhā kān .6.",
+      "sahib_singh_pa": "(ਪਰ ਇਤਨਾ ਕੁਝ ਹੁੰਦਿਆਂ ਭੀ) ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲੇ ਮਨੁੱਖ ਨੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਭੁਲਾ ਦਿੱਤਾ, ਤੇ (ਇਉਂ ਦਿੱਸਿਆ) ਜਿਵੇਂ ਜੰਗਲ ਦੀ ਅੱਗ ਨਾਲ ਸੜਿਆ ਹੋਇਆ ਕਾਨਾ ਹੈ (ਬਾਹਰੋਂ ਚਮਕਦਾ, ਤੇ ਅੰਦਰੋਂ ਸੜ ਕੇ ਕਾਲਾ) ॥੬॥",
+      "roman": "manmukh nām visāriā jio ḍav dadhā kān",
+      "translation_ru": "Но человек, идущий за своим умом, забывает Имя Бога и становится как дерево, обожжённое лесным пожаром — снаружи блестит, внутри почернело."
+    },
+    {
+      "index": 22,
+      "verse_id": 2580,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਹਉਮੈ ਕਰਿ ਕਰਿ ਜਾਇਸੀ ਜੋ ਆਇਆ ਜਗ ਮਾਹਿ ॥",
+      "site_roman": "haumai kar kar jāisī jō āiā jag māh .",
+      "sahib_singh_pa": "ਜਗਤ ਵਿਚ ਜੋ ਭੀ ਆਇਆ ਹੈ 'ਮੈਂ ਵੱਡਾ, ਮੈਂ ਵੱਡਾ' ਆਖ ਆਖ ਕੇ (ਆਖ਼ਰ ਇਥੋਂ) ਚਲਾ ਜਾਇਗਾ।",
+      "roman": "haumai kar kar jāisī jo āiā jag māh",
+      "translation_ru": "Каждый, кто пришёл в этот мир, уйдёт, постоянно утверждая своё «я»."
+    },
+    {
+      "index": 23,
+      "verse_id": 2581,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਸਭੁ ਜਗੁ ਕਾਜਲ ਕੋਠੜੀ ਤਨੁ ਮਨੁ ਦੇਹ ਸੁਆਹਿ ॥",
+      "site_roman": "sabh jag kājal kōtharī tan man dēh suāh .",
+      "sahib_singh_pa": "ਇਹ ਸਾਰਾ ਜਗਤ ਕੱਜਲ ਦੀ ਕੋਠੜੀ (ਸਮਾਨ) ਹੈ (ਜੇਹੜਾ ਭੀ ਇਸ ਦੇ ਮੋਹ ਵਿਚ ਫਸਦਾ ਹੈ, ਉਸ ਦਾ) ਤਨ ਮਨ ਸਰੀਰ ਸੁਆਹ ਵਿਚ ਮਿਲ ਜਾਂਦਾ ਹੈ।",
+      "roman": "sabh jag kājal koṭhṛī tan man deh suāh",
+      "translation_ru": "Весь мир подобен комнате с сажей; тот, кто привязывается к нему, превращает тело и ум в пепел."
+    },
+    {
+      "index": 24,
+      "verse_id": 2582,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਗੁਰਿ ਰਾਖੇ ਸੇ ਨਿਰਮਲੇ ਸਬਦਿ ਨਿਵਾਰੀ ਭਾਹਿ ॥੭॥",
+      "site_roman": "gur rākhē sē niramalē sabad nivārī bhāh .7.",
+      "sahib_singh_pa": "ਗੁਰੂ ਨੇ ਆਪਣੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ਜਿਨ੍ਹਾਂ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਅੱਗ ਦੂਰ ਕਰ ਦਿੱਤੀ, ਉਹ (ਇਸ ਕੱਜਲ-ਕੋਠੜੀ ਵਿਚੋਂ) ਸਾਫ਼-ਸੁਥਰੇ ਹੀ ਰਹੇ ॥੭॥",
+      "roman": "gur rākhe se nirmale sabad nivārī bhāh",
+      "translation_ru": "Те, кого Гуру защитил, остаются чистыми — Он Словом устранил их огонь жажды."
+    },
+    {
+      "index": 25,
+      "verse_id": 2583,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਨਾਨਕ ਤਰੀਐ ਸਚਿ ਨਾਮਿ ਸਿਰਿ ਸਾਹਾ ਪਾਤਿਸਾਹੁ ॥",
+      "site_roman": "nānak tarīai sach nām sir sāhā pātisāh .",
+      "sahib_singh_pa": "ਜੇਹੜਾ ਪਰਮਾਤਮਾ ਸਭ ਸ਼ਾਹਾਂ ਦੇ ਸਿਰ ਉੱਤੇ ਪਾਤਿਸ਼ਾਹ ਹੈ, ਉਸ ਦੇ ਸਦਾ-ਥਿਰ ਨਾਮ ਵਿਚ ਜੁੜ ਕੇ (ਇਸ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਵਿਚੋਂ) ਪਾਰ ਲੰਘੀਦਾ ਹੈ।",
+      "roman": "nānak tarīai sach nām sir sāhā pātisāh",
+      "translation_ru": "О Нанак, переправляются через этот океан, соединяясь с Истинным Именем Того, кто является царём над всеми царями."
+    },
+    {
+      "index": 26,
+      "verse_id": 2584,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਮੈ ਹਰਿ ਨਾਮੁ ਨ ਵੀਸਰੈ ਹਰਿ ਨਾਮੁ ਰਤਨੁ ਵੇਸਾਹੁ ॥",
+      "site_roman": "mai har nām n vīsarai har nām ratan vēsāh .",
+      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਅਰਦਾਸ ਕਰ ਕੇ ਆਖ-) ਮੈਨੂੰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਕਦੇ ਨਾ ਭੁੱਲੇ, ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਰਤਨ ਨਾਮ-ਪੂੰਜੀ (ਮੇਰੇ ਪਾਸ ਸਦਾ-ਥਿਰ ਰਹੇ)।",
+      "roman": "mai har nām na vīsarai har nām ratan vesāh",
+      "translation_ru": "Пусть мне никогда не забывается Имя Бога; пусть Имя — драгоценность — всегда остаётся у меня."
+    },
+    {
+      "index": 27,
+      "verse_id": 2585,
+      "shabad_num": 170,
+      "shabad_id": 170,
+      "gurmukhi": "ਮਨਮੁਖ ਭਉਜਲਿ ਪਚਿ ਮੁਏ ਗੁਰਮੁਖਿ ਤਰੇ ਅਥਾਹੁ ॥੮॥੧੬॥",
+      "site_roman": "manamukh bhaujal pach muē guramukh tarē athāh .8.16.",
+      "sahib_singh_pa": "ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲੇ ਬੰਦੇ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਵਿਚ ਖਪ ਖਪ ਕੇ ਆਤਮਕ ਮੌਤੇ ਮਰਦੇ ਹਨ, ਤੇ ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਰਹਿਣ ਵਾਲੇ ਇਸ ਬੇਅੰਤ ਡੂੰਘੇ ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘ ਜਾਂਦੇ ਹਨ (ਉਹ ਵਿਕਾਰਾਂ ਦੀਆਂ ਲਹਿਰਾਂ ਵਿਚ ਨਹੀਂ ਡੁੱਬਦੇ) ॥੮॥੧੬॥{63-64}",
+      "roman": "manmukh bhaujāl pach muē gurmukh tare athāh",
+      "translation_ru": "Идущие за своим умом гибнут в океане мира, умирая духовной смертью, а гурмукхи переправляются через этот бездонный океан."
+    }
+  ]
+}

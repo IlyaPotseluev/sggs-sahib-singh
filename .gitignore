@@ -1,0 +1,8 @@
+bot_profile/
+raw_logs/
+*.docx
+__pycache__/
+*.py[cod]
+.DS_Store
+.progress_*.txt
+.~lock.*
