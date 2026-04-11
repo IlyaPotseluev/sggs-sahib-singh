@@ -71,11 +71,9 @@ brew install python git
 
 ```bash
 # Клонировать проект
-git clone https://github.com/OWNER/sggs-sahib-singh.git
+git clone https://github.com/IlyaPotseluev/sggs-sahib-singh.git
 cd sggs-sahib-singh
 ```
-
-> Замени `OWNER` на реальный логин GitHub после создания репозитория.
 
 ### 3. Переключиться на рабочую ветку
 
