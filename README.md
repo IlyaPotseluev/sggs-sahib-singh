@@ -100,10 +100,20 @@ pip3 install -r requirements.txt
 
 ### 5. Запустить бот
 
+Запускай **порциями по 15–20 ангов**, не весь диапазон сразу. Это снижает нагрузку на ChatGPT и позволяет легко остановиться и продолжить позже.
+
 ```bash
-# Запуск с анга 701 по 1430
-python3 chatgpt_khojgurbani_sahibsingh_bot.py --start 701 --end 1430
+# Первая порция
+python3 chatgpt_khojgurbani_sahibsingh_bot.py --start 701 --end 715
+
+# Следующая
+python3 chatgpt_khojgurbani_sahibsingh_bot.py --start 716 --end 730
+
+# И так далее, шаг за шагом
+python3 chatgpt_khojgurbani_sahibsingh_bot.py --start 731 --end 745
 ```
+
+После каждой порции — коммит и пуш (см. раздел «Рабочий процесс» ниже).
 
 При первом запуске откроется браузер. Нужно вручную войти в ChatGPT — бот дождётся.
 
