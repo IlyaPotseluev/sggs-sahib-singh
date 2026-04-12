@@ -137,7 +137,8 @@ PROMPT_TEMPLATE = """\
 - не меняй verse_id;
 - если строка короткая, не раздувай перевод;
 - не вставляй заголовки;
-- ответ верни строго между BEGIN_KG_JSON и END_KG_JSON.
+- ответ верни строго между BEGIN_KG_JSON и END_KG_JSON;
+- ВАЖНО: никогда не используй ASCII-кавычки " " внутри значений строк — это ломает JSON; если нужно выделить слово или цитату, используй «ёлочки» или одинарные кавычки.
 
 Формат ответа:
 
@@ -178,6 +179,7 @@ REPAIR_PROMPT_TEMPLATE = """\
 - не добавляй новые поля;
 - translation_ru должен быть только переводом поля sahib_singh_pa без собственных добавлений;
 - если у строки нет перевода на сайте, допускается пустая строка "";
+- никогда не используй ASCII-кавычки " " внутри значений строк — это ломает JSON; используй «ёлочки» или одинарные кавычки;
 - roman должна учитывать проектную норму:
   - ਚ = ch
   - ਛ = chh
@@ -500,9 +502,6 @@ def add_ang_heading(doc: Document, ang: int) -> None:
 
 
 def add_centered_line_block(doc: Document, line: OutputLine) -> None:
-    if not normalize_text(line.translation_ru):
-        return
-
     p_g = doc.add_paragraph()
     p_g.alignment = WD_ALIGN_PARAGRAPH.CENTER
     p_g.paragraph_format.space_before = Pt(8)
@@ -514,10 +513,11 @@ def add_centered_line_block(doc: Document, line: OutputLine) -> None:
     p_r.paragraph_format.space_after = Pt(3)
     add_run(p_r, line.roman, color=COLOR_ROMAN, size_pt=10, italic=True)
 
-    p_t = doc.add_paragraph()
-    p_t.alignment = WD_ALIGN_PARAGRAPH.CENTER
-    p_t.paragraph_format.space_after = Pt(10)
-    add_run(p_t, line.translation_ru, color=COLOR_TRANSLATION, size_pt=11)
+    if normalize_text(line.translation_ru):
+        p_t = doc.add_paragraph()
+        p_t.alignment = WD_ALIGN_PARAGRAPH.CENTER
+        p_t.paragraph_format.space_after = Pt(10)
+        add_run(p_t, line.translation_ru, color=COLOR_TRANSLATION, size_pt=11)
 
     doc.add_paragraph()
 
@@ -528,19 +528,11 @@ def append_ang_to_docx(docx_path: Path, ang_data: AngTranslation) -> None:
 
     add_ang_heading(doc, ang_data.ang)
 
-    skipped_empty = 0
     for line in ang_data.lines:
-        if not normalize_text(line.translation_ru):
-            skipped_empty += 1
-            continue
         add_centered_line_block(doc, line)
 
-
     doc.save(str(docx_path))
-    if skipped_empty:
-        print(f"  ✓ DOCX дописан: {docx_path.name} (пропущено пустых строк: {skipped_empty})")
-    else:
-        print(f"  ✓ DOCX дописан: {docx_path.name}")
+    print(f"  ✓ DOCX дописан: {docx_path.name}")
 
 
 def ang_to_dict(ang_data: AngTranslation) -> dict[str, Any]:
@@ -653,6 +645,59 @@ _META_GUESS_PATTERNS = [
     re.compile(r"\bпохоже\b", re.IGNORECASE),
     re.compile(r"\bпо-видимому\b", re.IGNORECASE),
 ]
+
+
+def repair_json_quotes(text: str) -> str:
+    """Fix unescaped double-quotes inside JSON string values.
+
+    ChatGPT sometimes writes "я" or "слово" inside a translation string,
+    breaking the JSON. This scanner detects those and escapes them.
+    """
+    result: list[str] = []
+    i = 0
+    in_string = False
+    escape_next = False
+
+    while i < len(text):
+        c = text[i]
+
+        if escape_next:
+            result.append(c)
+            escape_next = False
+            i += 1
+            continue
+
+        if c == "\\":
+            result.append(c)
+            escape_next = True
+            i += 1
+            continue
+
+        if c == '"':
+            if not in_string:
+                in_string = True
+                result.append(c)
+            else:
+                # Determine if this quote closes the current string or is an inner quote.
+                # Look ahead past whitespace to see what follows.
+                j = i + 1
+                while j < len(text) and text[j] in " \t\n\r":
+                    j += 1
+                next_ch = text[j] if j < len(text) else ""
+                if next_ch in (",", "}", "]", ":"):
+                    in_string = False
+                    result.append(c)
+                else:
+                    # Unescaped inner quote — escape it
+                    result.append("\\")
+                    result.append(c)
+            i += 1
+            continue
+
+        result.append(c)
+        i += 1
+
+    return "".join(result)
 
 
 def looks_like_model_guess(text: str) -> bool:
@@ -877,8 +922,12 @@ def parse_structured_answer(answer: str, ang: int, source_lines: list[SourceLine
 
     try:
         data = json.loads(candidate)
-    except json.JSONDecodeError as exc:
-        return None, f"json decode error: {exc}"
+    except json.JSONDecodeError:
+        repaired = repair_json_quotes(candidate)
+        try:
+            data = json.loads(repaired)
+        except json.JSONDecodeError as exc:
+            return None, f"json decode error: {exc}"
 
     if not isinstance(data, dict):
         return None, "payload is not a dict"
@@ -1007,6 +1056,14 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Не закрывать вкладки ChatGPT после обработки анга.",
     )
+    parser.add_argument(
+        "--scan-missing",
+        action="store_true",
+        help=(
+            "Сканировать диапазон --start..--end, показать отсутствующие JSON, "
+            "спросить подтверждение и дополнить их через ChatGPT."
+        ),
+    )
 
     return parser.parse_args()
 
@@ -1047,6 +1104,26 @@ def main() -> None:
         removed_json = reset_json_range(cfg.json_dir, args.start, args.end)
         print(f"Сброс JSON в диапазоне {args.start}..{args.end}: удалено {removed_json}")
 
+    if args.scan_missing:
+        missing = [
+            ang for ang in range(args.start, args.end + 1)
+            if not ang_json_path(cfg.json_dir, ang).exists()
+        ]
+        if not missing:
+            print(f"✓ В диапазоне {args.start}..{args.end} все JSON на месте.")
+            return
+        print(f"Пропущено ангов ({len(missing)}) в диапазоне {args.start}..{args.end}:")
+        print("  " + ", ".join(str(a) for a in missing))
+        answer = input("\nДополнить через ChatGPT? [y/N] ").strip().lower()
+        if answer != "y":
+            print("Отменено.")
+            return
+        # Override start/end to cover only missing angs as a contiguous fill.
+        # We keep the full range but skip existing JSONs (default behavior).
+        args.start = missing[0]
+        args.end = missing[-1]
+        print(f"Запускаю перевод пропущенных ангов {args.start}..{args.end}...\n")
+
     if args.rebuild_docx_from_json:
         print("Пересобираю DOCX из JSON...")
         rebuilt = rebuild_docx_from_json(output_path, cfg.json_dir, args.start, args.end)
@@ -1082,9 +1159,7 @@ def main() -> None:
 
         if first_run:
             login_page = open_chat_tab(context, chat_url, cfg.page_timeout_ms)
-            print("\n⚠ Первый запуск: войди в ChatGPT в открывшемся браузере.")
-            print("После входа нажми Enter здесь...")
-            input()
+            input("\n>> Press ENTER when ChatGPT is ready (logged in, new chat open)…\n")
             if not cfg.keep_chat_tabs:
                 login_page.close()
         else:
