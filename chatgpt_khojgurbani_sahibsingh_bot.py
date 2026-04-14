@@ -328,11 +328,16 @@ def _normalize_int_list(values: Any) -> list[int]:
     return sorted(set(result))
 
 
-def discover_shabad_numbers_for_ang(ang: int, max_probe: int = 1500) -> list[int]:
+def discover_shabad_numbers_for_ang(
+    ang: int,
+    max_probe: int = 1500,
+    start_probe: int = 1,
+) -> list[int]:
     found_by_scan: list[int] = []
     misses_after_first = 0
+    initial_misses = 0
 
-    for probe in range(1, max_probe + 1):
+    for probe in range(start_probe, start_probe + max_probe):
         shabad = fetch_shabad(ang, probe, quiet=True)
         if shabad:
             pages = _normalize_int_list(shabad.get("pages"))
@@ -341,18 +346,26 @@ def discover_shabad_numbers_for_ang(ang: int, max_probe: int = 1500) -> list[int
 
             found_by_scan.append(probe)
             misses_after_first = 0
+            initial_misses = 0
             continue
 
         if found_by_scan:
             misses_after_first += 1
-            if misses_after_first >= 30:
+            if misses_after_first >= 2:
+                break
+        else:
+            initial_misses += 1
+            if initial_misses >= 10:
                 break
 
     return found_by_scan
 
 
-def fetch_ang_source_lines(ang: int) -> list[SourceLine]:
-    shabad_numbers = discover_shabad_numbers_for_ang(ang)
+def fetch_ang_source_lines(ang: int, start_probe: int = 1) -> list[SourceLine]:
+    if start_probe > 1:
+        print(f"  → Зондирование шабадов с №{start_probe}")
+
+    shabad_numbers = discover_shabad_numbers_for_ang(ang, start_probe=start_probe)
     if not shabad_numbers:
         print(f"  ✗ Не удалось определить шабады для анга {ang}")
         return []
@@ -1177,6 +1190,13 @@ def main() -> None:
         print(f"Файл прогресса: {progress_file}")
         print(f"Папка JSON: {cfg.json_dir}")
 
+        # Определяем стартовый шабад: из JSON предыдущего анга или с 1
+        last_shabad = 0
+        if args.start > 1:
+            prev = load_ang_json(cfg.json_dir, args.start - 1)
+            if prev and prev.lines:
+                last_shabad = max(line.shabad_num for line in prev.lines)
+
         for ang in range(args.start, args.end + 1):
             print(f"\n══ Анг {ang}/{args.end} ══")
 
@@ -1186,10 +1206,15 @@ def main() -> None:
                     existing_json.unlink()
                     print(f"  ↺ Перевожу заново анг {ang}: удалён старый {existing_json.name}")
                 else:
+                    # Обновляем last_shabad из существующего JSON чтобы не потерять позицию
+                    cached = load_ang_json(cfg.json_dir, ang)
+                    if cached and cached.lines:
+                        last_shabad = max(line.shabad_num for line in cached.lines)
                     print(f"  ↷ JSON уже существует, пропускаю анг {ang}: {existing_json.name}")
                     continue
 
-            source_lines = fetch_ang_source_lines(ang)
+            start_probe = max(1, last_shabad)
+            source_lines = fetch_ang_source_lines(ang, start_probe=start_probe)
             if not source_lines:
                 print(f"  ⚠ Не удалось собрать строки из KhojGurbani для анга {ang}, пропускаю")
                 continue
@@ -1199,8 +1224,15 @@ def main() -> None:
             chat_page = open_chat_tab(context, chat_url, cfg.page_timeout_ms)
             chat_page.bring_to_front()
 
+            ang_data = None
             try:
                 ang_data = request_structured_translation(chat_page, ang, source_lines, cfg)
+
+                if ang_data:
+                    json_path = save_ang_json(cfg.json_dir, ang_data)
+                    print(f"  ✓ JSON сохранён: {json_path.name}")
+                    append_ang_to_docx(output_path, ang_data)
+                    save_progress(progress_file, ang)
             finally:
                 if not cfg.keep_chat_tabs:
                     try:
@@ -1208,15 +1240,13 @@ def main() -> None:
                     except Exception:
                         pass
 
+            # Обновляем курсор шабадов для следующего анга
+            if source_lines:
+                last_shabad = max(line.shabad_num for line in source_lines)
+
             if not ang_data:
                 print(f"  ⚠ Не удалось получить валидный результат для анга {ang}, пропускаю")
                 continue
-
-            json_path = save_ang_json(cfg.json_dir, ang_data)
-            print(f"  ✓ JSON сохранён: {json_path.name}")
-
-            append_ang_to_docx(output_path, ang_data)
-            save_progress(progress_file, ang)
 
             if ang < args.end:
                 print(f"  ⏳ Пауза {args.delay}с...")
