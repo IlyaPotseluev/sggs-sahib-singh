@@ -7,6 +7,7 @@ import argparse
 import json
 import os
 import re
+import sys
 import time
 import urllib.request
 from dataclasses import dataclass
@@ -1521,6 +1522,9 @@ def run_interactive_menu(
 
 def main() -> None:
     args = parse_args()
+
+    if len(sys.argv) == 1:
+        args.menu = True
 
     output_path = (Path(__file__).parent / args.output).resolve()
     output_path.parent.mkdir(parents=True, exist_ok=True)
