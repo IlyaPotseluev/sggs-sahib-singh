@@ -254,6 +254,15 @@ class RuntimeConfig:
     keep_chat_tabs: bool
 
 
+@dataclass
+class CorruptLineInfo:
+    ang: int
+    line_index: int
+    verse_id: int
+    issue: str
+    snippet: str
+
+
 def normalize_text(text: str) -> str:
     text = text.replace("\r\n", "\n").replace("\r", "\n")
     text = text.replace("\u00a0", " ")
@@ -651,6 +660,47 @@ def rebuild_docx_from_json(output_path: Path, json_dir: Path, start: int, end: i
     return rebuilt
 
 
+def _has_foreign_script(text: str) -> bool:
+    """Возвращает True, если в тексте есть деванагари или гурмукхи."""
+    return bool(_RE_DEVANAGARI.search(text) or _RE_GURMUKHI_OUT.search(text))
+
+
+def scan_corrupt_angs(json_dir: Path, start: int, end: int) -> dict[int, list[CorruptLineInfo]]:
+    """Сканирует JSON-файлы в диапазоне и возвращает анги с битыми строками.
+
+    Битая строка — та, в которой translation_ru или roman содержит деванагари
+    или гурмукхи (ChatGPT иногда вставляет хинди или панджаби вместо русского).
+    """
+    result: dict[int, list[CorruptLineInfo]] = {}
+    for ang in range(start, end + 1):
+        ang_data = load_ang_json(json_dir, ang)
+        if not ang_data:
+            continue
+        issues: list[CorruptLineInfo] = []
+        for line in ang_data.lines:
+            if _has_foreign_script(line.translation_ru):
+                snippet = line.translation_ru[:120].replace("\n", " ")
+                issues.append(CorruptLineInfo(
+                    ang=ang,
+                    line_index=line.index,
+                    verse_id=line.verse_id,
+                    issue="деванагари/гурмукхи в translation_ru",
+                    snippet=snippet,
+                ))
+            elif _has_foreign_script(line.roman):
+                snippet = f"roman: {line.roman[:80].replace(chr(10), ' ')}"
+                issues.append(CorruptLineInfo(
+                    ang=ang,
+                    line_index=line.index,
+                    verse_id=line.verse_id,
+                    issue="деванагари/гурмукхи в roman",
+                    snippet=snippet,
+                ))
+        if issues:
+            result[ang] = issues
+    return result
+
+
 _META_GUESS_PATTERNS = [
     re.compile(r"\bя\s+думаю\b", re.IGNORECASE),
     re.compile(r"\bмне\s+кажется\b", re.IGNORECASE),
@@ -658,6 +708,10 @@ _META_GUESS_PATTERNS = [
     re.compile(r"\bпохоже\b", re.IGNORECASE),
     re.compile(r"\bпо-видимому\b", re.IGNORECASE),
 ]
+
+# Скрипты, которые не должны появляться в translation_ru или roman
+_RE_DEVANAGARI = re.compile(r"[\u0900-\u097F]")
+_RE_GURMUKHI_OUT = re.compile(r"[\u0A00-\u0A7F]")
 
 
 def repair_json_quotes(text: str) -> str:
@@ -1077,76 +1131,30 @@ def parse_args() -> argparse.Namespace:
             "спросить подтверждение и дополнить их через ChatGPT."
         ),
     )
+    parser.add_argument(
+        "--scan-corrupt",
+        action="store_true",
+        help=(
+            "Сканировать диапазон --start..--end, найти строки с деванагари/гурмукхи "
+            "в translation_ru или roman, спросить подтверждение и переперевести их через ChatGPT."
+        ),
+    )
+    parser.add_argument(
+        "--menu",
+        action="store_true",
+        help="Показать интерактивное меню для выбора режима работы.",
+    )
 
     return parser.parse_args()
 
 
-def main() -> None:
-    args = parse_args()
-
-    if args.start < 1 or args.end < 1 or args.start > args.end:
-        print("  ✗ Некорректный диапазон: проверь --start и --end")
-        return
-
-    output_path = (Path(__file__).parent / args.output).resolve()
-    output_path.parent.mkdir(parents=True, exist_ok=True)
-
-    progress_file = build_progress_path(output_path)
-    if args.reset_progress:
-        reset_progress(progress_file)
-
-    raw_log_dir = None
-    if args.raw_log_dir.strip():
-        raw_log_dir = (Path(__file__).parent / args.raw_log_dir).resolve()
-
-    json_dir = (Path(__file__).parent / args.json_dir).resolve()
-
-    cfg = RuntimeConfig(
-        page_timeout_ms=args.page_timeout * 1000,
-        input_timeout_ms=args.input_timeout * 1000,
-        response_timeout_ms=args.response_timeout * 1000,
-        new_message_timeout_ms=args.new_message_timeout * 1000,
-        max_retries=args.max_retries,
-        retry_delay_s=args.retry_delay,
-        raw_log_dir=raw_log_dir,
-        json_dir=json_dir,
-        keep_chat_tabs=args.keep_chat_tabs,
-    )
-
-    if args.reset_json_range:
-        removed_json = reset_json_range(cfg.json_dir, args.start, args.end)
-        print(f"Сброс JSON в диапазоне {args.start}..{args.end}: удалено {removed_json}")
-
-    if args.scan_missing:
-        missing = [
-            ang for ang in range(args.start, args.end + 1)
-            if not ang_json_path(cfg.json_dir, ang).exists()
-        ]
-        if not missing:
-            print(f"✓ В диапазоне {args.start}..{args.end} все JSON на месте.")
-            return
-        print(f"Пропущено ангов ({len(missing)}) в диапазоне {args.start}..{args.end}:")
-        print("  " + ", ".join(str(a) for a in missing))
-        answer = input("\nДополнить через ChatGPT? [y/N] ").strip().lower()
-        if answer != "y":
-            print("Отменено.")
-            return
-        # Override start/end to cover only missing angs as a contiguous fill.
-        # We keep the full range but skip existing JSONs (default behavior).
-        args.start = missing[0]
-        args.end = missing[-1]
-        print(f"Запускаю перевод пропущенных ангов {args.start}..{args.end}...\n")
-
-    if args.rebuild_docx_from_json:
-        print("Пересобираю DOCX из JSON...")
-        rebuilt = rebuild_docx_from_json(output_path, cfg.json_dir, args.start, args.end)
-        if rebuilt > 0:
-            save_progress(progress_file, args.end)
-        print(f"✓ Пересобрано ангов: {rebuilt}")
-        print(f"✓ Результат: {output_path}")
-        print(f"✓ JSON по ангам: {cfg.json_dir}")
-        return
-
+def run_browser_session(
+    args: argparse.Namespace,
+    cfg: RuntimeConfig,
+    output_path: Path,
+    progress_file: Path,
+) -> None:
+    """Открывает браузер и переводит анги в диапазоне args.start..args.end."""
     ensure_output_doc_exists(output_path)
 
     chat_url = (args.chat_url or "").strip()
@@ -1259,6 +1267,224 @@ def main() -> None:
             print(f"✓ Сырые логи: {cfg.raw_log_dir}")
 
         context.close()
+
+
+def run_interactive_menu(
+    args: argparse.Namespace,
+    cfg: RuntimeConfig,
+    output_path: Path,
+    progress_file: Path,
+) -> None:
+    """Интерактивное меню: показывает текущий прогресс и предлагает режимы работы."""
+    progress = load_progress(progress_file)
+    existing_count = sum(
+        1 for a in range(1, 1431) if ang_json_path(cfg.json_dir, a).exists()
+    )
+    last_done = progress or 0
+    next_ang = last_done + 1 if last_done < 1430 else None
+    default_end = min(last_done + 15, 1430) if next_ang else None
+    scan_up_to = max(last_done, 1)
+
+    print("\n══ KhojGurbani Sahib Singh Bot ══\n")
+    print(f"  JSON готово:               {existing_count} из 1430")
+    if last_done:
+        print(f"  Последний сохранённый анг: {last_done}")
+    else:
+        print("  Прогресс: не начат")
+    print()
+    print("  Что делаем?")
+    if next_ang:
+        print(f"  1) Продолжить перевод       → анги {next_ang}..{default_end}")
+    print("  2) Свой диапазон ангов")
+    print(f"  3) Пропущенные анги         → сканировать 1..{scan_up_to}")
+    print(f"  4) Битые строки (деванагари) → сканировать 1..{scan_up_to}")
+    print("  5) Пересобрать DOCX из JSON")
+    print("  0) Выход\n")
+
+    choice = input("  Выбор: ").strip()
+    print()
+
+    if choice == "0":
+        print("Выход.")
+
+    elif choice == "1" and next_ang:
+        args.start = next_ang
+        args.end = default_end
+        print(f"Переводить анги {args.start}..{args.end}\n")
+        run_browser_session(args, cfg, output_path, progress_file)
+
+    elif choice == "2":
+        try:
+            args.start = int(input("  Начальный анг: ").strip())
+            args.end = int(input("  Конечный анг:  ").strip())
+        except ValueError:
+            print("  ✗ Некорректный ввод")
+            return
+        if args.start < 1 or args.end < 1 or args.start > args.end:
+            print("  ✗ Некорректный диапазон")
+            return
+        print(f"\nПереводить анги {args.start}..{args.end}\n")
+        run_browser_session(args, cfg, output_path, progress_file)
+
+    elif choice == "3":
+        missing = [a for a in range(1, scan_up_to + 1) if not ang_json_path(cfg.json_dir, a).exists()]
+        if not missing:
+            print(f"✓ Пропущенных ангов нет в диапазоне 1..{scan_up_to}")
+            return
+        print(f"Пропущено ангов ({len(missing)}):")
+        print("  " + ", ".join(str(a) for a in missing))
+        if input("\nДополнить через ChatGPT? [y/N] ").strip().lower() != "y":
+            print("Отменено.")
+            return
+        args.start = missing[0]
+        args.end = missing[-1]
+        print(f"\nЗапускаю перевод пропущенных ангов {args.start}..{args.end}...\n")
+        run_browser_session(args, cfg, output_path, progress_file)
+
+    elif choice == "4":
+        print(f"Сканирую анги 1..{scan_up_to} на наличие битых строк...")
+        corrupt = scan_corrupt_angs(cfg.json_dir, 1, scan_up_to)
+        if not corrupt:
+            print(f"✓ Битых строк не найдено в диапазоне 1..{scan_up_to}")
+            return
+        total_lines = sum(len(v) for v in corrupt.values())
+        print(f"\nНайдено {total_lines} битых строк в {len(corrupt)} ангах:\n")
+        for ang_num, issues in sorted(corrupt.items()):
+            print(f"  Анг {ang_num} ({len(issues)} строк):")
+            for info in issues[:3]:
+                print(f"    #{info.line_index} (verse {info.verse_id}): {info.issue}")
+                print(f"      {info.snippet[:90]}")
+            if len(issues) > 3:
+                print(f"    ... ещё {len(issues) - 3} строк")
+        if input("\nПереперевести эти анги через ChatGPT? [y/N] ").strip().lower() != "y":
+            print("Отменено.")
+            return
+        corrupt_angs = sorted(corrupt.keys())
+        for ang_num in corrupt_angs:
+            p = ang_json_path(cfg.json_dir, ang_num)
+            if p.exists():
+                p.unlink()
+                print(f"  ✗ Удалён JSON анга {ang_num}")
+        args.start = corrupt_angs[0]
+        args.end = corrupt_angs[-1]
+        print(f"\nЗапускаю переперевод ангов {args.start}..{args.end}...\n")
+        run_browser_session(args, cfg, output_path, progress_file)
+
+    elif choice == "5":
+        rb_start_s = input("  Начальный анг [1]: ").strip() or "1"
+        rb_end_s = input("  Конечный анг [1430]: ").strip() or "1430"
+        try:
+            rb_start, rb_end = int(rb_start_s), int(rb_end_s)
+        except ValueError:
+            print("  ✗ Некорректный ввод")
+            return
+        print(f"\nПересобираю DOCX из JSON ({rb_start}..{rb_end})...")
+        rebuilt = rebuild_docx_from_json(output_path, cfg.json_dir, rb_start, rb_end)
+        print(f"✓ Пересобрано ангов: {rebuilt}")
+        print(f"✓ Результат: {output_path}")
+
+    else:
+        print("  ✗ Неизвестный выбор")
+
+
+def main() -> None:
+    args = parse_args()
+
+    output_path = (Path(__file__).parent / args.output).resolve()
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+
+    progress_file = build_progress_path(output_path)
+    if args.reset_progress:
+        reset_progress(progress_file)
+
+    raw_log_dir = None
+    if args.raw_log_dir.strip():
+        raw_log_dir = (Path(__file__).parent / args.raw_log_dir).resolve()
+
+    json_dir = (Path(__file__).parent / args.json_dir).resolve()
+
+    cfg = RuntimeConfig(
+        page_timeout_ms=args.page_timeout * 1000,
+        input_timeout_ms=args.input_timeout * 1000,
+        response_timeout_ms=args.response_timeout * 1000,
+        new_message_timeout_ms=args.new_message_timeout * 1000,
+        max_retries=args.max_retries,
+        retry_delay_s=args.retry_delay,
+        raw_log_dir=raw_log_dir,
+        json_dir=json_dir,
+        keep_chat_tabs=args.keep_chat_tabs,
+    )
+
+    if args.menu:
+        run_interactive_menu(args, cfg, output_path, progress_file)
+        return
+
+    if args.start < 1 or args.end < 1 or args.start > args.end:
+        print("  ✗ Некорректный диапазон: проверь --start и --end")
+        return
+
+    if args.reset_json_range:
+        removed_json = reset_json_range(cfg.json_dir, args.start, args.end)
+        print(f"Сброс JSON в диапазоне {args.start}..{args.end}: удалено {removed_json}")
+
+    if args.scan_missing:
+        missing = [
+            ang for ang in range(args.start, args.end + 1)
+            if not ang_json_path(cfg.json_dir, ang).exists()
+        ]
+        if not missing:
+            print(f"✓ В диапазоне {args.start}..{args.end} все JSON на месте.")
+            return
+        print(f"Пропущено ангов ({len(missing)}) в диапазоне {args.start}..{args.end}:")
+        print("  " + ", ".join(str(a) for a in missing))
+        answer = input("\nДополнить через ChatGPT? [y/N] ").strip().lower()
+        if answer != "y":
+            print("Отменено.")
+            return
+        args.start = missing[0]
+        args.end = missing[-1]
+        print(f"Запускаю перевод пропущенных ангов {args.start}..{args.end}...\n")
+
+    if args.scan_corrupt:
+        print(f"Сканирую анги {args.start}..{args.end} на наличие битых строк...")
+        corrupt = scan_corrupt_angs(cfg.json_dir, args.start, args.end)
+        if not corrupt:
+            print(f"✓ Битых строк не найдено в диапазоне {args.start}..{args.end}")
+            return
+        total_lines = sum(len(v) for v in corrupt.values())
+        print(f"\nНайдено {total_lines} битых строк в {len(corrupt)} ангах:\n")
+        for ang_num, issues in sorted(corrupt.items()):
+            print(f"  Анг {ang_num} ({len(issues)} строк):")
+            for info in issues[:3]:
+                print(f"    #{info.line_index} (verse {info.verse_id}): {info.issue}")
+                print(f"      {info.snippet[:90]}")
+            if len(issues) > 3:
+                print(f"    ... ещё {len(issues) - 3} строк")
+        answer = input("\nПереперевести эти анги через ChatGPT? [y/N] ").strip().lower()
+        if answer != "y":
+            print("Отменено.")
+            return
+        corrupt_angs = sorted(corrupt.keys())
+        for ang_num in corrupt_angs:
+            p = ang_json_path(cfg.json_dir, ang_num)
+            if p.exists():
+                p.unlink()
+                print(f"  ✗ Удалён JSON анга {ang_num}")
+        args.start = corrupt_angs[0]
+        args.end = corrupt_angs[-1]
+        print(f"Запускаю переперевод ангов {args.start}..{args.end}...\n")
+
+    if args.rebuild_docx_from_json:
+        print("Пересобираю DOCX из JSON...")
+        rebuilt = rebuild_docx_from_json(output_path, cfg.json_dir, args.start, args.end)
+        if rebuilt > 0:
+            save_progress(progress_file, args.end)
+        print(f"✓ Пересобрано ангов: {rebuilt}")
+        print(f"✓ Результат: {output_path}")
+        print(f"✓ JSON по ангам: {cfg.json_dir}")
+        return
+
+    run_browser_session(args, cfg, output_path, progress_file)
 
 
 if __name__ == "__main__":
