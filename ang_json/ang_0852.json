@@ -1,0 +1,237 @@
+{
+  "ang": 852,
+  "line_count": 21,
+  "lines": [
+    {
+      "index": 1,
+      "verse_id": 36138,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਸਲੋਕ ਮਃ ੩ ॥",
+      "site_roman": "salōk mah 3 .",
+      "sahib_singh_pa": "None",
+      "roman": "salok mah 3",
+      "translation_ru": ""
+    },
+    {
+      "index": 2,
+      "verse_id": 36139,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਇਸੁ ਜੁਗ ਮਹਿ ਭਗਤੀ ਹਰਿ ਧਨੁ ਖਟਿਆ ਹੋਰੁ ਸਭੁ ਜਗਤੁ ਭਰਮਿ ਭੁਲਾਇਆ ॥",
+      "site_roman": "is jug mah bhagatī har dhan khatiā hōr sabh jagat bharam bhulāiā .",
+      "sahib_singh_pa": "ਹੇ ਭਾਈ! ਇਸ ਮਨੁੱਖਾ ਜਨਮ ਵਿਚ (ਸਿਰਫ਼) ਭਗਤਾਂ ਨੇ (ਹੀ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਧਨ ਖੱਟਿਆ ਹੈ, ਹੋਰ ਸਾਰਾ ਜਗਤ (ਮਾਇਆ ਦੀ) ਭਟਕਣਾ ਵਿਚ (ਪੈ ਕੇ, ਸਹੀ ਜੀਵਨ-ਰਾਹ ਤੋਂ) ਖੁੰਝਿਆ ਰਹਿੰਦਾ ਹੈ।",
+      "roman": "is jug meh bhagtī har dhan khaṭiā hor sabh jagat bharam bhulāiā",
+      "translation_ru": "О брат! В этом человеческом рождении только преданные обрели богатство Имени Бога, а весь остальной мир, впав в заблуждение (майи), сбился с истинного пути жизни."
+    },
+    {
+      "index": 3,
+      "verse_id": 36140,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਗੁਰ ਪਰਸਾਦੀ ਨਾਮੁ ਮਨਿ ਵਸਿਆ ਅਨਦਿਨੁ ਨਾਮੁ ਧਿਆਇਆ ॥",
+      "site_roman": "gur parasādī nām man vasiā anadin nām dhiāiā .",
+      "sahib_singh_pa": "(ਜਿਸ ਮਨੁੱਖ ਦੇ) ਮਨ ਵਿਚ ਗੁਰੂ ਦੀ ਮਿਹਰ ਨਾਲ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਆ ਵੱਸਦਾ ਹੈ, ਉਹ ਹਰ ਵੇਲੇ ਨਾਮ ਸਿਮਰਦਾ ਹੈ।",
+      "roman": "gur prasādī nām man vasiā an-din nām dhiāiā",
+      "translation_ru": "У того человека, в чьём уме по милости Гуру поселяется Имя Бога, он постоянно размышляет о Нём."
+    },
+    {
+      "index": 4,
+      "verse_id": 36141,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਬਿਖਿਆ ਮਾਹਿ ਉਦਾਸ ਹੈ ਹਉਮੈ ਸਬਦਿ ਜਲਾਇਆ ॥",
+      "site_roman": "bikhiā māh udās hai haumai sabad jalāiā .",
+      "sahib_singh_pa": "ਉਹ ਮਾਇਆ ਵਿਚ (ਵਿਚਰਦਾ ਹੋਇਆ ਭੀ ਮਾਇਆ ਦੇ ਮੋਹ ਤੋਂ) ਨਿਰਲੇਪ ਰਹਿੰਦਾ ਹੈ, ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਬਰਕਤ ਨਾਲ (ਉਹ ਆਪਣੇ ਅੰਦਰੋਂ) ਹਉਮੈ ਸਾੜ ਦੇਂਦਾ ਹੈ।",
+      "roman": "bikhiyā māh udās hai haumai sabad jalāiā",
+      "translation_ru": "Он, находясь в майе, остаётся непривязанным к ней и благодаря Слову Гуру сжигает в себе эго."
+    },
+    {
+      "index": 5,
+      "verse_id": 36142,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਆਪਿ ਤਰਿਆ ਕੁਲ ਉਧਰੇ ਧੰਨੁ ਜਣੇਦੀ ਮਾਇਆ ॥",
+      "site_roman": "āp tariā kul udharē dhann janēdī māiā .",
+      "sahib_singh_pa": "ਧੰਨ ਹੈ ਉਸ ਦੀ ਜੰਮਣ ਵਾਲੀ ਮਾਂ! ਉਹ ਆਪ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ) ਪਾਰ ਲੰਘ ਜਾਂਦਾ ਹੈ (ਉਸ ਦਾ ਸਦਕਾ ਉਸ ਦੀਆਂ) ਕੁਲਾਂ ਭੀ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਵਿਚ ਡੁੱਬਣੋਂ) ਬਚ ਜਾਂਦੀਆਂ ਹਨ।",
+      "roman": "āp tariā kul udhare dhann janedī māiā",
+      "translation_ru": "Благословенна его мать! Он сам переплывает океан мира, и благодаря ему его род тоже спасается от утопления в этом океане."
+    },
+    {
+      "index": 6,
+      "verse_id": 36143,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਸਦਾ ਸਹਜੁ ਸੁਖੁ ਮਨਿ ਵਸਿਆ ਸਚੇ ਸਿਉ ਲਿਵ ਲਾਇਆ ॥",
+      "site_roman": "sadā sahaj sukh man vasiā sachē siu liv lāiā .",
+      "sahib_singh_pa": "ਉਸ ਦੇ ਮਨ ਵਿੱਚ ਸਦਾ ਹੀ ਆਤਮਕ ਅਡੋਲਤਾ ਦਾ ਆਨੰਦ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ ਅਤੇ ਉਹ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਨਾਲ ਆਪਣੀ ਬ੍ਰਿਤੀ ਜੋੜ ਕੇ ਰੱਖਦਾ ਹੈ।",
+      "roman": "sadā sahaj sukh man vasiā sache siu liv lāiā",
+      "translation_ru": "В его уме всегда пребывает блаженство внутреннего равновесия, и он соединяет своё сознание с Вечным Богом."
+    },
+    {
+      "index": 7,
+      "verse_id": 36144,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਬ੍ਰਹਮਾ ਬਿਸਨੁ ਮਹਾਦੇਉ ਤ੍ਰੈ ਗੁਣ ਭੁਲੇ ਹਉਮੈ ਮੋਹੁ ਵਧਾਇਆ ॥",
+      "site_roman": "brahamā bisan mahādēu trai gun bhulē haumai mōh vadhāiā .",
+      "sahib_singh_pa": "(ਹੇ ਭਾਈ! ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਣ ਤੋਂ ਬਿਨਾ) ਬ੍ਰਹਮਾ, ਵਿਸ਼ਨੂ, ਸ਼ਿਵ ਜੀ (ਵਰਗੇ ਵੱਡੇ ਵੱਡੇ ਦੇਵਤੇ ਭੀ) ਮਾਇਆ ਦੇ ਤਿੰਨ ਗੁਣਾਂ ਦੇ ਕਾਰਨ ਸਹੀ ਜੀਵਨ-ਰਾਹ ਤੋਂ ਖੁੰਝਦੇ ਰਹੇ (ਉਹਨਾਂ ਦੇ ਅੰਦਰ) ਹਉਮੈ ਵਧਦੀ ਰਹੀ (ਮਾਇਆ ਦਾ) ਮੋਹ ਵਧਦਾ ਰਿਹਾ।",
+      "roman": "brahmā bisan mahādev trai guṇ bhule haumai moh vadhāiā",
+      "translation_ru": "О брат! Без прибежища Гуру даже Брахма, Вишну и Шива из-за трёх качеств майи сбивались с истинного пути; в них возрастали эго и привязанность."
+    },
+    {
+      "index": 8,
+      "verse_id": 36145,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਪੰਡਿਤ ਪੜਿ ਪੜਿ ਮੋਨੀ ਭੁਲੇ ਦੂਜੈ ਭਾਇ ਚਿਤੁ ਲਾਇਆ ॥",
+      "site_roman": "pandit par par mōnī bhulē dūjai bhāi chit lāiā .",
+      "sahib_singh_pa": "(ਹੇ ਭਾਈ! ਗੁਰੂ ਦੀ ਸਰਨ ਤੋਂ ਬਿਨਾ) ਪੰਡਿਤ (ਵੇਦ ਆਦਿਕ ਧਰਮ-ਪੁਸਤਕ) ਪੜ੍ਹ ਪੜ੍ਹ ਕੇ (ਭੀ) ਖੁੰਝਦੇ ਰਹੇ, ਮੁਨੀ ਲੋਕ (ਮੋਨ ਧਾਰ ਕੇ) ਖੁੰਝਦੇ ਰਹੇ, (ਉਹਨਾਂ ਨੇ ਭੀ) ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਹੀ ਆਪਣਾ ਚਿੱਤ ਜੋੜੀ ਰੱਖਿਆ।",
+      "roman": "pandit paṛh paṛh monī bhule dūjai bhāe chit lāiā",
+      "translation_ru": "О брат! Без прибежища Гуру пандиты, читая священные книги, также сбивались, и аскеты в молчании тоже терялись, привязывая ум к майе."
+    },
+    {
+      "index": 9,
+      "verse_id": 36146,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਜੋਗੀ ਜੰਗਮ ਸੰਨਿਆਸੀ ਭੁਲੇ ਵਿਣੁ ਗੁਰ ਤਤੁ ਨ ਪਾਇਆ ॥",
+      "site_roman": "jōgī jangam sanniāsī bhulē vin gur tat n pāiā .",
+      "sahib_singh_pa": "ਹੇ ਭਾਈ! ਗੁਰੂ ਤੋਂ ਬਿਨਾ ਜੋਗੀ ਜੰਗਮ ਸੰਨਿਆਸੀ ਭੀ ਕੁਰਾਹੇ ਪਏ ਰਹੇ, ਉਹਨਾਂ ਨੇ ਭੀ ਅਸਲੀ ਵਸਤ ਨਾਹ ਲੱਭੀ।",
+      "roman": "jogī jangam sannīāsī bhule viṇ gur tat na pāiā",
+      "translation_ru": "О брат! Без Гуру йоги, странствующие аскеты и санньяси также сбивались с пути и не находили истинной сущности."
+    },
+    {
+      "index": 10,
+      "verse_id": 36147,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਮਨਮੁਖ ਦੁਖੀਏ ਸਦਾ ਭ੍ਰਮਿ ਭੁਲੇ ਤਿਨ੍ਹੀ ਬਿਰਥਾ ਜਨਮੁ ਗਵਾਇਆ ॥",
+      "site_roman": "manamukh dukhīē sadā bhram bhulē tinhī birathā janam gavāiā .",
+      "sahib_singh_pa": "ਹੇ ਭਾਈ! ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲੇ ਸਦਾ ਦੁਖੀ ਹੀ ਰਹੇ, ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ ਸਹੀ ਜੀਵਨ-ਰਾਹ ਤੋਂ ਖੁੰਝੇ ਹੀ ਰਹੇ, ਉਹਨਾਂ ਆਪਣਾ ਜਨਮ ਵਿਅਰਥ ਹੀ ਗਵਾਇਆ।",
+      "roman": "manmukh dukhīe sadā bhram bhule tinī birthā janam gavāiā",
+      "translation_ru": "О брат! Следующие за своим умом всегда оставались в страдании, блуждали в заблуждении и напрасно растратили свою жизнь."
+    },
+    {
+      "index": 11,
+      "verse_id": 36148,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਨਾਨਕ ਨਾਮਿ ਰਤੇ ਸੇਈ ਜਨ ਸਮਧੇ ਜਿ ਆਪੇ ਬਖਸਿ ਮਿਲਾਇਆ ॥੧॥",
+      "site_roman": "nānak nām ratē sēī jan samadhē j āpē bakhas milāiā .1.",
+      "sahib_singh_pa": "ਪਰ, ਹੇ ਨਾਨਕ! (ਜੀਵਾਂ ਦੇ ਕੀਹ ਵੱਸ?) ਜਿਨ੍ਹਾਂ ਮਨੁੱਖ ਨੂੰ (ਪਰਮਾਤਮਾ) ਆਪ ਹੀ ਮਿਹਰ ਕਰ ਕੇ (ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ) ਮਿਲਾਂਦਾ ਹੈ, ਉਹ (ਉਸ ਦੇ) ਨਾਮ ਵਿਚ ਰੰਗੇ ਰਹਿੰਦੇ ਹਨ ਤੇ ਉਹੀ ਕਾਮਯਾਬ ਜੀਵਨ ਵਾਲੇ ਹੁੰਦੇ ਹਨ ॥੧॥",
+      "roman": "nānak nām rate seī jan samdhe je āpe bakhas milāiā",
+      "translation_ru": "Но, о Нанак! Те люди, которых Сам Бог по Своей милости соединяет с Собой, окрашены в Его Имя — только они живут успешной жизнью."
+    },
+    {
+      "index": 12,
+      "verse_id": 36149,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਮਃ ੩ ॥",
+      "site_roman": "mah 3 .",
+      "sahib_singh_pa": "None",
+      "roman": "mah 3",
+      "translation_ru": ""
+    },
+    {
+      "index": 13,
+      "verse_id": 36150,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਨਾਨਕ ਸੋ ਸਾਲਾਹੀਐ ਜਿਸੁ ਵਸਿ ਸਭੁ ਕਿਛੁ ਹੋਇ ॥",
+      "site_roman": "nānak sō sālāhīai jis vas sabh kish hōi .",
+      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਆਖ-ਹੇ ਭਾਈ!) ਜਿਸ ਪਰਮਾਤਮਾ ਦੇ ਇਖ਼ਤਿਆਰ ਵਿਚ ਹਰੇਕ ਚੀਜ਼ ਹੈ ਉਸ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।",
+      "roman": "nānak so salāhīai jis vas sabh kichh hoi",
+      "translation_ru": "О Нанак! О брат! Следует восхвалять того Бога, в чьей власти находится всё."
+    },
+    {
+      "index": 14,
+      "verse_id": 36151,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਤਿਸਹਿ ਸਰੇਵਹੁ ਪ੍ਰਾਣੀਹੋ ਤਿਸੁ ਬਿਨੁ ਅਵਰੁ ਨ ਕੋਇ ॥",
+      "site_roman": "tisah sarēvah prānīhō tis bin avar n kōi .",
+      "sahib_singh_pa": "ਹੇ ਪ੍ਰਾਣੀਓ! ਉਸ ਪ੍ਰਭੂ ਨੂੰ (ਸਦਾ) ਸਿਮਰਦੇ ਰਹੋ, ਉਸ ਤੋਂ ਬਿਨਾ ਕੋਈ ਹੋਰ (ਉਸ ਵਰਗਾ) ਨਹੀਂ ਹੈ।",
+      "roman": "tisah sevahu prāṇīho tis bin avar na koi",
+      "translation_ru": "О живые существа! Постоянно помните Его, кроме Него нет никого другого подобного Ему."
+    },
+    {
+      "index": 15,
+      "verse_id": 36152,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਗੁਰਮੁਖਿ ਅੰਤਰਿ ਮਨਿ ਵਸੈ ਸਦਾ ਸਦਾ ਸੁਖੁ ਹੋਇ ॥੨॥",
+      "site_roman": "guramukh antar man vasai sadā sadā sukh hōi .2.",
+      "sahib_singh_pa": "ਪਰ, ਹੇ ਭਾਈ! ਗੁਰੂ ਦੀ ਸਰਨ ਪਿਆਂ ਹੀ (ਉਹ ਪਰਮਾਤਮਾ ਮਨੁੱਖ ਦੇ) ਹਿਰਦੇ ਵਿਚ ਮਨ ਵਿਚ ਵੱਸਦਾ ਹੈ (ਜਿਸ ਦੇ ਅੰਦਰ ਆ ਵੱਸਦਾ ਹੈ, ਉਸ ਦੇ ਅੰਦਰ) ਸਦਾ ਹੀ ਆਤਮਕ ਆਨੰਦ ਬਣਿਆ ਰਹਿੰਦਾ ਹੈ ॥੨॥",
+      "roman": "gurmukh antar man vasai sadā sadā sukh hoi",
+      "translation_ru": "Но, о брат! Только при прибежище Гуру Бог поселяется в сердце человека, и тогда в нём всегда пребывает духовная радость."
+    },
+    {
+      "index": 16,
+      "verse_id": 36153,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਪਉੜੀ ॥",
+      "site_roman": "paurī .",
+      "sahib_singh_pa": "None",
+      "roman": "paurī",
+      "translation_ru": ""
+    },
+    {
+      "index": 17,
+      "verse_id": 36154,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਜਿਨੀ ਗੁਰਮੁਖਿ ਹਰਿ ਨਾਮ ਧਨੁ ਨ ਖਟਿਓ ਸੇ ਦੇਵਾਲੀਏ ਜੁਗ ਮਾਹਿ ॥",
+      "site_roman": "jinī guramukh har nām dhan n khatiō sē dēvālīē jug māh .",
+      "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਧਨ ਨਹੀਂ ਕਮਾਇਆ, ਉਹ ਜਗਤ ਵਿਚ ਮਨੁੱਖਾ ਜੀਵਨ ਦੀ ਬਾਜ਼ੀ ਹਾਰ ਚੁਕੇ ਸਮਝੋ (ਜਿਵੇਂ ਜੁਆਰੀਆ ਜੂਏ ਵਿਚ ਹਾਰ ਕੇ ਕੰਗਾਲ ਹੋ ਜਾਂਦਾ ਹੈ)।",
+      "roman": "jinī gurmukh har nām dhan na khaṭiō se devālīe jug māh",
+      "translation_ru": "О брат! Те люди, которые, прибегнув к Гуру, не обрели богатство Имени Бога, считаются проигравшими в этой жизни, подобно разорившимся игрокам."
+    },
+    {
+      "index": 18,
+      "verse_id": 36155,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਓਇ ਮੰਗਦੇ ਫਿਰਹਿ ਸਭ ਜਗਤ ਮਹਿ ਕੋਈ ਮੁਹਿ ਥੁਕ ਨ ਤਿਨ ਕਉ ਪਾਹਿ ॥",
+      "site_roman": "ōi mangadē phirah sabh jagat mah kōī muh thuk n tin kau pāh .",
+      "sahib_singh_pa": "ਇਹੋ ਜਿਹੇ ਮਨੁੱਖ (ਉਹਨਾਂ ਮੰਗਤਿਆਂ ਵਰਗੇ ਹਨ ਜੋ) ਸਾਰੇ ਸੰਸਾਰ ਵਿਚ ਮੰਗਦੇ ਫਿਰਦੇ ਹਨ, ਪਰ ਉਹਨਾਂ ਦੇ ਮੂੰਹ ਉਤੇ ਕੋਈ ਥੁੱਕਦਾ ਭੀ ਨਹੀਂ।",
+      "roman": "oi mangde phireh sabh jagat meh koi muh thuk na tin kau pāh",
+      "translation_ru": "Такие люди подобны нищим, которые бродят по всему миру, но даже никто не плюёт им в лицо."
+    },
+    {
+      "index": 19,
+      "verse_id": 36156,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਪਰਾਈ ਬਖੀਲੀ ਕਰਹਿ ਆਪਣੀ ਪਰਤੀਤਿ ਖੋਵਨਿ ਸਗਵਾ ਭੀ ਆਪੁ ਲਖਾਹਿ ॥",
+      "site_roman": "parāī bakhīlī karah āpanī paratīt khōvan sagavā bhī āp lakhāh .",
+      "sahib_singh_pa": "ਹੇ ਭਾਈ! ਇਹੋ ਜਿਹੇ ਬੰਦੇ ਦੂਜਿਆਂ ਦੀ ਨਿੰਦਾ ਕਰਦੇ ਹਨ (ਤੇ ਇਸ ਤਰ੍ਹਾਂ) ਆਪਣਾ ਇਤਬਾਰ ਗਵਾ ਲੈਂਦੇ ਹਨ, ਸਗੋਂ ਚੰਗੀ ਤਰ੍ਹਾਂ ਆਪਣਾ (ਭੈੜਾ) ਅਸਲਾ ਨਸ਼ਰ ਕਰਦੇ ਹਨ।",
+      "roman": "parāī bakhīlī kareh āpṇī partīt khovan sagvā bhī āp lakhāh",
+      "translation_ru": "О брат! Такие люди злословят о других, тем самым теряют доверие к себе и ясно показывают свою дурную природу."
+    },
+    {
+      "index": 20,
+      "verse_id": 36157,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਜਿਸੁ ਧਨ ਕਾਰਣਿ ਚੁਗਲੀ ਕਰਹਿ ਸੋ ਧਨੁ ਚੁਗਲੀ ਹਥਿ ਨ ਆਵੈ ਓਇ ਭਾਵੈ ਤਿਥੈ ਜਾਹਿ ॥",
+      "site_roman": "jis dhan kāran chugalī karah sō dhan chugalī hath n āvai ōi bhāvai tithai jāh .",
+      "sahib_singh_pa": "ਅਜੇਹੇ ਮਨੁੱਖ ਜਿਥੇ ਜੀ ਚਾਹੇ ਜਾਣ, ਜਿਸ ਧਨ ਦੀ ਖ਼ਾਤਰ (ਲਾਲਚ ਵਿਚ ਆ ਕੇ) ਚੁਗ਼ਲੀ ਕਰਦੇ ਹਨ, ਚੁਗਲੀ ਨਾਲ ਉਹ ਧਨ ਉਹਨਾਂ ਨੂੰ ਲੱਭਦਾ ਨਹੀਂ।",
+      "roman": "jis dhan kāraṇ chuglī kareh so dhan chuglī hath na āvai oi bhāve tithai jāh",
+      "translation_ru": "Такие люди могут идти куда хотят, но то богатство, ради которого они клевещут, к ним не приходит через клевету."
+    },
+    {
+      "index": 21,
+      "verse_id": 36158,
+      "shabad_num": 2307,
+      "shabad_id": 2307,
+      "gurmukhi": "ਗੁਰਮੁਖਿ ਸੇਵਕ ਭਾਇ ਹਰਿ ਧਨੁ ਮਿਲੈ ਤਿਥਹੁ ਕਰਮਹੀਣ ਲੈ ਨ ਸਕਹਿ ਹੋਰ ਥੈ ਦੇਸ ਦਿਸੰਤਰਿ ਹਰਿ ਧਨੁ ਨਾਹਿ ॥੮॥",
+      "site_roman": "guramukh sēvak bhāi har dhan milai tithah karamahīn lai n sakah hōr thai dēs disantar har dhan nāh .8.",
+      "sahib_singh_pa": "ਹੇ ਭਾਈ! ਸੇਵਕ-ਭਾਵਨਾ ਨਾਲ ਗੁਰੂ ਦੀ ਸਰਨ ਪਿਆਂ ਹੀ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਧਨ ਮਿਲਦਾ ਹੈ; ਪਰ ਉਹ (ਨਿੰਦਕ) ਅਭਾਗੇ ਉਥੋਂ (ਗੁਰੂ-ਦਰ ਤੋਂ) ਇਹ ਧਨ ਲੈ ਨਹੀਂ ਸਕਦੇ (ਤੇ, ਗੁਰੂ-ਦਰ ਤੋਂ ਬਿਨਾ) ਕਿਸੇ ਹੋਰ ਥਾਂ ਕਿਸੇ ਹੋਰ ਦੇਸ ਵਿਚ ਇਹ ਨਾਮ-ਧਨ ਹੈ ਹੀ ਨਹੀਂ ॥੮॥",
+      "roman": "gurmukh sevak bhāe har dhan milai tithahu karam hīṇ lai na sakeh hor thai des disantar har dhan nāh",
+      "translation_ru": "О брат! Только в духе служения и через прибежище Гуру обретается богатство Имени Бога; но эти несчастные не могут получить его оттуда, и нигде больше, ни в какой стране, этого богатства нет."
+    }
+  ]
+}
