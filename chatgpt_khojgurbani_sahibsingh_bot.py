@@ -254,6 +254,8 @@ class RuntimeConfig:
     raw_log_dir: Path | None
     json_dir: Path
     keep_chat_tabs: bool
+    chunk_size: int = 0  # 0 = disabled; >0 = split large angs into chunks of this size
+    banidb_path: Path | None = None  # if set, filter collected verse_ids to only those in banidb
 
 
 @dataclass
@@ -359,6 +361,20 @@ def save_raw_text(raw_log_dir: Path | None, filename: str, text: str) -> None:
     (raw_log_dir / filename).write_text(text, encoding="utf-8")
 
 
+def banidb_verse_ids_for_ang(banidb_path: Path, ang: int) -> set[int]:
+    """Return the set of verse_ids that banidb assigns to this ang."""
+    import sqlite3
+    try:
+        conn = sqlite3.connect(str(banidb_path))
+        cur = conn.cursor()
+        cur.execute("SELECT verse_id FROM verses WHERE ang = ?", (ang,))
+        result = {row[0] for row in cur.fetchall()}
+        conn.close()
+        return result
+    except Exception:
+        return set()
+
+
 def api_get(path: str) -> dict[str, Any]:
     req = urllib.request.Request(f"{API_BASE}{path}", headers=HEADERS)
     with urllib.request.urlopen(req, timeout=20) as response:
@@ -426,7 +442,12 @@ def discover_shabad_numbers_for_ang(
     return found_by_scan
 
 
-def fetch_ang_source_lines(ang: int, start_probe: int = 1, initial_miss_limit: int = 10) -> list[SourceLine]:
+def fetch_ang_source_lines(
+    ang: int,
+    start_probe: int = 1,
+    initial_miss_limit: int = 10,
+    valid_verse_ids: set[int] | None = None,
+) -> list[SourceLine]:
     if start_probe > 1:
         print(f"  → Зондирование шабадов с №{start_probe}")
 
@@ -455,6 +476,9 @@ def fetch_ang_source_lines(ang: int, start_probe: int = 1, initial_miss_limit: i
                 continue
 
             if verse_id in seen_verse_ids:
+                continue
+
+            if valid_verse_ids is not None and verse_id not in valid_verse_ids:
                 continue
 
             gurmukhi = normalize_text(str(verse.get("Scripture", "")))
@@ -1322,8 +1346,73 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Пересобрать shabad_map.json из ang_json/ и сохранить.",
     )
+    parser.add_argument(
+        "--banidb",
+        type=str,
+        default="",
+        help=(
+            "Путь к sggs.db (banidb). Если указан, при сборе строк из KhojGurbani "
+            "оставляет только те verse_id, которые banidb относит к данному ангу. "
+            "Устраняет проблему сбора 400+ строк и дублей."
+        ),
+    )
+    parser.add_argument(
+        "--chunk-size",
+        type=int,
+        default=0,
+        help=(
+            "Дробить анг на чанки по N строк если строк больше N (0 = отключено). "
+            "Рекомендуется 50 для больших ангов: --chunk-size 50"
+        ),
+    )
 
     return parser.parse_args()
+
+
+def _translate_source_lines(
+    context,
+    chat_url: str,
+    ang: int,
+    source_lines: list[SourceLine],
+    cfg: RuntimeConfig,
+) -> AngTranslation | None:
+    """Translate source_lines for an ang, splitting into chunks if cfg.chunk_size is set."""
+    chunk_size = cfg.chunk_size
+    if chunk_size <= 0 or len(source_lines) <= chunk_size:
+        page = open_chat_tab(context, chat_url, cfg.page_timeout_ms)
+        page.bring_to_front()
+        try:
+            return request_structured_translation(page, ang, source_lines, cfg)
+        finally:
+            if not cfg.keep_chat_tabs:
+                try:
+                    page.close()
+                except Exception:
+                    pass
+
+    chunks = [source_lines[i:i + chunk_size] for i in range(0, len(source_lines), chunk_size)]
+    total_chunks = len(chunks)
+    print(f"  → Дробим на {total_chunks} чанков по ≤{chunk_size} строк")
+
+    all_lines: list[OutputLine] = []
+    for chunk_idx, chunk in enumerate(chunks, 1):
+        print(f"  → Чанк {chunk_idx}/{total_chunks} (строки {chunk[0].index}–{chunk[-1].index}, {len(chunk)} строк)")
+        page = open_chat_tab(context, chat_url, cfg.page_timeout_ms)
+        page.bring_to_front()
+        try:
+            result = request_structured_translation(page, ang, chunk, cfg)
+        finally:
+            if not cfg.keep_chat_tabs:
+                try:
+                    page.close()
+                except Exception:
+                    pass
+        if result is None:
+            print(f"  ⚠ Чанк {chunk_idx}/{total_chunks} не удался — отменяю анг {ang}")
+            return None
+        all_lines.extend(result.lines)
+
+    return AngTranslation(ang=ang, lines=all_lines)
 
 
 def run_browser_session(
@@ -1419,31 +1508,31 @@ def run_browser_session(
                 miss_limit = 300
                 print(f"  → Интерполированный старт шабада: №{start_probe} (окно +300)")
 
-            source_lines = fetch_ang_source_lines(ang, start_probe=start_probe, initial_miss_limit=miss_limit)
+            valid_verse_ids: set[int] | None = None
+            if cfg.banidb_path:
+                valid_verse_ids = banidb_verse_ids_for_ang(cfg.banidb_path, ang)
+                if valid_verse_ids:
+                    print(f"  → banidb: ожидается {len(valid_verse_ids)} verse_id для анга {ang}")
+
+            source_lines = fetch_ang_source_lines(
+                ang,
+                start_probe=start_probe,
+                initial_miss_limit=miss_limit,
+                valid_verse_ids=valid_verse_ids,
+            )
             if not source_lines:
                 print(f"  ⚠ Не удалось собрать строки из KhojGurbani для анга {ang}, пропускаю")
                 continue
 
             print(f"  → Собрано строк: {len(source_lines)}")
 
-            chat_page = open_chat_tab(context, chat_url, cfg.page_timeout_ms)
-            chat_page.bring_to_front()
+            ang_data = _translate_source_lines(context, chat_url, ang, source_lines, cfg)
 
-            ang_data = None
-            try:
-                ang_data = request_structured_translation(chat_page, ang, source_lines, cfg)
-
-                if ang_data:
-                    json_path = save_ang_json(cfg.json_dir, ang_data)
-                    print(f"  ✓ JSON сохранён: {json_path.name}")
-                    append_ang_to_docx(output_path, ang_data)
-                    save_progress(progress_file, ang)
-            finally:
-                if not cfg.keep_chat_tabs:
-                    try:
-                        chat_page.close()
-                    except Exception:
-                        pass
+            if ang_data:
+                json_path = save_ang_json(cfg.json_dir, ang_data)
+                print(f"  ✓ JSON сохранён: {json_path.name}")
+                append_ang_to_docx(output_path, ang_data)
+                save_progress(progress_file, ang)
 
             # Обновляем last_shabad и карту
             if source_lines:
@@ -1636,6 +1725,8 @@ def main() -> None:
         raw_log_dir=raw_log_dir,
         json_dir=json_dir,
         keep_chat_tabs=args.keep_chat_tabs,
+        chunk_size=args.chunk_size,
+        banidb_path=Path(args.banidb) if args.banidb.strip() else None,
     )
 
     if args.update_shabad_map:
