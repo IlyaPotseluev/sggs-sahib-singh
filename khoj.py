@@ -30,24 +30,57 @@ def _run_bot_menu() -> None:
 
 def _run_scan(start: int, end: int, fix_mode: bool = False) -> None:
     from validate_angs import (
-        validate_range, find_cross_ang_duplicates, run_menu, BANIDB_PATH,
+        validate_range, find_cross_ang_duplicates, run_menu,
+        BANIDB_PATH, DARPAN_DB_PATH,
     )
     banidb_path = BANIDB_PATH if BANIDB_PATH.exists() else None
+    darpan_path = DARPAN_DB_PATH if DARPAN_DB_PATH.exists() else None
     print(f"\nСканирую {start}..{end}…")
-    reports = validate_range(start, end, banidb_path)
+    reports = validate_range(start, end, banidb_path, darpan_path=darpan_path)
     duplicates = find_cross_ang_duplicates(start, end)
     if not reports:
         print("Нет данных.")
         return
-    run_menu(reports, duplicates, start, end, fix_mode=fix_mode, banidb_path=banidb_path)
+    run_menu(reports, duplicates, start, end, fix_mode=fix_mode,
+             banidb_path=banidb_path, darpan_path=darpan_path)
+
+
+def _print_next_steps() -> None:
+    rebuilt = REPO_ROOT / "ang_json_rebuilt"
+    ang_json = REPO_ROOT / "ang_json"
+
+    rebuilt_count = len(list(rebuilt.glob("ang_*.json"))) if rebuilt.exists() else 0
+    current_count = len(list(ang_json.glob("ang_*.json"))) if ang_json.exists() else 0
+
+    print("\n══ Рекомендации для продолжения работы ══\n")
+
+    if rebuilt.exists() and rebuilt_count > 0:
+        print(f"  1. Активировать пересобранные анги ({rebuilt_count} файлов в ang_json_rebuilt/):")
+        print(f"       mv ang_json ang_json_old && mv ang_json_rebuilt ang_json")
+        print()
+
+    print("  2. Перевести пропущенные стихи (5 495 строк, 188 ангов):")
+    print("       Добавить режим --source darpan-db в rebuild_from_darpan.py")
+    print("       Источник: darpan.db (локально, без скрапинга сайта)")
+    print()
+    print("  3. Стратегия генерации ангов с нуля:")
+    print("       banidb  → структура (ang, verse_id, порядок)")
+    print("       darpan.db → комментарий Sahib Singh (по shabad_id)")
+    print("       ChatGPT  → русский перевод")
+    print()
+    print("  4. TODO в TECHNICAL_CONCEPT_RU.md:")
+    print("       Коэффициент доверия переводу (translation_trust 0.0–1.0)")
+    print("       Влияет на отображение в WordPress")
+    print()
 
 
 def main() -> None:
     while True:
         print("\n══ Гурбани — главное меню ══\n")
         print("  [1] Переводить / DOCX / починить roman  (меню бота)")
-        print("  [2] Сканировать проблемы vs banidb")
+        print("  [2] Сканировать проблемы (banidb — устарело, + Дарпан)")
         print("  [3] Сканировать и чинить через Дарпан")
+        print("  [i] Что делать дальше")
         print("  [q] Выйти")
         try:
             choice = input("\n  Выбор: ").strip().lower()
@@ -62,6 +95,8 @@ def main() -> None:
         elif choice in ("2", "3"):
             start, end = _ask_range()
             _run_scan(start, end, fix_mode=(choice == "3"))
+        elif choice == "i":
+            _print_next_steps()
         else:
             print("  Неизвестный выбор.")
 

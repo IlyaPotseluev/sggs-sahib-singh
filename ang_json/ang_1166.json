@@ -1,435 +1,411 @@
 {
   "ang": 1166,
-  "line_count": 39,
   "lines": [
     {
-      "index": 1,
+      "verse_id": 49950,
+      "gurmukhi": "ਨਾਮੇ ਸਰ ਭਰਿ ਸੋਨਾ ਲੇਹੁ ॥੧੦॥",
+      "roman": "nāme sar bhari sonā lehu",
+      "sahib_singh_pa": "ਨਾਮਦੇਵ ਨਾਲ ਸਾਵਾਂ ਤੋਲ ਕੇ ਸੋਨਾ ਲੈ ਲੈ (ਤੇ ਇਸ ਨੂੰ ਛੱਡ ਦੇ) ॥੧੦॥",
+      "translation_ru": "возьми золото, равное весу Намдева, и отпусти его. ॥10॥"
+    },
+    {
+      "verse_id": 49951,
+      "gurmukhi": "ਮਾਲੁ ਲੇਉ ਤਉ ਦੋਜਕਿ ਪਰਉ ॥",
+      "roman": "mālu leu tau dojaki parau",
+      "sahib_singh_pa": "(ਉਸ ਨੇ ਉੱਤਰ ਦਿੱਤਾ) ਜੇ ਮੈਂ ਵੱਢੀ ਲਵਾਂ ਤਾਂ ਦੋਜ਼ਕ ਵਿਚ ਪੈਂਦਾ ਹਾਂ,",
+      "translation_ru": "Он ответил: если я возьму взятку, то попаду в ад,"
+    },
+    {
+      "verse_id": 49952,
+      "gurmukhi": "ਦੀਨੁ ਛੋਡਿ ਦੁਨੀਆ ਕਉ ਭਰਉ ॥੧੧॥",
+      "roman": "dīnu chhoḍi dunīā kau bharau",
+      "sahib_singh_pa": "(ਕਿਉਂਕਿ ਇਸ ਤਰ੍ਹਾਂ ਤਾਂ) ਮੈਂ ਮਜ਼ਹਬ ਛੱਡ ਕੇ ਦੌਲਤ ਇਕੱਠੀ ਕਰਦਾ ਹਾਂ ॥੧੧॥",
+      "translation_ru": "потому что так я оставлю веру и стану копить богатство. ॥11॥"
+    },
+    {
+      "verse_id": 49953,
+      "gurmukhi": "ਪਾਵਹੁ ਬੇੜੀ ਹਾਥਹੁ ਤਾਲ ॥",
+      "roman": "pāvahu beṛī hāthahu tāl",
+      "sahib_singh_pa": "ਨਾਮਦੇਵ ਦੇ ਪੈਰਾਂ ਵਿਚ ਬੇੜੀਆਂ ਹਨ,",
+      "translation_ru": "На ногах Намдева цепи,"
+    },
+    {
+      "verse_id": 49954,
+      "gurmukhi": "ਨਾਮਾ ਗਾਵੈ ਗੁਨ ਗੋਪਾਲ ॥੧੨॥",
+      "roman": "nāmā gāvai gun gopāl",
+      "sahib_singh_pa": "ਪਰ ਫਿਰ ਭੀ ਉਹ ਹੱਥਾਂ ਨਾਲ ਤਾਲ ਦੇ ਦੇ ਕੇ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਂਦਾ ਹੈ ॥੧੨॥",
+      "translation_ru": "но всё равно, отбивая ладонями такт, он поёт славу Богу. ॥12॥"
+    },
+    {
+      "verse_id": 49955,
+      "gurmukhi": "ਗੰਗ ਜਮੁਨ ਜਉ ਉਲਟੀ ਬਹੈ ॥",
+      "roman": "gaṅg jamun jau ulaṭī bahai",
+      "sahib_singh_pa": "ਜੇ ਗੰਗਾ ਤੇ ਜਮਨਾ ਉਲਟੀਆਂ ਭੀ ਵਗਣ ਲੱਗ ਪੈਣ,",
+      "translation_ru": "Даже если Ганг и Ямуна потекут вспять,"
+    },
+    {
+      "verse_id": 49956,
+      "gurmukhi": "ਤਉ ਨਾਮਾ ਹਰਿ ਕਰਤਾ ਰਹੈ ॥੧੩॥",
+      "roman": "tau nāmā har kartā rahai",
+      "sahib_singh_pa": "ਤਾਂ ਭੀ ਨਾਮਾ ਹਰੀ ਦੇ ਗੁਣ ਗਾਂਦਾ ਰਹੇਗਾ (ਤੇ ਦਬਾਉ ਵਿਚ ਆ ਕੇ ਖ਼ੁਦਾ ਖ਼ੁਦਾ ਨਹੀਂ ਆਖੇਗਾ) ॥੧੩॥",
+      "translation_ru": "Нама всё равно будет петь славу Хари и не поддастся давлению, чтобы произносить 'Худай'. ॥13॥"
+    },
+    {
+      "verse_id": 49957,
+      "gurmukhi": "ਸਾਤ ਘੜੀ ਜਬ ਬੀਤੀ ਸੁਣੀ ॥",
+      "roman": "sāt ghaṛī jab bītī suṇī",
+      "sahib_singh_pa": "(ਬਾਦਸ਼ਾਹ ਨੇ ਗਾਂ ਜਿਵਾਲਣ ਲਈ ਇਕ ਪਹਿਰ ਮੁਹਲਤ ਦਿੱਤੀ ਹੋਈ ਸੀ) ਜਦੋਂ (ਘੜਿਆਲ ਤੇ) ਸੱਤ ਘੜੀਆਂ ਗੁਜ਼ਰੀਆਂ ਸੁਣੀਆਂ,",
+      "translation_ru": "Когда услышали, что прошло семь гхари,"
+    },
+    {
+      "verse_id": 49958,
+      "gurmukhi": "ਅਜਹੁ ਨ ਆਇਓ ਤ੍ਰਿਭਵਣ ਧਣੀ ॥੧੪॥",
+      "roman": "ajahu na āiō tribhavaṇ dhaṇī",
+      "sahib_singh_pa": "ਤਾਂ (ਮੈਂ ਨਾਮੇ ਨੇ ਸੋਚਿਆ ਕਿ) ਅਜੇ ਤਕ ਭੀ ਤ੍ਰਿਲੋਕੀ ਦਾ ਮਾਲਕ ਪ੍ਰਭੂ ਨਹੀਂ ਆਇਆ ॥੧੪॥",
+      "translation_ru": "тогда я, Нама, подумал: до сих пор ещё не пришёл Владыка трёх миров. ॥14॥"
+    },
+    {
+      "verse_id": 49959,
+      "gurmukhi": "ਪਾਖੰਤਣ ਬਾਜ ਬਜਾਇਲਾ ॥",
+      "roman": "pākhaṇṭaṇ bāj bajāilā",
+      "sahib_singh_pa": "(ਬੱਸ! ਉਸੇ ਵੇਲੇ) ਖੰਭਾਂ ਦੇ ਫੜਕਣ ਦਾ ਖੜਾਕ ਆਇਆ,",
+      "translation_ru": "И тут же раздался шум хлопающих крыльев,"
+    },
+    {
+      "verse_id": 49960,
+      "gurmukhi": "ਗਰੁੜ ਚੜੑੇ ਗੋਬਿੰਦ ਆਇਲਾ ॥੧੫॥",
+      "roman": "garuṛ chaṛhe gobind āilā",
+      "sahib_singh_pa": "ਵਿਸ਼ਨੂੰ ਭਗਵਾਨ ਗਰੁੜ ਤੇ ਚੜ੍ਹ ਕੇ ਆ ਗਿਆ ॥੧੫॥",
+      "translation_ru": "Гобинд прибыл верхом на Гаруде. ॥15॥"
+    },
+    {
+      "verse_id": 49961,
+      "gurmukhi": "ਅਪਨੇ ਭਗਤ ਪਰਿ ਕੀ ਪ੍ਰਤਿਪਾਲ ॥",
+      "roman": "apne bhagat par kī pratipāl",
+      "sahib_singh_pa": "ਉਹਨਾਂ ਆਪਣੇ ਭਗਤ ਦੀ ਰੱਖਿਆ ਕਰ ਲਈ,",
+      "translation_ru": "Он защитил Своего преданного,"
+    },
+    {
+      "verse_id": 49962,
+      "gurmukhi": "ਗਰੁੜ ਚੜੑੇ ਆਏ ਗੋਪਾਲ ॥੧੬॥",
+      "roman": "garuṛ chaṛhe āe gopāl",
+      "sahib_singh_pa": "ਪ੍ਰਭੂ ਜੀ ਗਰੁੜ ਤੇ ਚੜ੍ਹ ਕੇ ਆ ਗਏ ॥੧੬॥",
+      "translation_ru": "Гопал прибыл верхом на Гаруде. ॥16॥"
+    },
+    {
+      "verse_id": 49963,
+      "gurmukhi": "ਕਹਹਿ ਤ ਧਰਣਿ ਇਕੋਡੀ ਕਰਉ ॥",
+      "roman": "kahahi ta dharaṇ ikoḍī karau",
+      "sahib_singh_pa": "(ਗੋਪਾਲ ਨੇ ਆਖਿਆ-ਹੇ ਨਾਮਦੇਵ!) ਜੇ ਤੂੰ ਆਖੇਂ ਤਾਂ ਮੈਂ ਧਰਤੀ ਟੇਢੀ ਕਰ ਦਿਆਂ,",
+      "translation_ru": "Гопал сказал: о Намдев, если скажешь, я сделаю землю кривой,"
+    },
+    {
+      "verse_id": 49964,
+      "gurmukhi": "ਕਹਹਿ ਤ ਲੇ ਕਰਿ ਊਪਰਿ ਧਰਉ ॥੧੭॥",
+      "roman": "kahahi ta le kar ūpar dharau",
+      "sahib_singh_pa": "ਜੇ ਤੂੰ ਆਖੇਂ ਤਾਂ ਇਸ ਨੂੰ ਫੜ ਕੇ ਉਲਟਾ ਦਿਆਂ ॥੧੭॥",
+      "translation_ru": "если скажешь, я схвачу её и переверну. ॥17॥"
+    },
+    {
+      "verse_id": 49965,
+      "gurmukhi": "ਕਹਹਿ ਤ ਮੁਈ ਗਊ ਦੇਉ ਜੀਆਇ ॥",
+      "roman": "kahahi ta মুī gaū deu jīāi",
+      "sahib_singh_pa": "ਜੇ ਤੂੰ ਆਖੇਂ ਤਾਂ ਮੋਈ ਹੋਈ ਗਾਂ ਜਿਵਾਲ ਦਿਆਂ,",
+      "translation_ru": "Если скажешь, я оживлю мёртвую корову,"
+    },
+    {
+      "verse_id": 49966,
+      "gurmukhi": "ਸਭੁ ਕੋਈ ਦੇਖੈ ਪਤੀਆਇ ॥੧੮॥",
+      "roman": "sabh koi dekhai patīāi",
+      "sahib_singh_pa": "ਤੇ ਇੱਥੇ ਹਰੇਕ ਜਣਾ ਤਸੱਲੀ ਨਾਲ ਵੇਖ ਲਏ ॥੧੮॥",
+      "translation_ru": "и здесь каждый сможет удовлетворённо это увидеть. ॥18॥"
+    },
+    {
+      "verse_id": 49967,
+      "gurmukhi": "ਨਾਮਾ ਪ੍ਰਣਵੈ ਸੇਲ ਮਸੇਲ ॥",
+      "roman": "nāmā praṇvai sel masel",
+      "sahib_singh_pa": "(ਗੋਪਾਲ ਦੀ ਇਸ ਕਿਰਪਾ ਤੇ) ਮੈਂ ਨਾਮੇ ਨੇ (ਉਹਨਾਂ ਲੋਕਾਂ ਨੂੰ) ਬੇਨਤੀ ਕੀਤੀ-(ਗਊ ਨੂੰ) ਨਿਆਣਾ ਪਾ ਦਿਉ।",
+      "translation_ru": "Нама с мольбой сказал тем людям: подведите телёнка к корове."
+    },
+    {
+      "verse_id": 49968,
+      "gurmukhi": "ਗਊ ਦੁਹਾਈ ਬਛਰਾ ਮੇਲਿ ॥੧੯॥",
+      "roman": "gaū duhāī bachhrā mel",
+      "sahib_singh_pa": "(ਤਾਂ ਉਹਨਾਂ) ਵੱਛਾ ਛੱਡ ਕੇ ਗਾਂ ਚੋ ਲਈ ॥੧੯॥",
+      "translation_ru": "Тогда, подпустив телёнка, они подоили корову. ॥19॥"
+    },
+    {
+      "verse_id": 49969,
+      "gurmukhi": "ਦੂਧਹਿ ਦੁਹਿ ਜਬ ਮਟੁਕੀ ਭਰੀ ॥",
+      "roman": "dūdhh duhi jab maṭukī bharī",
+      "sahib_singh_pa": "ਦੁੱਧ ਚੋ ਕੇ ਜਦੋਂ ਉਹਨਾਂ ਮਟਕੀ ਭਰ ਲਈ,",
+      "translation_ru": "Когда они надоили молока и наполнили кувшин,"
+    },
+    {
+      "verse_id": 49970,
+      "gurmukhi": "ਲੇ ਬਾਦਿਸਾਹ ਕੇ ਆਗੇ ਧਰੀ ॥੨੦॥",
+      "roman": "le bādisāh ke āge dharī",
+      "sahib_singh_pa": "ਤਾਂ ਉਹ ਲੈ ਕੇ ਬਾਦਸ਼ਾਹ ਦੇ ਅੱਗੇ ਰੱਖ ਦਿੱਤੀ ॥੨੦॥",
+      "translation_ru": "то принесли его и поставили перед бадшахом. ॥20॥"
+    },
+    {
+      "verse_id": 49971,
+      "gurmukhi": "ਬਾਦਿਸਾਹੁ ਮਹਲ ਮਹਿ ਜਾਇ ॥",
+      "roman": "bādisāhu mahal mahi jāi",
+      "sahib_singh_pa": "ਬਾਦਸ਼ਾਹ ਮਹਲਾਂ ਵਿਚ ਚਲਾ ਗਿਆ,",
+      "translation_ru": "Бадшах ушёл во дворец,"
+    },
+    {
+      "verse_id": 49972,
+      "gurmukhi": "ਅਉਘਟ ਕੀ ਘਟ ਲਾਗੀ ਆਇ ॥੨੧॥",
+      "roman": "aughaṭ kī ghaṭ lāgī āi",
+      "sahib_singh_pa": "(ਤੇ ਉੱਥੇ ਉਸ ਉੱਤੇ) ਔਖੀ ਘੜੀ ਆ ਗਈ (ਭਾਵ, ਉਹ ਸਹਿਮ ਗਿਆ) ॥੨੧॥",
+      "translation_ru": "и там на него нашёл тяжёлый час, то есть он перепугался. ॥21॥"
+    },
+    {
+      "verse_id": 49973,
+      "gurmukhi": "ਕਾਜੀ ਮੁਲਾਂ ਬਿਨਤੀ ਫੁਰਮਾਇ ॥",
+      "roman": "kājī मुलāṅ bintī furmāi",
+      "sahib_singh_pa": "ਆਪਣੇ ਕਾਜ਼ੀਆਂ ਤੇ ਮੌਲਵੀਆਂ ਦੀ ਰਾਹੀਂ ਉਸ ਨੇ ਬੇਨਤੀ (ਕਰ ਘੱਲੀ),",
+      "translation_ru": "Через своих кади и мулл он передал просьбу,"
+    },
+    {
+      "verse_id": 49974,
+      "gurmukhi": "ਬਖਸੀ ਹਿੰਦੂ ਮੈ ਤੇਰੀ ਗਾਇ ॥੨੨॥",
+      "roman": "bakhsī hindū mai terī gāi",
+      "sahib_singh_pa": "ਹੇ ਹਿੰਦੂ! ਮੈਨੂੰ ਹੁਕਮ ਕਰ (ਜੋ ਹੁਕਮ ਤੂੰ ਦੇਵੇਂਗਾ ਮੈਂ ਕਰਾਂਗਾ), ਮੈਨੂੰ ਬਖ਼ਸ਼, ਮੈਂ ਤੇਰੀ ਗਾਂ ਹਾਂ ॥੨੨॥",
+      "translation_ru": "«О индус, смилуйся надо мной, я твоя корова». ॥22॥"
+    },
+    {
+      "verse_id": 49975,
+      "gurmukhi": "ਨਾਮਾ ਕਹੈ ਸੁਨਹੁ ਬਾਦਿਸਾਹ ॥",
+      "roman": "nāmā kahai sunahu bādisāh",
+      "sahib_singh_pa": "ਨਾਮਾ ਆਖਦਾ ਹੈ ਕਿ ਹੇ ਬਾਦਸ਼ਾਹ! ਸੁਣ,",
+      "translation_ru": "Нама говорит: слушай, о бадшах,"
+    },
+    {
+      "verse_id": 49976,
+      "gurmukhi": "ਇਹੁ ਕਿਛੁ ਪਤੀਆ ਮੁਝੈ ਦਿਖਾਇ ॥੨੩॥",
+      "roman": "ihu kichh patīā muzhai dikhāi",
+      "sahib_singh_pa": "ਮੈਨੂੰ ਇਕ ਤਸੱਲੀ ਦਿਵਾ ਦੇਹ ॥੨੩॥",
+      "translation_ru": "дай мне одно подтверждение. ॥23॥"
+    },
+    {
+      "verse_id": 49977,
+      "gurmukhi": "ਇਸ ਪਤੀਆ ਕਾ ਇਹੈ ਪਰਵਾਨੁ ॥",
+      "roman": "is patīā kā ihai parvān",
+      "sahib_singh_pa": "ਇਸ ਇਕਰਾਰ ਦਾ ਮਾਪ ਇਹ ਹੋਵੇਗਾ,",
+      "translation_ru": "Мерой этого обещания будет вот что:"
+    },
+    {
+      "verse_id": 49978,
+      "gurmukhi": "ਸਾਚਿ ਸੀਲਿ ਚਾਲਹੁ ਸੁਲਿਤਾਨ ॥੨੪॥",
+      "roman": "sāch sīl chālhu sulitān",
+      "sahib_singh_pa": "ਕਿ ਹੇ ਬਾਦਸ਼ਾਹ! ਤੂੰ (ਅਗਾਂਹ ਨੂੰ) ਸੱਚ ਵਿਚ ਤੁਰੇਂ, ਚੰਗੇ ਸੁਭਾਉ ਵਿਚ ਰਹੇਂ ॥੨੪॥",
+      "translation_ru": "о бадшах, впредь ходи в истине и пребывай в добром нраве. ॥24॥"
+    },
+    {
+      "verse_id": 49979,
+      "gurmukhi": "ਨਾਮਦੇਉ ਸਭ ਰਹਿਆ ਸਮਾਇ ॥",
+      "roman": "nāmdeu sabh rahiā samāi",
+      "sahib_singh_pa": "(ਇਹ ਕੌਤਕ ਸੁਣ ਵੇਖ ਕੇ) ਘਰ ਘਰ ਵਿਚ ਨਾਮਦੇਵ ਦੀਆਂ ਗੱਲਾਂ ਹੋਣ ਲੱਗ ਪਈਆਂ,",
+      "translation_ru": "Увидев и услышав это чудо, в каждом доме стали говорить о Намдеве,"
+    },
+    {
+      "verse_id": 49980,
+      "gurmukhi": "ਮਿਲਿ ਹਿੰਦੂ ਸਭ ਨਾਮੇ ਪਹਿ ਜਾਹਿ ॥੨੫॥",
+      "roman": "mil hindū sabh nāme peh jāhi",
+      "sahib_singh_pa": "(ਨਗਰ ਦੇ) ਸਾਰੇ ਹਿੰਦੂ ਰਲ ਕੇ ਨਾਮਦੇਵ ਪਾਸ ਆਏ (ਤੇ ਆਖਣ ਲੱਗੇ-) ॥੨੫॥",
+      "translation_ru": "и все индусы города вместе пришли к Намдеву. ॥25॥"
+    },
+    {
+      "verse_id": 49981,
+      "gurmukhi": "ਜਉ ਅਬ ਕੀ ਬਾਰ ਨ ਜੀਵੈ ਗਾਇ ॥",
+      "roman": "jau ab kī bār na jīvai gāi",
+      "sahib_singh_pa": "ਜੇ ਐਤਕੀਂ ਗਾਂ ਨਾ ਜੀਊਂਦੀ,",
+      "translation_ru": "Если бы на этот раз корова не ожила,"
+    },
+    {
+      "verse_id": 49982,
+      "gurmukhi": "ਤ ਨਾਮਦੇਵ ਕਾ ਪਤੀਆ ਜਾਇ ॥੨੬॥",
+      "roman": "ta nāmdev kā patīā jāi",
+      "sahib_singh_pa": "ਤਾਂ ਨਾਮਦੇਵ ਦਾ ਇਤਬਾਰ ਜਾਂਦਾ ਰਹਿਣਾ ਸੀ ॥੨੬॥",
+      "translation_ru": "тогда доверие к Намдеву было бы потеряно. ॥26॥"
+    },
+    {
+      "verse_id": 49983,
+      "gurmukhi": "ਨਾਮੇ ਕੀ ਕੀਰਤਿ ਰਹੀ ਸੰਸਾਰਿ ॥",
+      "roman": "nāme kī kīrat rahī saṃsāri",
+      "sahib_singh_pa": "ਨਾਮਦੇਵ ਦੀ ਸੋਭਾ ਜਗਤ ਵਿਚ ਬਣੀ ਰਹੀ ਹੈ।",
+      "translation_ru": "Слава Намдева осталась в мире."
+    },
+    {
+      "verse_id": 49984,
+      "gurmukhi": "ਭਗਤ ਜਨਾਂ ਲੇ ਉਧਰਿਆ ਪਾਰਿ ॥੨੭॥",
+      "roman": "bhagat janāṅ le udhariā pāri",
+      "sahib_singh_pa": "ਪਰ ਪ੍ਰਭੂ ਨੇ ਆਪਣੇ ਭਗਤਾਂ ਨੂੰ, ਆਪਣੇ ਸੇਵਕਾਂ ਨੂੰ ਚਰਨੀਂ ਲਾ ਕੇ ਪਾਰ ਕਰ ਦਿੱਤਾ ਹੈ ॥੨੭॥",
+      "translation_ru": "А Господь, приняв Своих преданных, Своих слуг, к Своим стопам, переправил их через мир. ॥27॥"
+    },
+    {
+      "verse_id": 49985,
+      "gurmukhi": "ਸਗਲ ਕਲੇਸ ਨਿੰਦਕ ਭਇਆ ਖੇਦੁ ॥",
+      "roman": "sagal kales nindak bhaiā khed",
+      "sahib_singh_pa": "(ਇਹ ਸੋਭਾ ਸੁਣ ਕੇ) ਨਿੰਦਕਾਂ ਨੂੰ ਬੜੇ ਕਲੇਸ਼ ਤੇ ਬੜਾ ਦੁੱਖ ਹੋਇਆ ਹੈ,",
+      "translation_ru": "Услышав об этой славе, клеветники испытали великую муку и великое страдание,"
+    },
+    {
+      "verse_id": 49986,
+      "gurmukhi": "ਨਾਮੇ ਨਾਰਾਇਨ ਨਾਹੀ ਭੇਦੁ ॥੨੮॥੧॥੧੦॥",
+      "roman": "nāme nārāin nāhī bhed",
+      "sahib_singh_pa": "(ਕਿਉਂਕਿ ਉਹ ਇਹ ਨਹੀਂ ਜਾਣਦੇ ਕਿ) ਨਾਮਦੇਵ ਅਤੇ ਪਰਮਾਤਮਾ ਵਿਚ ਕੋਈ ਵਿੱਥ ਨਹੀਂ ਰਹਿ ਗਈ ॥੨੮॥੧॥੧੦॥",
+      "translation_ru": "ибо они не знают, что между Намдевом и Богом уже не осталось никакого различия. ॥28॥1॥10॥"
+    },
+    {
       "verse_id": 49987,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਘਰੁ ੨ ॥",
-      "site_roman": "ghar 2 .",
-      "sahib_singh_pa": "None",
       "roman": "ghar 2",
+      "sahib_singh_pa": "None",
       "translation_ru": ""
     },
     {
-      "index": 2,
       "verse_id": 49988,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਤ ਮਿਲੈ ਮੁਰਾਰਿ ॥",
-      "site_roman": "jau guradēu t milai murār .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਰੱਬ ਮਿਲ ਪੈਂਦਾ ਹੈ,",
       "roman": "jau gurdeu ta milai murār",
+      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਰੱਬ ਮਿਲ ਪੈਂਦਾ ਹੈ,",
       "translation_ru": "Если встречается Гуру, тогда обретается Бог,"
     },
     {
-      "index": 3,
       "verse_id": 49989,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਤ ਉਤਰੈ ਪਾਰਿ ॥",
-      "site_roman": "jau guradēu t utarai pār .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਮਨੁੱਖ) ਪਾਰ ਲੰਘ ਜਾਂਦਾ ਹੈ,",
       "roman": "jau gurdeu ta utarai pār",
+      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਮਨੁੱਖ) ਪਾਰ ਲੰਘ ਜਾਂਦਾ ਹੈ,",
       "translation_ru": "Если встречается Гуру, тогда человек переправляется через мирской океан,"
     },
     {
-      "index": 4,
       "verse_id": 49990,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਤ ਬੈਕੁੰਠ ਤਰੈ ॥",
-      "site_roman": "jau guradēu t baikunth tarai .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ (ਇੱਥੋਂ) ਤਰ ਕੇ ਬੈਕੁੰਠ ਵਿਚ ਜਾ ਅੱਪੜਦਾ ਹੈ,",
       "roman": "jau gurdeu ta baikuṇṭh tarai",
+      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ (ਇੱਥੋਂ) ਤਰ ਕੇ ਬੈਕੁੰਠ ਵਿਚ ਜਾ ਅੱਪੜਦਾ ਹੈ,",
       "translation_ru": "Если встречается Гуру, тогда, переправившись отсюда, достигают Байкунтха,"
     },
     {
-      "index": 5,
       "verse_id": 49991,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਤ ਜੀਵਤ ਮਰੈ ॥੧॥",
-      "site_roman": "jau guradēu t jīvat marai .1.",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ (ਦੁਨੀਆ ਵਿਚ) ਰਹਿੰਦੇ ਹੋਇਆਂ (ਵਿਕਾਰਾਂ ਵਲੋਂ ਉਸ ਦਾ ਮਨ) ਮਰਿਆ ਰਹਿੰਦਾ ਹੈ ॥੧॥",
       "roman": "jau gurdeu ta jīvat marai ||1||",
+      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ (ਦੁਨੀਆ ਵਿਚ) ਰਹਿੰਦੇ ਹੋਇਆਂ (ਵਿਕਾਰਾਂ ਵਲੋਂ ਉਸ ਦਾ ਮਨ) ਮਰਿਆ ਰਹਿੰਦਾ ਹੈ ॥੧॥",
       "translation_ru": "Если встречается Гуру, тогда, живя в мире, ум остаётся умершим для пороков ||1||"
     },
     {
-      "index": 6,
       "verse_id": 49992,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਸਤਿ ਸਤਿ ਸਤਿ ਸਤਿ ਸਤਿ ਗੁਰਦੇਵ ॥",
-      "site_roman": "sat sat sat sat sat guradēv .",
-      "sahib_singh_pa": "ਇਹ ਯਕੀਨ ਜਾਣੋ ਕਿ ਗੁਰੂ ਦੀ ਸੇਵਾ ਹੀ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਉੱਦਮ ਹੈ।",
       "roman": "sat sat sat sat sat gurdev",
+      "sahib_singh_pa": "ਇਹ ਯਕੀਨ ਜਾਣੋ ਕਿ ਗੁਰੂ ਦੀ ਸੇਵਾ ਹੀ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਉੱਦਮ ਹੈ।",
       "translation_ru": "Знай наверняка: служение Гуру — это и есть поистине вечное делание."
     },
     {
-      "index": 7,
       "verse_id": 49993,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਝੂਠੁ ਝੂਠੁ ਝੂਠੁ ਝੂਠੁ ਆਨ ਸਭ ਸੇਵ ॥੧॥ ਰਹਾਉ ॥",
-      "site_roman": "jhūth jhūth jhūth jhūth ān sabh sēv .1. rahāu .",
-      "sahib_singh_pa": "ਹੋਰ ਸਭ (ਦੇਵਤਿਆਂ ਦੀ) ਸੇਵਾ-ਪੂਜਾ ਵਿਅਰਥ ਹੈ, ਵਿਅਰਥ ਹੈ, ਵਿਅਰਥ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "roman": "jhūṭh jhūṭh jhūṭh jhūṭh ān sabh sev ||1|| rahāu ||",
+      "sahib_singh_pa": "ਹੋਰ ਸਭ (ਦੇਵਤਿਆਂ ਦੀ) ਸੇਵਾ-ਪੂਜਾ ਵਿਅਰਥ ਹੈ, ਵਿਅਰਥ ਹੈ, ਵਿਅਰਥ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Всякое иное служение и поклонение богам — тщетно, тщетно, тщетно ||1|| пауза ||"
     },
     {
-      "index": 8,
       "verse_id": 49994,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਤ ਨਾਮੁ ਦ੍ਰਿੜਾਵੈ ॥",
-      "site_roman": "jau guradēu t nām drirāvai .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਉਹ ਨਾਮ ਜਪਣ ਦਾ ਸੁਭਾਉ ਪਕਾ ਦੇਂਦਾ ਹੈ,",
       "roman": "jau gurdeu ta nām driṛāvai",
+      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਉਹ ਨਾਮ ਜਪਣ ਦਾ ਸੁਭਾਉ ਪਕਾ ਦੇਂਦਾ ਹੈ,",
       "translation_ru": "Если встречается Гуру, тогда он утверждает привычку к повторению Имени,"
     },
     {
-      "index": 9,
       "verse_id": 49995,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਨ ਦਹ ਦਿਸ ਧਾਵੈ ॥",
-      "site_roman": "jau guradēu n dah dis dhāvai .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ (ਫਿਰ ਮਨ) ਦਸੀਂ ਪਾਸੀਂ ਦੌੜਦਾ ਨਹੀਂ,",
       "roman": "jau gurdeu na dah dis dhāvai",
+      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ (ਫਿਰ ਮਨ) ਦਸੀਂ ਪਾਸੀਂ ਦੌੜਦਾ ਨਹੀਂ,",
       "translation_ru": "Если встречается Гуру, тогда ум уже не мечется по десяти сторонам,"
     },
     {
-      "index": 10,
       "verse_id": 49996,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਪੰਚ ਤੇ ਦੂਰਿ ॥",
-      "site_roman": "jau guradēu panch tē dūr .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਪੰਜ ਕਾਮਾਦਿਕਾਂ ਤੋਂ ਬਚਿਆ ਰਹਿੰਦਾ ਹੈ,",
       "roman": "jau gurdeu panch te dūr",
+      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਪੰਜ ਕਾਮਾਦਿਕਾਂ ਤੋਂ ਬਚਿਆ ਰਹਿੰਦਾ ਹੈ,",
       "translation_ru": "Если встречается Гуру, тогда человек остаётся в стороне от пяти страстей,"
     },
     {
-      "index": 11,
       "verse_id": 49997,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਨ ਮਰਿਬੋ ਝੂਰਿ ॥੨॥",
-      "site_roman": "jau guradēu n maribō jhūr .2.",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ (ਚਿੰਤਾ ਫ਼ਿਕਰਾਂ ਵਿਚ) ਝੁਰ ਝੁਰ ਕੇ ਨਹੀਂ ਖਪਦਾ ॥੨॥",
       "roman": "jau gurdeu na maribo jhūr ||2||",
+      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ (ਚਿੰਤਾ ਫ਼ਿਕਰਾਂ ਵਿਚ) ਝੁਰ ਝੁਰ ਕੇ ਨਹੀਂ ਖਪਦਾ ॥੨॥",
       "translation_ru": "Если встречается Гуру, тогда он не иссыхает и не изводится в тревогах и заботах ||2||"
     },
     {
-      "index": 12,
       "verse_id": 49998,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਤ ਅੰਮ੍ਰਿਤ ਬਾਨੀ ॥",
-      "site_roman": "jau guradēu t anmrit bānī .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਮਨੁੱਖ ਦੇ ਬੋਲ ਮਿੱਠੇ ਹੋ ਜਾਂਦੇ ਹਨ,",
       "roman": "jau gurdeu ta amrit bānī",
+      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਮਨੁੱਖ ਦੇ ਬੋਲ ਮਿੱਠੇ ਹੋ ਜਾਂਦੇ ਹਨ,",
       "translation_ru": "Если встречается Гуру, тогда речь человека становится сладостной,"
     },
     {
-      "index": 13,
       "verse_id": 49999,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਤ ਅਕਥ ਕਹਾਨੀ ॥",
-      "site_roman": "jau guradēu t akath kahānī .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਅਕੱਥ ਪ੍ਰਭੂ ਦੀਆਂ ਗੱਲਾਂ ਕਰਨ ਲੱਗ ਪੈਂਦਾ ਹੈ,",
       "roman": "jau gurdeu ta akath kahānī",
+      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਅਕੱਥ ਪ੍ਰਭੂ ਦੀਆਂ ਗੱਲਾਂ ਕਰਨ ਲੱਗ ਪੈਂਦਾ ਹੈ,",
       "translation_ru": "Если встречается Гуру, тогда он начинает говорить о невыразимом Боге,"
     },
     {
-      "index": 14,
       "verse_id": 50000,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਤ ਅੰਮ੍ਰਿਤ ਦੇਹ ॥",
-      "site_roman": "jau guradēu t anmrit dēh .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਸਰੀਰ ਪਵਿੱਤਰ ਰਹਿੰਦਾ ਹੈ,",
       "roman": "jau gurdeu ta amrit deh",
+      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਸਰੀਰ ਪਵਿੱਤਰ ਰਹਿੰਦਾ ਹੈ,",
       "translation_ru": "Если встречается Гуру, тогда тело пребывает в чистоте,"
     },
     {
-      "index": 15,
       "verse_id": 50001,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਨਾਮੁ ਜਪਿ ਲੇਹਿ ॥੩॥",
-      "site_roman": "jau guradēu nām jap lēh .3.",
-      "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ (ਇਹ ਸਦਾ) ਨਾਮ ਜਪਦਾ ਹੈ ॥੩॥",
       "roman": "jau gurdeu nām jap leh ||3||",
+      "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ (ਇਹ ਸਦਾ) ਨਾਮ ਜਪਦਾ ਹੈ ॥੩॥",
       "translation_ru": "Потому что, если встречается Гуру, тогда он постоянно повторяет Имя ||3||"
     },
     {
-      "index": 16,
       "verse_id": 50002,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਭਵਨ ਤ੍ਰੈ ਸੂਝੈ ॥",
-      "site_roman": "jau guradēu bhavan trai sūjhai .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਮਨੁੱਖ ਨੂੰ ਤਿੰਨਾਂ ਭਵਨਾਂ ਦੀ ਸੂਝ ਹੋ ਜਾਂਦੀ ਹੈ (ਭਾਵ, ਇਹ ਸਮਝ ਆ ਜਾਂਦੀ ਹੈ ਕਿ ਪ੍ਰਭੂ ਤਿੰਨਾਂ ਭਵਨਾਂ ਵਿਚ ਹੀ ਮੌਜੂਦ ਹੈ),",
       "roman": "jau gurdeu bhavan trai sūjhai",
+      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਮਨੁੱਖ ਨੂੰ ਤਿੰਨਾਂ ਭਵਨਾਂ ਦੀ ਸੂਝ ਹੋ ਜਾਂਦੀ ਹੈ (ਭਾਵ, ਇਹ ਸਮਝ ਆ ਜਾਂਦੀ ਹੈ ਕਿ ਪ੍ਰਭੂ ਤਿੰਨਾਂ ਭਵਨਾਂ ਵਿਚ ਹੀ ਮੌਜੂਦ ਹੈ),",
       "translation_ru": "Если встречается Гуру, тогда человеку открывается понимание трёх миров, то есть он понимает, что Бог присутствует во всех трёх мирах,"
     },
     {
-      "index": 17,
       "verse_id": 50003,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਊਚ ਪਦ ਬੂਝੈ ॥",
-      "site_roman": "jau guradēu ūch pad būjhai .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ ਨਾਲ ਜਾਣ-ਪਛਾਣ ਹੋ ਜਾਂਦੀ ਹੈ,",
       "roman": "jau gurdeu ūch pad būjhai",
+      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ ਨਾਲ ਜਾਣ-ਪਛਾਣ ਹੋ ਜਾਂਦੀ ਹੈ,",
       "translation_ru": "Если встречается Гуру, тогда приходит знание высокой духовной ступени,"
     },
     {
-      "index": 18,
       "verse_id": 50004,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਤ ਸੀਸੁ ਅਕਾਸਿ ॥",
-      "site_roman": "jau guradēu t sīs akās .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਮਨ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ,",
       "roman": "jau gurdeu ta sīs akās",
+      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਮਨ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ,",
       "translation_ru": "Если встречается Гуру, тогда ум остаётся утверждённым у стоп Бога,"
     },
     {
-      "index": 19,
       "verse_id": 50005,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਸਦਾ ਸਾਬਾਸਿ ॥੪॥",
-      "site_roman": "jau guradēu sadā sābās .4.",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ (ਹਰ ਥਾਂ ਤੋਂ) ਸਦਾ ਸੋਭਾ ਮਿਲਦੀ ਹੈ ॥੪॥",
       "roman": "jau gurdeu sadā sābās ||4||",
+      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ (ਹਰ ਥਾਂ ਤੋਂ) ਸਦਾ ਸੋਭਾ ਮਿਲਦੀ ਹੈ ॥੪॥",
       "translation_ru": "Если встречается Гуру, тогда отовсюду всегда приходит слава ||4||"
     },
     {
-      "index": 20,
       "verse_id": 50006,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਸਦਾ ਬੈਰਾਗੀ ॥",
-      "site_roman": "jau guradēu sadā bairāgī .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਮਨੁੱਖ (ਦੁਨੀਆ ਵਿਚ ਰਹਿੰਦਾ ਹੋਇਆ ਹੀ) ਸਦਾ ਵਿਰਕਤ ਰਹਿੰਦਾ ਹੈ,",
       "roman": "jau gurdeu sadā bairāgī",
+      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਮਨੁੱਖ (ਦੁਨੀਆ ਵਿਚ ਰਹਿੰਦਾ ਹੋਇਆ ਹੀ) ਸਦਾ ਵਿਰਕਤ ਰਹਿੰਦਾ ਹੈ,",
       "translation_ru": "Если встречается Гуру, тогда человек, даже живя в мире, всегда остаётся отрешённым,"
     },
     {
-      "index": 21,
       "verse_id": 50007,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
       "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਪਰ ਨਿੰਦਾ ਤਿਆਗੀ ॥",
-      "site_roman": "jau guradēu par nindā tiāgī .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਕਿਸੇ ਦੀ ਨਿੰਦਾ ਨਹੀਂ ਕਰਦਾ,",
       "roman": "jau gurdeu par nindā tiāgī",
+      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਕਿਸੇ ਦੀ ਨਿੰਦਾ ਨਹੀਂ ਕਰਦਾ,",
       "translation_ru": "Если встречается Гуру, тогда он не злословит о других,"
-    },
-    {
-      "index": 22,
-      "verse_id": 50008,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
-      "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਬੁਰਾ ਭਲਾ ਏਕ ॥",
-      "site_roman": "jau guradēu burā bhalā ēk .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਚੰਗੇ ਮੰਦੇ ਸਭ ਨਾਲ ਪਿਆਰ ਕਰਦਾ ਹੈ।",
-      "roman": "jau gurdeu burā bhalā ek",
-      "translation_ru": "Если встречается Гуру, тогда он любит и хороших, и плохих одинаково."
-    },
-    {
-      "index": 23,
-      "verse_id": 50009,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
-      "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਲਿਲਾਟਹਿ ਲੇਖ ॥੫॥",
-      "site_roman": "jau guradēu lilātah lēkh .5.",
-      "sahib_singh_pa": "ਗੁਰੂ ਦੇ ਮਿਲਿਆਂ ਹੀ ਮੱਥੇ ਦੇ ਚੰਗੇ ਲੇਖ ਉੱਘੜਦੇ ਹਨ ॥੫॥",
-      "roman": "jau gurdeu lilāṭahi lekh ||5||",
-      "translation_ru": "Лишь при встрече с Гуру раскрываются добрые письмена на челе ||5||"
-    },
-    {
-      "index": 24,
-      "verse_id": 50010,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
-      "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਕੰਧੁ ਨਹੀ ਹਿਰੈ ॥",
-      "site_roman": "jau guradēu kandh nahī hirai .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਸਰੀਰ (ਵਿਕਾਰਾਂ ਵਿਚ ਪੈ ਕੇ) ਛਿੱਜਦਾ ਨਹੀਂ (ਭਾਵ, ਮਨੁੱਖ ਵਿਕਾਰਾਂ ਵਿਚ ਪ੍ਰਵਿਰਤ ਨਹੀਂ ਹੁੰਦਾ, ਤੇ ਨਾ ਹੀ ਉਸ ਦੀ ਸੱਤਿਆ ਵਿਅਰਥ ਜਾਂਦੀ ਹੈ);",
-      "roman": "jau gurdeu kandh nahī hirai",
-      "translation_ru": "Если встречается Гуру, тогда тело не истощается, впадая в пороки, то есть человек не предаётся порокам и его сила не уходит напрасно;"
-    },
-    {
-      "index": 25,
-      "verse_id": 50011,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
-      "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਦੇਹੁਰਾ ਫਿਰੈ ॥",
-      "site_roman": "jau guradēu dēhurā phirai .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਉੱਚੀ ਜਾਤ ਆਦਿਕ ਦੇ ਮਾਣ ਵਾਲੇ ਮਨੁੱਖ ਗੁਰੂ ਸ਼ਰਨ ਆਏ ਬੰਦੇ ਉੱਤੇ ਦਬਾਉ ਨਹੀਂ ਪਾ ਸਕਦੇ, ਜਿਵੇਂ ਕਿ ਉਹ ਦੇਹੁਰਾ ਨਾਮਦੇਵ ਵਲ ਪਰਤ ਗਿਆ ਸੀ ਜਿਸ ਵਿਚੋਂ ਉਸ ਨੂੰ ਧੱਕੇ ਪਏ ਸਨ;",
-      "roman": "jau gurdeu dehurā phirai",
-      "translation_ru": "Если встречается Гуру, тогда люди, гордящиеся высокой кастой и подобным, не могут давить на пришедшего в прибежище Гуру, как некогда храм повернулся к Намдеву, которого оттуда вытолкнули;"
-    },
-    {
-      "index": 26,
-      "verse_id": 50012,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
-      "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਤ ਛਾਪਰਿ ਛਾਈ ॥",
-      "site_roman": "jau guradēu t shāpar shāī .",
-      "sahib_singh_pa": "ਗੁਰੂ ਦੀ ਸ਼ਰਨ ਪਏ ਗ਼ਰੀਬ ਨੂੰ ਰੱਬ ਆਪ ਬਹੁੜਦਾ ਹੈ ਜਿਵੇਂ ਕਿ ਨਾਮਦੇਵ ਦੀ ਕੁੱਲੀ ਬਣੀ ਸੀ;",
-      "roman": "jau gurdeu ta chhāpar chhāī",
-      "translation_ru": "Если человек приходит под защиту Гуру, тогда Бог Сам приходит на помощь бедняку, как была устроена хижина Намдева;"
-    },
-    {
-      "index": 27,
-      "verse_id": 50013,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
-      "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਸਿਹਜ ਨਿਕਸਾਈ ॥੬॥",
-      "site_roman": "jau guradēu sihaj nikasāī .6.",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਰੱਬ ਆਪ ਸਹਾਈ ਹੁੰਦਾ ਹੈ ਜਿਵੇਂ ਕਿ ਬਾਦਸ਼ਾਹ ਦੇ ਡਰਾਵੇ ਦੇਣ ਤੇ ਮੰਜਾ ਦਰਿਆ ਵਿਚੋਂ ਕਢਾ ਦਿੱਤਾ ॥੬॥",
-      "roman": "jau gurdeu sihaj niksāī ||6||",
-      "translation_ru": "Если встречается Гуру, тогда Бог Сам становится помощником, как было, когда после царских угроз ложе было извлечено из реки ||6||"
-    },
-    {
-      "index": 28,
-      "verse_id": 50014,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
-      "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਤ ਅਠਸਠਿ ਨਾਇਆ ॥",
-      "site_roman": "jau guradēu t athasath nāiā .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਅਠਾਹਠ ਤੀਰਥਾਂ ਦਾ ਇਸ਼ਨਾਨ ਹੋ ਗਿਆ (ਜਾਣੋ),",
-      "roman": "jau gurdeu ta aṭhasaṭh nāiā",
-      "translation_ru": "Если встречается Гуру, тогда считай, что омовение во всех шестидесяти восьми тиртхах уже совершено,"
-    },
-    {
-      "index": 29,
-      "verse_id": 50015,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
-      "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਤਨਿ ਚਕ੍ਰ ਲਗਾਇਆ ॥",
-      "site_roman": "jau guradēu tan chakr lagāiā .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਸਰੀਰ ਉੱਤੇ ਚੱਕਰ ਲੱਗ ਗਏ ਸਮਝੋ (ਜਿਵੇਂ ਬੈਰਾਗੀ ਦੁਆਰਕਾ ਜਾ ਕੇ ਲਾਉਂਦੇ ਹਨ),",
-      "roman": "jau gurdeu tan chakr lagāiā",
-      "translation_ru": "Если встречается Гуру, тогда считай, что на тело уже нанесены чакры, как их наносят вайраги, приходя в Дварку,"
-    },
-    {
-      "index": 30,
-      "verse_id": 50016,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
-      "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਤ ਦੁਆਦਸ ਸੇਵਾ ॥",
-      "site_roman": "jau guradēu t duādas sēvā .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਬਾਰਾਂ ਹੀ ਸ਼ਿਵ-ਲਿੰਗਾਂ ਦੀ ਪੂਜਾ ਹੋ ਗਈ ਜਾਣੋ;",
-      "roman": "jau gurdeu ta duādas sevā",
-      "translation_ru": "Если встречается Гуру, тогда знай, что поклонение всем двенадцати шива-лингам уже совершено;"
-    },
-    {
-      "index": 31,
-      "verse_id": 50017,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
-      "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਸਭੈ ਬਿਖੁ ਮੇਵਾ ॥੭॥",
-      "site_roman": "jau guradēu sabhai bikh mēvā .7.",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਉਸ ਮਨੁੱਖ ਲਈ ਸਾਰੇ ਜ਼ਹਿਰ ਭੀ ਮਿੱਠੇ ਫਲ ਬਣ ਜਾਂਦੇ ਹਨ ॥੭॥",
-      "roman": "jau gurdeu sabhai bikh mevā ||7||",
-      "translation_ru": "Если встречается Гуру, тогда для такого человека даже все яды становятся сладкими плодами ||7||"
-    },
-    {
-      "index": 32,
-      "verse_id": 50018,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
-      "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਤ ਸੰਸਾ ਟੂਟੈ ॥",
-      "site_roman": "jau guradēu t sansā tūtai .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਦਿਲ ਦੇ ਸੰਸੇ ਮਿਟ ਜਾਂਦੇ ਹਨ,",
-      "roman": "jau gurdeu ta sansā ṭūṭai",
-      "translation_ru": "Если встречается Гуру, тогда сердечные сомнения исчезают,"
-    },
-    {
-      "index": 33,
-      "verse_id": 50019,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
-      "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਤ ਜਮ ਤੇ ਛੂਟੈ ॥",
-      "site_roman": "jau guradēu t jam tē shūtai .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਜਮਾਂ ਤੋਂ (ਹੀ) ਖ਼ਲਾਸੀ ਹੋ ਜਾਂਦੀ ਹੈ,",
-      "roman": "jau gurdeu ta jam te chhūṭai",
-      "translation_ru": "Если встречается Гуру, тогда приходит освобождение от посланцев смерти,"
-    },
-    {
-      "index": 34,
-      "verse_id": 50020,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
-      "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਤ ਭਉਜਲ ਤਰੈ ॥",
-      "site_roman": "jau guradēu t bhaujal tarai .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਮਨੁੱਖ ਪਾਰ ਲੰਘ ਜਾਂਦਾ ਹੈ,",
-      "roman": "jau gurdeu ta bhaujal tarai",
-      "translation_ru": "Если встречается Гуру, тогда человек переправляется через мирской океан,"
-    },
-    {
-      "index": 35,
-      "verse_id": 50021,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
-      "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਤ ਜਨਮਿ ਨ ਮਰੈ ॥੮॥",
-      "site_roman": "jau guradēu t janam n marai .8.",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਜਨਮ ਮਰਨ ਤੋਂ ਬਚ ਜਾਂਦਾ ਹੈ ॥੮॥",
-      "roman": "jau gurdeu ta janam na marai ||8||",
-      "translation_ru": "Если встречается Гуру, тогда он избавляется от рождения и смерти ||8||"
-    },
-    {
-      "index": 36,
-      "verse_id": 50022,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
-      "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਅਠਦਸ ਬਿਉਹਾਰ ॥",
-      "site_roman": "jau guradēu athadas biuhār .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਅਠਾਰਾਂ ਸਿੰਮ੍ਰਿਤੀਆਂ ਦੇ ਦੱਸੇ ਕਰਮ-ਕਾਂਡ ਦੀ ਲੋੜ ਨਹੀਂ ਰਹਿ ਜਾਂਦੀ,",
-      "roman": "jau gurdeu aṭhadas biuhār",
-      "translation_ru": "Если встречается Гуру, тогда уже не остаётся нужды в обрядовых действиях, предписанных восемнадцатью смрити,"
-    },
-    {
-      "index": 37,
-      "verse_id": 50023,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
-      "gurmukhi": "ਜਉ ਗੁਰਦੇਉ ਅਠਾਰਹ ਭਾਰ ॥",
-      "site_roman": "jau guradēu athārah bhār .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਸਾਰੀ ਬਨਸਪਤੀ ਹੀ (ਪ੍ਰਭੂ-ਦੇਵ ਦੀ ਨਿੱਤ ਭੇਟ ਹੁੰਦੀ ਦਿੱਸ ਪੈਂਦੀ ਹੈ)।",
-      "roman": "jau gurdeu aṭhārah bhār",
-      "translation_ru": "Если встречается Гуру, тогда вся растительность видится как постоянное подношение Богу."
-    },
-    {
-      "index": 38,
-      "verse_id": 50024,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
-      "gurmukhi": "ਬਿਨੁ ਗੁਰਦੇਉ ਅਵਰ ਨਹੀ ਜਾਈ ॥",
-      "site_roman": "bin guradēu avar nahī jāī .",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਸਤਿਗੁਰੂ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕੋਈ ਥਾਂ ਨਹੀਂ (ਜਿੱਥੇ ਮਨੁੱਖ ਜੀਵਨ ਦਾ ਸਹੀ ਰਸਤਾ ਲੱਭ ਸਕੇ),",
-      "roman": "bin gurdeu avar nahī jāī",
-      "translation_ru": "Без Гуру нет иного места, где человек мог бы найти верный путь жизни,"
-    },
-    {
-      "index": 39,
-      "verse_id": 50025,
-      "shabad_num": 2972,
-      "shabad_id": 2972,
-      "gurmukhi": "ਨਾਮਦੇਉ ਗੁਰ ਕੀ ਸਰਣਾਈ ॥੯॥੧॥੨॥੧੧॥",
-      "site_roman": "nāmadēu gur kī saranāī .9.1.2.11.",
-      "sahib_singh_pa": "ਨਾਮਦੇਵ (ਹੋਰ ਸਭ ਆਸਰੇ-ਪਰਨੇ ਛੱਡ ਕੇ) ਗੁਰੂ ਦੀ ਸ਼ਰਨ ਪਿਆ ਹੈ ॥੯॥੧॥੨॥੧੧॥",
-      "roman": "nāmdeu gur kī saraṇāī ||9||1||2||11||",
-      "translation_ru": "Намдев, оставив все прочие опоры и подпорки, пал в прибежище Гуру ||9||1||2||11||"
     }
   ]
 }

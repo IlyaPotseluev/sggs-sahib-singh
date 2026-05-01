@@ -1,930 +1,383 @@
 {
   "ang": 263,
-  "line_count": 84,
   "lines": [
     {
-      "index": 1,
+      "verse_id": 11533,
+      "gurmukhi": "ਨਾਨਕ ਤਾ ਕੈ ਲਾਗਉ ਪਾਏ ॥੩॥",
+      "roman": "Nānak tā kai lāgau pāe",
+      "sahib_singh_pa": "(ਤਾਂ ਤੇ, ਆਖ) ਹੇ ਨਾਨਕ! ਮੈਂ ਉਹਨਾਂ (ਸਿਮਰਨ ਕਰਨ ਵਾਲਿਆਂ) ਦੀ ਪੈਰੀਂ ਲੱਗਾਂ ॥੩॥",
+      "translation_ru": "потому, говорит Нанак, я припаду к стопам тех, кто помнит ॥੩॥"
+    },
+    {
+      "verse_id": 11534,
+      "gurmukhi": "ਪ੍ਰਭ ਕਾ ਸਿਮਰਨੁ ਸਭ ਤੇ ਊਚਾ ॥",
+      "roman": "prabh kā simran sabh te ūchā",
+      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰਨਾ (ਹੋਰ) ਸਾਰੇ (ਆਹਰਾਂ) ਨਾਲੋਂ ਚੰਗਾ ਹੈ;",
+      "translation_ru": "Памятование о Боге выше всех прочих усилий;"
+    },
+    {
+      "verse_id": 11535,
+      "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਉਧਰੇ ਮੂਚਾ ॥",
+      "roman": "prabh kai simran udhre mūchā",
+      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰਨ ਨਾਲ ਬਹੁਤ ਸਾਰੇ (ਜੀਵ) (ਵਿਕਾਰਾਂ ਤੋਂ) ਬਚ ਜਾਂਦੇ ਹਨ।",
+      "translation_ru": "благодаря памятованию о Боге очень многие спасаются от пороков."
+    },
+    {
+      "verse_id": 11536,
+      "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਤ੍ਰਿਸਨਾ ਬੁਝੈ ॥",
+      "roman": "prabh kai simran trisanā bujhai",
+      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰਨ ਨਾਲ (ਮਾਇਆ ਦੀ) ਤ੍ਰਿਹ ਮਿਟ ਜਾਂਦੀ ਹੈ,",
+      "translation_ru": "Памятование о Боге гасит жажду майи,"
+    },
+    {
+      "verse_id": 11537,
+      "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਸਭੁ ਕਿਛੁ ਸੁਝੈ ॥",
+      "roman": "prabh kai simran sabh kichh sujhai",
+      "sahib_singh_pa": "(ਕਿਉਂਕਿ ਮਾਇਆ ਦੇ) ਹਰੇਕ (ਕੇਲ) ਦੀ ਸਮਝ ਪੈ ਜਾਂਦੀ ਹੈ।",
+      "translation_ru": "потому что тогда становится понятной вся игра майи."
+    },
+    {
+      "verse_id": 11538,
+      "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਨਾਹੀ ਜਮ ਤ੍ਰਾਸਾ ॥",
+      "roman": "prabh kai simran nāhī jam trāsā",
+      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰਨ ਨਾਲ ਜਮਾਂ ਦਾ ਡਰ ਮੁੱਕ ਜਾਂਦਾ ਹੈ,",
+      "translation_ru": "Памятование о Боге уничтожает страх перед ямами,"
+    },
+    {
+      "verse_id": 11539,
+      "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਪੂਰਨ ਆਸਾ ॥",
+      "roman": "prabh kai simran pūran āsā",
+      "sahib_singh_pa": "ਤੇ (ਜੀਵ ਦੀ) ਆਸ ਪੂਰਨ ਹੋ ਜਾਂਦੀ ਹੈ (ਭਾਵ, ਆਸਾਂ ਵੱਲੋਂ ਮਨ ਰੱਜ ਜਾਂਦਾ ਹੈ)।",
+      "translation_ru": "и надежда существа исполняется, то есть ум насыщается и успокаивается относительно желаний."
+    },
+    {
+      "verse_id": 11540,
+      "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਮਨ ਕੀ ਮਲੁ ਜਾਇ ॥",
+      "roman": "prabh kai simran man kī mal jāe",
+      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕੀਤਿਆਂ ਮਨ ਦੀ (ਵਿਕਾਰਾਂ ਦੀ) ਮੈਲ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ,",
+      "translation_ru": "Когда помнят Бога, грязь пороков с ума сходит,"
+    },
+    {
+      "verse_id": 11541,
+      "gurmukhi": "ਅੰਮ੍ਰਿਤ ਨਾਮੁ ਰਿਦ ਮਾਹਿ ਸਮਾਇ ॥",
+      "roman": "amrit nām rid māh samāe",
+      "sahib_singh_pa": "ਅਤੇ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ (ਪ੍ਰਭੂ ਦਾ) ਅਮਰ ਕਰਨ ਵਾਲਾ ਨਾਮ ਟਿਕ ਜਾਂਦਾ ਹੈ।",
+      "translation_ru": "и в сердце человека утверждается бессмертворящее Имя."
+    },
+    {
+      "verse_id": 11542,
+      "gurmukhi": "ਪ੍ਰਭ ਜੀ ਬਸਹਿ ਸਾਧ ਕੀ ਰਸਨਾ ॥",
+      "roman": "prabh jī basahi sādh kī rasnā",
+      "sahib_singh_pa": "ਪ੍ਰਭੂ ਜੀ ਗੁਰਮੁਖ ਮਨੁੱਖਾਂ ਦੀ ਜੀਭ ਉਤੇ ਵੱਸਦੇ ਹਨ (ਭਾਵ, ਸਾਧ ਜਨ ਸਦਾ ਪ੍ਰਭੂ ਨੂੰ ਜਪਦੇ ਹਨ)।",
+      "translation_ru": "Господь пребывает на языке гурмукхов, то есть садх-джаны всегда повторяют Бога."
+    },
+    {
+      "verse_id": 11543,
+      "gurmukhi": "ਨਾਨਕ ਜਨ ਕਾ ਦਾਸਨਿ ਦਸਨਾ ॥੪॥",
+      "roman": "Nānak jan kā dāsan dasnā",
+      "sahib_singh_pa": "(ਆਖ) ਹੇ ਨਾਨਕ! (ਮੈਂ) ਗੁਰਮੁਖਾਂ ਦੇ ਸੇਵਕਾਂ ਦਾ ਸੇਵਕ (ਬਣਾਂ) ॥੪॥",
+      "translation_ru": "Говорит Нанак: стать бы мне слугой слуг гурмукхов ॥੪॥"
+    },
+    {
+      "verse_id": 11544,
+      "gurmukhi": "ਪ੍ਰਭ ਕਉ ਸਿਮਰਹਿ ਸੇ ਧਨਵੰਤੇ ॥",
+      "roman": "prabh kau simrahi se dhanvante",
+      "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਦੇ ਹਨ, ਉਹ ਧਨਾਢ ਹਨ,",
+      "translation_ru": "Те, кто помнят Бога, по-настоящему богаты,"
+    },
+    {
+      "verse_id": 11545,
+      "gurmukhi": "ਪ੍ਰਭ ਕਉ ਸਿਮਰਹਿ ਸੇ ਪਤਿਵੰਤੇ ॥",
+      "roman": "prabh kau simrahi se pativante",
+      "sahib_singh_pa": "ਤੇ, ਉਹ ਇੱਜ਼ਤ ਵਾਲੇ ਹਨ।",
+      "translation_ru": "и они обладают честью."
+    },
+    {
+      "verse_id": 11546,
+      "gurmukhi": "ਪ੍ਰਭ ਕਉ ਸਿਮਰਹਿ ਸੇ ਜਨ ਪਰਵਾਨ ॥",
+      "roman": "prabh kau simrahi se jan parvān",
+      "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਦੇ ਹਨ, ਉਹ ਮੰਨੇ-ਪ੍ਰਮੰਨੇ ਹੋਏ ਹਨ,",
+      "translation_ru": "Те, кто помнят Бога, признаны и одобрены,"
+    },
+    {
+      "verse_id": 11547,
+      "gurmukhi": "ਪ੍ਰਭ ਕਉ ਸਿਮਰਹਿ ਸੇ ਪੁਰਖ ਪ੍ਰਧਾਨ ॥",
+      "roman": "prabh kau simrahi se purakh pradhān",
+      "sahib_singh_pa": "ਤੇ ਉਹ (ਸਭ ਮਨੁੱਖਾਂ ਤੋਂ) ਚੰਗੇ ਹਨ।",
+      "translation_ru": "и они — лучшие среди людей."
+    },
+    {
+      "verse_id": 11548,
+      "gurmukhi": "ਪ੍ਰਭ ਕਉ ਸਿਮਰਹਿ ਸਿ ਬੇਮੁਹਤਾਜੇ ॥",
+      "roman": "prabh kau simrahi si bemuhtāje",
+      "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਦੇ ਹਨ ਉਹ ਕਿਸੇ ਦੇ ਮੁਥਾਜ ਨਹੀਂ ਹਨ,",
+      "translation_ru": "Те, кто помнят Бога, ни в ком не нуждаются,"
+    },
+    {
+      "verse_id": 11549,
+      "gurmukhi": "ਪ੍ਰਭ ਕਉ ਸਿਮਰਹਿ ਸਿ ਸਰਬ ਕੇ ਰਾਜੇ ॥",
+      "roman": "prabh kau simrahi si sarab ke rāje",
+      "sahib_singh_pa": "ਉਹ (ਤਾਂ ਸਗੋਂ) ਸਭ ਦੇ ਬਾਦਸ਼ਾਹ ਹਨ।",
+      "translation_ru": "они — цари над всеми."
+    },
+    {
+      "verse_id": 11550,
+      "gurmukhi": "ਪ੍ਰਭ ਕਉ ਸਿਮਰਹਿ ਸੇ ਸੁਖਵਾਸੀ ॥",
+      "roman": "prabh kau simrahi se sukhvāsī",
+      "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਦੇ ਹਨ ਉਹ ਸੁਖੀ ਵੱਸਦੇ ਹਨ,",
+      "translation_ru": "Те, кто помнят Бога, живут в покое,"
+    },
+    {
+      "verse_id": 11551,
+      "gurmukhi": "ਪ੍ਰਭ ਕਉ ਸਿਮਰਹਿ ਸਦਾ ਅਬਿਨਾਸੀ ॥",
+      "roman": "prabh kau simrahi sadā abināsī",
+      "sahib_singh_pa": "ਅਤੇ ਸਦਾ ਲਈ ਜਨਮ ਮਰਨ ਤੋਂ ਰਹਿਤ ਹੋ ਜਾਂਦੇ ਹਨ।",
+      "translation_ru": "и навсегда выходят из круга рождения и смерти."
+    },
+    {
+      "verse_id": 11552,
+      "gurmukhi": "ਸਿਮਰਨ ਤੇ ਲਾਗੇ ਜਿਨ ਆਪਿ ਦਇਆਲਾ ॥",
+      "roman": "simran te lāge jin āp daiālā",
+      "sahib_singh_pa": "(ਪਰ) ਪ੍ਰਭ-ਸਿਮਰਨ ਵਿਚ ਉਹੀ ਮਨੁੱਖ ਲੱਗਦੇ ਹਨ ਜਿਨ੍ਹਾਂ ਉਤੇ ਪ੍ਰਭੂ ਆਪਿ ਮੇਹਰਬਾਨ (ਹੁੰਦਾ ਹੈ);",
+      "translation_ru": "Но к памятованию о Боге приступают лишь те, к кому Сам Бог милостив;"
+    },
+    {
+      "verse_id": 11553,
+      "gurmukhi": "ਨਾਨਕ ਜਨ ਕੀ ਮੰਗੈ ਰਵਾਲਾ ॥੫॥",
+      "roman": "Nānak jan kī maṅgai ravālā",
+      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਕੋਈ ਵਡ-ਭਾਗੀ) ਇਹਨਾਂ ਗੁਰਮੁਖਾਂ ਦੀ ਚਰਨ-ਧੂੜ ਮੰਗਦਾ ਹੈ ॥੫॥",
+      "translation_ru": "о Нанак, кто-то по великой удаче просит пыль со стоп этих гурмукхов ॥੫॥"
+    },
+    {
+      "verse_id": 11554,
+      "gurmukhi": "ਪ੍ਰਭ ਕਉ ਸਿਮਰਹਿ ਸੇ ਪਰਉਪਕਾਰੀ ॥",
+      "roman": "prabh kau simrahi se paraupkārī",
+      "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਦੇ ਹਨ, ਉਹ ਦੂਜਿਆਂ ਨਾਲ ਭਲਾਈ ਕਰਨ ਵਾਲੇ ਬਣ ਜਾਂਦੇ ਹਨ,",
+      "translation_ru": "Те, кто помнят Бога, становятся благодетелями для других,"
+    },
+    {
+      "verse_id": 11555,
+      "gurmukhi": "ਪ੍ਰਭ ਕਉ ਸਿਮਰਹਿ ਤਿਨ ਸਦ ਬਲਿਹਾਰੀ ॥",
+      "roman": "prabh kau simrahi tin sad balihārī",
+      "sahib_singh_pa": "ਉਹਨਾਂ ਤੋਂ (ਮੈਂ) ਸਦਾ ਸਦਕੇ ਹਾਂ।",
+      "translation_ru": "и я всегда жертвенно предан им."
+    },
+    {
+      "verse_id": 11556,
+      "gurmukhi": "ਪ੍ਰਭ ਕਉ ਸਿਮਰਹਿ ਸੇ ਮੁਖ ਸੁਹਾਵੇ ॥",
+      "roman": "prabh kau simrahi se mukh suhāve",
+      "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਦੇ ਹਨ ਉਹਨਾਂ ਦੇ ਮੂੰਹ ਸੋਹਣੇ (ਲੱਗਦੇ) ਹਨ,",
+      "translation_ru": "Лица тех, кто помнит Бога, прекрасны,"
+    },
+    {
+      "verse_id": 11557,
+      "gurmukhi": "ਪ੍ਰਭ ਕਉ ਸਿਮਰਹਿ ਤਿਨ ਸੂਖਿ ਬਿਹਾਵੈ ॥",
+      "roman": "prabh kau simrahi tin sūkh bihāvai",
+      "sahib_singh_pa": "ਉਹਨਾਂ ਦੀ (ਉਮਰ) ਸੁਖ ਵਿਚ ਗੁਜ਼ਰਦੀ ਹੈ।",
+      "translation_ru": "и жизнь их проходит в счастье."
+    },
+    {
+      "verse_id": 11558,
+      "gurmukhi": "ਪ੍ਰਭ ਕਉ ਸਿਮਰਹਿ ਤਿਨ ਆਤਮੁ ਜੀਤਾ ॥",
+      "roman": "prabh kau simrahi tin ātam jītā",
+      "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਦੇ ਹਨ, ਉਹ ਆਪਣੇ ਆਪ ਨੂੰ ਜਿੱਤ ਲੈਂਦੇ ਹਨ,",
+      "translation_ru": "Те, кто помнят Бога, побеждают самих себя,"
+    },
+    {
+      "verse_id": 11559,
+      "gurmukhi": "ਪ੍ਰਭ ਕਉ ਸਿਮਰਹਿ ਤਿਨ ਨਿਰਮਲ ਰੀਤਾ ॥",
+      "roman": "prabh kau simrahi tin nirmal rītā",
+      "sahib_singh_pa": "ਅਤੇ ਉਹਨਾਂ ਦੀ ਜ਼ਿੰਦਗੀ ਗੁਜ਼ਾਰਨ ਦਾ ਤਰੀਕਾ ਪਵਿਤ੍ਰ ਹੋ ਜਾਂਦਾ ਹੈ।",
+      "translation_ru": "и образ их жизни становится чистым."
+    },
+    {
+      "verse_id": 11560,
+      "gurmukhi": "ਪ੍ਰਭ ਕਉ ਸਿਮਰਹਿ ਤਿਨ ਅਨਦ ਘਨੇਰੇ ॥",
+      "roman": "prabh kau simrahi tin anad ghanere",
+      "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਦੇ ਹਨ, ਉਹਨਾਂ ਨੂੰ ਖ਼ੁਸ਼ੀਆਂ ਹੀ ਖ਼ੁਸ਼ੀਆਂ ਹਨ,",
+      "translation_ru": "Те, кто помнят Бога, исполнены радости,"
+    },
+    {
+      "verse_id": 11561,
+      "gurmukhi": "ਪ੍ਰਭ ਕਉ ਸਿਮਰਹਿ ਬਸਹਿ ਹਰਿ ਨੇਰੇ ॥",
+      "roman": "prabh kau simrahi basahi har nere",
+      "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਉਹ ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਵੱਸਦੇ ਹਨ।",
+      "translation_ru": "потому что пребывают в близости к Богу."
+    },
+    {
+      "verse_id": 11562,
+      "gurmukhi": "ਸੰਤ ਕ੍ਰਿਪਾ ਤੇ ਅਨਦਿਨੁ ਜਾਗਿ ॥",
+      "roman": "sant kripā te andin jāg",
+      "sahib_singh_pa": "ਸੰਤਾਂ ਦੀ ਕ੍ਰਿਪਾ ਨਾਲ ਹੀ ਇਹ ਹਰ ਵੇਲੇ (ਸਿਮਰਨ ਦੀ) ਜਾਗ ਆ ਸਕਦੀ ਹੈ;",
+      "translation_ru": "Лишь по милости святых может прийти это постоянное бодрствование памятования;"
+    },
+    {
+      "verse_id": 11563,
+      "gurmukhi": "ਨਾਨਕ ਸਿਮਰਨੁ ਪੂਰੈ ਭਾਗਿ ॥੬॥",
+      "roman": "Nānak simran pūrai bhāg",
+      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਸਿਮਰਨ (ਦੀ ਦਾਤਿ) ਵੱਡੀ ਕਿਸਮਤ ਨਾਲ (ਮਿਲਦੀ ਹੈ) ॥੬॥",
+      "translation_ru": "о Нанак, дар памятования обретается великой удачей ॥੬॥"
+    },
+    {
+      "verse_id": 11564,
+      "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਕਾਰਜ ਪੂਰੇ ॥",
+      "roman": "prabh kai simran kāraj pūre",
+      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰਨ ਨਾਲ ਮਨੁੱਖ ਦੇ (ਸਾਰੇ) ਕੰਮ ਪੂਰੇ ਹੋ ਜਾਂਦੇ ਹਨ (ਭਾਵ, ਉਹ ਲੋੜਾਂ ਦੇ ਅਧੀਨ ਨਹੀਂ ਰਹਿੰਦਾ)",
+      "translation_ru": "Памятование о Боге завершает все дела человека, то есть он перестаёт быть подвластным нуждам,"
+    },
+    {
+      "verse_id": 11565,
+      "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਕਬਹੁ ਨ ਝੂਰੇ ॥",
+      "roman": "prabh kai simran kabahu na jhūre",
+      "sahib_singh_pa": "ਅਤੇ ਕਦੇ ਚਿੰਤਾ ਦੇ ਵੱਸ ਨਹੀਂ ਹੁੰਦਾ।",
+      "translation_ru": "и никогда не оказывается во власти тревоги."
+    },
+    {
+      "verse_id": 11566,
+      "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਹਰਿ ਗੁਨ ਬਾਨੀ ॥",
+      "roman": "prabh kai simran har gun bānī",
+      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰਨ ਨਾਲ, ਮਨੁੱਖ ਅਕਾਲ ਪੁਰਖ ਦੇ ਗੁਣ ਹੀ ਉਚਾਰਦਾ ਹੈ (ਭਾਵ, ਉਸ ਨੂੰ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਆਦਤ ਪੈ ਜਾਂਦੀ ਹੈ)",
+      "translation_ru": "Памятование о Боге приводит к тому, что человек произносит только качества Вечного Пурукха, то есть привыкает к восхвалению."
+    },
+    {
+      "verse_id": 11567,
+      "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਸਹਜਿ ਸਮਾਨੀ ॥",
+      "roman": "prabh kai simran sahaj samānī",
+      "sahib_singh_pa": "ਅਤੇ ਸਹਜ ਅਵਸਥਾ ਵਿਚ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ।",
+      "translation_ru": "И он пребывает в состоянии сахадж."
+    },
+    {
+      "verse_id": 11568,
+      "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਨਿਹਚਲ ਆਸਨੁ ॥",
+      "roman": "prabh kai simran nihchal āsan",
+      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰਨ ਨਾਲ ਮਨੁੱਖ ਦਾ (ਮਨ ਰੂਪੀ) ਆਸਨ ਡੋਲਦਾ ਨਹੀਂ",
+      "translation_ru": "Памятование о Боге делает сиденье ума неподвижным,"
+    },
+    {
+      "verse_id": 11569,
+      "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਕਮਲ ਬਿਗਾਸਨੁ ॥",
+      "roman": "prabh kai simran kamal bigāsan",
+      "sahib_singh_pa": "ਅਤੇ ਉਸ ਦੇ (ਹਿਰਦੇ ਦਾ) ਕਉਲ-ਫੁੱਲ ਖਿੜਿਆ ਰਹਿੰਦਾ ਹੈ।",
+      "translation_ru": "и лотос сердца остаётся раскрытым."
+    },
+    {
+      "verse_id": 11570,
+      "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਅਨਹਦ ਝੁਨਕਾਰ ॥",
+      "roman": "prabh kai simran anhad jhunkār",
+      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰਨ ਨਾਲ (ਮਨੁੱਖ ਦੇ ਅੰਦਰ) ਇਕ-ਰਸ ਸੰਗੀਤ (ਜਿਹਾ) (ਹੁੰਦਾ ਰਹਿੰਦਾ ਹੈ),",
+      "translation_ru": "Памятование о Боге вызывает внутри человека непрерывную, как бы музыкальную, вибрацию,"
+    },
+    {
+      "verse_id": 11571,
+      "gurmukhi": "ਸੁਖੁ ਪ੍ਰਭ ਸਿਮਰਨ ਕਾ ਅੰਤੁ ਨ ਪਾਰ ॥",
+      "roman": "sukh prabh simran kā ant na pār",
+      "sahib_singh_pa": "(ਭਾਵ) ਪ੍ਰਭੂ ਦੇ ਸਿਮਰਨ ਤੋਂ ਜੋ ਸੁਖ (ਉਪਜਦਾ) ਹੈ ਉਹ (ਕਦੇ) ਮੁੱਕਦਾ ਨਹੀਂ।",
+      "translation_ru": "и блаженству, рождаемому памятованием о Боге, нет конца."
+    },
+    {
+      "verse_id": 11572,
+      "gurmukhi": "ਸਿਮਰਹਿ ਸੇ ਜਨ ਜਿਨ ਕਉ ਪ੍ਰਭ ਮਇਆ ॥",
+      "roman": "simrahi se jan jin kau prabh maiā",
+      "sahib_singh_pa": "ਉਹੀ ਮਨੁੱਖ (ਪ੍ਰਭੂ ਨੂੰ) ਸਿਮਰਦੇ ਹਨ, ਜਿਨ੍ਹਾਂ ਉਤੇ ਪ੍ਰਭੂ ਦੀ ਮੇਹਰ ਹੁੰਦੀ ਹੈ;",
+      "translation_ru": "Лишь те люди помнят Бога, на кого нисходит Его милость;"
+    },
+    {
+      "verse_id": 11573,
+      "gurmukhi": "ਨਾਨਕ ਤਿਨ ਜਨ ਸਰਨੀ ਪਇਆ ॥੭॥",
+      "roman": "Nānak tin jan sarnī paiā",
+      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਕੋਈ ਵਡਭਾਗੀ) ਉਹਨਾਂ (ਸਿਮਰਨ ਕਰਨ ਵਾਲੇ) ਜਨਾਂ ਦੀ ਸਰਣੀ ਪੈਂਦਾ ਹੈ ॥੭॥",
+      "translation_ru": "о Нанак, кто-то по великой удаче приходит под защиту этих людей, помнящих Бога ॥੭॥"
+    },
+    {
+      "verse_id": 11574,
+      "gurmukhi": "ਹਰਿ ਸਿਮਰਨੁ ਕਰਿ ਭਗਤ ਪ੍ਰਗਟਾਏ ॥",
+      "roman": "har simran kar bhagat pragaṭāe",
+      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰ ਕੇ ਭਗਤ (ਜਗਤ ਵਿਚ) ਮਸ਼ਹੂਰ ਹੁੰਦੇ ਹਨ,",
+      "translation_ru": "Благодаря памятованию о Боге бхагаты становятся известны в мире,"
+    },
+    {
+      "verse_id": 11575,
+      "gurmukhi": "ਹਰਿ ਸਿਮਰਨਿ ਲਗਿ ਬੇਦ ਉਪਾਏ ॥",
+      "roman": "har simran lag bed upāe",
+      "sahib_singh_pa": "ਸਿਮਰਨ ਵਿਚ ਹੀ ਜੁੜ ਕੇ (ਰਿਸ਼ੀਆਂ ਨੇ) ਵੇਦ (ਆਦਿਕ ਧਰਮ ਪੁਸਤਕ) ਰਚੇ।",
+      "translation_ru": "и, погрузившись в памятование, риши создали Веды и другие священные книги."
+    },
+    {
+      "verse_id": 11576,
+      "gurmukhi": "ਹਰਿ ਸਿਮਰਨਿ ਭਏ ਸਿਧ ਜਤੀ ਦਾਤੇ ॥",
+      "roman": "har simran bhae sidh jatī dāte",
+      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦੇ ਸਿਮਰਨ ਦੁਆਰਾ ਹੀ ਮਨੁੱਖ ਸਿੱਧ ਬਣ ਗਏ, ਜਤੀ ਬਣ ਗਏ, ਦਾਤੇ ਬਣ ਗਏ;",
+      "translation_ru": "Через памятование о Боге люди становились сиддхами, джати и щедрыми подвижниками;"
+    },
+    {
+      "verse_id": 11577,
+      "gurmukhi": "ਹਰਿ ਸਿਮਰਨਿ ਨੀਚ ਚਹੁ ਕੁੰਟ ਜਾਤੇ ॥",
+      "roman": "har simran nīch chahu kuṇṭ jāte",
+      "sahib_singh_pa": "ਸਿਮਰਨ ਦੀ ਬਰਕਤਿ ਨਾਲ ਨੀਚ ਮਨੁੱਖ ਸਾਰੇ ਸੰਸਾਰ ਵਿਚ ਪਰਗਟ ਹੋ ਗਏ।",
+      "translation_ru": "по благодати памятования низкие люди прославлялись по всему миру."
+    },
+    {
+      "verse_id": 11578,
+      "gurmukhi": "ਹਰਿ ਸਿਮਰਨਿ ਧਾਰੀ ਸਭ ਧਰਨਾ ॥",
+      "roman": "har simran dhārī sabh dharnā",
+      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦੇ ਸਿਮਰਨ ਨੇ ਸਾਰੀ ਧਰਤੀ ਨੂੰ ਆਸਰਾ ਦਿੱਤਾ ਹੋਇਆ ਹੈ;",
+      "translation_ru": "Памятование о Боге поддерживает всю землю;"
+    },
+    {
+      "verse_id": 11579,
+      "gurmukhi": "ਸਿਮਰਿ ਸਿਮਰਿ ਹਰਿ ਕਾਰਨ ਕਰਨਾ ॥",
+      "roman": "simar simar har kāran karnā",
+      "sahib_singh_pa": "(ਤਾਂ ਤੇ ਹੇ ਭਾਈ!) ਜਗਤ ਦੇ ਕਰਤਾ ਪ੍ਰਭੂ ਨੂੰ ਸਦਾ ਸਿਮਰ।",
+      "translation_ru": "потому, брат, всегда помни Бога, Творца мира."
+    },
+    {
+      "verse_id": 11580,
+      "gurmukhi": "ਹਰਿ ਸਿਮਰਨਿ ਕੀਓ ਸਗਲ ਅਕਾਰਾ ॥",
+      "roman": "har simran kīo sagal ākārā",
+      "sahib_singh_pa": "ਪ੍ਰਭੂ ਨੇ ਸਿਮਰਨ ਵਾਸਤੇ ਸਾਰਾ ਜਗਤ ਬਣਾਇਆ ਹੈ;",
+      "translation_ru": "Бог создал весь мир ради памятования;"
+    },
+    {
+      "verse_id": 11581,
+      "gurmukhi": "ਹਰਿ ਸਿਮਰਨ ਮਹਿ ਆਪਿ ਨਿਰੰਕਾਰਾ ॥",
+      "roman": "har simran meh āp nirankārā",
+      "sahib_singh_pa": "ਜਿਥੇ ਸਿਮਰਨ ਹੈ ਓਥੇ ਨਿਰੰਕਾਰ ਆਪ ਵੱਸਦਾ ਹੈ।",
+      "translation_ru": "где есть памятование, там Сам Ниранкар пребывает."
+    },
+    {
+      "verse_id": 11582,
+      "gurmukhi": "ਕਰਿ ਕਿਰਪਾ ਜਿਸੁ ਆਪਿ ਬੁਝਾਇਆ ॥",
+      "roman": "kar kirpā jis āp bujhāiā",
+      "sahib_singh_pa": "ਮੇਹਰ ਕਰ ਕੇ ਜਿਸ ਮਨੁੱਖ ਨੂੰ (ਸਿਮਰਨ ਕਰਨ ਦੀ) ਸਮਝ ਦੇਂਦਾ ਹੈ,",
+      "translation_ru": "Кому по милости Он Сам даёт понимание памятования,"
+    },
+    {
+      "verse_id": 11583,
+      "gurmukhi": "ਨਾਨਕ ਗੁਰਮੁਖਿ ਹਰਿ ਸਿਮਰਨੁ ਤਿਨਿ ਪਾਇਆ ॥੮॥੧॥",
+      "roman": "Nānak gurmukh har simran tin pāiā",
+      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਉਸ ਮਨੁੱਖ ਨੇ ਗੁਰੂ ਦੁਆਰਾ ਸਿਮਰਨ (ਦੀ ਦਾਤ) ਪ੍ਰਾਪਤ ਕਰ ਲਈ ਹੈ ॥੮॥੧॥",
+      "translation_ru": "о Нанак, тот человек через Гуру обретает дар памятования о Хари ॥੮॥੧॥"
+    },
+    {
       "verse_id": 11584,
-      "shabad_num": 704,
-      "shabad_id": 704,
       "gurmukhi": "ਸਲੋਕੁ ॥",
-      "site_roman": "salōk .",
-      "sahib_singh_pa": "None",
       "roman": "salok",
+      "sahib_singh_pa": "None",
       "translation_ru": ""
     },
     {
-      "index": 2,
       "verse_id": 11585,
-      "shabad_num": 704,
-      "shabad_id": 704,
       "gurmukhi": "ਦੀਨ ਦਰਦ ਦੁਖ ਭੰਜਨਾ ਘਟਿ ਘਟਿ ਨਾਥ ਅਨਾਥ ॥",
-      "site_roman": "dīn darad dukh bhanjanā ghat ghat nāth anāth .",
-      "sahib_singh_pa": "ਦੀਨਾਂ ਦੇ ਦਰਦ ਤੇ ਦੁੱਖ ਨਾਸ ਕਰਨ ਵਾਲੇ ਹੇ ਪ੍ਰਭੂ! ਹੇ ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਵਿਆਪਕ ਹਰੀ! ਹੇ ਅਨਾਥਾਂ ਦੇ ਨਾਥ!",
       "roman": "dīn darad dukh bhanjnā ghaṭ ghaṭ nāth anāth",
+      "sahib_singh_pa": "ਦੀਨਾਂ ਦੇ ਦਰਦ ਤੇ ਦੁੱਖ ਨਾਸ ਕਰਨ ਵਾਲੇ ਹੇ ਪ੍ਰਭੂ! ਹੇ ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਵਿਆਪਕ ਹਰੀ! ਹੇ ਅਨਾਥਾਂ ਦੇ ਨਾਥ!",
       "translation_ru": "О Господь, уничтожающий боль и страдания бедных! О Хари, присутствующий в каждом теле! О Владыка беззащитных!"
     },
     {
-      "index": 3,
       "verse_id": 11586,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਸਰਣਿ ਤੁਮ੍ਹਾਰੀ ਆਇਓ ਨਾਨਕ ਕੇ ਪ੍ਰਭ ਸਾਥ ॥੧॥",
-      "site_roman": "saran tumhārī āiō nānak kē prabh sāth .1.",
-      "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਗੁਰੂ ਨਾਨਕ ਦਾ ਪੱਲਾ ਫੜ ਕੇ ਮੈਂ ਤੇਰੀ ਸਰਣ ਆਇਆ ਹਾਂ ॥੧॥",
+      "gurmukhi": "ਸਰਣਿ ਤੁਮੑਾਰੀ ਆਇਓ ਨਾਨਕ ਕੇ ਪ੍ਰਭ ਸਾਥ ॥੧॥",
       "roman": "saraṇ tumhārī āio Nānak ke prabh sāth",
+      "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਗੁਰੂ ਨਾਨਕ ਦਾ ਪੱਲਾ ਫੜ ਕੇ ਮੈਂ ਤੇਰੀ ਸਰਣ ਆਇਆ ਹਾਂ ॥੧॥",
       "translation_ru": "О Господь! Держась за полу Гуру Нанака, я пришёл в Твоё прибежище ॥1॥"
-    },
-    {
-      "index": 4,
-      "verse_id": 11587,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਅਸਟਪਦੀ ॥",
-      "site_roman": "asatapadī .",
-      "sahib_singh_pa": "None",
-      "roman": "aṣṭpadī",
-      "translation_ru": ""
-    },
-    {
-      "index": 5,
-      "verse_id": 11588,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਜਹ ਮਾਤ ਪਿਤਾ ਸੁਤ ਮੀਤ ਨ ਭਾਈ ॥",
-      "site_roman": "jah māt pitā sut mīt n bhāī .",
-      "sahib_singh_pa": "ਜਿਥੇ ਮਾਂ, ਪਿਉ, ਪੁੱਤਰ, ਮਿੱਤ੍ਰ, ਭਰਾ ਕੋਈ (ਸਾਥੀ) ਨਹੀਂ (ਬਣਦਾ),",
-      "roman": "jah māt pitā sut mīt na bhāī",
-      "translation_ru": "Где мать, отец, сын, друг, брат — никто не становится спутником,"
-    },
-    {
-      "index": 6,
-      "verse_id": 11589,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਮਨ ਊਹਾ ਨਾਮੁ ਤੇਰੈ ਸੰਗਿ ਸਹਾਈ ॥",
-      "site_roman": "man ūhā nām tērai sang sahāī .",
-      "sahib_singh_pa": "ਓਥੇ ਹੇ ਮਨ! (ਪ੍ਰਭੂ) ਦਾ ਨਾਮ ਤੇਰੇ ਨਾਲ ਸਹੈਤਾ ਕਰਨ ਵਾਲਾ (ਹੈ)।",
-      "roman": "man ūhā nām terai sṃgi sahāī",
-      "translation_ru": "там, о ум, Имя Господа — твой помощник."
-    },
-    {
-      "index": 7,
-      "verse_id": 11590,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਜਹ ਮਹਾ ਭਇਆਨ ਦੂਤ ਜਮ ਦਲੈ ॥",
-      "site_roman": "jah mahā bhaiān dūt jam dalai .",
-      "sahib_singh_pa": "ਜਿਥੇ ਵੱਡੇ ਡਰਾਉਣੇ ਜਮਦੂਤਾਂ ਦਾ ਦਲ ਹੈ,",
-      "roman": "jah mahā bhaiān dūt jam dalai",
-      "translation_ru": "Где стоит великий и страшный отряд ямадутов,"
-    },
-    {
-      "index": 8,
-      "verse_id": 11591,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਤਹ ਕੇਵਲ ਨਾਮੁ ਸੰਗਿ ਤੇਰੈ ਚਲੈ ॥",
-      "site_roman": "tah kēval nām sang tērai chalai .",
-      "sahib_singh_pa": "ਓਥੇ ਤੇਰੇ ਨਾਲ ਸਿਰਫ਼ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਹੀ ਜਾਂਦਾ ਹੈ।",
-      "roman": "tah keval nām sang terai chalai",
-      "translation_ru": "там с тобой идёт только Имя Господа."
-    },
-    {
-      "index": 9,
-      "verse_id": 11592,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਜਹ ਮੁਸਕਲ ਹੋਵੈ ਅਤਿ ਭਾਰੀ ॥",
-      "site_roman": "jah musakal hōvai at bhārī .",
-      "sahib_singh_pa": "ਜਿਥੇ ਬੜੀ ਭਾਰੀ ਮੁਸ਼ਕਲ ਹੁੰਦੀ ਹੈ,",
-      "roman": "jah muskal hovai at bhārī",
-      "translation_ru": "Где бывает очень тяжкая трудность,"
-    },
-    {
-      "index": 10,
-      "verse_id": 11593,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਕੋ ਨਾਮੁ ਖਿਨ ਮਾਹਿ ਉਧਾਰੀ ॥",
-      "site_roman": "har kō nām khin māh udhārī .",
-      "sahib_singh_pa": "(ਓਥੇ) ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਅੱਖ ਦੇ ਫੋਰ ਵਿਚ ਬਚਾ ਲੈਂਦਾ ਹੈ।",
-      "roman": "har ko nām khin māhi udhārī",
-      "translation_ru": "там Имя Господа спасает в одно мгновение."
-    },
-    {
-      "index": 11,
-      "verse_id": 11594,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਅਨਿਕ ਪੁਨਹਚਰਨ ਕਰਤ ਨਹੀ ਤਰੈ ॥",
-      "site_roman": "anik punahacharan karat nahī tarai .",
-      "sahib_singh_pa": "ਅਨੇਕਾਂ ਧਾਰਮਿਕ ਰਸਮਾਂ ਕਰ ਕੇ ਭੀ (ਮਨੁੱਖ ਪਾਪਾਂ ਤੋਂ) ਨਹੀਂ ਬਚਦਾ,",
-      "roman": "anik punahcharan karat nahī tarai",
-      "translation_ru": "Совершая множество религиозных обрядов, человек всё же не спасается от грехов,"
-    },
-    {
-      "index": 12,
-      "verse_id": 11595,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਕੋ ਨਾਮੁ ਕੋਟਿ ਪਾਪ ਪਰਹਰੈ ॥",
-      "site_roman": "har kō nām kōt pāp paraharai .",
-      "sahib_singh_pa": "(ਪਰ) ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਕਰੋੜਾਂ ਪਾਪਾਂ ਦਾ ਨਾਸ ਕਰ ਦੇਂਦਾ ਹੈ।",
-      "roman": "har ko nām koṭ pāp parharai",
-      "translation_ru": "но Имя Господа уничтожает миллионы грехов."
-    },
-    {
-      "index": 13,
-      "verse_id": 11596,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਗੁਰਮੁਖਿ ਨਾਮੁ ਜਪਹੁ ਮਨ ਮੇਰੇ ॥",
-      "site_roman": "guramukh nām japah man mērē .",
-      "sahib_singh_pa": "(ਤਾਂ ਤੇ) ਹੇ ਮੇਰੇ ਮਨ! ਗੁਰੂ ਦੀ ਸਰਣ ਪੈ ਕੇ (ਪ੍ਰਭੂ ਦਾ) ਨਾਮ ਜਪ;",
-      "roman": "gurmukh nām japahu man mere",
-      "translation_ru": "Потому, о мой ум, обратись к Гуру и повторяй Имя;"
-    },
-    {
-      "index": 14,
-      "verse_id": 11597,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਨਾਨਕ ਪਾਵਹੁ ਸੂਖ ਘਨੇਰੇ ॥੧॥",
-      "site_roman": "nānak pāvah sūkh ghanērē .1.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਨਾਮ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਬੜੇ ਸੁਖ ਪਾਵਹਿਂਗਾ ॥੧॥",
-      "roman": "Nānak pāvahu sūkh ghanere",
-      "translation_ru": "о Нанак, так ты обретёшь великое множество радостей ॥1॥"
-    },
-    {
-      "index": 15,
-      "verse_id": 11598,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਸਗਲ ਸ੍ਰਿਸਟਿ ਕੋ ਰਾਜਾ ਦੁਖੀਆ ॥",
-      "site_roman": "sagal srisat kō rājā dukhīā .",
-      "sahib_singh_pa": "(ਮਨੁੱਖ) ਸਾਰੀ ਦੁਨੀਆ ਦਾ ਰਾਜਾ (ਹੋ ਕੇ ਭੀ) ਦੁਖੀ (ਰਹਿੰਦਾ ਹੈ),",
-      "roman": "sagal srisṭ ko rājā dukhīā",
-      "translation_ru": "Даже будучи царём всего мира, человек остаётся несчастным,"
-    },
-    {
-      "index": 16,
-      "verse_id": 11599,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਕਾ ਨਾਮੁ ਜਪਤ ਹੋਇ ਸੁਖੀਆ ॥",
-      "site_roman": "har kā nām japat hōi sukhīā .",
-      "sahib_singh_pa": "ਪਰ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਿਆਂ ਸੁਖੀ (ਹੋ ਜਾਂਦਾ ਹੈ);",
-      "roman": "har kā nām japat hoi sukhīā",
-      "translation_ru": "но, повторяя Имя Господа, становится счастливым."
-    },
-    {
-      "index": 17,
-      "verse_id": 11600,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਲਾਖ ਕਰੋਰੀ ਬੰਧੁ ਨ ਪਰੈ ॥",
-      "site_roman": "lākh karōrī bandh n parai .",
-      "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਲੱਖਾਂ ਕਰੋੜਾਂ (ਰੁਪਏ) ਕਮਾ ਕੇ ਭੀ (ਮਾਇਆ ਦੀ ਤ੍ਰਿਹ ਵਿਚ) ਰੋਕ ਨਹੀਂ ਪੈਂਦੀ,",
-      "roman": "lākh karorī bandh na parai",
-      "translation_ru": "Даже заработав сотни тысяч и миллионы, он не находит предела жажде майи,"
-    },
-    {
-      "index": 18,
-      "verse_id": 11601,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਕਾ ਨਾਮੁ ਜਪਤ ਨਿਸਤਰੈ ॥",
-      "site_roman": "har kā nām japat nisatarai .",
-      "sahib_singh_pa": "(ਏਸ ਮਾਇਆ-ਕਾਂਗ ਤੋਂ) ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪ ਕੇ ਮਨੁੱਖ ਪਾਰ ਲੰਘ ਜਾਂਦਾ ਹੈ;",
-      "roman": "har kā nām japat nistarai",
-      "translation_ru": "а повторяя Имя Господа, человек переправляется через эту жажду майи."
-    },
-    {
-      "index": 19,
-      "verse_id": 11602,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਅਨਿਕ ਮਾਇਆ ਰੰਗ ਤਿਖ ਨ ਬੁਝਾਵੈ ॥",
-      "site_roman": "anik māiā rang tikh n bujhāvai .",
-      "sahib_singh_pa": "ਮਾਇਆ ਦੀਆਂ ਬੇ-ਅੰਤ ਮੌਜਾਂ ਹੁੰਦਿਆਂ ਭੀ (ਮਾਇਆ ਦੀ) ਤ੍ਰਿਹ ਨਹੀਂ ਬੁੱਝਦੀ,",
-      "roman": "anik māiā rang tikh na bujhāvai",
-      "translation_ru": "Даже среди бесконечных наслаждений майи жажда не угасает,"
-    },
-    {
-      "index": 20,
-      "verse_id": 11603,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਕਾ ਨਾਮੁ ਜਪਤ ਆਘਾਵੈ ॥",
-      "site_roman": "har kā nām japat āghāvai .",
-      "sahib_singh_pa": "(ਪਰ) ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਿਆਂ (ਮਨੁੱਖ ਮਾਇਆ ਵਲੋਂ) ਰੱਜ ਜਾਂਦਾ ਹੈ।",
-      "roman": "har kā nām japat āghāvai",
-      "translation_ru": "но, повторяя Имя Господа, человек насыщается и перестаёт жаждать майи."
-    },
-    {
-      "index": 21,
-      "verse_id": 11604,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਜਿਹ ਮਾਰਗਿ ਇਹੁ ਜਾਤ ਇਕੇਲਾ ॥",
-      "site_roman": "jih mārag ih jāt ikēlā .",
-      "sahib_singh_pa": "ਜਿਹਨੀਂ ਰਾਹੀਂ ਇਹ ਜੀਵ ਇਕੱਲਾ ਜਾਂਦਾ ਹੈ, (ਭਾਵ, ਜ਼ਿੰਦਗੀ ਦੇ ਜਿਨ੍ਹਾਂ ਝੰਬੇਲਿਆਂ ਵਿਚ ਇਸ ਚਿੰਤਾਤੁਰ ਜੀਵ ਦੀ ਕੋਈ ਸਹੈਤਾ ਨਹੀਂ ਕਰ ਸਕਦਾ)",
-      "roman": "jih mārag ih jāt ikelā",
-      "translation_ru": "На том пути, где это существо идёт в одиночку,"
-    },
-    {
-      "index": 22,
-      "verse_id": 11605,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਤਹ ਹਰਿ ਨਾਮੁ ਸੰਗਿ ਹੋਤ ਸੁਹੇਲਾ ॥",
-      "site_roman": "tah har nām sang hōt suhēlā .",
-      "sahib_singh_pa": "ਓਥੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਇਸ ਦੇ ਨਾਲ ਸੁਖ ਦੇਣ ਵਾਲਾ ਹੁੰਦਾ ਹੈ।",
-      "roman": "tah har nām sang hot suhelā",
-      "translation_ru": "там Имя Господа становится его утешительным спутником."
-    },
-    {
-      "index": 23,
-      "verse_id": 11606,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਐਸਾ ਨਾਮੁ ਮਨ ਸਦਾ ਧਿਆਈਐ ॥",
-      "site_roman": "aisā nām man sadā dhiāīai .",
-      "sahib_singh_pa": "(ਤਾਂ ਤੇ) ਹੇ ਮਨ! ਅਜੇਹਾ (ਸੁਹੇਲਾ) ਨਾਮ ਸਦਾ ਸਿਮਰੀਏ,",
-      "roman": "aisā nām man sadā dhiāīai",
-      "translation_ru": "Потому, о ум, такое Имя следует помнить всегда,"
-    },
-    {
-      "index": 24,
-      "verse_id": 11607,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਨਾਨਕ ਗੁਰਮੁਖਿ ਪਰਮ ਗਤਿ ਪਾਈਐ ॥੨॥",
-      "site_roman": "nānak guramukh param gat pāīai .2.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਗੁਰੂ ਦੀ ਰਾਹੀਂ (ਨਾਮ ਜਪਿਆਂ) ਉੱਚਾ ਦਰਜਾ ਮਿਲਦਾ ਹੈ ॥੨॥",
-      "roman": "Nānak gurmukh param gat pāīai",
-      "translation_ru": "о Нанак, через Гуру обретается высшее состояние ॥2॥"
-    },
-    {
-      "index": 25,
-      "verse_id": 11608,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਛੂਟਤ ਨਹੀ ਕੋਟਿ ਲਖ ਬਾਹੀ ॥",
-      "site_roman": "shūtat nahī kōt lakh bāhī .",
-      "sahib_singh_pa": "ਲੱਖਾਂ ਕਰੋੜਾਂ ਭਰਾਵਾਂ ਦੇ ਹੁੰਦਿਆਂ (ਮਨੁੱਖ ਜਿਸ ਦੀਨ ਅਵਸਥਾ ਤੋਂ) ਖ਼ਲਾਸੀ ਨਹੀਂ ਪਾ ਸਕਦਾ,",
-      "roman": "chhūṭat nahī koṭ lakh bāhī",
-      "translation_ru": "Даже имея сотни тысяч и миллионы братьев, человек не может освободиться от этого жалкого состояния,"
-    },
-    {
-      "index": 26,
-      "verse_id": 11609,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਨਾਮੁ ਜਪਤ ਤਹ ਪਾਰਿ ਪਰਾਹੀ ॥",
-      "site_roman": "nām japat tah pār parāhī .",
-      "sahib_singh_pa": "ਓਥੋਂ (ਪ੍ਰਭੂ ਦਾ) ਨਾਮ ਜਪਿਆਂ (ਜੀਵ) ਪਾਰ ਲੰਘ ਜਾਂਦੇ ਹਨ।",
-      "roman": "nām japat tah pār parāhī",
-      "translation_ru": "а, повторяя Имя, существа переправляются оттуда."
-    },
-    {
-      "index": 27,
-      "verse_id": 11610,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਅਨਿਕ ਬਿਘਨ ਜਹ ਆਇ ਸੰਘਾਰੈ ॥",
-      "site_roman": "anik bighan jah āi sanghārai .",
-      "sahib_singh_pa": "ਜਿਥੇ ਅਨੇਕਾਂ ਔਕੜਾਂ ਆ ਦਬਾਉਂਦੀਆਂ ਹਨ,",
-      "roman": "anik bighan jah āi sanghārai",
-      "translation_ru": "Где приходит множество препятствий и давит,"
-    },
-    {
-      "index": 28,
-      "verse_id": 11611,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਕਾ ਨਾਮੁ ਤਤਕਾਲ ਉਧਾਰੈ ॥",
-      "site_roman": "har kā nām tatakāl udhārai .",
-      "sahib_singh_pa": "(ਓਥੇ) ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਤੁਰਤ ਬਚਾ ਲੈਂਦਾ ਹੈ।",
-      "roman": "har kā nām tatkāl udhārai",
-      "translation_ru": "там Имя Господа тотчас спасает."
-    },
-    {
-      "index": 29,
-      "verse_id": 11612,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਅਨਿਕ ਜੋਨਿ ਜਨਮੈ ਮਰਿ ਜਾਮ ॥",
-      "site_roman": "anik jōn janamai mar jām .",
-      "sahib_singh_pa": "(ਜੀਵ) ਅਨੇਕਾਂ ਜੂਨਾਂ ਵਿਚ ਜੰਮਦਾ ਹੈ, ਮਰਦਾ ਹੈ (ਫਿਰ) ਜੰਮਦਾ ਹੈ (ਏਸੇ ਤਰ੍ਹਾਂ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਪਿਆ ਰਹਿੰਦਾ ਹੈ),",
-      "roman": "anik jon janmai mar jām",
-      "translation_ru": "Существо рождается во множестве воплощений, умирает и снова рождается,"
-    },
-    {
-      "index": 30,
-      "verse_id": 11613,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਨਾਮੁ ਜਪਤ ਪਾਵੈ ਬਿਸ੍ਰਾਮ ॥",
-      "site_roman": "nām japat pāvai bisrām .",
-      "sahib_singh_pa": "ਨਾਮ ਜਪਿਆਂ (ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ) ਟਿਕ ਜਾਂਦਾ ਹੈ।",
-      "roman": "nām japat pāvai bisrām",
-      "translation_ru": "но, повторяя Имя, находит покой у стоп Господа."
-    },
-    {
-      "index": 31,
-      "verse_id": 11614,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਉ ਮੈਲਾ ਮਲੁ ਕਬਹੁ ਨ ਧੋਵੈ ॥",
-      "site_roman": "hau mailā mal kabah n dhōvai .",
-      "sahib_singh_pa": "ਹਉਮੈ ਨਾਲ ਗੰਦਾ ਹੋਇਆ (ਜੀਵ) ਕਦੇ ਇਹ ਮੈਲ ਧੋਂਦਾ ਨਹੀਂ,",
-      "roman": "hau mailā mal kabhū na dhovai",
-      "translation_ru": "Осквернённый Хоумэ, человек никогда не смывает эту грязь,"
-    },
-    {
-      "index": 32,
-      "verse_id": 11615,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਕਾ ਨਾਮੁ ਕੋਟਿ ਪਾਪ ਖੋਵੈ ॥",
-      "site_roman": "har kā nām kōt pāp khōvai .",
-      "sahib_singh_pa": "(ਪਰ) ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਕਰੋੜਾਂ ਪਾਪ ਨਾਸ ਕਰ ਦੇਂਦਾ ਹੈ।",
-      "roman": "har kā nām koṭ pāp khovai",
-      "translation_ru": "но Имя Господа уничтожает миллионы грехов."
-    },
-    {
-      "index": 33,
-      "verse_id": 11616,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਐਸਾ ਨਾਮੁ ਜਪਹੁ ਮਨ ਰੰਗਿ ॥",
-      "site_roman": "aisā nām japah man rang .",
-      "sahib_singh_pa": "ਹੇ ਮਨ! (ਪ੍ਰਭੂ ਦਾ) ਅਜੇਹਾ ਨਾਮ ਪਿਆਰ ਨਾਲ ਜਪ।",
-      "roman": "aisā nām japahu man rang",
-      "translation_ru": "О ум, повторяй такое Имя с любовью."
-    },
-    {
-      "index": 34,
-      "verse_id": 11617,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਨਾਨਕ ਪਾਈਐ ਸਾਧ ਕੈ ਸੰਗਿ ॥੩॥",
-      "site_roman": "nānak pāīai sādh kai sang .3.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਪ੍ਰਭੂ ਦਾ ਨਾਮ) ਗੁਰਮੁਖਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਮਿਲਦਾ ਹੈ ॥੩॥",
-      "roman": "Nānak pāīai sādh kai sang",
-      "translation_ru": "О Нанак, Имя обретается в обществе гурмукхов ॥3॥"
-    },
-    {
-      "index": 35,
-      "verse_id": 11618,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਜਿਹ ਮਾਰਗ ਕੇ ਗਨੇ ਜਾਹਿ ਨ ਕੋਸਾ ॥",
-      "site_roman": "jih mārag kē ganē jāh n kōsā .",
-      "sahib_singh_pa": "ਜਿਸ (ਜ਼ਿੰਦਗੀ ਰੂਪੀ) ਪੈਂਡੇ ਦੇ ਕੋਹ ਗਿਣੇ ਨਹੀਂ ਜਾ ਸਕਦੇ,",
-      "roman": "jih mārag ke gane jāhi na kosā",
-      "translation_ru": "На том пути жизни, чьи расстояния невозможно сосчитать,"
-    },
-    {
-      "index": 36,
-      "verse_id": 11619,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਕਾ ਨਾਮੁ ਊਹਾ ਸੰਗਿ ਤੋਸਾ ॥",
-      "site_roman": "har kā nām ūhā sang tōsā .",
-      "sahib_singh_pa": "ਉਥੇ (ਭਾਵ, ਉਸ ਲੰਮੇ ਸਫ਼ਰ ਵਿਚ) ਪ੍ਰਭੂ ਦਾ ਨਾਮ (ਜੀਵ ਦੇ) ਨਾਲ (ਰਾਹ ਦੀ) ਰਾਸ-ਪੂੰਜੀ ਹੈ।",
-      "roman": "har kā nām ūhā sang tosā",
-      "translation_ru": "там Имя Господа — дорожный запас, идущий вместе с существом."
-    },
-    {
-      "index": 37,
-      "verse_id": 11620,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਜਿਹ ਪੈਡੈ ਮਹਾ ਅੰਧ ਗੁਬਾਰਾ ॥",
-      "site_roman": "jih paidai mahā andh gubārā .",
-      "sahib_singh_pa": "ਜਿਸ (ਜ਼ਿੰਦਗੀ ਰੂਪ) ਰਾਹ ਵਿਚ (ਵਿਕਾਰਾਂ ਦਾ) ਬੜਾ ਘੁੱਪ ਹਨੇਰਾ ਹੈ,",
-      "roman": "jih paiḍai mahā andh gubārā",
-      "translation_ru": "На том жизненном пути, где царит великий густой мрак пороков,"
-    },
-    {
-      "index": 38,
-      "verse_id": 11621,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਕਾ ਨਾਮੁ ਸੰਗਿ ਉਜੀਆਰਾ ॥",
-      "site_roman": "har kā nām sang ujīārā .",
-      "sahib_singh_pa": "(ਓਥੇ) ਪ੍ਰਭੂ ਦਾ ਨਾਮ (ਜੀਵ ਦੇ) ਨਾਲ ਚਾਨਣ ਹੈ।",
-      "roman": "har kā nām sang ujīārā",
-      "translation_ru": "там Имя Господа — свет, который идёт с существом."
-    },
-    {
-      "index": 39,
-      "verse_id": 11622,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਜਹਾ ਪੰਥਿ ਤੇਰਾ ਕੋ ਨ ਸਿਞਾਨੂ ॥",
-      "site_roman": "jahā panth tērā kō n siñānū .",
-      "sahib_singh_pa": "ਜਿਸ ਰਸਤੇ ਵਿਚ (ਹੇ ਜੀਵ!) ਤੇਰਾ ਕੋਈ (ਅਸਲੀ) ਮਰਹਮ ਨਹੀਂ ਹੈ,",
-      "roman": "jahā panth terā ko na siñānū",
-      "translation_ru": "На том пути, где у тебя, о существо, нет подлинного покровителя,"
-    },
-    {
-      "index": 40,
-      "verse_id": 11623,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਕਾ ਨਾਮੁ ਤਹ ਨਾਲਿ ਪਛਾਨੂ ॥",
-      "site_roman": "har kā nām tah nāl pashānū .",
-      "sahib_singh_pa": "ਓਥੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਤੇਰੇ ਨਾਲ (ਸੱਚਾ) ਸਾਥੀ ਹੈ।",
-      "roman": "har kā nām tah nāl pachhānū",
-      "translation_ru": "там Имя Господа — твой истинный спутник."
-    },
-    {
-      "index": 41,
-      "verse_id": 11624,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਜਹ ਮਹਾ ਭਇਆਨ ਤਪਤਿ ਬਹੁ ਘਾਮ ॥",
-      "site_roman": "jah mahā bhaiān tapat bah ghām .",
-      "sahib_singh_pa": "ਜਿਥੇ (ਜ਼ਿੰਦਗੀ ਦੇ ਸਫ਼ਰ ਵਿਚ) (ਵਿਕਾਰਾਂ ਦੀ) ਬੜੀ ਭਿਆਨਕ ਤਪਸ਼ ਤੇ ਗਰਮੀ ਹੈ,",
-      "roman": "jah mahā bhaiān tapat bahu ghām",
-      "translation_ru": "Где в пути жизни стоит ужасный жар и зной пороков,"
-    },
-    {
-      "index": 42,
-      "verse_id": 11625,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਤਹ ਹਰਿ ਕੇ ਨਾਮ ਕੀ ਤੁਮ ਊਪਰਿ ਛਾਮ ॥",
-      "site_roman": "tah har kē nām kī tum ūpar shām .",
-      "sahib_singh_pa": "ਓਥੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ (ਹੇ ਜੀਵ!) ਤੇਰੇ ਉਤੇ ਛਾਂ ਹੈ।",
-      "roman": "tah har ke nām kī tum ūpar chhām",
-      "translation_ru": "там Имя Господа — тень над тобой."
-    },
-    {
-      "index": 43,
-      "verse_id": 11626,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਜਹਾ ਤ੍ਰਿਖਾ ਮਨ ਤੁਝੁ ਆਕਰਖੈ ॥",
-      "site_roman": "jahā trikhā man tujh ākarakhai .",
-      "sahib_singh_pa": "(ਹੇ ਜੀਵ!) ਜਿਥੇ (ਮਾਇਆ ਦੀ) ਤ੍ਰਿਹ ਤੈਨੂੰ (ਸਦਾ) ਖਿੱਚ ਪਾਉਂਦੀ ਹੈ,",
-      "roman": "jahā trikẖā man tujh ākarakhai",
-      "translation_ru": "Где жажда майи непрестанно притягивает тебя,"
-    },
-    {
-      "index": 44,
-      "verse_id": 11627,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਤਹ ਨਾਨਕ ਹਰਿ ਹਰਿ ਅੰਮ੍ਰਿਤੁ ਬਰਖੈ ॥੪॥",
-      "site_roman": "tah nānak har har anmrit barakhai .4.",
-      "sahib_singh_pa": "ਓਥੇ, ਹੇ ਨਾਨਕ! ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦੀ ਬਰਖਾ ਹੁੰਦੀ ਹੈ (ਜੋ ਤਪਸ਼ ਨੂੰ ਬੁਝਾ ਦੇਂਦੀ ਹੈ) ॥੪॥",
-      "roman": "tah Nānak har har amrit barkhai",
-      "translation_ru": "там, о Нанак, проливается дождь Имени Господа, как амрит, и гасит этот жар ॥4॥"
-    },
-    {
-      "index": 45,
-      "verse_id": 11628,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਭਗਤ ਜਨਾ ਕੀ ਬਰਤਨਿ ਨਾਮੁ ॥",
-      "site_roman": "bhagat janā kī baratan nām .",
-      "sahib_singh_pa": "ਪ੍ਰਭੂ-ਨਾਮ ਭਗਤਾਂ ਦਾ ਹੱਥ-ਠੋਕਾ ਹੈ,",
-      "roman": "bhagat janā kī bartan nām",
-      "translation_ru": "Имя Господа — опора и средство жизни для преданных."
-    },
-    {
-      "index": 46,
-      "verse_id": 11629,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਸੰਤ ਜਨਾ ਕੈ ਮਨਿ ਬਿਸ੍ਰਾਮੁ ॥",
-      "site_roman": "sant janā kai man bisrām .",
-      "sahib_singh_pa": "ਭਗਤਾਂ ਦੇ ਹੀ ਮਨ ਵਿਚ ਇਹ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ।",
-      "roman": "sant janā kai man bisrām",
-      "translation_ru": "Именно в уме святых оно пребывает в покое."
-    },
-    {
-      "index": 47,
-      "verse_id": 11630,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਕਾ ਨਾਮੁ ਦਾਸ ਕੀ ਓਟ ॥",
-      "site_roman": "har kā nām dās kī ōt .",
-      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਭਗਤਾਂ ਦਾ ਆਸਰਾ ਹੈ,",
-      "roman": "har kā nām dās kī oṭ",
-      "translation_ru": "Имя Господа — прибежище преданных,"
-    },
-    {
-      "index": 48,
-      "verse_id": 11631,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਕੈ ਨਾਮਿ ਉਧਰੇ ਜਨ ਕੋਟਿ ॥",
-      "site_roman": "har kai nām udharē jan kōt .",
-      "sahib_singh_pa": "ਪ੍ਰਭੂ-ਨਾਮ ਦੀ ਰਾਹੀਂ ਕਰੋੜਾਂ ਬੰਦੇ (ਵਿਕਾਰਾਂ ਤੋਂ) ਬਚ ਜਾਂਦੇ ਹਨ।",
-      "roman": "har kai nām udhre jan koṭ",
-      "translation_ru": "через Имя Господа миллионы людей спасаются от пороков."
-    },
-    {
-      "index": 49,
-      "verse_id": 11632,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਜਸੁ ਕਰਤ ਸੰਤ ਦਿਨੁ ਰਾਤਿ ॥",
-      "site_roman": "har jas karat sant din rāt .",
-      "sahib_singh_pa": "ਭਗਤ ਜਨ ਦਿਨ ਰਾਤ ਪ੍ਰਭੂ ਦੀ ਵਡਿਆਈ ਕਰਦੇ ਹਨ,",
-      "roman": "har jas karat sant din rāt",
-      "translation_ru": "Преданные день и ночь восхваляют Господа,"
-    },
-    {
-      "index": 50,
-      "verse_id": 11633,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਹਰਿ ਅਉਖਧੁ ਸਾਧ ਕਮਾਤਿ ॥",
-      "site_roman": "har har aukhadh sādh kamāt .",
-      "sahib_singh_pa": "ਤੇ, ਪ੍ਰਭੂ-ਨਾਮ ਰੂਪੀ ਦਵਾਈ ਇਕੱਠੀ ਕਰਦੇ ਹਨ (ਜਿਸ ਨਾਲ ਹਉਮੈ ਰੋਗ ਦੂਰ ਹੁੰਦਾ ਹੈ)।",
-      "roman": "har har aukhadh sādh kamāt",
-      "translation_ru": "и собирают лекарство в виде Имени Господа, которым исцеляется болезнь Хоумэ."
-    },
-    {
-      "index": 51,
-      "verse_id": 11634,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਜਨ ਕੈ ਹਰਿ ਨਾਮੁ ਨਿਧਾਨੁ ॥",
-      "site_roman": "har jan kai har nām nidhān .",
-      "sahib_singh_pa": "ਭਗਤਾਂ ਦੇ ਪਾਸ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਹੀ ਖ਼ਜ਼ਾਨਾ ਹੈ,",
-      "roman": "har jan kai har nām nidhān",
-      "translation_ru": "У преданных сокровищем является только Имя Господа,"
-    },
-    {
-      "index": 52,
-      "verse_id": 11635,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਪਾਰਬ੍ਰਹਮਿ ਜਨ ਕੀਨੋ ਦਾਨ ॥",
-      "site_roman": "pārabraham jan kīnō dān .",
-      "sahib_singh_pa": "ਪ੍ਰਭੂ ਨੇ ਨਾਮ ਦੀ ਬਖ਼ਸ਼ਸ਼ ਆਪਣੇ ਸੇਵਕਾਂ ਤੇ ਆਪ ਕੀਤੀ ਹੈ।",
-      "roman": "pārbrahm jan kīno dān",
-      "translation_ru": "Сам Парабрахм даровал это Имя Своим слугам."
-    },
-    {
-      "index": 53,
-      "verse_id": 11636,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਮਨ ਤਨ ਰੰਗਿ ਰਤੇ ਰੰਗ ਏਕੈ ॥",
-      "site_roman": "man tan rang ratē rang ēkai .",
-      "sahib_singh_pa": "ਭਗਤ ਜਨ ਮਨੋਂ ਤਨੋਂ ਇਕ ਪ੍ਰਭੂ ਦੇ ਪਿਆਰ ਵਿਚ ਰੰਗੇ ਰਹਿੰਦੇ ਹਨ;",
-      "roman": "man tan rang rate rang ekai",
-      "translation_ru": "Преданные умом и телом окрашены в любовь к Единому Господу,"
-    },
-    {
-      "index": 54,
-      "verse_id": 11637,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਨਾਨਕ ਜਨ ਕੈ ਬਿਰਤਿ ਬਿਬੇਕੈ ॥੫॥",
-      "site_roman": "nānak jan kai birat bibēkai .5.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਭਗਤਾਂ ਦੇ ਅੰਦਰ ਚੰਗੇ ਮੰਦੇ ਦੀ ਪਰਖ ਕਰਨ ਵਾਲਾ ਸੁਭਾਉ ਬਣ ਜਾਂਦਾ ਹੈ ॥੫॥",
-      "roman": "Nānak jan kai birat bibekai",
-      "translation_ru": "о Нанак, в их природе возникает способность различать доброе и дурное ॥5॥"
-    },
-    {
-      "index": 55,
-      "verse_id": 11638,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਕਾ ਨਾਮੁ ਜਨ ਕਉ ਮੁਕਤਿ ਜੁਗਤਿ ॥",
-      "site_roman": "har kā nām jan kau mukat jugat .",
-      "sahib_singh_pa": "ਭਗਤ ਵਾਸਤੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ (ਹੀ) (ਮਾਇਆ ਦੇ ਬੰਧਨਾਂ ਤੋਂ) ਛੁਟਕਾਰੇ ਦਾ ਵਸੀਲਾ ਹੈ,",
-      "roman": "har kā nām jan kau mukat jugat",
-      "translation_ru": "Для преданного Имя Господа — это средство освобождения от уз майи,"
-    },
-    {
-      "index": 56,
-      "verse_id": 11639,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਕੈ ਨਾਮਿ ਜਨ ਕਉ ਤ੍ਰਿਪਤਿ ਭੁਗਤਿ ॥",
-      "site_roman": "har kai nām jan kau tripat bhugat .",
-      "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦੀ ਰਾਹੀਂ ਭਗਤ (ਮਾਇਆ ਦੇ) ਭੋਗਾਂ ਵਲੋਂ ਰੱਜ ਜਾਂਦਾ ਹੈ।",
-      "roman": "har kai nām jan kau tripat bhugat",
-      "translation_ru": "потому что через Имя Господа преданный насыщается и отстраняется от наслаждений майи."
-    },
-    {
-      "index": 57,
-      "verse_id": 11640,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਕਾ ਨਾਮੁ ਜਨ ਕਾ ਰੂਪ ਰੰਗੁ ॥",
-      "site_roman": "har kā nām jan kā rūp rang .",
-      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਭਗਤ ਦਾ ਸੋਹਜ ਸੁਹਣੱਪ ਹੈ,",
-      "roman": "har kā nām jan kā rūp rang",
-      "translation_ru": "Имя Господа — красота и привлекательность преданного,"
-    },
-    {
-      "index": 58,
-      "verse_id": 11641,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਨਾਮੁ ਜਪਤ ਕਬ ਪਰੈ ਨ ਭੰਗੁ ॥",
-      "site_roman": "har nām japat kab parai n bhang .",
-      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਦਿਆਂ (ਭਗਤ ਦੇ ਰਾਹ ਵਿਚ) ਕਦੇ (ਕੋਈ) ਅਟਕਾਉ ਨਹੀਂ ਪੈਂਦਾ।",
-      "roman": "har nām japat kab parai na bhang",
-      "translation_ru": "и, повторяя Имя Господа, он никогда не встречает преграды на пути."
-    },
-    {
-      "index": 59,
-      "verse_id": 11642,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਕਾ ਨਾਮੁ ਜਨ ਕੀ ਵਡਿਆਈ ॥",
-      "site_roman": "har kā nām jan kī vadiāī .",
-      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਨਾਮ (ਹੀ) ਭਗਤ ਦੀ ਪਤ-ਇੱਜ਼ਤ ਹੈ,",
-      "roman": "har kā nām jan kī vaḍiāī",
-      "translation_ru": "Имя Господа — честь и достоинство преданного,"
-    },
-    {
-      "index": 60,
-      "verse_id": 11643,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਕੈ ਨਾਮਿ ਜਨ ਸੋਭਾ ਪਾਈ ॥",
-      "site_roman": "har kai nām jan sōbhā pāī .",
-      "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦੀ ਰਾਹੀਂ (ਹੀ) ਭਗਤਾਂ ਨੇ (ਜਗਤ ਵਿਚ) ਨਾਮਣਾ ਪਾਇਆ ਹੈ।",
-      "roman": "har kai nām jan sobhā pāī",
-      "translation_ru": "потому что именно через Имя Господа преданные обрели славу в мире."
-    },
-    {
-      "index": 61,
-      "verse_id": 11644,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਕਾ ਨਾਮੁ ਜਨ ਕਉ ਭੋਗ ਜੋਗ ॥",
-      "site_roman": "har kā nām jan kau bhōg jōg .",
-      "sahib_singh_pa": "(ਤਿਆਗੀ ਦਾ) ਜੋਗ (-ਸਾਧਨ) ਤੇ ਗ੍ਰਿਹਸਤੀ ਦਾ ਮਾਇਆ ਦਾ ਭੋਗ ਭਗਤ ਜਨ ਵਾਸਤੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ (ਹੀ) ਹੈ,",
-      "roman": "har kā nām jan kau bhog jog",
-      "translation_ru": "Для преданного и йога отречения, и наслаждение домохозяина — это Имя Господа,"
-    },
-    {
-      "index": 62,
-      "verse_id": 11645,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਨਾਮੁ ਜਪਤ ਕਛੁ ਨਾਹਿ ਬਿਓਗੁ ॥",
-      "site_roman": "har nām japat kash nāh biōg .",
-      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਦਿਆਂ (ਉਸ ਨੂੰ) ਕੋਈ ਦੁੱਖ ਕਲੇਸ਼ ਨਹੀਂ ਹੁੰਦਾ।",
-      "roman": "har nām japat kachh nāh biog",
-      "translation_ru": "и, повторяя Имя Господа, он не испытывает никакого страдания и боли."
-    },
-    {
-      "index": 63,
-      "verse_id": 11646,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਜਨੁ ਰਾਤਾ ਹਰਿ ਨਾਮ ਕੀ ਸੇਵਾ ॥",
-      "site_roman": "jan rātā har nām kī sēvā .",
-      "sahib_singh_pa": "(ਪ੍ਰਭੂ ਦਾ) ਭਗਤ (ਸਦਾ) ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦੀ ਸੇਵਾ (ਸਿਮਰਨ) ਵਿਚ ਮਸਤ ਰਹਿੰਦਾ ਹੈ;",
-      "roman": "jan rātā har nām kī sevā",
-      "translation_ru": "Преданный всегда погружён в служение Имени Господа, то есть в памятование,"
-    },
-    {
-      "index": 64,
-      "verse_id": 11647,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਨਾਨਕ ਪੂਜੈ ਹਰਿ ਹਰਿ ਦੇਵਾ ॥੬॥",
-      "site_roman": "nānak pūjai har har dēvā .6.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਭਗਤ ਸਦਾ) ਪ੍ਰਭੂ-ਦੇਵ ਨੂੰ ਪੂਜਦਾ ਹੈ ॥੬॥",
-      "roman": "Nānak pūjai har har devā",
-      "translation_ru": "о Нанак, он постоянно поклоняется Богу-Господу ॥6॥"
-    },
-    {
-      "index": 65,
-      "verse_id": 11648,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਹਰਿ ਜਨ ਕੈ ਮਾਲੁ ਖਜੀਨਾ ॥",
-      "site_roman": "har har jan kai māl khajīnā .",
-      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਭਗਤ ਦੇ ਵਾਸਤੇ ਮਾਲ ਧਨ ਹੈ,",
-      "roman": "har har jan kai māl khajīnā",
-      "translation_ru": "Имя Господа — имущество и богатство преданного,"
-    },
-    {
-      "index": 66,
-      "verse_id": 11649,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਧਨੁ ਜਨ ਕਉ ਆਪਿ ਪ੍ਰਭਿ ਦੀਨਾ ॥",
-      "site_roman": "har dhan jan kau āp prabh dīnā .",
-      "sahib_singh_pa": "ਇਹ ਨਾਮ-ਰੂਪੀ ਧਨ ਪ੍ਰਭੂ ਨੇ ਆਪ ਆਪਣੇ ਭਗਤ ਨੂੰ ਦਿੱਤਾ ਹੈ।",
-      "roman": "har dhan jan kau āp prabh dīnā",
-      "translation_ru": "это богатство Имени Сам Господь дал Своему преданному."
-    },
-    {
-      "index": 67,
-      "verse_id": 11650,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਹਰਿ ਜਨ ਕੈ ਓਟ ਸਤਾਣੀ ॥",
-      "site_roman": "har har jan kai ōt satānī .",
-      "sahib_singh_pa": "ਭਗਤ ਵਾਸਤੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ (ਹੀ) ਤਕੜਾ ਆਸਰਾ ਹੈ,",
-      "roman": "har har jan kai oṭ satāṇī",
-      "translation_ru": "Для преданного Имя Господа — крепкая опора,"
-    },
-    {
-      "index": 68,
-      "verse_id": 11651,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਪ੍ਰਤਾਪਿ ਜਨ ਅਵਰ ਨ ਜਾਣੀ ॥",
-      "site_roman": "har pratāp jan avar n jānī .",
-      "sahib_singh_pa": "ਭਗਤਾਂ ਨੇ ਪ੍ਰਭੂ ਦੇ ਪ੍ਰਤਾਪ ਨਾਲ ਕਿਸੇ ਹੋਰ ਆਸਰੇ ਨੂੰ ਨਹੀਂ ਤੱਕਿਆ।",
-      "roman": "har pratāp jan avar na jāṇī",
-      "translation_ru": "и силой Господа преданные не ищут никакой иной поддержки."
-    },
-    {
-      "index": 69,
-      "verse_id": 11652,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਓਤਿ ਪੋਤਿ ਜਨ ਹਰਿ ਰਸਿ ਰਾਤੇ ॥",
-      "site_roman": "ōt pōt jan har ras rātē .",
-      "sahib_singh_pa": "ਭਗਤ ਜਨ ਪ੍ਰਭੂ-ਨਾਮ-ਰਸ ਵਿਚ ਪੂਰੇ ਤੌਰ ਤੇ ਭਿੱਜੇ ਰਹਿੰਦੇ ਹਨ,",
-      "roman": "ot pot jan har ras rāte",
-      "translation_ru": "Преданные насквозь пропитаны вкусом Имени Господа,"
-    },
-    {
-      "index": 70,
-      "verse_id": 11653,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਸੁੰਨ ਸਮਾਧਿ ਨਾਮ ਰਸ ਮਾਤੇ ॥",
-      "site_roman": "sunn samādh nām ras mātē .",
-      "sahib_singh_pa": "(ਅਤੇ) ਨਾਮ-ਰਸ ਦੇ ਮੱਤੇ ਹੋਏ (ਮਨ ਦਾ ਉਹ) ਟਿਕਾਉ (ਮਾਣਦੇ ਹਨ) ਜਿਥੇ ਕੋਈ ਫੁਰਨਾ ਨਹੀਂ ਹੁੰਦਾ।",
-      "roman": "sunn samādh nām ras māte",
-      "translation_ru": "и, опьянённые этим вкусом Имени, пребывают в таком покое ума, где нет никаких мыслей."
-    },
-    {
-      "index": 71,
-      "verse_id": 11654,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਆਠ ਪਹਰ ਜਨੁ ਹਰਿ ਹਰਿ ਜਪੈ ॥",
-      "site_roman": "āth pahar jan har har japai .",
-      "sahib_singh_pa": "(ਪ੍ਰਭੂ ਦਾ) ਭਗਤ ਅੱਠੇ ਪਹਰ ਪ੍ਰਭੂ ਨੂੰ ਜਪਦਾ ਹੈ,",
-      "roman": "āṭh pahar jan har har japai",
-      "translation_ru": "Преданный все восемь страж суток повторяет Господа,"
-    },
-    {
-      "index": 72,
-      "verse_id": 11655,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਕਾ ਭਗਤੁ ਪ੍ਰਗਟ ਨਹੀ ਛਪੈ ॥",
-      "site_roman": "har kā bhagat pragat nahī shapai .",
-      "sahib_singh_pa": "(ਜਗਤ ਵਿਚ) ਭਗਤ ਉੱਘਾ (ਹੋ ਜਾਂਦਾ ਹੈ) ਲੁਕਿਆ ਨਹੀਂ ਰਹਿੰਦਾ।",
-      "roman": "har kā bhagat pragaṭ nahī chhapai",
-      "translation_ru": "и преданный Господа становится явным в мире, не остаётся скрытым."
-    },
-    {
-      "index": 73,
-      "verse_id": 11656,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਹਰਿ ਕੀ ਭਗਤਿ ਮੁਕਤਿ ਬਹੁ ਕਰੇ ॥",
-      "site_roman": "har kī bhagat mukat bah karē .",
-      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦੀ ਭਗਤੀ ਬੇਅੰਤ ਜੀਵਾਂ ਨੂੰ (ਵਿਕਾਰਾਂ ਤੋਂ) ਖ਼ਲਾਸੀ ਦਿਵਾਉਂਦੀ ਹੈ;",
-      "roman": "har kī bhagat mukat bahu kare",
-      "translation_ru": "Преданность Господу освобождает бесчисленные существа от пороков,"
-    },
-    {
-      "index": 74,
-      "verse_id": 11657,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਨਾਨਕ ਜਨ ਸੰਗਿ ਕੇਤੇ ਤਰੇ ॥੭॥",
-      "site_roman": "nānak jan sang kētē tarē .7.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਭਗਤ ਦੀ ਸੰਗਤਿ ਵਿਚ ਕਈ ਹੋਰ (ਭੀ) ਤਰ ਜਾਂਦੇ ਹਨ ॥੭॥",
-      "roman": "Nānak jan sang kete tare",
-      "translation_ru": "о Нанак, в обществе преданного переправляются и многие другие ॥7॥"
-    },
-    {
-      "index": 75,
-      "verse_id": 11658,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਪਾਰਜਾਤੁ ਇਹੁ ਹਰਿ ਕੋ ਨਾਮ ॥",
-      "site_roman": "pārajāt ih har kō nām .",
-      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਇਹ ਨਾਮ (ਹੀ) 'ਪਾਰਜਾਤ' ਰੁੱਖ ਹੈ,",
-      "roman": "pārjāt ih har ko nām",
-      "translation_ru": "Это Имя Господа — дерево Парджат,"
-    },
-    {
-      "index": 76,
-      "verse_id": 11659,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਕਾਮਧੇਨ ਹਰਿ ਹਰਿ ਗੁਣ ਗਾਮ ॥",
-      "site_roman": "kāmadhēn har har gun gām .",
-      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਉਣੇ (ਹੀ ਇੱਛਾ-ਪੂਰਕ) 'ਕਾਮਧੇਨ' ਹੈ।",
-      "roman": "kāmdhen har har guṇ gām",
-      "translation_ru": "а воспевание качеств Господа — это Камдхен, исполняющая желания."
-    },
-    {
-      "index": 77,
-      "verse_id": 11660,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਸਭ ਤੇ ਊਤਮ ਹਰਿ ਕੀ ਕਥਾ ॥",
-      "site_roman": "sabh tē ūtam har kī kathā .",
-      "sahib_singh_pa": "ਪ੍ਰਭੂ ਦੀਆਂ (ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀਆਂ) ਗੱਲਾਂ (ਹੋਰ) ਸਭ (ਗੱਲਾਂ) ਤੋਂ ਚੰਗੀਆਂ ਹਨ,",
-      "roman": "sabh te ūtam har kī kathā",
-      "translation_ru": "Речи о славе Господа — лучше всех прочих речей,"
-    },
-    {
-      "index": 78,
-      "verse_id": 11661,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਨਾਮੁ ਸੁਨਤ ਦਰਦ ਦੁਖ ਲਥਾ ॥",
-      "site_roman": "nām sunat darad dukh lathā .",
-      "sahib_singh_pa": "(ਕਿਉਂਕਿ ਪ੍ਰਭੂ ਦਾ) ਨਾਮ ਸੁਣਿਆਂ ਸਾਰੇ ਦੁਖ ਦਰਦ ਲਹਿ ਜਾਂਦੇ ਹਨ।",
-      "roman": "nām sunat darad dukh lathā",
-      "translation_ru": "потому что, слушая Имя Господа, уходят все боли и страдания."
-    },
-    {
-      "index": 79,
-      "verse_id": 11662,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਨਾਮ ਕੀ ਮਹਿਮਾ ਸੰਤ ਰਿਦ ਵਸੈ ॥",
-      "site_roman": "nām kī mahimā sant rid vasai .",
-      "sahib_singh_pa": "(ਪ੍ਰਭੂ ਦੇ) ਨਾਮ ਦੀ ਵਡਿਆਈ ਸੰਤਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਵੱਸਦੀ ਹੈ,",
-      "roman": "nām kī mahimā sant rid vasai",
-      "translation_ru": "Величие Имени Господа живёт в сердцах святых,"
-    },
-    {
-      "index": 80,
-      "verse_id": 11663,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਸੰਤ ਪ੍ਰਤਾਪਿ ਦੁਰਤੁ ਸਭੁ ਨਸੈ ॥",
-      "site_roman": "sant pratāp durat sabh nasai .",
-      "sahib_singh_pa": "(ਅਤੇ) ਸੰਤਾਂ ਦੇ ਪ੍ਰਤਾਪ ਨਾਲ ਸਾਰਾ ਪਾਪ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।",
-      "roman": "sant pratāp durat sabh nasai",
-      "translation_ru": "и силой святых исчезает весь грех."
-    },
-    {
-      "index": 81,
-      "verse_id": 11664,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਸੰਤ ਕਾ ਸੰਗੁ ਵਡਭਾਗੀ ਪਾਈਐ ॥",
-      "site_roman": "sant kā sang vadabhāgī pāīai .",
-      "sahib_singh_pa": "ਵੱਡੇ ਭਾਗਾਂ ਨਾਲ ਸੰਤਾਂ ਦੀ ਸੰਗਤਿ ਮਿਲਦੀ ਹੈ,",
-      "roman": "sant kā sang vaḍbhāgī pāīai",
-      "translation_ru": "Общество святых обретается великой удачей,"
-    },
-    {
-      "index": 82,
-      "verse_id": 11665,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਸੰਤ ਕੀ ਸੇਵਾ ਨਾਮੁ ਧਿਆਈਐ ॥",
-      "site_roman": "sant kī sēvā nām dhiāīai .",
-      "sahib_singh_pa": "(ਅਤੇ) ਸੰਤਾਂ ਦੀ ਸੇਵਾ (ਕੀਤਿਆਂ) (ਪ੍ਰਭੂ ਦਾ) ਨਾਮ ਸਿਮਰੀਦਾ ਹੈ।",
-      "roman": "sant kī sevā nām dhiāīai",
-      "translation_ru": "и, служа святым, человек помнит Имя Господа."
-    },
-    {
-      "index": 83,
-      "verse_id": 11666,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਨਾਮ ਤੁਲਿ ਕਛੁ ਅਵਰੁ ਨ ਹੋਇ ॥",
-      "site_roman": "nām tul kash avar n hōi .",
-      "sahib_singh_pa": "ਪ੍ਰਭੂ-ਨਾਮ ਦੇ ਬਰਾਬਰ ਹੋਰ ਕੋਈ (ਪਦਾਰਥ) ਨਹੀਂ,",
-      "roman": "nām tul kachh avar na hoi",
-      "translation_ru": "Нет ничего, что могло бы сравниться с Именем Господа,"
-    },
-    {
-      "index": 84,
-      "verse_id": 11667,
-      "shabad_num": 704,
-      "shabad_id": 704,
-      "gurmukhi": "ਨਾਨਕ ਗੁਰਮੁਖਿ ਨਾਮੁ ਪਾਵੈ ਜਨੁ ਕੋਇ ॥੮॥੨॥",
-      "site_roman": "nānak guramukh nām pāvai jan kōi .8.2.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਹੋ ਕੇ ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ ਨਾਮ (ਦੀ ਦਾਤਿ) ਲੱਭਦਾ ਹੈ ॥੮॥੨॥",
-      "roman": "Nānak gurmukh nām pāvai jan koi",
-      "translation_ru": "о Нанак, только редкий человек, обратившись лицом к Гуру, обретает дар Имени ॥8॥2॥"
     }
   ]
 }

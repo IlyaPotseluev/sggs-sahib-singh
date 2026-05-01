@@ -18,16 +18,19 @@ Usage:
   python rebuild_from_darpan.py 1078 1079
 
 Issue types for --fix:
-  missing        — ang JSON file does not exist
-  empty          — JSON exists but has no lines
-  duplicate      — ang shares verse_ids with another ang (probing error)
-  coverage_gap   — ang exists but is missing lines vs banidb
-  all            — all of the above
+  missing              — ang JSON file does not exist
+  empty                — JSON exists but has no lines
+  duplicate            — ang shares verse_ids with another ang (probing error)
+  coverage_gap         — ang exists but is missing lines vs banidb (outdated)
+  null_translation     — content lines have empty/None translation_ru
+  darpan_ang_mismatch  — verse is on wrong ang according to Darpan DOCX
+  all                  — all of the above
 """
 from __future__ import annotations
 
 import argparse
 import json
+import math
 import sys
 import time
 from pathlib import Path
@@ -53,7 +56,10 @@ from chatgpt_khojgurbani_sahibsingh_bot import (
 )
 from validate_angs import (
     BANIDB_PATH,
+    DARPAN_DB_PATH,
     find_cross_ang_duplicates,
+    is_header_line,
+    null_translation_lines_for_ang,
     validate_range,
 )
 
@@ -116,11 +122,6 @@ END_KG_JSON
 # TODO marking for header lines
 # ---------------------------------------------------------------------------
 
-def _is_header_line(gurmukhi: str) -> bool:
-    words = gurmukhi.split()
-    return len(words) <= 4 or "ਮਹਲਾ" in gurmukhi or "ਰਾਗੁ" in gurmukhi or "ਰਹਾਉ" in gurmukhi
-
-
 def mark_todos(json_dir: Path, start: int, end: int) -> tuple[int, int]:
     """Mark empty translation_ru in header lines as 'TODO'.
 
@@ -136,7 +137,7 @@ def mark_todos(json_dir: Path, start: int, end: int) -> tuple[int, int]:
         data = json.loads(p.read_text(encoding="utf-8"))
         changed = False
         for line in data.get("lines", []):
-            if not line.get("translation_ru", "").strip() and _is_header_line(
+            if not line.get("translation_ru", "").strip() and is_header_line(
                 line.get("gurmukhi", "")
             ):
                 line["translation_ru"] = "TODO"
@@ -200,17 +201,44 @@ def scrape_darpan(context, ang: int, page_timeout_ms: int) -> str:
 # Prompt + parse
 # ---------------------------------------------------------------------------
 
+PROMPT_CHAR_LIMIT = 50_000
+_STATIC_OVERHEAD = len(ROMANIZATION_RULES) + len(RUSSIAN_GLOSSARY) + len(DARPAN_PROMPT) + 300
+
+
 def build_prompt(ang: int, banidb_rows: list[dict], darpan_text: str) -> str:
     gurmukhi_block = "\n".join(f"[{r['verse_id']}] {r['gurmukhi']}" for r in banidb_rows)
-    # Cap darpan_text to avoid token overflow; 12k chars ≈ 3k tokens
     return DARPAN_PROMPT.format(
         ang=ang,
         expected_lines=len(banidb_rows),
         gurmukhi_block=gurmukhi_block,
-        darpan_text=darpan_text[:20_000],
+        darpan_text=darpan_text,
         romanization_rules=ROMANIZATION_RULES,
         russian_glossary=RUSSIAN_GLOSSARY,
     )
+
+
+def _plan_chunks(
+    ang: int, banidb_rows: list[dict], darpan_text: str
+) -> list[tuple[str, list[dict]]]:
+    """Return list of (prompt, rows) chunks. Single element when fits in one request."""
+    gurmukhi_len = sum(len(r["gurmukhi"]) + 15 for r in banidb_rows)
+    total = gurmukhi_len + len(darpan_text) + _STATIC_OVERHEAD
+
+    if total <= PROMPT_CHAR_LIMIT:
+        return [(build_prompt(ang, banidb_rows, darpan_text), banidb_rows)]
+
+    n = math.ceil(total / PROMPT_CHAR_LIMIT)
+    row_chunk = math.ceil(len(banidb_rows) / n)
+    darpan_chunk = math.ceil(len(darpan_text) / n)
+
+    result = []
+    for i in range(n):
+        rows = banidb_rows[i * row_chunk : (i + 1) * row_chunk]
+        if not rows:
+            continue
+        darpan_slice = darpan_text[i * darpan_chunk : (i + 1) * darpan_chunk]
+        result.append((build_prompt(ang, rows, darpan_slice), rows))
+    return result
 
 
 def parse_answer(answer: str, ang: int, banidb_rows: list[dict]) -> AngTranslation | None:
@@ -322,7 +350,8 @@ def collect_targets(
     For others: the affected ang is deleted and rebuilt.
     """
     print(f"Сканирую анги {start}..{end}…")
-    reports = validate_range(start, end, banidb_path)
+    darpan_path = DARPAN_DB_PATH if DARPAN_DB_PATH.exists() else None
+    reports = validate_range(start, end, banidb_path, darpan_path=darpan_path)
     duplicates = find_cross_ang_duplicates(start, end)
 
     to_delete: set[int] = set()
@@ -352,6 +381,23 @@ def collect_targets(
                 to_delete.add(r.ang)
                 to_rebuild.add(r.ang)
 
+    if "null_translation" in fix_types or "all" in fix_types:
+        for ang in range(start, end + 1):
+            if null_translation_lines_for_ang(ang):
+                to_delete.add(ang)
+                to_rebuild.add(ang)
+
+    if "darpan_ang_mismatch" in fix_types or "all" in fix_types:
+        for r in reports:
+            if r.darpan_ang_mismatches:
+                # Rebuild the ang that has the wrongly-placed verses
+                to_delete.add(r.ang)
+                to_rebuild.add(r.ang)
+                # Also rebuild the correct ang — it's likely missing those verses
+                for _vid, correct_ang, _g in r.darpan_ang_mismatches:
+                    to_delete.add(correct_ang)
+                    to_rebuild.add(correct_ang)
+
     return sorted(to_delete), sorted(to_rebuild)
 
 
@@ -371,7 +417,8 @@ def main() -> None:
     )
     parser.add_argument(
         "--fix",
-        choices=["missing", "empty", "duplicate", "coverage_gap", "all"],
+        choices=["missing", "empty", "duplicate", "coverage_gap", "null_translation",
+                 "darpan_ang_mismatch", "all"],
         help="Тип проблемы для автофикса (сканирует диапазон и чинит)",
     )
     parser.add_argument("--start", type=int, default=1)
