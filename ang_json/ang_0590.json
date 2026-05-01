@@ -4,7 +4,7 @@
     {
       "verse_id": 25719,
       "gurmukhi": "ਨਾਨਕ ਬਿਨੁ ਸਤਿਗੁਰ ਸੇਵੇ ਜਮ ਪੁਰਿ ਬਧੇ ਮਾਰੀਅਨਿ ਮੁਹਿ ਕਾਲੈ ਉਠਿ ਜਾਹਿ ॥੧॥",
-      "roman": "nānak bin satgur seve jam pur badhe mārīan muh kālai uṭh jāhi",
+      "roman": "nānak bin satgur seve jam pur badhe mārīan muh kālē uṭh jāhi",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਸਤਿਗੁਰੂ ਦੀ ਸੇਵਾ ਤੋਂ ਬਿਨਾ ਕਾਲੇ-ਮੂੰਹ (ਸੰਸਾਰ ਤੋਂ) ਤੁਰ ਜਾਂਦੇ ਹਨ ਤੇ ਜਮਪੁਰੀ ਵਿਚ ਬੱਧੇ ਹੋਏ ਮਾਰ ਖਾਂਦੇ ਹਨ (ਭਾਵ, ਇਸ ਲੋਕ ਵਿਚ ਮੁਕਾਲਖ ਖੱਟਦੇ ਹਨ ਤੇ ਅਗਾਂਹ ਭੀ ਦੁਖੀ ਹੁੰਦੇ ਹਨ) ॥੧॥",
       "translation_ru": "О Нанак! Без служения Гуру они уходят с позором и страдают в обители Ямы."
     },
@@ -18,14 +18,14 @@
     {
       "verse_id": 25721,
       "gurmukhi": "ਜਾਲਉ ਐਸੀ ਰੀਤਿ ਜਿਤੁ ਮੈ ਪਿਆਰਾ ਵੀਸਰੈ ॥",
-      "roman": "jālau aisī rīt jit mai piārā vīsrai",
+      "roman": "jālau ēsī rīt jit mē piārā vīsrē",
       "sahib_singh_pa": "ਮੈਂ ਇਹੋ ਜਿਹੀ ਰੀਤ ਨੂੰ ਸਾੜ ਦਿਆਂ ਜਿਸ ਕਰਕੇ ਪਿਆਰਾ ਪ੍ਰਭੂ ਮੈਨੂੰ ਵਿਸਰ ਜਾਏ।",
       "translation_ru": "Я сожгу тот путь, из-за которого забываю возлюбленного Бога."
     },
     {
       "verse_id": 25722,
       "gurmukhi": "ਨਾਨਕ ਸਾਈ ਭਲੀ ਪਰੀਤਿ ਜਿਤੁ ਸਾਹਿਬ ਸੇਤੀ ਪਤਿ ਰਹੈ ॥੨॥",
-      "roman": "nānak sāī bhalī parīt jit sāhib setī pat rahai",
+      "roman": "nānak sāī bhalī parīt jit sāhib setī pat rahē",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਪ੍ਰੇਮ ਉਹੋ ਹੀ ਚੰਗਾ ਹੈ ਜਿਸ ਦੀ ਰਾਹੀਂ ਖਸਮ ਨਾਲ ਇੱਜ਼ਤ ਬਣੀ ਰਹੇ ॥੨॥",
       "translation_ru": "О Нанак! Хороша только та любовь, которая сохраняет честь перед Господом."
     },
@@ -53,7 +53,7 @@
     {
       "verse_id": 25726,
       "gurmukhi": "ਜੇ ਦੂਜੇ ਪਾਸਹੁ ਮੰਗੀਐ ਤਾ ਲਾਜ ਮਰਾਈਐ ॥",
-      "roman": "je dūje pāshahu maṅgīai tā lāj marāīai",
+      "roman": "je dūje pāshah maṅgīai tā lāj marāīai",
       "sahib_singh_pa": "ਜੇ ਕਿਸੇ ਹੋਰ ਕੋਲੋਂ ਮੰਗੀਏ ਤਾਂ ਸ਼ਰਮ ਨਾਲ ਮਰ ਜਾਈਏ (ਭਾਵ, ਕਿਸੇ ਹੋਰ ਪਾਸੋਂ ਮੰਗਣ ਨਾਲੋਂ ਸ਼ਰਮ ਨਾਲ ਮਰ ਜਾਣਾ ਚੰਗਾ ਹੈ)।",
       "translation_ru": "Если просить у других, это позор."
     },
@@ -67,7 +67,7 @@
     {
       "verse_id": 25728,
       "gurmukhi": "ਨਾਨਕੁ ਤਿਨ ਵਿਟਹੁ ਵਾਰਿਆ ਜਿਨ ਅਨਦਿਨੁ ਹਿਰਦੈ ਹਰਿ ਨਾਮੁ ਧਿਆਈਐ ॥੧੦॥",
-      "roman": "nānak tin viṭahu vāriā jin anadin hirdai har nām dhiāīai",
+      "roman": "nānak tin viṭah vāriā jin anadin hirdē har nām dhiāīē",
       "sahib_singh_pa": "ਨਾਨਕ ਸਦਕੇ ਹੈ ਉਹਨਾਂ ਮਨੁੱਖਾਂ ਤੋਂ, ਜੋ ਹਰ ਵੇਲੇ ਹਿਰਦੇ ਵਿਚ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰਦੇ ਹਨ ॥੧੦॥",
       "translation_ru": "Нанак жертвует собой ради тех, кто всегда помнит Имя Бога в своём сердце."
     },
@@ -109,7 +109,7 @@
     {
       "verse_id": 25734,
       "gurmukhi": "ਨਾਨਕ ਵਿਣੁ ਨਾਵੈ ਨਕਂੀ ਵਢਂੀ ਫਿਰਹਿ ਸੋਭਾ ਮੂਲਿ ਨ ਪਾਹਿ ॥੧॥",
-      "roman": "nānak vin nāvai nakī vaḍhī phirah sobhā mūl na pāh",
+      "roman": "nānak vin nāvē nakī vaḍhī phirah sobhā mūl na pāh",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਨਾਮ ਤੋਂ ਸੱਖਣੇ ਰਾਜੇ ਭੀ ਨਕ-ਵੱਢੇ ਫਿਰਦੇ ਹਨ ਤੇ ਕਦੇ ਸੋਭਾ ਨਹੀਂ ਪਾਂਦੇ ॥੧॥",
       "translation_ru": "О Нанак! Даже цари без Имени ходят, словно с отрезанным носом, и никогда не обретают чести."
     },
@@ -123,28 +123,28 @@
     {
       "verse_id": 25736,
       "gurmukhi": "ਸੁਣਿ ਸਿਖਿਐ ਸਾਦੁ ਨ ਆਇਓ ਜਿਚਰੁ ਗੁਰਮੁਖਿ ਸਬਦਿ ਨ ਲਾਗੈ ॥",
-      "roman": "suṇ sikhiāi sād na āio jichar gurmukh sabad na lāgai",
+      "roman": "suṇ sikhiāi sād na āio jichar gurmukh sabad na lāgē",
       "sahib_singh_pa": "ਜਦ ਤਾਈਂ ਸਤਿਗੁਰੂ ਦੇ ਸਨਮੁਖ ਹੋ ਕੇ ਮਨੁੱਖ ਸਤਿਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਨਹੀਂ ਜੁੜਦਾ ਤਦ ਤਾਈਂ ਸਤਿਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਨਿਰੀ ਸੁਣ ਕੇ ਸੁਆਦ ਨਹੀਂ ਆਉਂਦਾ।",
       "translation_ru": "Пока человек, став лицом к Сатгуру, не соединяется с Его Словом, до тех пор, лишь слушая наставление, он не ощущает вкуса."
     },
     {
       "verse_id": 25737,
       "gurmukhi": "ਸਤਿਗੁਰਿ ਸੇਵਿਐ ਨਾਮੁ ਮਨਿ ਵਸੈ ਵਿਚਹੁ ਭ੍ਰਮੁ ਭਉ ਭਾਗੈ ॥",
-      "roman": "satgur seviai nām man vasai vichahu bhram bhau bhāgai",
+      "roman": "satgur seviē nām man vasē vichah bhram bhau bhāgē",
       "sahib_singh_pa": "ਸਤਿਗੁਰੂ ਦੀ ਦੱਸੀ ਸੇਵਾ ਕੀਤਿਆਂ ਹੀ ਨਾਮ ਮਨ ਵਿਚ ਵੱਸਦਾ ਹੈ ਤੇ ਅੰਦਰੋਂ ਭਰਮ ਤੇ ਡਰ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "Только служа Сатгуру, Имя поселяется в уме, и изнутри исчезают сомнение и страх."
     },
     {
       "verse_id": 25738,
       "gurmukhi": "ਜੇਹਾ ਸਤਿਗੁਰ ਨੋ ਜਾਣੈ ਤੇਹੋ ਹੋਵੈ ਤਾ ਸਚਿ ਨਾਮਿ ਲਿਵ ਲਾਗੈ ॥",
-      "roman": "jehā satgur no jāṇai teho hovai tā sach nām liv lāgai",
+      "roman": "jehā satgur no jāṇē teho hovē tā sach nām liv lāgē",
       "sahib_singh_pa": "ਜਦੋਂ ਮਨੁੱਖ ਜਿਹੋ ਜਿਹਾ ਆਪਣੇ ਸਤਿਗੁਰੂ ਨੂੰ ਸਮਝਦਾ ਹੈ, ਤਿਹੋ ਜਿਹਾ ਆਪ ਬਣ ਜਾਏ (ਭਾਵ, ਜਦੋਂ ਆਪਣੇ ਸਤਿਗੁਰੂ ਵਾਲੇ ਗੁਣ ਧਾਰਨ ਕਰੇ) ਤਦੋਂ ਉਸ ਦੀ ਬ੍ਰਿਤੀ ਸੱਚੇ ਨਾਮ ਵਿਚ ਜੁੜਦੀ ਹੈ।",
       "translation_ru": "Когда человек понимает Сатгуру таким, каким Он есть, и сам становится таким же, тогда его сознание соединяется с Истинным Именем."
     },
     {
       "verse_id": 25739,
       "gurmukhi": "ਨਾਨਕ ਨਾਮਿ ਮਿਲੈ ਵਡਿਆਈ ਹਰਿ ਦਰਿ ਸੋਹਨਿ ਆਗੈ ॥੨॥",
-      "roman": "nānak nām milai vaḍiāī har dar sohan āgai",
+      "roman": "nānak nām milē vaḍiāī har dar sohan āgē",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਇਹੋ ਜਿਹੇ ਜੀਵਾਂ ਨੂੰ) ਨਾਮ ਦੇ ਕਾਰਨ ਏਥੇ ਆਦਰ ਮਿਲਦਾ ਹੈ ਤੇ ਅੱਗੇ ਹਰੀ ਦੀ ਨਿਗਾਹ ਦੀ ਦਰਗਾਹ ਵਿਚ ਉਹ ਸੋਭਾ ਪਾਉਂਦੇ ਹਨ ॥੨॥",
       "translation_ru": "О Нанак! Благодаря Имени такие существа получают почёт здесь и сияют в присутствии Господа."
     },
@@ -158,14 +158,14 @@
     {
       "verse_id": 25741,
       "gurmukhi": "ਗੁਰਸਿਖਾਂ ਮਨਿ ਹਰਿ ਪ੍ਰੀਤਿ ਹੈ ਗੁਰੁ ਪੂਜਣ ਆਵਹਿ ॥",
-      "roman": "gursikhā man har prīt hai gur pūjan āvah",
+      "roman": "gursikhā man har prīt hē gur pūjan āvah",
       "sahib_singh_pa": "ਗੁਰਸਿੱਖਾਂ ਦੇ ਮਨ ਵਿਚ ਹਰੀ ਦਾ ਪਿਆਰ ਹੁੰਦਾ ਹੈ ਤੇ (ਉਸ ਪਿਆਰ ਦਾ ਸਦਕਾ ਉਹ) ਆਪਣੇ ਸਤਿਗੁਰੂ ਦੀ ਸੇਵਾ ਕਰਨ ਆਉਂਦੇ ਹਨ।",
       "translation_ru": "В сердцах гурсикхов есть любовь к Господу, и благодаря этой любви они приходят служить Сатгуру."
     },
     {
       "verse_id": 25742,
       "gurmukhi": "ਹਰਿ ਨਾਮੁ ਵਣੰਜਹਿ ਰੰਗ ਸਿਉ ਲਾਹਾ ਹਰਿ ਨਾਮੁ ਲੈ ਜਾਵਹਿ ॥",
-      "roman": "har nām vaṇanjah raṅg siu lāhā har nām lai jāvah",
+      "roman": "har nām vaṇanjah raṅg siu lāhā har nām lē jāvah",
       "sahib_singh_pa": "(ਸਤਿਗੁਰੂ ਦੇ ਕੋਲ ਆ ਕੇ) ਪਿਆਰ ਨਾਲ ਹਰੀ-ਨਾਮ ਦਾ ਵਪਾਰ ਕਰਦੇ ਹਨ ਤੇ ਹਰੀ-ਨਾਮ ਦਾ ਲਾਭ ਖੱਟ ਕੇ ਲੈ ਜਾਂਦੇ ਹਨ।",
       "translation_ru": "Они с любовью торгуют Именем Господа и, приобретя прибыль Имени, уносят её с собой."
     },
@@ -200,7 +200,7 @@
     {
       "verse_id": 25747,
       "gurmukhi": "ਨਾਨਕ ਨਾਮੁ ਨਿਧਾਨੁ ਹੈ ਗੁਰਮੁਖਿ ਪਾਇਆ ਜਾਇ ॥",
-      "roman": "nānak nām nidhān hai gurmukh pāiā jāi",
+      "roman": "nānak nām nidhān hē gurmukh pāiā jāi",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਨਾਮ (ਹੀ ਅਸਲ) ਖ਼ਜ਼ਾਨਾ ਹੈ, ਜੋ ਸਤਿਗੁਰੂ ਦੇ ਸਨਮੁਖ ਹੋ ਕੇ ਮਿਲ ਸਕਦਾ ਹੈ।",
       "translation_ru": "О Нанак! Имя — это истинное сокровище, которое можно получить, обратившись к Сатгуру."
     },
@@ -235,7 +235,7 @@
     {
       "verse_id": 25752,
       "gurmukhi": "ਨਾਨਕ ਗੁਰਮੁਖਿ ਸਦਾ ਸੁਖੁ ਪਾਵਹਿ ਅਨਦਿਨੁ ਹਰਿ ਬੈਰਾਗੀ ॥੨॥",
-      "roman": "nānak gurmukh sadā sukh pāvah andin har bairāgī",
+      "roman": "nānak gurmukh sadā sukh pāvah andin har bērāgī",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਸਤਿਗੁਰੂ ਦੇ ਸਨਮੁਖ ਮਨੁੱਖ ਹਰ ਵੇਲੇ ਪਰਮਾਤਮਾ ਦੇ ਵੈਰਾਗੀ ਹੋ ਕੇ ਸਦਾ ਸੁਖ ਪਾਉਂਦੇ ਹਨ ॥੨॥",
       "translation_ru": "О Нанак! Обратившись к Сатгуру, люди всегда пребывают в блаженстве, днём и ночью оставаясь отрешёнными ради Господа."
     },
@@ -249,21 +249,21 @@
     {
       "verse_id": 25754,
       "gurmukhi": "ਸੇ ਗੁਰਸਿਖ ਧਨੁ ਧੰਨੁ ਹੈ ਜਿਨੀ ਗੁਰ ਉਪਦੇਸੁ ਸੁਣਿਆ ਹਰਿ ਕੰਨੀ ॥",
-      "roman": "se gursikh dhan dhann hai jinī gur updes sunīā har kannī",
+      "roman": "se gursikh dhan dhann hē jinī gur updes sunīā har kannī",
       "sahib_singh_pa": "ਧੰਨ ਹਨ ਉਹ ਗੁਰਸਿੱਖ ਜਿਨ੍ਹਾਂ ਨੇ ਸਤਿਗੁਰੂ ਦਾ ਉਪਦੇਸ਼ ਗਹੁ ਨਾਲ ਸੁਣਿਆ ਹੈ।",
       "translation_ru": "Благословенны те гурсикхи, которые внимательно слушали наставление Сатгуру."
     },
     {
       "verse_id": 25755,
       "gurmukhi": "ਗੁਰਿ ਸਤਿਗੁਰਿ ਨਾਮੁ ਦ੍ਰਿੜਾਇਆ ਤਿਨਿ ਹੰਉਮੈ ਦੁਬਿਧਾ ਭੰਨੀ ॥",
-      "roman": "gur satgur nām driṛāiā tin haumai dubidhā bhaṇnī",
+      "roman": "gur satgur nām driṛāiā tin haumē dubidhā bhaṇnī",
       "sahib_singh_pa": "ਸਤਿਗੁਰੂ ਨੇ (ਜਿਸ ਦੇ ਭੀ ਹਿਰਦੇ ਵਿਚ) ਨਾਮ ਦ੍ਰਿੜ੍ਹ ਕੀਤਾ ਹੈ ਉਸ ਨੇ ਹਉਮੈ ਤੇ ਦੁਬਿਧਾ (ਹਿਰਦੇ ਵਿਚੋਂ) ਭੰਨ ਸੁੱਟੀ ਹੈ।",
       "translation_ru": "Кому Сатгуру утвердил Имя в сердце, тот разрушил эго и двойственность."
     },
     {
       "verse_id": 25756,
       "gurmukhi": "ਬਿਨੁ ਹਰਿ ਨਾਵੈ ਕੋ ਮਿਤ੍ਰੁ ਨਾਹੀ ਵੀਚਾਰਿ ਡਿਠਾ ਹਰਿ ਜੰਨੀ ॥",
-      "roman": "bin har nāvai ko mitr nāhī vīchār diṭhā har jannī",
+      "roman": "bin har nāvē ko mitr nāhī vīchār diṭhā har jannī",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰਨ ਵਾਲਿਆਂ (ਗੁਰ-ਸਿੱਖਾਂ) ਨੇ ਇਹ ਗੱਲ ਵਿਚਾਰ ਕੇ ਵੇਖ ਲਈ ਹੈ ਕਿ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਕੋਈ (ਸੱਚਾ) ਮਿਤ੍ਰ ਨਹੀਂ ਹੈ।",
       "translation_ru": "Те, кто помнит Господа, осознали: кроме Имени Господа нет истинного друга."
     }

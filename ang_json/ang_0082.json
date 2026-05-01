@@ -4,14 +4,14 @@
     {
       "verse_id": 3255,
       "gurmukhi": "ਸੰਤ ਜਨਾ ਵਿਣੁ ਭਾਈਆ ਹਰਿ ਕਿਨੈ ਨ ਪਾਇਆ ਨਾਉ ॥",
-      "roman": "sant janā viṇ bhāīā har kinai na pāiā nāu",
+      "roman": "sant janā viṇ bhāīā har kinē na pāiā nāu",
       "sahib_singh_pa": "ਸੰਤ ਜਨਾਂ ਭਰਾਵਾਂ (ਦੀ ਸੰਗਤਿ ਕਰਨ) ਤੋਂ ਬਿਨਾ ਕਿਸੇ ਮਨੁੱਖ ਨੇ (ਕਦੇ) ਹਰੀ ਦਾ ਨਾਮ ਪਰਾਪਤ ਨਹੀਂ ਕੀਤਾ,",
       "translation_ru": "Без общества святых никто не обретал Имя Господа."
     },
     {
       "verse_id": 3256,
       "gurmukhi": "ਵਿਚਿ ਹਉਮੈ ਕਰਮ ਕਮਾਵਦੇ ਜਿਉ ਵੇਸੁਆ ਪੁਤੁ ਨਿਨਾਉ ॥",
-      "roman": "vich haumai karam kamāvde jio vesuā put nināu",
+      "roman": "vich haumē karam kamāvde jio vesuā put nināu",
       "sahib_singh_pa": "(ਕਿਉਂਕਿ ਸੰਤਾਂ ਦੀ ਸੰਗਤਿ ਤੋਂ ਬਿਨਾ ਮਨੁੱਖ ਜੇਹੜੇ ਭੀ ਮਿਥੇ ਧਾਰਮਿਕ ਕਰਮ ਕਰਦੇ ਹਨ ਉਹ) ਹਉਮੈ ਦੇ ਅਸਰ ਹੇਠ ਹੀ ਕਰਮ ਕਰਦੇ ਹਨ (ਤੇ ਇਸ ਵਾਸਤੇ ਨਿਖਸਮੇ ਹੀ ਰਹਿ ਜਾਂਦੇ ਹਨ) ਜਿਵੇਂ ਕਿਸੇ ਵੇਸੁਆ ਦਾ ਪੁੱਤਰ (ਆਪਣੇ ਪਿਤਾ ਦਾ) ਨਾਮ ਨਹੀਂ ਦੱਸ ਸਕਦਾ।",
       "translation_ru": "Без этого люди действуют в эго и остаются без Господа, как сын блудницы без имени отца."
     },
@@ -46,14 +46,14 @@
     {
       "verse_id": 3261,
       "gurmukhi": "ਗੁਰਿ ਪੂਰੈ ਨਾਮੁ ਦ੍ਰਿੜਾਇਆ ਹਰਿ ਮਿਲਿਆ ਹਰਿ ਪ੍ਰਭ ਨਾਉ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "gur pūrai nām driṛāiā har miliā har prabh nāu",
+      "roman": "gur pūrē nām driṛāiā har miliā har prabh nāu",
       "sahib_singh_pa": "ਪੂਰੇ ਗੁਰੂ ਨੇ ਉਸ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਪੱਕਾ ਕਰ ਦਿੱਤਾ, ਉਸ ਮਨੁੱਖ ਨੂੰ ਪਰਮਾਤਮਾ ਮਿਲ ਪਿਆ, ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਮਿਲ ਪਿਆ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Совершенный Гуру утвердил Имя, и человек обретает Бога и Его Имя."
     },
     {
       "verse_id": 3262,
       "gurmukhi": "ਜਬ ਲਗੁ ਜੋਬਨਿ ਸਾਸੁ ਹੈ ਤਬ ਲਗੁ ਨਾਮੁ ਧਿਆਇ ॥",
-      "roman": "jab lag joban sās hai tab lag nām dhiāi",
+      "roman": "jab lag joban sās hē tab lag nām dhiāi",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ!) ਜਦੋਂ ਤਕ ਜੁਆਨੀ ਵਿਚ ਸਾਹ (ਆ ਰਿਹਾ) ਹੈ, ਤਦ ਤਕ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰ (ਬੁਢੇਪੇ ਵਿਚ ਨਾਮ ਜਪਣਾ ਔਖਾ ਹੋ ਜਾਏਗਾ)।",
       "translation_ru": "Пока есть дыхание в молодости, помни Имя."
     },
@@ -116,7 +116,7 @@
     {
       "verse_id": 3271,
       "gurmukhi": "ਗੁਰਮੁਖਾ ਮਨਿ ਪਰਗਾਸੁ ਹੈ ਸੇ ਵਿਰਲੇ ਕੇਈ ਕੇਇ ॥",
-      "roman": "gurmukhā man pargās hai se virle keī kei",
+      "roman": "gurmukhā man pargās hē se virle keī kei",
       "sahib_singh_pa": "ਜੇਹੜੇ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਂਦੇ ਹਨ, ਉਹਨਾਂ ਦੇ ਮਨ ਵਿਚ (ਆਤਮਕ) ਚਾਨਣ ਹੋ ਜਾਂਦਾ ਹੈ, ਪਰ ਅਜੇਹੇ ਬੰਦੇ ਕੋਈ ਵਿਰਲੇ ਹੁੰਦੇ ਹਨ, ਕੋਈ ਵਿਰਲੇ ਹੁੰਦੇ ਹਨ।",
       "translation_ru": "У гурумухов ум озаряется, но таких редкие."
     },
@@ -151,28 +151,28 @@
     {
       "verse_id": 3276,
       "gurmukhi": "ਘਟਿ ਘਟਿ ਰਮਈਆ ਮਨਿ ਵਸੈ ਕਿਉ ਪਾਈਐ ਕਿਤੁ ਭਤਿ ॥",
-      "roman": "ghaṭ ghaṭ ramaīā man vasai kiu pāīai kit bhat",
+      "roman": "ghaṭ ghaṭ ramaīā man vasē kiu pāīē kit bhat",
       "sahib_singh_pa": "ਹਰੇਕ ਘਟ ਵਿਚ, ਹਰੇਕ ਮਨ ਵਿਚ ਸੋਹਣਾ ਰਾਮ ਵੱਸਦਾ ਹੈ (ਪਰ ਦਿੱਸਦਾ ਨਹੀਂ। ਉਹ) ਕਿਵੇਂ ਲੱਭੇ? ਕਿਸ ਤਰੀਕੇ ਨਾਮ ਮਿਲੇ?",
       "translation_ru": "Бог пребывает в каждом сердце — как Его найти?"
     },
     {
       "verse_id": 3277,
       "gurmukhi": "ਗੁਰੁ ਪੂਰਾ ਸਤਿਗੁਰੁ ਭੇਟੀਐ ਹਰਿ ਆਇ ਵਸੈ ਮਨਿ ਚਿਤਿ ॥",
-      "roman": "gur pūrā satgur bheṭīai har āi vasai man chit",
+      "roman": "gur pūrā satgur bheṭīē har āi vasē man chit",
       "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਲੱਭ ਪਏ, ਜੋ ਪੂਰਾ ਸਤਿਗੁਰੂ ਮਿਲ ਪਏ, ਤਾਂ ਪਰਮਾਤਮਾ (ਆਪ) ਆ ਕੇ ਮਨ ਵਿਚ ਚਿੱਤ ਵਿਚ ਵੱਸ ਪੈਂਦਾ ਹੈ।",
       "translation_ru": "Если встретить совершенного Гуру, Бог Сам приходит и поселяется в сердце."
     },
     {
       "verse_id": 3278,
       "gurmukhi": "ਮੈ ਧਰ ਨਾਮੁ ਅਧਾਰੁ ਹੈ ਹਰਿ ਨਾਮੈ ਤੇ ਗਤਿ ਮਤਿ ॥",
-      "roman": "mai dhar nām adhār hai har nāme te gat mat",
+      "roman": "mē dhar nām adhār hē har nāme te gat mat",
       "sahib_singh_pa": "ਮੇਰੇ ਵਾਸਤੇ ਤਾਂ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹੀ ਆਸਰਾ-ਪਰਨਾ ਹੈ, ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਹੀ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ ਮਿਲਦੀ ਹੈ, ਤੇ ਅਕਲ ਮਿਲਦੀ ਹੈ।",
       "translation_ru": "Имя Бога — моя опора; через него приходит высшее состояние и разум."
     },
     {
       "verse_id": 3279,
       "gurmukhi": "ਮੈ ਹਰਿ ਹਰਿ ਨਾਮੁ ਵਿਸਾਹੁ ਹੈ ਹਰਿ ਨਾਮੇ ਹੀ ਜਤਿ ਪਤਿ ॥",
-      "roman": "mai har har nām visāh hai har nāme hī jat pat",
+      "roman": "mē har har nām visāh hē har nāme hī jat pat",
       "sahib_singh_pa": "ਮੇਰੇ ਪਾਸ ਤਾਂ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹੀ ਰਾਸਿ-ਪੂੰਜੀ ਹੈ, ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਜੁੜਨਾ ਹੀ (ਮੇਰੇ ਵਾਸਤੇ) ਉੱਚੀ ਜਾਤਿ ਹੈ, ਤੇ (ਲੋਕ ਪਰਲੋਕ ਦੀ) ਇੱਜ਼ਤ ਹੈ।",
       "translation_ru": "Имя Бога — моё богатство; в нём моя честь и достоинство."
     },
@@ -186,7 +186,7 @@
     {
       "verse_id": 3281,
       "gurmukhi": "ਹਰਿ ਧਿਆਵਹੁ ਹਰਿ ਪ੍ਰਭੁ ਸਤਿ ॥",
-      "roman": "har dhiāvhu har prabh sat",
+      "roman": "har dhiāvh har prabh sat",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ!) ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਹਰਿ-ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਦੇ ਰਹੋ।",
       "translation_ru": "Помните вечного Господа."
     },
@@ -235,7 +235,7 @@
     {
       "verse_id": 3288,
       "gurmukhi": "ਹਰਿ ਧਿਆਵਹੁ ਸਾਸਿ ਗਿਰਾਸਿ ॥",
-      "roman": "har dhiāvhu sās girās",
+      "roman": "har dhiāvh sās girās",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ!) ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ ਹਰੇਕ ਗਿਰਾਹੀ ਦੇ ਨਾਲ ਪਰਮਾਤਮਾ ਦਾ ਧਿਆਨ ਧਰਦੇ ਰਹੋ।",
       "translation_ru": "Помните Бога с каждым дыханием и пищей."
     },

@@ -46,7 +46,7 @@
     {
       "verse_id": 31890,
       "gurmukhi": "ਨਿਰਦੈ ਜੰਤੁ ਤਿਸੁ ਦਇਆ ਨ ਪਾਈ ॥੨॥",
-      "roman": "nirdai jant tis dayā na pāī 2",
+      "roman": "nirdē jant tis dayā na pāī 2",
       "sahib_singh_pa": "ਇਹ ਵਿਛੋੜਾ (ਮਾਨੋ) ਇਕ ਨਿਰਦਈ ਜੀਵ ਹੈ ਜਿਸ ਦੇ ਅੰਦਰ ਰਤਾ ਭਰ ਦਇਆ ਨਹੀਂ ਹੈ ॥੨॥",
       "translation_ru": "это разлука подобна безжалостному существу, в котором нет ни капли сострадания. 2"
     },
@@ -60,21 +60,21 @@
     {
       "verse_id": 31892,
       "gurmukhi": "ਘਰਿ ਵਾਸੁ ਨ ਦੇਵੈ ਦੁਤਰ ਮਾਈ ॥੩॥",
-      "roman": "ghar vās na devai dūtar māī 3",
+      "roman": "ghar vās na devē dūtar māī 3",
       "sahib_singh_pa": "ਇਹ ਦੁੱਤਰ ਮਾਇਆ ਹਿਰਦੇ-ਘਰ ਵਿਚ (ਮੇਰੇ ਮਨ ਨੂੰ) ਟਿਕਣ ਨਹੀਂ ਦੇਂਦੀ ॥੩॥",
       "translation_ru": "Эта труднопреодолимая майя не даёт моему уму утвердиться в доме сердца. 3"
     },
     {
       "verse_id": 31893,
       "gurmukhi": "ਦਿਨੁ ਰੈਨਿ ਅਪਨਾ ਕੀਆ ਪਾਈ ॥",
-      "roman": "din rain apnā kīā pāī",
+      "roman": "din rēn apnā kīā pāī",
       "sahib_singh_pa": "ਪਰ ਮੈਂ ਦਿਨ ਰਾਤ ਆਪਣੇ ਕਮਾਏ ਦਾ ਫਲ ਭੋਗ ਰਿਹਾ ਹਾਂ।",
       "translation_ru": "Но я день и ночь вкушаю плод своих собственных дел."
     },
     {
       "verse_id": 31894,
       "gurmukhi": "ਕਿਸੁ ਦੋਸੁ ਨ ਦੀਜੈ ਕਿਰਤੁ ਭਵਾਈ ॥੪॥",
-      "roman": "kis dos na dījai kirat bhavāī 4",
+      "roman": "kis dos na dījē kirat bhavāī 4",
       "sahib_singh_pa": "ਕਿਸੇ ਨੂੰ ਦੋਸ ਨਹੀਂ ਦਿੱਤਾ ਜਾ ਸਕਦਾ, ਮੈਂ ਪਿਛਲੇ ਜਨਮਾਂ ਦਾ ਆਪਣਾ ਹੀ ਕੀਤਾ ਭਟਕਣਾ ਵਿਚ ਪਾ ਰਿਹਾ ਹੈ ॥੪॥",
       "translation_ru": "Никого нельзя винить — это мои собственные прошлые деяния ввергают меня в блуждание. 4"
     },
@@ -144,14 +144,14 @@
     {
       "verse_id": 31904,
       "gurmukhi": "ਐਸੋ ਰਾਜੁ ਨ ਕਿਤੈ ਕਾਜਿ ਜਿਤੁ ਨਹ ਤ੍ਰਿਪਤਾਏ ॥੨॥",
-      "roman": "aiso rāj na kitai kāj jit nah triptāe 2",
+      "roman": "ēso rāj na kitē kāj jit nah triptāe 2",
       "sahib_singh_pa": "ਪਰ, ਹੇ ਭਾਈ! ਇਹੋ ਜਿਹਾ ਰਾਜ ਕਿਸੇ ਕੰਮ ਨਹੀਂ ਜਿਸ ਵਿਚ (ਮਨੁੱਖ ਮਾਇਆ ਵਲੋਂ ਕਦੇ) ਰੱਜੇ ਹੀ ਨਾਹ ॥੨॥",
       "translation_ru": "Но такое царство ни к чему, в котором человек никогда не насыщается майей. 2"
     },
     {
       "verse_id": 31905,
       "gurmukhi": "ਨਗਨ ਫਿਰਤ ਰੰਗਿ ਏਕ ਕੈ ਓਹੁ ਸੋਭਾ ਪਾਏ ॥",
-      "roman": "nagan firat raṅg ek kai oh sobhā pāe",
+      "roman": "nagan firat raṅg ek kē oh sobhā pāe",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜੇਹੜਾ ਮਨੁੱਖ ਇਕ ਪਰਮਾਤਮਾ ਦੇ ਪ੍ਰੇਮ ਵਿਚ ਨੰਗਾ ਭੀ ਤੁਰਿਆ ਫਿਰਦਾ ਹੈ, ਉਹ ਸੋਭਾ ਖੱਟਦਾ ਹੈ,",
       "translation_ru": "О брат! Тот, кто даже нагим ходит в любви к Единому Богу, обретает славу,"
     },
@@ -165,7 +165,7 @@
     {
       "verse_id": 31907,
       "gurmukhi": "ਸਭੁ ਕਿਛੁ ਤੁਮੑਰੈ ਹਾਥਿ ਪ੍ਰਭ ਆਪਿ ਕਰੇ ਕਰਾਏ ॥",
-      "roman": "sabh kichh tumhrai hāth prabh āp kare karāe",
+      "roman": "sabh kichh tumhrē hāth prabh āp kare karāe",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ! ਜੀਵਾਂ ਨੂੰ ਕੀਹ ਦੋਸ? ਪ੍ਰਭੂ) ਆਪ ਹੀ ਸਭ ਕੁਝ ਕਰਦਾ ਹੈ (ਜੀਵਾਂ ਪਾਸੋਂ) ਕਰਾਂਦਾ ਹੈ।",
       "translation_ru": "О брат! Всё в руках Бога; Он Сам всё делает и побуждает делать."
     },
@@ -270,14 +270,14 @@
     {
       "verse_id": 31922,
       "gurmukhi": "ਰਾਖਿ ਲੇਹੁ ਇਹੁ ਬਿਖਈ ਜੀਉ ਦੇਹੁ ਅਪੁਨਾ ਨਾਉ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "rākh lehu ih bikhai jīo dehu apnā nāu 1 rahāu",
+      "roman": "rākh leh ih bikhai jīo deh apnā nāu 1 rahāu",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਮੈਨੂੰ ਆਪਣਾ ਨਾਮ ਬਖ਼ਸ਼, ਤੇ ਮੈਨੂੰ ਇਸ ਵਿਕਾਰੀ ਜੀਵ ਨੂੰ (ਮਾਇਆ ਦੇ ਹੱਥੋਂ) ਬਚਾ ਲੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "О Господь! Даруй мне Своё Имя и спаси меня, этого порочного существа, от майи. 1 Пауза"
     },
     {
       "verse_id": 31923,
       "gurmukhi": "ਜਾ ਤੇ ਨਾਹੀ ਕੋ ਸੁਖੀ ਤਾ ਕੈ ਪਾਛੈ ਜਾਉ ॥",
-      "roman": "jā te nāhī ko sukhī tā kai pāchhai jāu",
+      "roman": "jā te nāhī ko sukhī tā kē pāchhē jāu",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਭੀ ਉਸ (ਮਾਇਆ) ਦੇ ਪਿੱਛੇ (ਮੁੜ ਮੁੜ) ਜਾਂਦਾ ਹਾਂ ਜਿਸ ਪਾਸੋਂ ਕੋਈ ਭੀ ਕਦੇ ਸੁਖੀ ਨਹੀਂ ਹੋਇਆ।",
       "translation_ru": "О Господь! Я вновь и вновь следую за той майей, от которой никто никогда не обрёл счастья."
     },
@@ -291,7 +291,7 @@
     {
       "verse_id": 31925,
       "gurmukhi": "ਕਰਹੁ ਕ੍ਰਿਪਾ ਕਰੁਣਾਪਤੇ ਤੇਰੇ ਹਰਿ ਗੁਣ ਗਾਉ ॥",
-      "roman": "karahu kirpā karuṇāpat tere har guṇ gāu",
+      "roman": "karah kirpā karuṇāpat tere har guṇ gāu",
       "sahib_singh_pa": "ਹੇ ਤਰਸ ਦੇ ਮਾਲਕ! ਹੇ ਹਰੀ! (ਮੇਰੇ ਉਤੇ) ਮੇਹਰ ਕਰ, ਮੈਂ ਤੇਰੇ ਗੁਣ ਗਾਂਦਾ ਰਹਾਂ।",
       "translation_ru": "О Владыка сострадания! О Хари! Прояви милость, чтобы я воспевал Твои качества."
     },

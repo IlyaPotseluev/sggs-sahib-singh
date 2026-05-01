@@ -46,7 +46,7 @@
     {
       "verse_id": 14692,
       "gurmukhi": "ਹਮਰੈ ਖੋਜਿ ਪਰਹੁ ਮਤਿ ਕੋਈ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "hamrai khoj parahu mat koī",
+      "roman": "hamrē khoj parah mat koī",
       "sahib_singh_pa": "(ਤੁਹਾਨੂੰ ਲੋਕਾਂ ਨੂੰ ਜਗਤ ਵਿਚ ਮਨ-ਵਡਿਆਈ ਦਾ ਖ਼ਿਆਲ ਹੈ, ਇਸ ਵਾਸਤੇ ਜਿਸ ਰਾਹੇ ਮੈਂ ਪਿਆ ਹਾਂ) ਉਸ ਰਾਹੇ ਮੇਰੇ ਪਿੱਛੇ ਨਾਹ ਤੁਰੋ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Вы, люди, озабочены мирской честью, поэтому не следуйте за мной по тому пути, по которому я иду ॥੧॥ ਰਹਾਉ ॥"
     },
@@ -74,14 +74,14 @@
     {
       "verse_id": 14696,
       "gurmukhi": "ਤਬ ਜਾਨਹੁਗੇ ਜਬ ਉਘਰੈਗੋ ਪਾਜ ॥੩॥",
-      "roman": "tab jānahuge jab ughraigo pāj",
+      "roman": "tab jānahuge jab ughrēgo pāj",
       "sahib_singh_pa": "ਕਿਉਂਕਿ ਤੁਹਾਨੂੰ ਭੀ ਤਦੋਂ ਹੀ ਸਮਝ ਆਵੇਗੀ (ਕਿ ਅਸਲ ਇੱਜ਼ਤ ਜਾਂ ਨਿਰਾਦਰੀ ਕਿਹੜੀ ਹੈ) ਜਦੋਂ ਤੁਹਾਡਾ ਇਹ ਜਗਤ-ਵਿਖਾਵਾ ਉੱਘੜ ਜਾਇਗਾ ॥੩॥",
       "translation_ru": "вы сами поймёте это лишь тогда, когда раскроется ваша мирская показуха ॥੩॥"
     },
     {
       "verse_id": 14697,
       "gurmukhi": "ਕਹੁ ਕਬੀਰ ਪਤਿ ਹਰਿ ਪਰਵਾਨੁ ॥",
-      "roman": "kahu kabīr pat har parvān",
+      "roman": "kah kabīr pat har parvān",
       "sahib_singh_pa": "ਕਬੀਰ ਆਖਦਾ ਹੈ- (ਅਸਲ) ਇੱਜ਼ਤ ਉਸੇ ਦੀ ਹੀ ਹੈ, ਜਿਸ ਨੂੰ ਪ੍ਰਭੂ ਕਬੂਲ ਕਰ ਲਏ।",
       "translation_ru": "Кабир говорит — истинная честь только у того,"
     },
@@ -144,21 +144,21 @@
     {
       "verse_id": 14706,
       "gurmukhi": "ਬਿੰਦੁ ਰਾਖਿ ਜੌ ਤਰੀਐ ਭਾਈ ॥",
-      "roman": "bind rākhi jau tarīai bhāī",
+      "roman": "bind rākh jau tarīai bhāī",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜੇ ਬਾਲ-ਜਤੀ ਰਿਹਾਂ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ) ਤਰ ਸਕੀਦਾ ਹੈ,",
       "translation_ru": "Если, сохраняя семя, можно переплыть океан мира,"
     },
     {
       "verse_id": 14707,
       "gurmukhi": "ਖੁਸਰੈ ਕਿਉ ਨ ਪਰਮ ਗਤਿ ਪਾਈ ॥੩॥",
-      "roman": "khusrai kiu na param gat pāī",
+      "roman": "khusrē kiu na param gat pāī",
       "sahib_singh_pa": "ਤਾਂ ਖੁਸਰੇ ਨੂੰ ਕਿਉਂ ਮੁਕਤੀ ਨਹੀਂ ਮਿਲ ਜਾਂਦੀ? ॥੩॥",
       "translation_ru": "то почему евнух не достигает высшего состояния? ॥੩॥"
     },
     {
       "verse_id": 14708,
       "gurmukhi": "ਕਹੁ ਕਬੀਰ ਸੁਨਹੁ ਨਰ ਭਾਈ ॥",
-      "roman": "kahu kabīr sunahu nar bhāī",
+      "roman": "kah kabīr sunah nar bhāī",
       "sahib_singh_pa": "ਕਬੀਰ ਆਖਦਾ ਹੈ- ਹੇ ਭਰਾਵੋ! ਸੁਣੋ!",
       "translation_ru": "Кабир говорит — слушайте, о братья!"
     },
@@ -193,35 +193,35 @@
     {
       "verse_id": 14713,
       "gurmukhi": "ਜਉ ਪੈ ਰਾਮ ਰਾਮ ਰਤਿ ਨਾਹੀ ॥",
-      "roman": "jau pai rām rām rat nāhī",
+      "roman": "jau pē rām rām rat nāhī",
       "sahib_singh_pa": "ਪਰ ਜੇਕਰ ਉਹਨਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਪਿਆਰ ਨਹੀਂ ਹੈ,",
       "translation_ru": "Если в их сердце нет любви к Имени Бога,"
     },
     {
       "verse_id": 14714,
       "gurmukhi": "ਤੇ ਸਭਿ ਧਰਮ ਰਾਇ ਕੈ ਜਾਹੀ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "te sabh dharam rāi kai jāhī",
+      "roman": "te sabh dharam rāi kē jāhī",
       "sahib_singh_pa": "ਤਾਂ ਉਹ ਸਾਰੇ ਧਰਮਰਾਜ ਦੇ ਵੱਸ ਪੈਂਦੇ ਹਨ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "то все они подпадают под власть Дхармараджа ॥੧॥ ਰਹਾਉ ॥"
     },
     {
       "verse_id": 14715,
       "gurmukhi": "ਕਾਇਆ ਰਤਿ ਬਹੁ ਰੂਪ ਰਚਾਹੀ ॥",
-      "roman": "kāiā rat bahu rūp rachāhī",
+      "roman": "kāiā rat bah rūp rachāhī",
       "sahib_singh_pa": "(ਕਈ ਮਨੁੱਖ) ਸਰੀਰ ਦੇ ਮੋਹ ਵਿਚ ਹੀ (ਭਾਵ, ਸਰੀਰ ਨੂੰ ਪਾਲਣ ਦੀ ਖ਼ਾਤਰ ਹੀ) ਕਈ ਭੇਖ ਬਣਾਉਂਦੇ ਹਨ;",
       "translation_ru": "Многие, привязанные к телу, принимают разные обличья,"
     },
     {
       "verse_id": 14716,
       "gurmukhi": "ਤਿਨ ਕਉ ਦਇਆ ਸੁਪਨੈ ਭੀ ਨਾਹੀ ॥੨॥",
-      "roman": "tin kau daiyā supnai bhī nāhī",
+      "roman": "tin kau dēyā supnē bhī nāhī",
       "sahib_singh_pa": "ਉਹਨਾਂ ਨੂੰ ਕਦੇ ਸੁਪਨੇ ਵਿਚ ਭੀ ਦਇਆ ਨਹੀਂ ਆਈ (ਉਹਨਾਂ ਦਾ ਹਿਰਦਾ ਕਦੇ ਭੀ ਨਹੀਂ ਦ੍ਰਵਿਆ) ॥੨॥",
       "translation_ru": "но у них нет сострадания даже во сне ॥੨॥"
     },
     {
       "verse_id": 14717,
       "gurmukhi": "ਚਾਰਿ ਚਰਨ ਕਹਹਿ ਬਹੁ ਆਗਰ ॥",
-      "roman": "chār charan kahahi bahu āgar",
+      "roman": "chār charan kahah bah āgar",
       "sahib_singh_pa": "ਬਹੁਤੇ ਸਿਆਣੇ ਮਨੁੱਖ ਚਾਰ ਵੇਦ (ਆਦਿਕ ਧਰਮ-ਪੁਸਤਕਾਂ ਨੂੰ) ਹੀ (ਨਿਰੇ) ਪੜ੍ਹਦੇ ਹਨ (ਪਰ ਨਿਰਾ ਪੜ੍ਹਨ ਨਾਲ ਕੀਹ ਬਣੇ?)।",
       "translation_ru": "Многие учёные читают четыре Веды,"
     },
@@ -235,14 +235,14 @@
     {
       "verse_id": 14719,
       "gurmukhi": "ਕਹੁ ਕਬੀਰ ਬਹੁ ਕਾਇ ਕਰੀਜੈ ॥",
-      "roman": "kahu kabīr bahu kāi karījai",
+      "roman": "kah kabīr bah kāi karījē",
       "sahib_singh_pa": "ਕਬੀਰ ਆਖਦਾ ਹੈ- ਸਾਰੀਆਂ ਵਿਚਾਰਾਂ ਦਾ ਨਿਚੋੜ ਇਹ ਹੈ,",
       "translation_ru": "Кабир говорит — суть всех размышлений такова:"
     },
     {
       "verse_id": 14720,
       "gurmukhi": "ਸਰਬਸੁ ਛੋਡਿ ਮਹਾ ਰਸੁ ਪੀਜੈ ॥੪॥੫॥",
-      "roman": "sarbas chhoḍ mahā ras pījai",
+      "roman": "sarbas chhoḍ mahā ras pījē",
       "sahib_singh_pa": "ਕਿ ਸਭ ਪਦਾਰਥਾਂ ਦਾ ਮੋਹ ਛੱਡ ਕੇ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਰਸ ਪੀਣਾ ਚਾਹੀਦਾ ਹੈ ॥੪॥੫॥",
       "translation_ru": "оставь всё и вкуси высший нектар Имени ॥੪॥੫॥"
     },
@@ -263,7 +263,7 @@
     {
       "verse_id": 14723,
       "gurmukhi": "ਜਾ ਕੈ ਰਿਦੈ ਭਾਉ ਹੈ ਦੂਜਾ ॥੧॥",
-      "roman": "jā kai ridai bhāu hai dūjā",
+      "roman": "jā kē ridē bhāu hē dūjā",
       "sahib_singh_pa": "ਜਿਸ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਕਿਸੇ ਹੋਰ ਦਾ ਪਿਆਰ ਹੈ ॥੧॥",
       "translation_ru": "если в сердце есть любовь к другому, не к Богу? ॥੧॥"
     },
@@ -312,7 +312,7 @@
     {
       "verse_id": 14730,
       "gurmukhi": "ਕਹੁ ਕਬੀਰ ਭਗਤਿ ਕਰਿ ਪਾਇਆ ॥",
-      "roman": "kahu kabīr bhagat kar pāiā",
+      "roman": "kah kabīr bhagat kar pāiā",
       "sahib_singh_pa": "ਕਬੀਰ ਆਖਦਾ ਹੈ- ਪਰਮਾਤਮਾ ਬੰਦਗੀ ਕਰਨ ਨਾਲ (ਹੀ) ਮਿਲਦਾ ਹੈ,",
       "translation_ru": "Кабир говорит — Бог достигается только через преданность,"
     },
@@ -347,7 +347,7 @@
     {
       "verse_id": 14735,
       "gurmukhi": "ਕਹੁ ਰੇ ਪੰਡਿਤ ਬਾਮਨ ਕਬ ਕੇ ਹੋਏ ॥",
-      "roman": "kahu re paṇḍit bāman kab ke hoe",
+      "roman": "kah re paṇḍit bāman kab ke hoe",
       "sahib_singh_pa": "ਦੱਸ, ਹੇ ਪੰਡਿਤ! ਤੁਸੀ ਬ੍ਰਾਹਮਣ ਕਦੋਂ ਦੇ ਬਣ ਗਏ ਹੋ?",
       "translation_ru": "Скажи, о пандит, когда ты стал брахманом?"
     },
@@ -389,14 +389,14 @@
     {
       "verse_id": 14741,
       "gurmukhi": "ਕਹੁ ਕਬੀਰ ਜੋ ਬ੍ਰਹਮੁ ਬੀਚਾਰੈ ॥",
-      "roman": "kahu kabīr jo brahm bīchārai",
+      "roman": "kah kabīr jo brahm bīchārē",
       "sahib_singh_pa": "ਕਬੀਰ ਆਖਦਾ ਹੈ- ਜੋ ਪਰਮਾਤਮਾ (ਬ੍ਰਹਮ) ਨੂੰ ਸਿਮਰਦਾ ਹੈ,",
       "translation_ru": "Кабир говорит — тот, кто размышляет о Боге,"
     },
     {
       "verse_id": 14742,
       "gurmukhi": "ਸੋ ਬ੍ਰਾਹਮਣੁ ਕਹੀਅਤੁ ਹੈ ਹਮਾਰੈ ॥੪॥੭॥",
-      "roman": "so bāhmaṇ kahīat hamārai",
+      "roman": "so bāhmaṇ kahīat hamārē",
       "sahib_singh_pa": "ਅਸੀਂ ਤਾਂ ਉਸ ਮਨੁੱਖ ਨੂੰ ਬ੍ਰਾਹਮਣ ਸੱਦਦੇ ਹਾਂ ॥੪॥੭॥",
       "translation_ru": "того мы называем брахманом ॥੪॥੭॥"
     }

@@ -10,7 +10,7 @@
       "gurmukhi": "ਨਾਨਕ ਨਾਮ ਰਤੇ ਸੇ ਧਨਵੰਤ ਹੈਨਿ ਨਿਰਧਨੁ ਹੋਰੁ ਸੰਸਾਰੁ ॥੨੬॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Nānak nām ratē sē dhanvant hain, nirdhan hor sansār ॥26॥",
+      "roman": "Nānak nām ratē sē dhanvant hēn, nirdhan hor sansār ॥26॥",
       "translation_ru": "О Нанак, те, кто окрашены Именем, поистине богаты; весь остальной мир беден."
     },
     {
@@ -32,7 +32,7 @@
       "gurmukhi": "ਗੁਰਮਤੀ ਨਾਉ ਮਨਿ ਵਸੈ ਸਹਜੇ ਸਹਜਿ ਸਮਾਉ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Gurmatī nāu man vasai, sahjē sahaj samāu",
+      "roman": "Gurmatī nāu man vasē, sahjē sahaj samāu",
       "translation_ru": "По благодати наставления Гуру Имя Бога пребывает в их уме, и они всегда остаются погружены в духовную устойчивость."
     },
     {
@@ -54,7 +54,7 @@
       "gurmukhi": "ਜਨ ਨਾਨਕੁ ਮੰਗੈ ਧੂੜਿ ਤਿਨ ਹਉ ਸਦ ਕੁਰਬਾਣੈ ਜਾਉ ॥੨੭॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Jan Nānak mangai dhūṛ tin, hau sad kurbāṇai jāu ॥27॥",
+      "roman": "Jan Nānak mangē dhūṛ tin, hau sad kurbāṇē jāu ॥27॥",
       "translation_ru": "Слуга Нанак всегда просит пыли их стоп и говорит: о брат, я всегда иду в жертву им."
     },
     {
@@ -76,7 +76,7 @@
       "gurmukhi": "ਇਹੁ ਮੋਹੁ ਮਾਇਆ ਸਭੁ ਪਸਰਿਆ ਨਾਲਿ ਚਲੈ ਨ ਅੰਤੀ ਵਾਰ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Ih moh māiā sabh pasriā, nāl chalai na antī vār",
+      "roman": "Ih moh māiā sabh pasriā, nāl chalē na antī vār",
       "translation_ru": "Это привязанное очарование майи распространилось среди всей людской массы, но в последний час майя ни с кем не идет."
     },
     {
@@ -87,7 +87,7 @@
       "gurmukhi": "ਬਿਨੁ ਹਰਿ ਸਾਂਤਿ ਨ ਆਵਈ ਕਿਸੁ ਆਗੈ ਕਰੀ ਪੁਕਾਰ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Bin har sānt na āvaī, kis āgai karī pukār",
+      "roman": "Bin har sānt na āvaī, kis āgē karī pukār",
       "translation_ru": "Без Имени Бога не приходит покой; перед кем же мне взывать, если без Гуру никто не может освободить от привязанности майи?"
     },
     {
@@ -131,7 +131,7 @@
       "gurmukhi": "ਹਰਿ ਕਿਰਪਾ ਕਰਿ ਕੈ ਬਖਸਿ ਲੈਹੁ ਹਉ ਪਾਪੀ ਵਡ ਗੁਨਹਗਾਰੁ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Har kirpā kar kai bakhas laihu, hau pāpī vaḍ gunahgār",
+      "roman": "Har kirpā kar kē bakhas lēh, hau pāpī vaḍ gunahgār",
       "translation_ru": "О Хари, прояви милость и сам прости меня; я грешник, великий виновник."
     },
     {
@@ -142,7 +142,7 @@
       "gurmukhi": "ਹਰਿ ਜੀਉ ਲੇਖੈ ਵਾਰ ਨ ਆਵਈ ਤੂੰ ਬਖਸਿ ਮਿਲਾਵਣਹਾਰੁ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Har jīu lēkhai vār na āvaī, tūṅ bakhas milāvaṇhār",
+      "roman": "Har jīu lēkhē vār na āvaī, tūṅ bakhas milāvaṇhār",
       "translation_ru": "О дорогой Господь, по счету моих дел моя очередь получить прощение не может прийти; Ты способен простить и соединить меня со Своими стопами."
     },
     {
@@ -153,7 +153,7 @@
       "gurmukhi": "ਗੁਰ ਤੁਠੈ ਹਰਿ ਪ੍ਰਭੁ ਮੇਲਿਆ ਸਭ ਕਿਲਵਿਖ ਕਟਿ ਵਿਕਾਰ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Gur tuṭhai har prabh mēliā, sabh kilvikh kaṭ vikār",
+      "roman": "Gur tuṭhē har prabh mēliā, sabh kilvikh kaṭ vikār",
       "translation_ru": "О брат, когда милость Господа пришла, милосердный Гуру отсек все грехи и пороки и соединил человека с Хари-Прабху."
     },
     {
@@ -164,7 +164,7 @@
       "gurmukhi": "ਜਿਨਾ ਹਰਿ ਹਰਿ ਨਾਮੁ ਧਿਆਇਆ ਜਨ ਨਾਨਕ ਤਿਨੑ ਜੈਕਾਰੁ ॥੨੯॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Jinā har har nām dhiāiā, jan Nānak tinh jaikār ॥29॥",
+      "roman": "Jinā har har nām dhiāiā, jan Nānak tinh jēkār ॥29॥",
       "translation_ru": "О слуга Нанак, те люди, которые вспоминали Имя Хари, получают честь и славу в этом мире и в ином."
     },
     {
@@ -175,7 +175,7 @@
       "gurmukhi": "ਵਿਛੁੜਿ ਵਿਛੁੜਿ ਜੋ ਮਿਲੇ ਸਤਿਗੁਰ ਕੇ ਭੈ ਭਾਇ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Vichhuṛ vichhuṛ jo milē, satgur kē bhai bhāi",
+      "roman": "Vichhuṛ vichhuṛ jo milē, satgur kē bhē bhāi",
       "translation_ru": "О брат, те, кто после многих разлук с Богом наконец утвердились в благоговейном страхе и любви Сатгуру..."
     },
     {
@@ -197,7 +197,7 @@
       "gurmukhi": "ਗੁਰ ਸਾਧੂ ਸੰਗਤਿ ਮਿਲੈ ਹੀਰੇ ਰਤਨ ਲਭੰਨਿੑ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Gur sādhū sangat milai, hīrē ratan labhanni",
+      "roman": "Gur sādhū sangat milē, hīrē ratan labhanni",
       "translation_ru": "О Нанак, те, кому достается общество святого Гуру, находят в этом обществе драгоценные духовные качества Бога, подобные алмазам и самоцветам."
     },
     {
@@ -230,7 +230,7 @@
       "gurmukhi": "ਜਿਸ ਦਾ ਦਿਤਾ ਖਾਣਾ ਪੈਨਣਾ ਸੋ ਮਨਿ ਨ ਵਸਿਓ ਗੁਣਤਾਸੁ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Jis dā ditā khāṇā painṇā, so man na vasiō guṇtās",
+      "roman": "Jis dā ditā khāṇā pēnṇā, so man na vasiō guṇtās",
       "translation_ru": "Тот Господь, сокровищница качеств, чей дарованный хлеб и одежду они употребляют, не поселился в их уме."
     },
     {
@@ -241,7 +241,7 @@
       "gurmukhi": "ਇਹੁ ਮਨੁ ਸਬਦਿ ਨ ਭੇਦਿਓ ਕਿਉ ਹੋਵੈ ਘਰ ਵਾਸੁ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Ih man sabad na bhēdiō, kiu hovai ghar vās",
+      "roman": "Ih man sabad na bhēdiō, kiu hovē ghar vās",
       "translation_ru": "Этот их ум никогда не пронзался и не соединялся со Словом Гуру; как же им обрести обитель у стоп Господа?"
     },
     {
@@ -263,7 +263,7 @@
       "gurmukhi": "ਗੁਰਮੁਖਿ ਨਾਮੁ ਸੁਹਾਗੁ ਹੈ ਮਸਤਕਿ ਮਣੀ ਲਿਖਿਆਸੁ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Gurmukh nām suhāg hai, mastak maṇī likhiās",
+      "roman": "Gurmukh nām suhāg hē, mastak maṇī likhiās",
       "translation_ru": "О брат, у тех душ-жен, которые обращены к Гуру, Имя, пребывающее в сердце, является их супружеской удачей; на их челе нанесен благой знак."
     },
     {
@@ -274,7 +274,7 @@
       "gurmukhi": "ਹਰਿ ਹਰਿ ਨਾਮੁ ਉਰਿ ਧਾਰਿਆ ਹਰਿ ਹਿਰਦੈ ਕਮਲ ਪ੍ਰਗਾਸੁ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Har har nām ur dhāriā, har hirdai kamal pragās",
+      "roman": "Har har nām ur dhāriā, har hirdē kamal pragās",
       "translation_ru": "Обращенные к Гуру всегда держат Имя Хари в своем сердце, и лотос их сердца остается раскрытым."
     },
     {
@@ -307,7 +307,7 @@
       "gurmukhi": "ਸਬਦਿ ਮਰੈ ਸੋਈ ਜਨੁ ਸਿਝੈ ਬਿਨੁ ਸਬਦੈ ਮੁਕਤਿ ਨ ਹੋਈ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Sabad marai soī jan sijhai, bin sabdai mukat na hoī",
+      "roman": "Sabad marē soī jan sijhē, bin sabdē mukt na hoī",
       "translation_ru": "О брат, только тот человек преуспевает в жизни, кто через Слово Гуру умирает для пороков; без Слова Гуру освобождения от пороков не бывает."
     },
     {
@@ -318,7 +318,7 @@
       "gurmukhi": "ਭੇਖ ਕਰਹਿ ਬਹੁ ਕਰਮ ਵਿਗੁਤੇ ਭਾਇ ਦੂਜੈ ਪਰਜ ਵਿਗੋਈ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Bhēkh karah bahu karam vigutē, bhāi dūjai paraj vigoī",
+      "roman": "Bhēkh karah bah karam vigutē, bhāi dūjē paraj vigoī",
       "translation_ru": "Те, кто надевает лишь показные религиозные одежды и совершает показные религиозные действия, продолжают страдать; в любви к майе мир остается измученным."
     },
     {
@@ -329,7 +329,7 @@
       "gurmukhi": "ਨਾਨਕ ਬਿਨੁ ਸਤਿਗੁਰ ਨਾਉ ਨ ਪਾਈਐ ਜੇ ਸਉ ਲੋਚੈ ਕੋਈ ॥੩੨॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Nānak bin satgur nāu na pāīai, jē sau lochai koī ॥32॥",
+      "roman": "Nānak bin satgur nāu na pāīē, jē sau lochē koī ॥32॥",
       "translation_ru": "О Нанак, без прибежища Сатгуру Имя Бога не обретается, даже если человек будет стремиться к нему сотни раз."
     },
     {
@@ -351,7 +351,7 @@
       "gurmukhi": "ਅਪੜਿ ਕੋਇ ਨ ਸਕਈ ਜੇ ਸਉ ਲੋਚੈ ਕੋਈ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Apaṛ koī na sakaī, jē sau lochai koī",
+      "roman": "Apaṛ koī na sakaī, jē sau lochē koī",
       "translation_ru": "Даже если человек будет стремиться сотни раз, никто не может достичь высоты Его славы."
     },
     {
@@ -362,7 +362,7 @@
       "gurmukhi": "ਮੁਖਿ ਸੰਜਮ ਹਛਾ ਨ ਹੋਵਈ ਕਰਿ ਭੇਖ ਭਵੈ ਸਭ ਕੋਈ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Mukh sanjam hachhā na hovaī, kar bhēkh bhavai sabh koī",
+      "roman": "Mukh sanjam hachhā na hovaī, kar bhēkh bhavē sabh koī",
       "translation_ru": "Каждый садху может ходить в религиозной одежде, но одними устными разговорами о сдерживании чувств человек не становится чистой жизни."
     },
     {
@@ -373,7 +373,7 @@
       "gurmukhi": "ਗੁਰ ਕੀ ਪਉੜੀ ਜਾਇ ਚੜੈ ਕਰਮਿ ਪਰਾਪਤਿ ਹੋਈ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Gur kī pauṛī jāi chaṛai, karam parāpat hoī",
+      "roman": "Gur kī pauṛī jāi chaṛē, karam parāpat hoī",
       "translation_ru": "Слово Гуру — это ступень Гуру, с помощью которой человек достигает стоп Господа; но эта ступень обретается только по милости Бога."
     },
     {
@@ -384,7 +384,7 @@
       "gurmukhi": "ਅੰਤਰਿ ਆਇ ਵਸੈ ਗੁਰ ਸਬਦੁ ਵੀਚਾਰੈ ਕੋਇ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "Antar āi vasai gur sabad vīchārai koī",
+      "roman": "Antar āi vasē gur sabad vīchārē koī",
       "translation_ru": "О брат, тот, кто поселяет Слово Гуру в своем уме, в его сердце приходит и поселяется Бог."
     }
   ]

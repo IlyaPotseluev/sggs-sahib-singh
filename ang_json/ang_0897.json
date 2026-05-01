@@ -25,7 +25,7 @@
     {
       "verse_id": 38252,
       "gurmukhi": "ਭਉ ਭੰਜਨ ਰਿਦ ਮਾਹਿ ਅਰਾਧੋ ॥",
-      "roman": "bhau bhanjan rid māhi arādhō",
+      "roman": "bhau bhanjan rid māh arādhō",
       "sahib_singh_pa": "ਹੇ (ਜੀਵਾਂ ਦਾ ਹਰੇਕ) ਡਰ ਨਾਸ ਕਰਨ ਵਾਲੇ! ਹੇ ਹਿਰਦੇ ਵਿਚ ਆਰਾਧਨ-ਜੋਗ!",
       "translation_ru": "О разрушитель страха! Ты достоин поклонения в сердце."
     },
@@ -53,7 +53,7 @@
     {
       "verse_id": 38256,
       "gurmukhi": "ਪੀਰ ਪੈਕਾਂਬਰ ਸੇਖ ॥",
-      "roman": "pīr paigambar sekh",
+      "roman": "pīr pēgambar sekh",
       "sahib_singh_pa": "ਪੀਰਾਂ ਪੈਗ਼ੰਬਰਾਂ ਸ਼ੇਖਾਂ (ਸਭ ਨੂੰ ਤੂੰ ਹੀ ਨਜਾਤ ਦਿੰਦਾ ਹੈਂ।",
       "translation_ru": "Ты освобождаешь всех — пиров, пророков и шейхов."
     },
@@ -102,7 +102,7 @@
     {
       "verse_id": 38263,
       "gurmukhi": "ਮਿਹਰ ਦਇਆ ਕਰਿ ਕਰਨੈਹਾਰ ॥",
-      "roman": "mehr dayā kar karṇaihār",
+      "roman": "mehr dayā kar karṇēhār",
       "sahib_singh_pa": "ਹੇ ਸਭ ਜੀਵਾਂ ਦੇ ਰਚਨਹਾਰ! ਹੇ ਸਿਰਜਣਹਾਰ! ਮਿਹਰ ਕਰ ਕੇ ਦਇਆ ਕਰ ਕੇ-",
       "translation_ru": "О Творец! Прояви милость и сострадание."
     },
@@ -123,7 +123,7 @@
     {
       "verse_id": 38266,
       "gurmukhi": "ਏਕੋ ਅਲਹੁ ਪਾਰਬ੍ਰਹਮ ॥੫॥੩੪॥੪੫॥",
-      "roman": "eko alahu pārbrahm",
+      "roman": "eko alah pārbrahm",
       "sahib_singh_pa": "ਉਸ ਨੂੰ (ਮੁਸਲਮਾਨਾਂ ਦਾ) ਅੱਲਾਹ ਅਤੇ (ਹਿੰਦੂਆਂ ਦਾ) ਪਾਰਬ੍ਰਹਮ ਇੱਕੋ ਹੀ ਦਿੱਸ ਪੈਂਦੇ ਹਨ ॥੫॥੩੪॥੪੫॥",
       "translation_ru": "тот видит Аллаха и Парабрахм как одно."
     },
@@ -193,14 +193,14 @@
     {
       "verse_id": 38276,
       "gurmukhi": "ਰੈਨਿ ਦਿਨਸੁ ਪ੍ਰਭ ਸੇਵ ਕਮਾਨੀ ॥",
-      "roman": "rain dinas prabh sev kamānī",
+      "roman": "rēn dinas prabh sev kamānī",
       "sahib_singh_pa": "ਉਹ ਦਿਨ ਰਾਤ (ਹਰ ਵੇਲੇ) ਪ੍ਰਭੂ ਦੀ ਸੇਵਾ-ਭਗਤੀ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ।",
       "translation_ru": "Он день и ночь постоянно совершает служение и преданность Богу."
     },
     {
       "verse_id": 38277,
       "gurmukhi": "ਹਰਿ ਮਿਲਣੈ ਕੀ ਏਹ ਨੀਸਾਨੀ ॥੨॥",
-      "roman": "har milaṇai kī eh nīsānī",
+      "roman": "har milaṇē kī eh nīsānī",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਦੇ ਮਿਲਾਪ ਦਾ (ਵੱਡਾ) ਲੱਛਣ ਇਹੋ ਹੀ ਹੈ (ਹਰ ਵੇਲੇ ਪ੍ਰਭੂ ਦੀ ਸੇਵਾ-ਭਗਤੀ ਕਰਨੀ) ॥੨॥",
       "translation_ru": "Это и есть главный признак встречи с Богом."
     },
@@ -277,7 +277,7 @@
     {
       "verse_id": 38288,
       "gurmukhi": "ਚਰਨ ਕਮਲ ਹਿਰਦੈ ਧਰਿ ਧਿਆਨੁ ॥",
-      "roman": "charan kamal hirdai dhar dhiān",
+      "roman": "charan kamal hirdē dhar dhiān",
       "sahib_singh_pa": "(ਗੁਰੂ ਦੇ) ਸੋਹਣੇ ਚਰਨਾਂ ਦਾ ਧਿਆਨ ਹਿਰਦੇ ਵਿਚ ਧਰ ਕੇ (ਗੁਰੂ ਦੀ ਦੱਸੀ ਭਗਤੀ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ)।",
       "translation_ru": "Нужно удерживать в сердце медитацию на прекрасные стопы Гуру."
     },
@@ -298,14 +298,14 @@
     {
       "verse_id": 38291,
       "gurmukhi": "ਜਿਸੁ ਭੇਟਤ ਮਿਟੈ ਅਭਿਮਾਨੁ ॥",
-      "roman": "jis bheṭat miṭai abhimān",
+      "roman": "jis bheṭat miṭē abhimān",
       "sahib_singh_pa": "ਜਿਸ ਗੁਰੂ ਨੂੰ ਮਿਲਿਆਂ (ਮਨ ਵਿਚੋਂ) ਅਹੰਕਾਰ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ,",
       "translation_ru": "При встрече с тем Гуру исчезает гордыня."
     },
     {
       "verse_id": 38292,
       "gurmukhi": "ਪਾਰਬ੍ਰਹਮੁ ਸਭੁ ਨਦਰੀ ਆਵੈ ਕਰਿ ਕਿਰਪਾ ਪੂਰਨ ਭਗਵਾਨ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "pārbrahm sabh nadrī āvai kar kirpā pūran bhagvān",
+      "roman": "pārbrahm sabh nadrī āvē kar kirpā pūran bhagvān",
       "sahib_singh_pa": "ਅਤੇ ਪਾਰਬ੍ਰਹਮ ਪ੍ਰਭੂ ਹਰ ਥਾਂ ਦਿੱਸ ਪੈਂਦਾ ਹੈ, ਹੇ ਸਭ ਗੁਣਾਂ ਵਾਲੇ ਭਗਵਾਨ! (ਮੇਰੇ ਉਤੇ) ਕਿਰਪਾ ਕਰ (ਮੈਨੂੰ ਉਹ ਗੁਰੂ ਮਿਲਾ) ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "И тогда Верховный Бог видится повсюду; о совершенный Господь, прояви милость и даруй встречу с таким Гуру."
     },
@@ -347,7 +347,7 @@
     {
       "verse_id": 38298,
       "gurmukhi": "ਕਦੇ ਨ ਬਿਆਪੈ ਤ੍ਰਿਸਨਾ ਭੂਖ ॥",
-      "roman": "kade na biāpai trisanā bhūkh",
+      "roman": "kade na biāpē trisanā bhūkh",
       "sahib_singh_pa": "ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਮਾਇਆ ਦੀ ਭੁੱਖ ਕਦੇ ਆਪਣਾ ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕਦੀ।",
       "translation_ru": "Жажда и голод майи больше не могут одолеть."
     },

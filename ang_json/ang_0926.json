@@ -46,7 +46,7 @@
     {
       "verse_id": 39445,
       "gurmukhi": "ਬਿਨਵੰਤਿ ਨਾਨਕ ਪ੍ਰਭ ਮਇਆ ਕੀਜੈ ਨਾਮੁ ਤੇਰਾ ਜਪਿ ਜੀਵਾ ॥੩॥",
-      "roman": "binvant nānak prabh maiā kījai nām terā jap jīvā",
+      "roman": "binvant nānak prabh mēā kījē nām terā jap jīvā",
       "sahib_singh_pa": "ਨਾਨਕ ਬੇਨਤੀ ਕਰਦਾ ਹੈ-ਹੇ ਪ੍ਰਭੂ! ਦਇਆ ਕਰ, ਮੈਂ ਤੇਰਾ ਨਾਮ ਜਪ ਜਪ ਕੇ ਆਤਮਕ ਜੀਵਨ ਹਾਸਲ ਕਰਦਾ ਰਹਾਂ ॥੩॥",
       "translation_ru": "Нанак просит: даруй милость, чтобы я жил, повторяя Твоё Имя."
     },
@@ -144,21 +144,21 @@
     {
       "verse_id": 39459,
       "gurmukhi": "ਜਲਿ ਥਲਿ ਮਹੀਅਲਿ ਪੂਰਿ ਰਹਿਆ ਇਕ ਨਿਮਖ ਮਨਹੁ ਨ ਵੀਸਰੈ ॥",
-      "roman": "jal thal mahīal pūr rahiyā ik nimakh manahu na vīsrai",
+      "roman": "jal thal mahīal pūr rahiyā ik nimakh manah na vīsrē",
       "sahib_singh_pa": "ਉਹ ਪਰਮਾਤਮਾ ਜਲ ਵਿਚ ਧਰਤੀ ਵਿਚ ਪੁਲਾੜ ਵਿਚ (ਹਰ ਥਾਂ) ਵਿਆਪਕ ਹੈ ਅੱਖ ਦੇ ਝਮਕਣ ਜਿਤਨੇ ਸਮੇਂ ਵਾਸਤੇ ਭੀ ਉਹ ਪ੍ਰਭੂ ਸਾਡੇ ਮਨ ਤੋਂ ਭੁੱਲਣਾ ਨਹੀਂ ਚਾਹੀਦਾ।",
       "translation_ru": "Бог присутствует повсюду — в воде, на земле и в пространстве; даже на мгновение Он не должен забываться нашим умом."
     },
     {
       "verse_id": 39460,
       "gurmukhi": "ਗੁਰ ਚਰਨ ਲਾਗੇ ਦਿਨ ਸਭਾਗੇ ਸਰਬ ਗੁਣ ਜਗਦੀਸਰੈ ॥",
-      "roman": "gur charan lāge din sabhāge sarab guṇ jagdīsarai",
+      "roman": "gur charan lāge din sabhāge sarab guṇ jagdīsarē",
       "sahib_singh_pa": "ਉਹ ਦਿਨ ਭਾਗਾਂ ਵਾਲੇ (ਸਮਝੋ, ਜਦੋਂ ਸਾਡਾ ਮਨ) ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਜੁੜਿਆ ਰਹੇ, (ਪਰ ਇਹ ਸਾਡੇ ਆਪਣੇ ਵੱਸ ਦੀ ਗੱਲ ਨਹੀਂ, ਇਹ ਤਦੋਂ ਹੀ ਹੁੰਦਾ ਹੈ ਜਦੋਂ) ਉਸ ਜਗਤ ਦੇ ਮਾਲਕ ਪ੍ਰਭੂ ਦੀ ਮਿਹਰ (ਹੋਵੇ)।",
       "translation_ru": "Счастлив тот день, когда ум соединяется со стопами Гуру; но это происходит лишь по милости Господа, владыки мира."
     },
     {
       "verse_id": 39461,
       "gurmukhi": "ਕਰਿ ਸੇਵ ਸੇਵਕ ਦਿਨਸੁ ਰੈਣੀ ਤਿਸੁ ਭਾਵੈ ਸੋ ਹੋਇ ਜੀਉ ॥",
-      "roman": "kar sev sevak dinas raiṇī tis bhāvai so hoe jīo",
+      "roman": "kar sev sevak dinas rēṇī tis bhāvē so hoe jīo",
       "sahib_singh_pa": "ਦਿਨ ਰਾਤ ਸੇਵਕਾਂ ਵਾਂਗ ਉਸ ਪ੍ਰਭੂ ਦੀ ਸੇਵਾ-ਭਗਤੀ ਕਰਿਆ ਕਰ; ਜੋ ਕੁਝ ਉਸ ਨੂੰ ਭਾਉਂਦਾ ਹੈ ਉਹੀ (ਜਗਤ ਵਿਚ) ਹੋ ਰਿਹਾ ਹੈ।",
       "translation_ru": "Днём и ночью служи Богу как слуга; происходит только то, что угодно Ему."
     },
@@ -200,7 +200,7 @@
     {
       "verse_id": 39467,
       "gurmukhi": "ਭੈ ਸੰਕਟ ਕਾਟੇ ਨਾਰਾਇਣ ਦਇਆਲ ਜੀਉ ॥",
-      "roman": "bhai saṅkaṭ kāṭe nārāiṇ dayāl jīo",
+      "roman": "bhē saṅkaṭ kāṭe nārāiṇ dayāl jīo",
       "sahib_singh_pa": "ਦਇਆ ਦੇ ਸੋਮੇ ਨਾਰਾਇਣ ਨੇ ਉਸ ਮਨੁੱਖ ਦੇ ਸਾਰੇ ਡਰ ਤੇ ਦੁੱਖ-ਕਲੇਸ਼ ਕੱਟ ਦਿੱਤੇ,",
       "translation_ru": "Сострадательный Нараян устранил все страхи и страдания человека."
     },
@@ -249,14 +249,14 @@
     {
       "verse_id": 39474,
       "gurmukhi": "ਰਸਨਾ ਉਚਰੈ ਹਰਿ ਹਰੇ ਗੁਣ ਗੋਵਿੰਦ ਵਖਿਆਨ ॥",
-      "roman": "rasnā ucharai har hare guṇ govind vakhyān",
+      "roman": "rasnā ucharē har hare guṇ govind vakhyān",
       "sahib_singh_pa": "ਜਿਹੜਾ ਮਨੁੱਖ ਆਪਣੀ ਜੀਭ ਨਾਲ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਉਚਾਰਦਾ ਰਹਿੰਦਾ ਹੈ, ਗੋਬਿੰਦ ਦੇ ਗੁਣ ਬਿਆਨ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ,",
       "translation_ru": "Тот человек, который языком произносит имя Бога и воспевает качества Говинда,"
     },
     {
       "verse_id": 39475,
       "gurmukhi": "ਨਾਨਕ ਪਕੜੀ ਟੇਕ ਏਕ ਪਰਮੇਸਰੁ ਰਖੈ ਨਿਦਾਨ ॥੧॥",
-      "roman": "nānak pakṛī ṭek ek parmesar rakhai nidān",
+      "roman": "nānak pakṛī ṭek ek parmesar rakhē nidān",
       "sahib_singh_pa": "ਸਦਾ ਇਕ ਪਰਮੇਸਰ ਦਾ ਆਸਰਾ ਲਈ ਰੱਖਦਾ ਹੈ, ਹੇ ਨਾਨਕ! ਪਰਮਾਤਮਾ ਆਖ਼ਰ ਉਸ ਦੀ ਰੱਖਿਆ ਕਰਦਾ ਹੈ ॥੧॥",
       "translation_ru": "всегда держится за одного Бога; о Нанак! В конце Бог защищает его."
     },
@@ -270,7 +270,7 @@
     {
       "verse_id": 39477,
       "gurmukhi": "ਸੋ ਸੁਆਮੀ ਪ੍ਰਭੁ ਰਖਕੋ ਅੰਚਲਿ ਤਾ ਕੈ ਲਾਗੁ ਜੀਉ ॥",
-      "roman": "so suāmī prabh rakhko añchal tā kai lāg jīo",
+      "roman": "so suāmī prabh rakhko añchal tā kē lāg jīo",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਉਹੀ ਮਾਲਕ-ਪ੍ਰਭੂ ਹੀ (ਅਸਾਂ ਜੀਵਾਂ ਦਾ) ਰਾਖਾ ਹੈ, ਸਦਾ ਉਸ ਦੇ ਲੜ ਲੱਗਾ ਰਹੁ।",
       "translation_ru": "О брат! Только этот Господь — наш защитник, держись за Его край одежды."
     },

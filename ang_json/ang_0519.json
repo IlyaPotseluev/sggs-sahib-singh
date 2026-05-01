@@ -4,14 +4,14 @@
     {
       "verse_id": 23065,
       "gurmukhi": "ਸਭੁ ਕਿਛੁ ਜਾਣੈ ਜਾਣੁ ਬੁਝਿ ਵੀਚਾਰਦਾ ॥",
-      "roman": "sabh kichh jāṇai jāṇ bujh vīchārdā",
+      "roman": "sabh kichh jāṇē jāṇ bujh vīchārdā",
       "sahib_singh_pa": "ਉਹ ਅੰਤਰਜਾਮੀ (ਜੀਵਾਂ ਦੇ ਦਿਲ ਦੀ) ਹਰੇਕ ਗੱਲ ਜਾਣਦਾ ਹੈ ਤੇ ਉਸ ਨੂੰ ਸਮਝ ਕੇ (ਉਸ ਤੇ) ਵਿਚਾਰ ਭੀ ਕਰਦਾ ਹੈ,",
       "translation_ru": "Он знает всё, понимает и размышляет над этим,"
     },
     {
       "verse_id": 23066,
       "gurmukhi": "ਅਨਿਕ ਰੂਪ ਖਿਨ ਮਾਹਿ ਕੁਦਰਤਿ ਧਾਰਦਾ ॥",
-      "roman": "anik rūp khin māhi kudrat dhārdā",
+      "roman": "anik rūp khin māh kudrat dhārdā",
       "sahib_singh_pa": "ਇਕ ਪਲਕ ਵਿਚ ਕੁਦਰਤਿ ਦੇ ਅਨੇਕਾਂ ਰੂਪ ਬਣਾ ਦੇਂਦਾ ਹੈ,",
       "translation_ru": "в одно мгновение Он создаёт множество форм природы,"
     },
@@ -25,14 +25,14 @@
     {
       "verse_id": 23068,
       "gurmukhi": "ਜਿਸ ਦੈ ਹੋਵੈ ਵਲਿ ਸੁ ਕਦੇ ਨ ਹਾਰਦਾ ॥",
-      "roman": "jis dai hovai val su kade na hārdā",
+      "roman": "jis dē hovē val su kade na hārdā",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਜਿਸ ਜੀਵ ਦੇ ਪੱਖ ਵਿਚ ਹੋ ਜਾਂਦਾ ਹੈ ਉਹ ਜੀਵ (ਵਿਕਾਰਾਂ ਨੂੰ ਕਾਬੂ ਕਰਨ ਦੀ ਬਾਜ਼ੀ) ਕਦੇ ਹਾਰਦਾ ਨਹੀਂ,",
       "translation_ru": "тот, на чьей стороне Господь, никогда не проигрывает,"
     },
     {
       "verse_id": 23069,
       "gurmukhi": "ਸਦਾ ਅਭਗੁ ਦੀਬਾਣੁ ਹੈ ਹਉ ਤਿਸੁ ਨਮਸਕਾਰਦਾ ॥੪॥",
-      "roman": "sadā abhag dībāṇ hai hau tis namaskārdā",
+      "roman": "sadā abhag dībāṇ hē hau tis namaskārdā",
       "sahib_singh_pa": "ਉਸ ਪ੍ਰਭੂ ਦਾ ਦਰਬਾਰ ਸਦਾ ਅਟੱਲ ਹੈ, ਮੈਂ ਉਸ ਨੂੰ ਨਮਸਕਾਰ ਕਰਦਾ ਹਾਂ ॥੪॥",
       "translation_ru": "Его двор вечен и непоколебим, я склоняюсь перед Ним"
     },
@@ -46,7 +46,7 @@
     {
       "verse_id": 23071,
       "gurmukhi": "ਕਾਮੁ ਕ੍ਰੋਧੁ ਲੋਭੁ ਛੋਡੀਐ ਦੀਜੈ ਅਗਨਿ ਜਲਾਇ ॥",
-      "roman": "kām krodh lobh chhodi-ai dījai agan jalāe",
+      "roman": "kām krodh lobh chhodi-ē dījē agan jalāe",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਕਾਮ ਕ੍ਰੋਧ ਤੇ ਲੋਭ (ਆਦਿਕ ਵਿਕਾਰ) ਛੱਡ ਦੇਣੇ ਚਾਹੀਦੇ ਹਨ, (ਇਹਨਾਂ ਨੂੰ) ਅੱਗ ਵਿਚ ਸਾੜ ਦੇਈਏ,",
       "translation_ru": "О Нанак! Вожделение, гнев и жадность (и прочие пороки) следует оставить, (их) нужно сжечь в огне,"
     },
@@ -88,7 +88,7 @@
     {
       "verse_id": 23077,
       "gurmukhi": "ਸੋ ਮੁਕਤਾ ਸੰਸਾਰਿ ਜਿ ਗੁਰਿ ਉਪਦੇਸਿਆ ॥",
-      "roman": "so muktā sansār ji gur updesiā",
+      "roman": "so muktā sansār j gur updesiā",
       "sahib_singh_pa": "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਸਤਿਗੁਰੂ ਨੇ ਉਪਦੇਸ਼ ਦਿੱਤਾ ਹੈ ਉਹ ਜਗਤ ਵਿਚ (ਰਹਿੰਦਾ ਹੋਇਆ ਹੀ ਮਾਇਆ ਦੇ ਬੰਧਨਾਂ ਤੋਂ) ਆਜ਼ਾਦ ਹੈ;",
       "translation_ru": "Тот человек, которому Сатгуру дал наставление, свободен в этом мире (даже живя в нём, от уз майи);"
     },
@@ -109,14 +109,14 @@
     {
       "verse_id": 23080,
       "gurmukhi": "ਜਨ ਕੈ ਸੰਗਿ ਨਿਹਾਲੁ ਪਾਪਾ ਮੈਲੁ ਧੋਇ ॥",
-      "roman": "jan kai sang nihāl pāpā mail dhoi",
+      "roman": "jan kē sang nihāl pāpā mēl dhoi",
       "sahib_singh_pa": "ਉਸ ਜਨ ਦੀ ਸੰਗਤ ਵਿਚ ਜੀਵ ਪਾਪਾਂ ਦੀ ਮੈਲ ਧੋ ਕੇ ਨਿਹਾਲ ਹੁੰਦਾ ਹੈ;",
       "translation_ru": "в общении с таким слугой человек очищается от грязи грехов и становится счастливым;"
     },
     {
       "verse_id": 23081,
       "gurmukhi": "ਅੰਮ੍ਰਿਤੁ ਸਾਚਾ ਨਾਉ ਓਥੈ ਜਾਪੀਐ ॥",
-      "roman": "amrit sācā nām othai jāpī-ai",
+      "roman": "amrit sācā nām othē jāpī-ē",
       "sahib_singh_pa": "ਉਸ ਦੀ ਸੰਗਤ ਵਿਚ ਅਮਰ ਕਰਨ ਵਾਲਾ ਸੱਚਾ ਨਾਮ ਸਿਮਰੀਦਾ ਹੈ।",
       "translation_ru": "в его обществе помнят бессмертное истинное Имя."
     },
@@ -137,7 +137,7 @@
     {
       "verse_id": 23084,
       "gurmukhi": "ਗੁਰ ਪਰਸਾਦਿ ਕਿਨੈ ਵਿਰਲੈ ਹਰਿ ਧਨੁ ਖਾਟੀਐ ॥੫॥",
-      "roman": "gur prasād kinai virlai har dhan khāṭī-ai",
+      "roman": "gur prasād kinē virlē har dhan khāṭī-ē",
       "sahib_singh_pa": "ਪਰ, ਕਿਸੇ ਵਿਰਲੇ ਮਨੁੱਖ ਨੇ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਨਾਮ-ਧਨ ਖੱਟਿਆ ਹੈ ॥੫॥",
       "translation_ru": "Но лишь редкий человек по милости Гуру обретает это богатство Имени ॥5॥"
     },
@@ -158,7 +158,7 @@
     {
       "verse_id": 23087,
       "gurmukhi": "ਹਰਿ ਕੀਰਤਨ ਕਾ ਆਹਰੋ ਹਰਿ ਦੇਹੁ ਨਾਨਕ ਕੇ ਮੀਤ ॥੧॥",
-      "roman": "har kīrtan kā āhro har dehu nānak ke mīt",
+      "roman": "har kīrtan kā āhro har deh nānak ke mīt",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ ਦੇ ਮਿਤ੍ਰ! ਮੈਨੂੰ ਆਪਣੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਆਹਰ ਬਖ਼ਸ਼ ॥੧॥",
       "translation_ru": "О друг Нанака! Даруй мне пищу — воспевание Твоей славы ॥1॥"
     },
@@ -207,21 +207,21 @@
     {
       "verse_id": 23094,
       "gurmukhi": "ਪੂਜਹੁ ਗੁਰ ਕੇ ਪੈਰ ਦੁਰਮਤਿ ਜਾਇ ਜਰਿ ॥",
-      "roman": "pūjahu gur ke pair durmat jāe jar",
+      "roman": "pūjah gur ke pēr durmat jāe jar",
       "sahib_singh_pa": "ਸਤਿਗੁਰੂ ਦੇ ਪੈਰ ਪੂਜ! (ਭਾਵ, ਗੁਰੂ ਦਾ ਆਸਰਾ ਲੈ, ਇਸ ਤਰ੍ਹਾਂ) ਭੈੜੀ ਮੱਤ (ਰੂਪ 'ਬਿਰਥਾ'); ਸੜ ਜਾਂਦੀ ਹੈ।",
       "translation_ru": "Почитай стопы Гуру (то есть прими его прибежище), и дурной разум сгорит."
     },
     {
       "verse_id": 23095,
       "gurmukhi": "ਸਾਧ ਜਨਾ ਕੈ ਸੰਗਿ ਭਵਜਲੁ ਬਿਖਮੁ ਤਰਿ ॥",
-      "roman": "sādh janā kai sang bhavjal bikham tar",
+      "roman": "sādh janā kē sang bhavjal bikham tar",
       "sahib_singh_pa": "ਗੁਰਮੁਖਾਂ ਦੀ ਸੰਗਤ ਵਿਚ ਇਹ ਔਖਾ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤਰ ਜਾਈਦਾ ਹੈ।",
       "translation_ru": "В обществе святых этот трудный океан мира переплывается."
     },
     {
       "verse_id": 23096,
       "gurmukhi": "ਸੇਵਹੁ ਸਤਿਗੁਰ ਦੇਵ ਅਗੈ ਨ ਮਰਹੁ ਡਰਿ ॥",
-      "roman": "sevahu satgur dev agai na marahu dar",
+      "roman": "sevah satgur dev agē na marah dar",
       "sahib_singh_pa": "ਗੁਰੂ ਦੇ ਦੱਸੇ ਰਾਹ ਤੇ ਤੁਰੋ, ਪਰਲੋਕ ਵਿਚ ਡਰ ਡਰ ਨਹੀਂ ਮਰੋਗੇ।",
       "translation_ru": "Следуй пути, указанному Гуру, и в ином мире не будешь умирать от страха."
     },
@@ -256,14 +256,14 @@
     {
       "verse_id": 23101,
       "gurmukhi": "ਲਗੜੀ ਸੁਥਾਨਿ ਜੋੜਣਹਾਰੈ ਜੋੜੀਆ ॥",
-      "roman": "lagṛī suthān joṛanhārai joṛīā",
+      "roman": "lagṛī suthān joṛanhārē joṛīā",
       "sahib_singh_pa": "(ਮੇਰੀ ਪ੍ਰੀਤ) ਚੰਗੇ ਟਿਕਾਣੇ ਤੇ (ਭਾਵ, ਪਿਆਰੇ ਪ੍ਰਭੂ ਦੇ ਚਰਨਾਂ ਵਿਚ) ਚੰਗੀ ਤਰ੍ਹਾਂ ਲੱਗ ਗਈ ਹੈ ਜੋੜਨਹਾਰ ਪ੍ਰਭੂ ਨੇ ਆਪ ਜੋੜੀ ਹੈ,",
       "translation_ru": "Моя любовь прочно утвердилась в хорошем месте (у стоп Господа), Сам Соединяющий соединил её,"
     },
     {
       "verse_id": 23102,
       "gurmukhi": "ਨਾਨਕ ਲਹਰੀ ਲਖ ਸੈ ਆਨ ਡੁਬਣ ਦੇਇ ਨ ਮਾ ਪਿਰੀ ॥੧॥",
-      "roman": "nānak lahrī lakh sai ān ḍuban de-e na mā pirī",
+      "roman": "nānak lahrī lakh sē ān ḍuban de-e na mā pirī",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਜਗਤ ਵਿਚ) ਸੈਂਕੜੇ ਤੇ ਲੱਖਾਂ ਹੋਰ ਹੋਰ (ਭਾਵ, ਵਿਕਾਰਾਂ ਦੀਆਂ) ਲਹਿਰਾਂ (ਚੱਲ ਰਹੀਆਂ) ਹਨ, ਪਰ, ਮੇਰਾ ਪਿਆਰਾ (ਮੈਨੂੰ ਇਹਨਾਂ ਲਹਿਰਾਂ ਵਿਚ) ਡੁੱਬਣ ਨਹੀਂ ਦੇਂਦਾ ॥੧॥",
       "translation_ru": "О Нанак! Сотни и тысячи волн (пороков) поднимаются в мире, но мой Возлюбленный не даёт мне утонуть в них ॥1॥"
     },
@@ -277,7 +277,7 @@
     {
       "verse_id": 23104,
       "gurmukhi": "ਬਨਿ ਭੀਹਾਵਲੈ ਹਿਕੁ ਸਾਥੀ ਲਧਮੁ ਦੁਖ ਹਰਤਾ ਹਰਿ ਨਾਮਾ ॥",
-      "roman": "ban bhīhāvalai hik sāthī ladhm dukh hartā har nāmā",
+      "roman": "ban bhīhāvalē hik sāthī ladhm dukh hartā har nāmā",
       "sahib_singh_pa": "(ਸੰਸਾਰ ਰੂਪ ਇਸ) ਡਰਾਉਣੇ ਜੰਗਲ ਵਿਚ ਮੈਨੂੰ ਹਰਿ-ਨਾਮ ਰੂਪ ਇਕੋ ਸਾਥੀ ਲੱਭਾ ਹੈ ਜੋ ਦੁੱਖਾਂ ਦਾ ਨਾਸ ਕਰਨ ਵਾਲਾ ਹੈ,",
       "translation_ru": "В этом страшном лесу мира я нашёл одного спутника — Имя Бога, уничтожающее страдания,"
     },
@@ -298,7 +298,7 @@
     {
       "verse_id": 23107,
       "gurmukhi": "ਪਾਈਅਨਿ ਸਭਿ ਨਿਧਾਨ ਤੇਰੈ ਰੰਗਿ ਰਤਿਆ ॥",
-      "roman": "pāīan sabh nidhān terai rang ratiā",
+      "roman": "pāīan sabh nidhān terē rang ratiā",
       "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ!) ਜੇ ਤੇਰੇ (ਪਿਆਰ ਦੇ) ਰੰਗ ਵਿਚ ਰੰਗੇ ਜਾਈਏ ਤਾਂ, ਮਾਨੋ, ਸਾਰੇ ਖ਼ਜ਼ਾਨੇ ਮਿਲ ਜਾਂਦੇ ਹਨ।",
       "translation_ru": "Если окраситься в Твою любовь, обретаются все сокровища."
     },
@@ -312,7 +312,7 @@
     {
       "verse_id": 23109,
       "gurmukhi": "ਪਹੁਚਿ ਨ ਸਕੈ ਕੋਇ ਤੇਰੀ ਟੇਕ ਜਨ ॥",
-      "roman": "pahuch na sakai koe terī ṭek jan",
+      "roman": "pahuch na sakē koe terī ṭek jan",
       "sahib_singh_pa": "ਜਿਨ੍ਹਾਂ ਸੇਵਕਾਂ ਨੂੰ ਤੇਰਾ ਆਸਰਾ ਹੁੰਦਾ ਹੈ ਉਹਨਾਂ ਦੀ ਬਰਾਬਰੀ ਕੋਈ ਨਹੀਂ ਕਰ ਸਕਦਾ।",
       "translation_ru": "Тем, кто опирается на Тебя, никто не может сравниться."
     },
@@ -340,7 +340,7 @@
     {
       "verse_id": 23113,
       "gurmukhi": "ਰਖੈ ਆਪਿ ਦਇਆਲੁ ਕਰਿ ਦਾਸਾ ਆਪਣੇ ॥",
-      "roman": "rakhai āp dayāl kar dāsā āpṇe",
+      "roman": "rakhē āp dayāl kar dāsā āpṇe",
       "sahib_singh_pa": "ਦਇਆ ਦਾ ਘਰ ਪ੍ਰਭੂ ਆਪ ਆਪਣੇ ਸੇਵਕ ਬਣਾ ਕੇ (ਇਸ ਭਟਕਣਾ ਤੋਂ) ਬਚਾਂਦਾ ਹੈ।",
       "translation_ru": "Милосердный Господь Сам делает своими слугами и защищает их от блуждания."
     },

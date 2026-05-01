@@ -60,21 +60,21 @@
     {
       "verse_id": 37675,
       "gurmukhi": "ਜੈਸਾ ਸਾ ਤੈਸਾ ਦਿਖਲਾਇਆ ॥",
-      "roman": "jaisā sā taisā dikhlāiā",
+      "roman": "jēsā sā tēsā dikhlāiā",
       "sahib_singh_pa": "ਤੂੰ ਮੈਨੂੰ ਸਾਖਿਆਤ ਆਪਣਾ ਦੀਦਾਰ ਬਖ਼ਸ਼ਿਆ ਹੈ।",
       "translation_ru": "Ты показал себя таким, как есть."
     },
     {
       "verse_id": 37676,
       "gurmukhi": "ਕਹੁ ਨਾਨਕ ਸਭੁ ਪੜਦਾ ਤੂਟਾ ॥",
-      "roman": "kahu nānak sabh paṛdā ṭūṭā",
+      "roman": "kah nānak sabh paṛdā ṭūṭā",
       "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ-  (ਤੇਰੇ ਨਾਲੋਂ ਵਿੱਥ ਪਾਣ ਵਾਲਾ ਮੇਰੇ ਅੰਦਰੋਂ) ਸਾਰਾ ਪਰਦਾ ਹੁਣ ਟੁੱਟ ਗਿਆ ਹੈ,",
       "translation_ru": "Нанак говорит, вся преграда исчезла."
     },
     {
       "verse_id": 37677,
       "gurmukhi": "ਹਉ ਤੇਰਾ ਤੂ ਮੈ ਮਨਿ ਵੂਠਾ ॥੪॥੩॥੧੪॥",
-      "roman": "hau terā tū mai man vūṭhā",
+      "roman": "hau terā tū mē man vūṭhā",
       "sahib_singh_pa": "ਹੁਣ ਤੂੰ ਮੇਰੇ ਮਨ ਵਿਚ ਆ ਵੱਸਿਆ ਹੈਂ, ਮੈਂ ਤੇਰਾ ਹੋ ਚੁਕਾ ਹਾਂ ॥੪॥੩॥੧੪॥",
       "translation_ru": "Ты живёшь в моём сердце, и я стал твоим."
     },
@@ -158,7 +158,7 @@
     {
       "verse_id": 37689,
       "gurmukhi": "ਜਾ ਕੈ ਅੰਤਰਿ ਪ੍ਰਗਟਿਓ ਆਪ ॥",
-      "roman": "jā kai antar pragatyo āp",
+      "roman": "jā kē antar pragatyo āp",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਆਪ ਜਿਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ ਆਪਣਾ ਪ੍ਰਕਾਸ਼ ਕਰਦਾ ਹੈ,",
       "translation_ru": "О брат! В чьём сердце Сам Бог раскрывает Себя,"
     },
@@ -172,14 +172,14 @@
     {
       "verse_id": 37691,
       "gurmukhi": "ਲਾਲੁ ਰਤਨੁ ਤਿਸੁ ਪਾਲੈ ਪਰਿਆ ॥",
-      "roman": "lāl ratan tis pālai pariā",
+      "roman": "lāl ratan tis pālē pariā",
       "sahib_singh_pa": "ਉਸ ਮਨੁੱਖ ਨੂੰ ਪ੍ਰਭੂ ਦਾ ਨਾਮ-ਲਾਲ ਲੱਭ ਪੈਂਦਾ ਹੈ, ਨਾਮ-ਰਤਨ ਮਿਲ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "тот человек обретает драгоценность Имени — драгоценный камень."
     },
     {
       "verse_id": 37692,
       "gurmukhi": "ਸਗਲ ਕੁਟੰਬ ਓਹੁ ਜਨੁ ਲੈ ਤਰਿਆ ॥੩॥",
-      "roman": "sagal kuṭamb oh jan lai tariā",
+      "roman": "sagal kuṭamb oh jan lē tariā",
       "sahib_singh_pa": "ਉਹ ਮਨੁੱਖ ਆਪਣੇ ਸਾਰੇ ਪਰਵਾਰ ਨੂੰ (ਭੀ ਆਪਣੇ ਨਾਲ) ਲੈ ਕੇ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘ ਜਾਂਦਾ ਹੈ ॥੩॥",
       "translation_ru": "и он переправляется через океан мира вместе со всей своей семьёй ॥3॥"
     },
@@ -207,7 +207,7 @@
     {
       "verse_id": 37696,
       "gurmukhi": "ਕਹੁ ਨਾਨਕ ਪ੍ਰਭ ਮਿਲੇ ਰਸਾਲ ॥੪॥੪॥੧੫॥",
-      "roman": "kahu nānak prabh mile rasāl",
+      "roman": "kah nānak prabh mile rasāl",
       "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ- (ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮੈਨੂੰ) ਆਨੰਦ ਦਾ ਸੋਮਾ ਪ੍ਰਭੂ ਜੀ ਮਿਲ ਪਏ ਹਨ ॥੪॥੪॥੧੫॥",
       "translation_ru": "Нанак говорит: благодаря милости Гуру я обрел Бога — источник блаженства ॥4॥4॥15॥"
     },
@@ -235,28 +235,28 @@
     {
       "verse_id": 37700,
       "gurmukhi": "ਜੋ ਕਿਛੁ ਕਰੈ ਸੁ ਮਨਿ ਮੇਰੈ ਮੀਠਾ ॥",
-      "roman": "jo kichh karai so man merai mīṭhā",
+      "roman": "jo kichh karē so man merē mīṭhā",
       "sahib_singh_pa": "ਜੋ ਕੁਝ ਪਰਮਾਤਮਾ ਕਰਦਾ ਹੈ, ਉਹ (ਹੁਣ) ਮੇਰੇ ਮਨ ਵਿਚ ਮਿੱਠਾ ਲੱਗ ਰਿਹਾ ਹੈ।",
       "translation_ru": "Всё, что делает Бог, теперь кажется моему сердцу сладким."
     },
     {
       "verse_id": 37701,
       "gurmukhi": "ਤਾ ਇਹੁ ਅਚਰਜੁ ਨੈਨਹੁ ਡੀਠਾ ॥੧॥",
-      "roman": "tā ihu acharaj nainahu dīṭhā",
+      "roman": "tā ihu acharaj nēnah dīṭhā",
       "sahib_singh_pa": "(ਇਸ ਆਤਮਕ ਤਬਦੀਲੀ ਦਾ) ਇਹ ਅਚਰਜ ਤਮਾਸ਼ਾ ਮੈਂ ਪਰਤੱਖ ਵੇਖ ਲਿਆ ਹੈ ॥੧॥",
       "translation_ru": "Это удивительное изменение я увидел собственными глазами ॥1॥"
     },
     {
       "verse_id": 37702,
       "gurmukhi": "ਅਬ ਮੋਹਿ ਜਾਨੀ ਰੇ ਮੇਰੀ ਗਈ ਬਲਾਇ ॥",
-      "roman": "ab mohi jānī re merī gaī balāi",
+      "roman": "ab moh jānī re merī gaī balāi",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਹੁਣ ਮੈਂ (ਆਤਮਕ ਜੀਵਨ ਦੀ ਮਰਯਾਦਾ) ਸਮਝ ਲਈ ਹੈ, ਮੇਰੇ ਅੰਦਰੋਂ (ਚਿਰਾਂ ਦੀ ਚੰਬੜੀ ਹੋਈ ਮਮਤਾ ਦੀ) ਡੈਣ ਨਿਕਲ ਗਈ ਹੈ।",
       "translation_ru": "О брат! Теперь я понял духовную жизнь — из меня ушла привязанность."
     },
     {
       "verse_id": 37703,
       "gurmukhi": "ਬੁਝਿ ਗਈ ਤ੍ਰਿਸਨ ਨਿਵਾਰੀ ਮਮਤਾ ਗੁਰਿ ਪੂਰੈ ਲੀਓ ਸਮਝਾਇ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "bujh gaī trisan nivārī mamtā gur pūrai līo samjhāi",
+      "roman": "bujh gaī trisan nivārī mamtā gur pūrē līo samjhāi",
       "sahib_singh_pa": "ਪੂਰੇ ਗੁਰੂ ਨੇ ਮੈਨੂੰ (ਜੀਵਨ ਦੀ) ਸੂਝ ਬਖ਼ਸ਼ ਦਿੱਤੀ ਹੈ। (ਮੇਰੇ ਅੰਦਰੋਂ) ਮਾਇਆ ਦੇ ਲਾਲਚ ਦੀ ਅੱਗ ਬੁੱਝ ਗਈ ਹੈ, ਗੁਰੂ ਨੇ ਮੇਰਾ ਮਾਇਆ ਦਾ ਮੋਹ ਦੂਰ ਕਰ ਦਿੱਤਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Совершенный Гуру дал мне понимание: огонь жажды угас, Гуру устранил мою привязанность к майе ॥1॥ ਰਹਾਉ ॥"
     },
@@ -284,7 +284,7 @@
     {
       "verse_id": 37707,
       "gurmukhi": "ਗੁਰ ਪਾਰਬ੍ਰਹਮ ਏਕੈ ਹੀ ਜਾਨੇ ॥੨॥",
-      "roman": "gur pārbrahm ekai hī jāne",
+      "roman": "gur pārbrahm ekē hī jāne",
       "sahib_singh_pa": "ਮੈਨੂੰ ਗੁਰੂ ਅਤੇ ਪਰਮਾਤਮਾ ਇੱਕ-ਰੂਪ ਦਿੱਸ ਰਹੇ ਹਨ ॥੨॥",
       "translation_ru": "я увидел Гуру и Бога как единое ॥2॥"
     },
@@ -305,14 +305,14 @@
     {
       "verse_id": 37710,
       "gurmukhi": "ਨਾ ਕੋ ਦੂਤੁ ਨਹੀ ਬੈਰਾਈ ॥",
-      "roman": "nā ko dūt nahī bairāī",
+      "roman": "nā ko dūt nahī bērāī",
       "sahib_singh_pa": "ਮੈਨੂੰ ਕੋਈ ਭੀ ਜੀਵ ਆਪਣਾ ਦੁਸ਼ਮਨ ਵੈਰੀ ਨਹੀਂ ਦਿੱਸਦਾ।",
       "translation_ru": "Никто не кажется мне врагом."
     },
     {
       "verse_id": 37711,
       "gurmukhi": "ਗਲਿ ਮਿਲਿ ਚਾਲੇ ਏਕੈ ਭਾਈ ॥੩॥",
-      "roman": "gal mil chāle ekai bhāī",
+      "roman": "gal mil chāle ekē bhāī",
       "sahib_singh_pa": "ਹੁਣ ਮੈਂ ਸਭਨਾਂ ਦੇ ਗਲ ਨਾਲ ਮਿਲ ਕੇ ਤੁਰਦਾ ਹਾਂ (ਜਿਵੇਂ ਅਸੀ) ਇੱਕੋ ਪਿਤਾ (ਦੇ ਪੁੱਤਰ) ਭਰਾ ਹਾਂ ॥੩॥",
       "translation_ru": "Я иду, обнимая всех, как братьев от одного отца ॥3॥"
     },
@@ -361,21 +361,21 @@
     {
       "verse_id": 37718,
       "gurmukhi": "ਹਿਰਦੈ ਰਾਮੁ ਨਹੀ ਪੂਰਨ ਰਹਤ ॥",
-      "roman": "hirdai rām nahī pūran rahat",
+      "roman": "hirdē rām nahī pūran rahat",
       "sahib_singh_pa": "ਪਰ ਉਸ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਨਹੀਂ ਵੱਸਦਾ, ਨਾਹ ਹੀ ਉਸ ਦੀ ਰਹਿਣੀ ਬੇ-ਦਾਗ਼ ਹੈ,",
       "translation_ru": "но в его сердце не пребывает Бог, и его жизнь не чиста,"
     },
     {
       "verse_id": 37719,
       "gurmukhi": "ਉਪਦੇਸੁ ਕਰੇ ਕਰਿ ਲੋਕ ਦ੍ਰਿੜਾਵੈ ॥",
-      "roman": "updes kare kar lok driṛāvai",
+      "roman": "updes kare kar lok driṛāvē",
       "sahib_singh_pa": "ਹੋਰ ਲੋਕਾਂ ਨੂੰ (ਧਰਮ-ਪੁਸਤਕਾਂ ਦਾ) ਉਪਦੇਸ਼ ਕਰਦਾ ਹੈ (ਅਤੇ ਉਪਦੇਸ਼) ਕਰ ਕੇ ਉਹਨਾਂ ਦੇ ਮਨ ਵਿਚ (ਉਹ ਉਪਦੇਸ਼) ਪੱਕੀ ਤਰ੍ਹਾਂ ਬਿਠਾਂਦਾ ਹੈ,",
       "translation_ru": "он наставляет других и укрепляет их в этом учении,"
     },
     {
       "verse_id": 37720,
       "gurmukhi": "ਅਪਨਾ ਕਹਿਆ ਆਪਿ ਨ ਕਮਾਵੈ ॥੧॥",
-      "roman": "apnā kahiā āp na kamāvai",
+      "roman": "apnā kahiā āp na kamāvē",
       "sahib_singh_pa": "ਪਰ ਆਪਣਾ ਇਹ ਦੱਸਿਆ ਹੋਇਆ ਉਪਦੇਸ਼ ਆਪ ਨਹੀਂ ਕਮਾਂਦਾ (ਉਸ ਨੂੰ ਪੰਡਿਤ ਨਹੀਂ ਆਖਿਆ ਜਾ ਸਕਦਾ) ॥੧॥",
       "translation_ru": "но сам не следует тому, что говорит ॥1॥"
     },
@@ -396,7 +396,7 @@
     {
       "verse_id": 37723,
       "gurmukhi": "ਆਗੈ ਰਾਖਿਓ ਸਾਲ ਗਿਰਾਮੁ ॥",
-      "roman": "āgai rākhiō sāl girām",
+      "roman": "āgē rākhiō sāl girām",
       "sahib_singh_pa": "(ਆਤਮਕ ਜੀਵਨ ਵਲੋਂ) ਅੰਨ੍ਹਾ (ਮਨੁੱਖ) ਸਾਲਗਰਾਮ ਦੀ ਮੂਰਤੀ ਆਪਣੇ ਸਾਹਮਣੇ ਰੱਖ ਲੈਂਦਾ ਹੈ,",
       "translation_ru": "Слепой в духовном смысле человек ставит перед собой идол,"
     }

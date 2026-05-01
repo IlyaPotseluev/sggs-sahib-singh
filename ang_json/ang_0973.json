@@ -21,7 +21,7 @@
       "gurmukhi": "ਬੈਰਾਗੀ ਰਾਮਹਿ ਗਾਵਉਗੋ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "bairāgī rāmeh gāuṅgo",
+      "roman": "bērāgī rāmeh gāuṅgo",
       "translation_ru": "Став отрешённым, я буду воспевать Рама."
     },
     {
@@ -32,7 +32,7 @@
       "gurmukhi": "ਸਬਦਿ ਅਤੀਤ ਅਨਾਹਦਿ ਰਾਤਾ ਆਕੁਲ ਕੈ ਘਰਿ ਜਾਉਗੋ ॥੧॥ ਰਹਾਉ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "sabad atīt anāhad rātā ākul kai ghar jāuṅgo",
+      "roman": "sabad atīt anāhad rātā ākul kē ghar jāuṅgo",
       "translation_ru": "Пропитанный Словом, погружённый в неслышный звук, я войду в дом Того, кто вне рода и происхождения."
     },
     {
@@ -43,7 +43,7 @@
       "gurmukhi": "ਇੜਾ ਪਿੰਗੁਲਾ ਅਉਰੁ ਸੁਖਮਨਾ ਪਉਨੈ ਬੰਧਿ ਰਹਾਉਗੋ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "iṛā piṅgulā aur sukhamnā paunai bandh rahāuṅgo",
+      "roman": "iṛā piṅgulā aur sukhamnā paunē bandh rahāuṅgo",
       "translation_ru": "Я удержу дыхание, связав иду, пингалу и сушумну."
     },
     {
@@ -65,7 +65,7 @@
       "gurmukhi": "ਤੀਰਥ ਦੇਖਿ ਨ ਜਲ ਮਹਿ ਪੈਸਉ ਜੀਅ ਜੰਤ ਨ ਸਤਾਵਉਗੋ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "tīrath dekh na jal meh paisau jīa jant na satāuṅgo",
+      "roman": "tīrath dekh na jal meh pēsau jīa jant na satāuṅgo",
       "translation_ru": "Увидев места паломничества, я не стану входить в воду и не буду мучить живых существ."
     },
     {
@@ -142,7 +142,7 @@
       "gurmukhi": "ਜੈਸੇ ਤਰਵਰਿ ਪੰਖਿ ਬਸੇਰਾ ॥੧॥ ਰਹਾਉ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "jaisē tarvar paṅkh basērā",
+      "roman": "jēsē tarvar paṅkh basērā",
       "translation_ru": "Это подобно птицам, которые лишь временно ночуют на дереве."
     },
     {
@@ -186,7 +186,7 @@
       "gurmukhi": "ਨਾਮਾ ਪ੍ਰਣਵੈ ਪਰਮ ਤਤੁ ਹੈ ਸਤਿਗੁਰ ਹੋਇ ਲਖਾਇਆ ॥੩॥੩॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "nāmā praṇvai param tat hai satgur hoe lakhāiā",
+      "roman": "nāmā praṇvē param tat hē satgur hoe lakhāiā",
       "translation_ru": "Нама смиренно говорит: высшая Сущность существует, и Сатгуру даёт её распознать."
     },
     {
@@ -208,7 +208,7 @@
       "gurmukhi": "ਬਾਨਾਰਸੀ ਤਪੁ ਕਰੈ ਉਲਟਿ ਤੀਰਥ ਮਰੈ ਅਗਨਿ ਦਹੈ ਕਾਇਆ ਕਲਪੁ ਕੀਜੈ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "bānārasī tap karē ulaṭ tīrath marē agan dahē kāiā kalap kījai",
+      "roman": "bānārasī tap karē ulaṭ tīrath marē agan dahē kāiā kalap kījē",
       "translation_ru": "Пусть человек совершает аскезу в Бенаресе, умирает в святых местах, сжигает тело огнём и совершает телесное обновление,"
     },
     {
@@ -219,7 +219,7 @@
       "gurmukhi": "ਅਸੁਮੇਧ ਜਗੁ ਕੀਜੈ ਸੋਨਾ ਗਰਭ ਦਾਨੁ ਦੀਜੈ ਰਾਮ ਨਾਮ ਸਰਿ ਤਊ ਨ ਪੂਜੈ ॥੧॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "asumēdh jag kījai sonā garabh dān dījai rām nām sar tau na pūjai",
+      "roman": "asumēdh jag kījē sonā garabh dān dījē rām nām sar tau na pūjē",
       "translation_ru": "пусть совершает жертвоприношение коня и отдаёт золото в дар — всё это всё равно не сравнится с Именем Рама."
     },
     {
@@ -230,7 +230,7 @@
       "gurmukhi": "ਛੋਡਿ ਛੋਡਿ ਰੇ ਪਾਖੰਡੀ ਮਨ ਕਪਟੁ ਨ ਕੀਜੈ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "chhoḍ chhoḍ rē pākhaṇḍī man kapaṭ na kījai",
+      "roman": "chhoḍ chhoḍ rē pākhaṇḍī man kapaṭ na kījē",
       "translation_ru": "О лицемерный ум, оставь, оставь притворство, не совершай обмана."
     },
     {
@@ -241,7 +241,7 @@
       "gurmukhi": "ਹਰਿ ਕਾ ਨਾਮੁ ਨਿਤ ਨਿਤਹਿ ਲੀਜੈ ॥੧॥ ਰਹਾਉ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "har kā nām nit niteh lījai",
+      "roman": "har kā nām nit niteh lījē",
       "translation_ru": "Постоянно, снова и снова принимай Имя Хари."
     },
     {
@@ -252,7 +252,7 @@
       "gurmukhi": "ਗੰਗਾ ਜਉ ਗੋਦਾਵਰਿ ਜਾਈਐ ਕੁੰਭਿ ਜਉ ਕੇਦਾਰ ਨੑਾਈਐ ਗੋਮਤੀ ਸਹਸ ਗਊ ਦਾਨੁ ਕੀਜੈ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "gaṅgā jau godāvar jāīai kumbh jau kēdār nhāīai gomatī sahas gaū dān kījai",
+      "roman": "gaṅgā jau godāvar jāīē kumbh jau kēdār nhāīē gomatī sahas gaū dān kījē",
       "translation_ru": "Пусть человек идёт к Ганге и Годавари, пусть омывается на Кумбхе и в Кедаре, пусть дарит тысячу коров у Гомати,"
     },
     {
@@ -263,7 +263,7 @@
       "gurmukhi": "ਕੋਟਿ ਜਉ ਤੀਰਥ ਕਰੈ ਤਨੁ ਜਉ ਹਿਵਾਲੇ ਗਾਰੈ ਰਾਮ ਨਾਮ ਸਰਿ ਤਊ ਨ ਪੂਜੈ ॥੨॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "koṭ jau tīrath karē tan jau hivālē gārai rām nām sar tau na pūjai",
+      "roman": "koṭ jau tīrath karē tan jau hivālē gārē rām nām sar tau na pūjē",
       "translation_ru": "пусть совершит миллионы паломничеств и истощит тело в ледяном холоде — всё это всё равно не сравнится с Именем Рама."
     },
     {
@@ -274,7 +274,7 @@
       "gurmukhi": "ਅਸੁ ਦਾਨ ਗਜ ਦਾਨ ਸਿਹਜਾ ਨਾਰੀ ਭੂਮਿ ਦਾਨ ਐਸੋ ਦਾਨੁ ਨਿਤ ਨਿਤਹਿ ਕੀਜੈ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "as dān gaj dān sihjā nārī bhūm dān aiso dān nit niteh kījai",
+      "roman": "as dān gaj dān sihjā nārī bhūm dān ēso dān nit niteh kījē",
       "translation_ru": "Пусть человек постоянно дарит коней, слонов, ложа, женщин и землю, пусть снова и снова совершает такие дары,"
     },
     {
@@ -285,7 +285,7 @@
       "gurmukhi": "ਆਤਮ ਜਉ ਨਿਰਮਾਇਲੁ ਕੀਜੈ ਆਪ ਬਰਾਬਰਿ ਕੰਚਨੁ ਦੀਜੈ ਰਾਮ ਨਾਮ ਸਰਿ ਤਊ ਨ ਪੂਜੈ ॥੩॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "ātam jau nirmāil kījai āp barābar kanchan dījai rām nām sar tau na pūjai",
+      "roman": "ātam jau nirmāil kījē āp barābar kanchan dījē rām nām sar tau na pūjē",
       "translation_ru": "пусть очищает себя и отдаёт золото весом, равным своему телу, — всё это всё равно не сравнится с Именем Рама."
     },
     {
@@ -296,7 +296,7 @@
       "gurmukhi": "ਮਨਹਿ ਨ ਕੀਜੈ ਰੋਸੁ ਜਮਹਿ ਨ ਦੀਜੈ ਦੋਸੁ ਨਿਰਮਲ ਨਿਰਬਾਣ ਪਦੁ ਚੀਨਿੑ ਲੀਜੈ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "maneh na kījai ros jameh na dījai dos nirmal nirbāṇ pad chīn lījai",
+      "roman": "maneh na kījē ros jameh na dījē dos nirmal nirbāṇ pad chīn lījē",
       "translation_ru": "Не сердись в уме и не обвиняй Джама; распознай чистое состояние освобождения."
     },
     {
@@ -307,7 +307,7 @@
       "gurmukhi": "ਜਸਰਥ ਰਾਇ ਨੰਦੁ ਰਾਜਾ ਮੇਰਾ ਰਾਮ ਚੰਦੁ ਪ੍ਰਣਵੈ ਨਾਮਾ ਤਤੁ ਰਸੁ ਅੰਮ੍ਰਿਤੁ ਪੀਜੈ ॥੪॥੪॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "jasrath rāe nand rājā mērā rām chand praṇvai nāmā tat ras amrit pījai",
+      "roman": "jasrath rāe nand rājā mērā rām chand praṇvē nāmā tat ras amrit pījē",
       "translation_ru": "Мой царь — Рам Чанд, сын царя Дашаратха; Нама смиренно говорит: пей нектарный вкус истинной Сущности."
     },
     {
@@ -340,7 +340,7 @@
       "gurmukhi": "ਪੜੀਐ ਗੁਨੀਐ ਨਾਮੁ ਸਭੁ ਸੁਨੀਐ ਅਨਭਉ ਭਾਉ ਨ ਦਰਸੈ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "paṛīai gunīai nām sabh sunīai anbhau bhāu na darsai",
+      "roman": "paṛīē gunīē nām sabh sunīē anbhau bhāu na darsē",
       "translation_ru": "Можно читать, размышлять и слушать обо всём, что зовётся Именем, но без непосредственного переживания любовь не проявляется."
     },
     {
@@ -351,7 +351,7 @@
       "gurmukhi": "ਲੋਹਾ ਕੰਚਨੁ ਹਿਰਨ ਹੋਇ ਕੈਸੇ ਜਉ ਪਾਰਸਹਿ ਨ ਪਰਸੈ ॥੧॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "lohā kanchan hiran hoe kaisē jau pārseh na parsai",
+      "roman": "lohā kanchan hiran hoe kēsē jau pārseh na parsē",
       "translation_ru": "Как железо может стать золотом, если оно не коснётся философского камня?"
     }
   ]

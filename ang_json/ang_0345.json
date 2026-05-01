@@ -4,14 +4,14 @@
     {
       "verse_id": 15706,
       "gurmukhi": "ਜਬ ਲਗੁ ਘਟ ਮਹਿ ਦੂਜੀ ਆਨ ॥",
-      "roman": "jab lag ghaṭ mahi dūjī ān",
+      "roman": "jab lag ghaṭ mah dūjī ān",
       "sahib_singh_pa": "(ਪਰ) ਜਦੋਂ ਤਕ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਦੁਨੀਆਵੀ ਇੱਜ਼ਤ ਆਦਿਕ ਦੀ ਵਾਸ਼ਨਾ ਹੈ,",
       "translation_ru": "Но пока в уме человека есть желание мирской чести и подобного,"
     },
     {
       "verse_id": 15707,
       "gurmukhi": "ਤਉ ਲਉ ਮਹਲਿ ਨ ਲਾਭੈ ਜਾਨ ॥",
-      "roman": "tau lau mahal na lābhai jān",
+      "roman": "tau lau mahal na lābhē jān",
       "sahib_singh_pa": "ਤਦ ਤਕ ਉਹ ਪ੍ਰਭੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਜੁੜ ਨਹੀਂ ਸਕਦਾ।",
       "translation_ru": "до тех пор он не может соединиться со стопами Господа."
     },
@@ -67,7 +67,7 @@
     {
       "verse_id": 15715,
       "gurmukhi": "ਚਰਨ ਬਧਿਕ ਜਨ ਤੇਊ ਮੁਕਤਿ ਭਏ ॥",
-      "roman": "Charan badhik jan teū mukat bhae ॥",
+      "roman": "Charan badhik jan teū mukt bhae ॥",
       "sahib_singh_pa": "(ਕ੍ਰਿਸ਼ਨ ਜੀ ਦੇ) ਪੈਰਾਂ ਵਿਚ ਨਿਸ਼ਾਨਾ ਮਾਰਨ ਵਾਲਾ ਸ਼ਿਕਾਰੀ (ਅਤੇ) ਅਜਿਹੇ ਕਈ (ਵਿਕਾਰੀ) ਬੰਦੇ (ਤੇਰੀ ਮਿਹਰ ਨਾਲ) ਮੁਕਤ ਹੋ ਗਏ।",
       "translation_ru": "Охотник, поразивший в ноги Кришну, и многие подобные порочные люди по Твоей милости обрели освобождение."
     },
@@ -81,7 +81,7 @@
     {
       "verse_id": 15717,
       "gurmukhi": "ਦਾਸੀ ਸੁਤ ਜਨੁ ਬਿਦਰੁ ਸੁਦਾਮਾ ਉਗ੍ਰਸੈਨ ਕਉ ਰਾਜ ਦੀਏ ॥",
-      "roman": "Dāsī sut jan bidar sudāmā ugrasain kau rāj dīe",
+      "roman": "Dāsī sut jan bidar sudāmā ugrasēn kau rāj dīe",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਗੋੱਲੀ ਦਾ ਪੁੱਤਰ ਬਿਦਰ ਤੇਰਾ ਭਗਤ (ਪ੍ਰਸਿੱਧ ਹੋਇਆ); ਸੁਦਾਮਾ (ਇਸ ਦਾ ਤੂੰ ਦਲਿੱਦਰ ਕੱਟਿਆ), ਉਗਰਸੈਨ ਨੂੰ ਤੂੰ ਰਾਜ ਦਿੱਤਾ।",
       "translation_ru": "О Господь! Бидар, сын служанки, прославился как Твой бхагат; Судаме Ты устранил нищету, Уграсену Ты дал царство."
     },
@@ -130,14 +130,14 @@
     {
       "verse_id": 15724,
       "gurmukhi": "ਮੋਹਿ ਨ ਬਿਸਾਰਹੁ ਮੈ ਜਨੁ ਤੇਰਾ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "Mohi na bisārahu mai jan terā ॥1॥ rahāu ॥",
+      "roman": "Mohi na bisārah mē jan terā ॥1॥ rahāu ॥",
       "sahib_singh_pa": "ਮੈਨੂੰ ਨਾਹ ਵਿਸਾਰੀਂ, ਮੈਂ ਤੇਰਾ ਦਾਸ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Не забывай меня, я Твой слуга. ॥1॥ Пауза ॥"
     },
     {
       "verse_id": 15725,
       "gurmukhi": "ਮੇਰੀ ਹਰਹੁ ਬਿਪਤਿ ਜਨ ਕਰਹੁ ਸੁਭਾਈ ॥",
-      "roman": "Merī harahu bipat jan karahu subhāī",
+      "roman": "Merī harah bipat jan karah subhāī",
       "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ!) ਮੇਰੀ ਇਹ ਬਿਪਤਾ ਕੱਟ; ਮੈਨੂੰ ਸੇਵਕ ਨੂੰ ਚੰਗੀ ਭਾਵਨਾ ਵਾਲਾ ਬਣਾ ਲੈ;",
       "translation_ru": "О Господь! Удали мою беду; меня, Твоего слугу, сделай обладателем доброго нрава;"
     },
@@ -151,14 +151,14 @@
     {
       "verse_id": 15727,
       "gurmukhi": "ਕਹੁ ਰਵਿਦਾਸ ਪਰਉ ਤੇਰੀ ਸਾਭਾ ॥",
-      "roman": "Kahu Ravīdās parau terī sābhā",
+      "roman": "Kah Ravīdās parau terī sābhā",
       "sahib_singh_pa": "ਰਵਿਦਾਸ ਆਖਦਾ ਹੈ- (ਹੇ ਪ੍ਰਭੂ!) ਮੈਂ ਤੇਰੀ ਸ਼ਰਨ ਪਿਆ ਹਾਂ,",
       "translation_ru": "Равидас говорит: о Господь! Я припал к Твоему прибежищу,"
     },
     {
       "verse_id": 15728,
       "gurmukhi": "ਬੇਗਿ ਮਿਲਹੁ ਜਨ ਕਰਿ ਨ ਬਿਲਾਂਬਾ ॥੩॥੧॥",
-      "roman": "Beg milahu jan kar na bilāṅbā ॥3॥1॥",
+      "roman": "Beg milah jan kar na bilāṅbā ॥3॥1॥",
       "sahib_singh_pa": "ਮੈਨੂੰ ਸੇਵਕ ਨੂੰ ਛੇਤੀ ਮਿਲੋ, ਢਿੱਲ ਨਾਹ ਕਰ ॥੩॥੧॥",
       "translation_ru": "скорее встреться со мной, Твоим слугой, не медли. ॥3॥1॥"
     },
@@ -172,35 +172,35 @@
     {
       "verse_id": 15730,
       "gurmukhi": "ਦੂਖੁ ਅੰਦੋਹੁ ਨਹੀ ਤਿਹਿ ਠਾਉ ॥",
-      "roman": "Dūkh andohu nahī tih ṭhāu ॥",
+      "roman": "Dūkh andoh nahī tih ṭhāu ॥",
       "sahib_singh_pa": "ਉਸ ਥਾਂ ਨਾਹ ਕੋਈ ਦੁੱਖ ਹੈ, ਨਾਹ ਚਿੰਤਾ ਅਤੇ ਨਾਹ ਕੋਈ ਘਬਰਾਹਟ,",
       "translation_ru": "В том месте нет ни страдания, ни заботы, ни тревоги,"
     },
     {
       "verse_id": 15731,
       "gurmukhi": "ਨਾਂ ਤਸਵੀਸ ਖਿਰਾਜੁ ਨ ਮਾਲੁ ॥",
-      "roman": "Nāṅ tasvīs khirāj na mālu ॥",
+      "roman": "Nāṅ tasvīs khirāj na māl ॥",
       "sahib_singh_pa": "ਉਥੇ ਦੁਨੀਆ ਵਾਲੀ ਜਾਇਦਾਦ ਨਹੀਂ ਅਤੇ ਨਾਹ ਹੀ ਉਸ ਜਾਇਦਾਦ ਨੂੰ ਮਸੂਲ ਹੈ;",
       "translation_ru": "там нет мирской собственности и нет налога на неё;"
     },
     {
       "verse_id": 15732,
       "gurmukhi": "ਖਉਫੁ ਨ ਖਤਾ ਨ ਤਰਸੁ ਜਵਾਲੁ ॥੧॥",
-      "roman": "Khauf na khatā na taras javālu ॥1॥",
+      "roman": "Khauf na khatā na taras javāl ॥1॥",
       "sahib_singh_pa": "ਉਸ ਅਵਸਥਾ ਵਿਚ ਕਿਸੇ ਪਾਪ ਕਰਮ ਕਰਨ ਦਾ ਖ਼ਤਰਾ ਨਹੀਂ; ਕੋਈ ਡਰ ਨਹੀਂ; ਕੋਈ ਗਿਰਾਵਟ ਨਹੀਂ ॥੧॥",
       "translation_ru": "в том состоянии нет опасности впасть в грех, нет страха, нет никакого падения. ॥1॥"
     },
     {
       "verse_id": 15733,
       "gurmukhi": "ਅਬ ਮੋਹਿ ਖੂਬ ਵਤਨ ਗਹ ਪਾਈ ॥",
-      "roman": "Ab mohi khūb vatan gah pāī",
+      "roman": "Ab moh khūb vatan gah pāī",
       "sahib_singh_pa": "ਹੇ ਮੇਰੇ ਵੀਰ! ਹੁਣ ਮੈਂ ਵੱਸਣ ਲਈ ਸੋਹਣੀ ਥਾਂ ਲੱਭ ਲਈ ਹੈ,",
       "translation_ru": "О мой брат! Теперь я нашёл прекрасное место для обитания,"
     },
     {
       "verse_id": 15734,
       "gurmukhi": "ਊਹਾਂ ਖੈਰਿ ਸਦਾ ਮੇਰੇ ਭਾਈ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "Ūhāṅ khair sadā mere bhāī ॥1॥ rahāu ॥",
+      "roman": "Ūhāṅ khēr sadā mere bhāī ॥1॥ rahāu ॥",
       "sahib_singh_pa": "ਉਥੇ ਸਦਾ ਸੁਖ ਹੀ ਸੁਖ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "там всегда одно лишь блаженство. ॥1॥ Пауза ॥"
     },
@@ -235,21 +235,21 @@
     {
       "verse_id": 15739,
       "gurmukhi": "ਤਿਉ ਤਿਉ ਸੈਲ ਕਰਹਿ ਜਿਉ ਭਾਵੈ ॥",
-      "roman": "Tiu tiu sail karahi jiu bhāvai ॥",
+      "roman": "Tiu tiu sēl karah jiu bhāvē ॥",
       "sahib_singh_pa": "(ਉਸ ਆਤਮਕ ਸ਼ਹਿਰ ਵਿਚ ਅੱਪੜੇ ਹੋਏ ਬੰਦੇ ਉਸ ਅਵਸਥਾ ਵਿਚ) ਅਨੰਦ ਨਾਲ ਵਿਚਰਦੇ ਹਨ;",
       "translation_ru": "Достигшие того духовного города пребывают в том состоянии с радостью;"
     },
     {
       "verse_id": 15740,
       "gurmukhi": "ਮਹਰਮ ਮਹਲ ਨ ਕੋ ਅਟਕਾਵੈ ॥",
-      "roman": "Mahram mahal na ko aṭkāvai ॥",
+      "roman": "Mahram mahal na ko aṭkāvē ॥",
       "sahib_singh_pa": "ਉਹ ਉਸ (ਰੱਬੀ) ਮਹਲ ਦੇ ਭੇਤੀ ਹੁੰਦੇ ਹਨ; (ਇਸ ਵਾਸਤੇ) ਕੋਈ (ਉਹਨਾਂ ਦੇ ਰਾਹ ਵਿਚ) ਰੋਕ ਨਹੀਂ ਪਾ ਸਕਦਾ।",
       "translation_ru": "они посвящены в тайну того Божественного дворца, и потому никто не может поставить им преграду на пути."
     },
     {
       "verse_id": 15741,
       "gurmukhi": "ਕਹਿ ਰਵਿਦਾਸ ਖਲਾਸ ਚਮਾਰਾ ॥",
-      "roman": "Kahi Ravīdās khalās chamārā ॥",
+      "roman": "Kah Ravīdās khalās chamārā ॥",
       "sahib_singh_pa": "ਚਮਿਆਰ ਰਵਿਦਾਸ ਆਖਦਾ ਹੈ-",
       "translation_ru": "Чамар Равидас говорит:"
     },
@@ -270,14 +270,14 @@
     {
       "verse_id": 15744,
       "gurmukhi": "ਗਉੜੀ ਬੈਰਾਗਣਿ ਰਵਿਦਾਸ ਜੀਉ ॥",
-      "roman": "Gauṛī Bairāgaṇ Ravīdās jīu ॥",
+      "roman": "Gauṛī Bērāgaṇ Ravīdās jīu ॥",
       "sahib_singh_pa": "ਰਾਗ ਗਉੜੀ-ਬੈਰਾਗਣਿ ਵਿੱਚ ਭਗਤ ਰਵਿਦਾਸ ਜੀ ਦੀ ਬਾਣੀ।",
       "translation_ru": "Бани Бхагата Равидаса Джи в раге Гаури-Байраган."
     },
     {
       "verse_id": 15745,
       "gurmukhi": "ਘਟ ਅਵਘਟ ਡੂਗਰ ਘਣਾ ਇਕੁ ਨਿਰਗੁਣੁ ਬੈਲੁ ਹਮਾਰ ॥",
-      "roman": "Ghaṭ avghaṭ ḍūgar ghaṇā ik nirguṇ bail hamār",
+      "roman": "Ghaṭ avghaṭ ḍūgar ghaṇā ik nirguṇ bēl hamār",
       "sahib_singh_pa": "(ਜਿਨਹੀਂ ਰਾਹੀਂ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦਾ ਸੌਦਾ ਲੱਦ ਕੇ ਲੈ ਜਾਣ ਵਾਲਾ ਮੇਰਾ ਟਾਂਡਾ ਲੰਘਣਾ ਹੈ, ਉਹ) ਰਸਤੇ ਬੜੇ ਔਖੇ ਪਹਾੜੀ ਰਸਤੇ ਹਨ, ਤੇ ਮੇਰਾ (ਮਨ-) ਬਲਦ ਮਾੜਾ ਜਿਹਾ ਹੈ;",
       "translation_ru": "Пути, по которым должен пройти мой караван, нагруженный товаром Имени Господа, очень трудны, гористы, а мой бык-ум слаб и плох;"
     },

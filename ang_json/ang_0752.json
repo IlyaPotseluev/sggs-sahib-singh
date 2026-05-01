@@ -21,7 +21,7 @@
       "gurmukhi": "ਹਉ ਜੀਵਾ ਗੁਣ ਸਾਰਿ ਅੰਤਰਿ ਤੂ ਵਸੈ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "hau jīvā guṇ sār antar tū vasai",
+      "roman": "hau jīvā guṇ sār antar tū vasē",
       "translation_ru": "Я живу, вспоминая Твои качества; Ты обитаешь внутри меня."
     },
     {
@@ -32,7 +32,7 @@
       "gurmukhi": "ਤੂੰ ਵਸਹਿ ਮਨ ਮਾਹਿ ਸਹਜੇ ਰਸਿ ਰਸੈ ॥੩॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "tū vasahi man māh sahjē ras rasai ||3||",
+      "roman": "tū vasahi man māh sahjē ras rasē ||3||",
       "translation_ru": "Ты пребываешь в уме, и он естественно наслаждается духовным вкусом. ॥3॥"
     },
     {
@@ -65,7 +65,7 @@
       "gurmukhi": "ਨਿਤ ਨਿਤ ਰਿਦੈ ਸਮਾਲਿ ਪ੍ਰੀਤਮੁ ਆਪਣਾ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "nit nit ridai samāl prītam āpṇā",
+      "roman": "nit nit ridē samāl prītam āpṇā",
       "translation_ru": "Снова и снова храни в сердце своего Возлюбленного."
     },
     {
@@ -87,7 +87,7 @@
       "gurmukhi": "ਮਨਮੁਖ ਭਰਮਿ ਭੁਲਾਣਾ ਨਾ ਤਿਸੁ ਰੰਗੁ ਹੈ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "manmukh bharam bhulāṇā nā tis raṅg hai",
+      "roman": "manmukh bharam bhulāṇā nā tis raṅg hē",
       "translation_ru": "Манмукх заблудился в сомнении; в нём нет любви к Господу."
     },
     {
@@ -98,7 +98,7 @@
       "gurmukhi": "ਮਰਸੀ ਹੋਇ ਵਿਡਾਣਾ ਮਨਿ ਤਨਿ ਭੰਗੁ ਹੈ ॥੬॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "marsī hoi viḍāṇā man tan bhaṅg hai ||6||",
+      "roman": "marsī hoi viḍāṇā man tan bhaṅg hē ||6||",
       "translation_ru": "Он умрёт, став чужим и оторванным; его ум и тело разбиты изнутри. ॥6॥"
     },
     {
@@ -142,7 +142,7 @@
       "gurmukhi": "ਮੈ ਦੀਜੈ ਨਾਮ ਨਿਵਾਸੁ ਹਰਿ ਗੁਣ ਗਾਵਸੀ ॥੮॥੧॥੩॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "mai dījai nām nivās har guṇ gāvsī ||8||1||3||",
+      "roman": "mē dījē nām nivās har guṇ gāvsī ||8||1||3||",
       "translation_ru": "Даруй мне обитель Имени, чтобы я пел качества Хари. ॥8॥1॥3॥"
     },
     {
@@ -175,7 +175,7 @@
       "gurmukhi": "ਤਿਉ ਸਾਕਤੁ ਜੋਨੀ ਪਾਇ ਭਵੈ ਭਵਾਈਐ ॥੧॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "tiu sākat jonī pāi bhavai bhavāīai ||1||",
+      "roman": "tiu sākat jonī pāi bhavē bhavāīē ||1||",
       "translation_ru": "так и человек, опутанный майей, попадает в рождения и кружится в круге рождения и смерти, пока по милости Гуру не учится верному разумению. ॥1॥"
     },
     {
@@ -197,7 +197,7 @@
       "gurmukhi": "ਹਉਮੈ ਆਵੈ ਜਾਇ ਭਰਮਿ ਭੁਲਾਵਣਾ ॥੧॥ ਰਹਾਉ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "haumai āvai jāi bharam bhulāvaṇā ||1|| rahāu",
+      "roman": "haumē āvē jāi bharam bhulāvaṇā ||1|| rahāu",
       "translation_ru": "Из-за Хоумэ человек остаётся в круге рождения и смерти и, впав в блуждание, сбивается с пути. ॥1॥ Рахау."
     },
     {
@@ -219,7 +219,7 @@
       "gurmukhi": "ਮੇਲਹਿ ਤੁਝਹਿ ਰਜਾਇ ਸਬਦੁ ਕਮਾਈਐ ॥੨॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "mēlahi tujha hi rajāi śabad kamāīai ||2||",
+      "roman": "mēlah tujha hi rajāi śabad kamāīai ||2||",
       "translation_ru": "Ты Сам, по Своей воле, соединяешь человека с Гуру; тот, кого Ты соединяешь, живёт согласно Шабаду Гуру. ॥2॥"
     },
     {
@@ -230,7 +230,7 @@
       "gurmukhi": "ਤੂੰ ਕਰਿ ਕਰਿ ਵੇਖਹਿ ਆਪਿ ਦੇਹਿ ਸੁ ਪਾਈਐ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "tūṅ kar kar vēkhahi āp dēhi so pāīai",
+      "roman": "tūṅ kar kar vēkhah āp dēh so pāīai",
       "translation_ru": "О Господь, сотворив существ, Ты Сам заботишься о них; что Ты даёшь, то они и получают."
     },
     {
@@ -263,7 +263,7 @@
       "gurmukhi": "ਇਹੁ ਕਿਥੈ ਘਰੁ ਅਉਤਾਕੁ ਮਹਲੁ ਨ ਪਾਈਐ ॥੪॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "ih kithai ghar autāk mahal na pāīai ||4||",
+      "roman": "ih kithē ghar autāk mahal na pāīē ||4||",
       "translation_ru": "Тогда человеку не достаются ни этот дом, ни его покои, ни дворец, которыми он гордился. ॥4॥"
     },
     {
@@ -285,7 +285,7 @@
       "gurmukhi": "ਗਰਬਿ ਮੁਸੈ ਘਰੁ ਚੋਰੁ ਕਿਸੁ ਰੂਆਈਐ ॥੫॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "garab musai ghar chor kis rūāīai ||5||",
+      "roman": "garab musē ghar chor kis rūāīē ||5||",
       "translation_ru": "Из-за беспечности в гордости вор привязанности грабит его дом, его духовный капитал; он даже не понимает, кому жаловаться. ॥5॥"
     },
     {
@@ -329,7 +329,7 @@
       "gurmukhi": "ਸਦਾ ਰਹੈ ਨਿਹਕਾਮੁ ਜੇ ਗੁਰਮਤਿ ਪਾਈਐ ॥੭॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "sadā rahai nihkām jē gurmat pāīai ||7||",
+      "roman": "sadā rahē nihkām jē gurmat pāīē ||7||",
       "translation_ru": "Если человек обретает наставление Гуру, он всегда остаётся свободным от мирских желаний. ॥7॥"
     },
     {
@@ -340,7 +340,7 @@
       "gurmukhi": "ਰਾਤਿ ਦਿਹੈ ਹਰਿ ਨਾਉ ਮੰਨਿ ਵਸਾਈਐ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "rāt dihai har nāu mann vasāīai",
+      "roman": "rāt dihē har nāu mann vasāīē",
       "translation_ru": "День и ночь, во всякое время, пусть Имя Хари будет поселено в уме."
     },
     {
@@ -373,7 +373,7 @@
       "gurmukhi": "ਮਨਹੁ ਨ ਨਾਮੁ ਵਿਸਾਰਿ ਅਹਿਨਿਸਿ ਧਿਆਈਐ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "manahu na nām visār ahinis dhiāīai",
+      "roman": "manah na nām visār ahinis dhiāīai",
       "translation_ru": "О душа, не забывай Имя Бога из ума; днём и ночью следует медитировать на Имя Бога."
     },
     {
@@ -384,7 +384,7 @@
       "gurmukhi": "ਜਿਉ ਰਾਖਹਿ ਕਿਰਪਾ ਧਾਰਿ ਤਿਵੈ ਸੁਖੁ ਪਾਈਐ ॥੧॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "jiu rākhahi kirpā dhār tivai sukh pāīai ||1||",
+      "roman": "jiu rākhahi kirpā dhār tivē sukh pāīē ||1||",
       "translation_ru": "О Господь, как Ты милостиво защищаешь меня от привязанности майи, так я обретаю духовное блаженство. ॥1॥"
     },
     {
@@ -395,7 +395,7 @@
       "gurmukhi": "ਮੈ ਅੰਧੁਲੇ ਹਰਿ ਨਾਮੁ ਲਕੁਟੀ ਟੋਹਣੀ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "mai andhulē har nām lakuṭī ṭohṇī",
+      "roman": "mē andhulē har nām lakuṭī ṭohṇī",
       "translation_ru": "Мне, слепому в привязанности к майе, Имя Бога служит посохом, опорной палкой, с помощью которой я нащупываю правильный путь жизни."
     },
     {
@@ -406,7 +406,7 @@
       "gurmukhi": "ਰਹਉ ਸਾਹਿਬ ਕੀ ਟੇਕ ਨ ਮੋਹੈ ਮੋਹਣੀ ॥੧॥ ਰਹਾਉ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "rahau sāhib kī ṭēk na mohai mohṇī ||1|| rahāu",
+      "roman": "rahau sāhib kī ṭēk na mohē mohṇī ||1|| rahāu",
       "translation_ru": "Когда я остаюсь в опоре на Господа-Владыку, майя, очаровывающая ум, не может меня очаровать. ॥1॥ Рахау."
     },
     {
@@ -450,7 +450,7 @@
       "gurmukhi": "ਤੁਧੁ ਭਾਵੈ ਤਿਵੈ ਰਜਾਇ ਭਰਮੁ ਭਉ ਭੰਜਨਾ ॥੩॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "tudh bhāvai tivai rajāi bharam bhau bhañjanā ||3||",
+      "roman": "tudh bhāvē tivē rajāi bharam bhau bhañjanā ||3||",
       "translation_ru": "О Господь, уничтожающий сомнение и страх, то, что Тебе нравится, я принимаю как Твою волю. ॥3॥"
     },
     {
@@ -461,7 +461,7 @@
       "gurmukhi": "ਜਨਮਤ ਹੀ ਦੁਖੁ ਲਾਗੈ ਮਰਣਾ ਆਇ ਕੈ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "janmat hī dukh lāgai marṇā āi kai",
+      "roman": "janmat hī dukh lāgē marṇā āi kē",
       "translation_ru": "Если забыть Имя Господа, то уже при рождении, придя в мир, человек сталкивается со страданием духовной смерти."
     },
     {
@@ -472,7 +472,7 @@
       "gurmukhi": "ਜਨਮੁ ਮਰਣੁ ਪਰਵਾਣੁ ਹਰਿ ਗੁਣ ਗਾਇ ਕੈ ॥੪॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "janam maraṇ parvāṇ har guṇ gāi kai ||4||",
+      "roman": "janam maraṇ parvāṇ har guṇ gāi kē ||4||",
       "translation_ru": "Но, воспевая качества Бога, вся жизнь — от рождения до смерти — становится плодотворной. ॥4॥"
     },
     {
@@ -483,7 +483,7 @@
       "gurmukhi": "ਹਉ ਨਾਹੀ ਤੂ ਹੋਵਹਿ ਤੁਧ ਹੀ ਸਾਜਿਆ ॥",
       "site_roman": "",
       "sahib_singh_pa": "",
-      "roman": "hau nāhī tū hovahi tudh hī sājiā",
+      "roman": "hau nāhī tū hovah tudh hī sājiā",
       "translation_ru": "О Господь, Ты один сотворил всё; когда Ты проявляешься внутри, Хоумэ не остаётся."
     }
   ]

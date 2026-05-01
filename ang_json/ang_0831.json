@@ -4,21 +4,21 @@
     {
       "verse_id": 35221,
       "gurmukhi": "ਜੋਗ ਜਗ ਨਿਹਫਲ ਤਿਹ ਮਾਨਉ ਜੋ ਪ੍ਰਭ ਜਸੁ ਬਿਸਰਾਵੈ ॥੧॥",
-      "roman": "jog jag nihphal tih mānao jo prabh jas bisrāvai",
+      "roman": "jog jag nihphal tih mānao jo prabh jas bisrāvē",
       "sahib_singh_pa": "ਜੇਹੜਾ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਭੁਲਾ ਦੇਂਦਾ ਹੈ, ਮੈਂ ਸਮਝਦਾ ਹਾਂ ਕਿ ਉਸ ਦੇ ਜੋਗ-ਸਾਧਨ ਅਤੇ ਜੱਗ (ਆਦਿਕ ਕਰਮ ਸਭ) ਵਿਅਰਥ ਹਨ ॥੧॥",
       "translation_ru": "Тот, кто забывает славу Прабху, его йога и жертвоприношения бесполезны ॥1॥"
     },
     {
       "verse_id": 35222,
       "gurmukhi": "ਮਾਨ ਮੋਹ ਦੋਨੋ ਕਉ ਪਰਹਰਿ ਗੋਬਿੰਦ ਕੇ ਗੁਨ ਗਾਵੈ ॥",
-      "roman": "mān moh dono kau parhar gobind ke gun gāvai",
+      "roman": "mān moh dono kau parhar gobind ke gun gāvē",
       "sahib_singh_pa": "ਜੇਹੜਾ ਮਨੁੱਖ ਅਹੰਕਾਰ ਅਤੇ ਮਾਇਆ ਦਾ ਮੋਹ ਛੱਡ ਕੇ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੇ ਗੀਤ ਗਾਂਦਾ ਰਹਿੰਦਾ ਹੈ,",
       "translation_ru": "Тот, кто оставляет гордость и привязанность и поёт गुणы Бога,"
     },
     {
       "verse_id": 35223,
       "gurmukhi": "ਕਹੁ ਨਾਨਕ ਇਹ ਬਿਧਿ ਕੋ ਪ੍ਰਾਨੀ ਜੀਵਨ ਮੁਕਤਿ ਕਹਾਵੈ ॥੨॥੨॥",
-      "roman": "kahu nānak ih bidh ko prānī jīvan mukat kahāvai",
+      "roman": "kah nānak ih bidh ko prānī jīvan mukat kahāvē",
       "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ-  ਜੇਹੜਾ ਮਨੁੱਖ ਇਸ ਕਿਸਮ ਦਾ ਜੀਵਨ ਬਿਤੀਤ ਕਰਨ ਵਾਲਾ ਹੈ, ਉਹ ਜੀਵਨ-ਮੁਕਤਿ ਅਖਵਾਂਦਾ ਹੈ (ਉਹ ਮਨੁੱਖ ਉਸ ਸ਼੍ਰੇਣੀ ਵਿਚੋਂ ਗਿਣਿਆ ਜਾਂਦਾ ਹੈ, ਜੇਹੜੇ ਇਸ ਜ਼ਿੰਦਗੀ ਵਿਚ ਵਿਕਾਰਾਂ ਦੀ ਪਕੜ ਤੋਂ ਬਚੇ ਰਹਿੰਦੇ ਹਨ) ॥੨॥੨॥",
       "translation_ru": "Нанак говорит: такой человек называется освобождённым при жизни ॥2॥2॥"
     },
@@ -32,7 +32,7 @@
     {
       "verse_id": 35225,
       "gurmukhi": "ਜਾ ਮੈ ਭਜਨੁ ਰਾਮ ਕੋ ਨਾਹੀ ॥",
-      "roman": "jā mai bhajan rām ko nāhī",
+      "roman": "jā mē bhajan rām ko nāhī",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਭਜਨ ਨਹੀਂ ਹੈ,",
       "translation_ru": "О брат! у того человека, внутри которого нет воспевания Имени Бога,"
     },
@@ -46,42 +46,42 @@
     {
       "verse_id": 35227,
       "gurmukhi": "ਤੀਰਥ ਕਰੈ ਬ੍ਰਤ ਫੁਨਿ ਰਾਖੈ ਨਹ ਮਨੂਆ ਬਸਿ ਜਾ ਕੋ ॥",
-      "roman": "tīrath karai brat phun rākhe nah manūā bas jā ko",
+      "roman": "tīrath karē brat phun rākhe nah manūā bas jā ko",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਦਾ ਮਨ ਆਪਣੇ ਵੱਸ ਵਿਚ ਨਹੀਂ ਹੈ, ਉਹ ਭਾਵੇਂ ਤੀਰਥਾਂ ਦੇ ਇਸ਼ਨਾਨ ਕਰਦਾ ਹੈ ਵਰਤ ਭੀ ਰੱਖਦਾ ਹੈ,",
       "translation_ru": "О брат! тот человек, чей ум не под его контролем, пусть даже совершает омовения в святых местах и соблюдает посты,"
     },
     {
       "verse_id": 35228,
       "gurmukhi": "ਨਿਹਫਲ ਧਰਮੁ ਤਾਹਿ ਤੁਮ ਮਾਨਹੁ ਸਾਚੁ ਕਹਤ ਮੈ ਯਾ ਕਉ ॥੧॥",
-      "roman": "nihphal dharam tāh tum mānahu sāc kahat mai yā kau ||1||",
+      "roman": "nihphal dharam tāh tum mānah sāc kahat mē yā kau ||1||",
       "sahib_singh_pa": "ਪਰ ਤੁਸੀ (ਇਹ ਤੀਰਥ ਵਰਤ ਆਦਿਕ ਵਾਲਾ) ਉਸ ਦਾ ਧਰਮ ਵਿਅਰਥ ਸਮਝੋ। ਮੈਂ ਅਜੇਹੇ ਮਨੁੱਖ ਨੂੰ ਭੀ ਇਹ ਸੱਚੀ ਗੱਲ ਆਖ ਦੇਂਦਾ ਹਾਂ ॥੧॥",
       "translation_ru": "считайте его религию бесплодной. Я говорю такую истину и такому человеку ||1||"
     },
     {
       "verse_id": 35229,
       "gurmukhi": "ਜੈਸੇ ਪਾਹਨੁ ਜਲ ਮਹਿ ਰਾਖਿਓ ਭੇਦੈ ਨਾਹਿ ਤਿਹ ਪਾਨੀ ॥",
-      "roman": "jaise pāhan jal meh rākhiō bhedai nāh tih pānī",
+      "roman": "jēse pāhan jal meh rākhiō bhedē nāh tih pānī",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜਿਵੇਂ ਪੱਥਰ ਪਾਣੀ ਵਿਚ ਰੱਖਿਆ ਹੋਇਆ ਹੋਵੇ, ਉਸ ਨੂੰ ਪਾਣੀ ਵਿੰਨ੍ਹ ਨਹੀਂ ਸਕਦਾ। (ਪਾਣੀ ਉਸ ਉਤੇ ਅਸਰ ਨਹੀਂ ਕਰ ਸਕਦਾ),",
       "translation_ru": "О брат! как камень, лежащий в воде, не проникается водой, она не может воздействовать на него,"
     },
     {
       "verse_id": 35230,
       "gurmukhi": "ਤੈਸੇ ਹੀ ਤੁਮ ਤਾਹਿ ਪਛਾਨਹੁ ਭਗਤਿ ਹੀਨ ਜੋ ਪ੍ਰਾਨੀ ॥੨॥",
-      "roman": "taise hī tum tāh pachhānhu bhagat hīn jo prānī ||2||",
+      "roman": "tēse hī tum tāh pachhānhu bhagat hīn jo prānī ||2||",
       "sahib_singh_pa": "ਇਹੋ ਜਿਹਾ ਹੀ ਤੁਸੀ ਉਸ ਮਨੁੱਖ ਨੂੰ ਸਮਝੋ ਜੋ ਪ੍ਰਭੂ ਦੀ ਭਗਤੀ ਤੋਂ ਵਾਂਜਿਆਂ ਰਹਿੰਦਾ ਹੈ ॥੨॥",
       "translation_ru": "так же считайте и того человека, который лишён преданности Богу ||2||"
     },
     {
       "verse_id": 35231,
       "gurmukhi": "ਕਲ ਮੈ ਮੁਕਤਿ ਨਾਮ ਤੇ ਪਾਵਤ ਗੁਰੁ ਯਹ ਭੇਦੁ ਬਤਾਵੈ ॥",
-      "roman": "kal mai mukat nām te pāvat gur yeh bhed batāvai",
+      "roman": "kal mē mukt nām te pāvat gur yeh bhed batāvē",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਗੁਰੂ ਜ਼ਿੰਦਗੀ ਦਾ ਇਹ ਰਾਜ਼ ਦੱਸਦਾ ਹੈ ਕਿ ਮਨੁੱਖਾ ਜੀਵਨ ਵਿਚ ਇਨਸਾਨ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦੀ ਰਾਹੀਂ ਹੀ ਵਿਕਾਰਾਂ ਤੋਂ ਖ਼ਲਾਸੀ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦਾ ਹੈ।",
       "translation_ru": "О брат! Гуру раскрывает эту тайну жизни, что человек может освободиться от пороков только через Имя Бога"
     },
     {
       "verse_id": 35232,
       "gurmukhi": "ਕਹੁ ਨਾਨਕ ਸੋਈ ਨਰੁ ਗਰੂਆ ਜੋ ਪ੍ਰਭ ਕੇ ਗੁਨ ਗਾਵੈ ॥੩॥੩॥",
-      "roman": "kahu nānak soī nar garūā jo prabh ke gun gāvai ||3||3||",
+      "roman": "kah nānak soī nar garūā jo prabh ke gun gāvē ||3||3||",
       "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਉਹੀ ਮਨੁੱਖ ਆਦਰ-ਜੋਗ ਹੈ ਜੇਹੜਾ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਂਦਾ ਰਹਿੰਦਾ ਹੈ ॥੩॥੩॥",
       "translation_ru": "Нанак говорит — только тот человек достоин почёта, кто воспевает качества Бога ||3||3||"
     },
@@ -102,21 +102,21 @@
     {
       "verse_id": 35235,
       "gurmukhi": "ਨਿਕਟਿ ਵਸੈ ਦੇਖੈ ਸਭੁ ਸੋਈ ॥",
-      "roman": "nikat vasai dekhai sabh soī",
+      "roman": "nikat vasē dekhē sabh soī",
       "sahib_singh_pa": "ਪਰਮਾਤਮਾ (ਹਰੇਕ ਜੀਵ ਦੇ) ਨੇੜੇ ਵੱਸਦਾ ਹੈ, ਉਹ ਆਪ ਹੀ ਹਰੇਕ ਦੀ ਸੰਭਾਲ ਕਰਦਾ ਹੈ,",
       "translation_ru": "Бог пребывает близко и Сам заботится обо всём"
     },
     {
       "verse_id": 35236,
       "gurmukhi": "ਗੁਰਮੁਖਿ ਵਿਰਲਾ ਬੂਝੈ ਕੋਈ ॥",
-      "roman": "gurmukh virlā būjhai koī",
+      "roman": "gurmukh virlā būjhē koī",
       "sahib_singh_pa": "ਪਰ ਇਹ ਭੇਤ ਕੋਈ ਵਿਰਲਾ ਬੰਦਾ ਸਮਝਦਾ ਹੈ ਜੋ ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਰਹਿ ਕੇ ਨਾਮ ਜਪਦਾ ਹੈ।",
       "translation_ru": "но лишь редкий человек, живущий лицом к Гуру, понимает это"
     },
     {
       "verse_id": 35237,
       "gurmukhi": "ਵਿਣੁ ਭੈ ਪਇਐ ਭਗਤਿ ਨ ਹੋਈ ॥",
-      "roman": "viṇ bhai paiyai bhagat na hoī",
+      "roman": "viṇ bhē pēyē bhagat na hoī",
       "sahib_singh_pa": "ਜਿਤਨਾ ਚਿਰ (ਇਹ) ਡਰ ਪੈਦਾ ਹੋਵੇ (ਕਿ ਉਹ ਹਰ ਵੇਲੇ ਨੇੜੇ ਵੇਖ ਰਿਹਾ ਹੈ) ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ ਨਹੀਂ ਹੋ ਸਕਦੀ।",
       "translation_ru": "пока не возникает это благоговение, преданность Богу невозможна"
     },
@@ -144,7 +144,7 @@
     {
       "verse_id": 35241,
       "gurmukhi": "ਗਿਆਨੁ ਗਿਆਨੁ ਕਥੈ ਸਭੁ ਕੋਈ ॥",
-      "roman": "giān giān kathai sabh koī",
+      "roman": "giān giān kathē sabh koī",
       "sahib_singh_pa": "(ਜ਼ਬਾਨੀ ਜ਼ਬਾਨੀ ਤਾਂ) ਹਰ ਕੋਈ ਆਖਦਾ ਹੈ (ਕਿ ਮੈਨੂੰ ਪਰਮਾਤਮਾ ਦਾ) ਗਿਆਨ (ਪ੍ਰਾਪਤ ਹੋ ਗਿਆ ਹੈ), ਗਿਆਨ (ਮਿਲ ਗਿਆ ਹੈ),",
       "translation_ru": "каждый говорит, что обрёл знание Бога"
     },
@@ -158,7 +158,7 @@
     {
       "verse_id": 35243,
       "gurmukhi": "ਕਥਿ ਕਹਣੈ ਤੇ ਰਹੈ ਨ ਕੋਈ ॥",
-      "roman": "kath kahṇai te rahai na koī",
+      "roman": "kath kahṇē te rahē na koī",
       "sahib_singh_pa": "ਚਰਚਾ ਕਰ ਕੇ (ਅਜੇਹੀ ਆਦਤ ਪੈ ਜਾਂਦੀ ਹੈ ਕਿ) ਚਰਚਾ ਕਰਨ ਤੋਂ ਜੀਵ ਹਟਦਾ ਭੀ ਨਹੀਂ।",
       "translation_ru": "человек привыкает говорить и не может перестать"
     },
@@ -186,7 +186,7 @@
     {
       "verse_id": 35247,
       "gurmukhi": "ਮਨਮੁਖ ਕਥਨੀ ਹੈ ਪਰੁ ਰਹਤ ਨ ਹੋਈ ॥",
-      "roman": "manmukh kathnī hai par rahat na hoī",
+      "roman": "manmukh kathnī hē par rahat na hoī",
       "sahib_singh_pa": "ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲਾ ਬੰਦਾ (ਗਿਆਨ ਦੀਆਂ ਨਿਰੀਆਂ) ਗੱਲਾਂ ਹੀ ਕਰਦਾ ਹੈ, ਪਰ ਉਸ ਦੀ ਰਹਿਣੀ (ਪਵਿਤ੍ਰ) ਨਹੀਂ ਹੁੰਦੀ।",
       "translation_ru": "следующий своему уму лишь говорит, но не живёт по истине"
     },
@@ -214,14 +214,14 @@
     {
       "verse_id": 35251,
       "gurmukhi": "ਜੋ ਆਂਜੈ ਸੋ ਦੀਸੈ ਕਾਲਿ ॥",
-      "roman": "jo āñjai so dīsai kāl",
+      "roman": "jo āñjē so dīsē kāl",
       "sahib_singh_pa": "(ਇਸ ਵਾਸਤੇ) ਜੋ ਭੀ (ਜਗਤ ਵਿਚ) ਜੰਮਦਾ ਹੈ ਉਹ ਆਤਮਕ ਮੌਤ ਦੇ ਵੱਸ ਵਿਚ ਦਿੱਸ ਰਿਹਾ ਹੈ।",
       "translation_ru": "каждый рождающийся находится во власти духовной смерти"
     },
     {
       "verse_id": 35252,
       "gurmukhi": "ਕਾਰਜੁ ਸੀਧੋ ਰਿਦੈ ਸਮੑਾਲਿ ॥੪॥",
-      "roman": "kāraj sīdho ridai samhāl ||4||",
+      "roman": "kāraj sīdho ridē samhāl ||4||",
       "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਨੂੰ ਹਿਰਦੇ ਵਿਚ ਯਾਦ ਕਰਨ ਨਾਲ ਹੀ (ਮਨੁੱਖਾ ਜੀਵਨ ਵਿਚ) ਕਰਨ-ਜੋਗ ਕੰਮ ਸਿਰੇ ਚੜ੍ਹਦਾ ਹੈ ॥੪॥",
       "translation_ru": "лишь remembering Бога в сердце завершает дело жизни ||4||"
     },
@@ -235,14 +235,14 @@
     {
       "verse_id": 35254,
       "gurmukhi": "ਮਨਮੁਖਿ ਹਉਮੈ ਪਤਿ ਗਵਾਈ ॥",
-      "roman": "manmukh haumai pat gavāī",
+      "roman": "manmukh haumē pat gavāī",
       "sahib_singh_pa": "ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲਾ ਮਨੁੱਖ ਹਉਮੈ ਦੇ ਅਧੀਨ ਰਹਿ ਕੇ ਆਪਣੀ ਇੱਜ਼ਤ ਗਵਾਂਦਾ ਹੈ।",
       "translation_ru": "следующий уму теряет честь из-за эго"
     },
     {
       "verse_id": 35255,
       "gurmukhi": "ਆਪੇ ਕਰਤੈ ਭਗਤਿ ਕਰਾਈ ॥",
-      "roman": "āpe kartai bhagat karāī",
+      "roman": "āpe kartē bhagat karāī",
       "sahib_singh_pa": "(ਪਰ ਜੀਵ ਦੇ ਭੀ ਕੀਹ ਵੱਸ?) ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਆਪਣੀ ਭਗਤੀ (ਜੀਵਾਂ ਪਾਸੋਂ) ਕਰਾਂਦਾ ਹੈ,",
       "translation_ru": "сам Бог побуждает к преданности"
     },
@@ -256,7 +256,7 @@
     {
       "verse_id": 35257,
       "gurmukhi": "ਰੈਣਿ ਅੰਧਾਰੀ ਨਿਰਮਲ ਜੋਤਿ ॥",
-      "roman": "raiṇ andhārī nirmal jot",
+      "roman": "rēṇ andhārī nirmal jot",
       "sahib_singh_pa": "(ਸਿਮਰਨ ਤੋਂ ਬਿਨਾ ਮਨੁੱਖ ਦੀ ਉਮਰ) ਇਕ ਹਨੇਰੀ ਰਾਤ ਹੈ, ਪਰਮਾਤਮਾ ਦੀ ਜੋਤਿ ਦੇ ਪਰਗਟ ਹੋਣ ਨਾਲ ਹੀ ਇਹ ਰੌਸ਼ਨ ਹੋ ਸਕਦੀ ਹੈ।",
       "translation_ru": "жизнь без памяти Бога — тёмная ночь, освещаемая лишь Его светом"
     },
@@ -270,14 +270,14 @@
     {
       "verse_id": 35259,
       "gurmukhi": "ਬੇਦੁ ਪੁਕਾਰੈ ਭਗਤਿ ਸਰੋਤਿ ॥",
-      "roman": "bed pukārai bhagat sarot",
+      "roman": "bed pukārē bhagat sarot",
       "sahib_singh_pa": "ਵੇਦ ਆਦਿਕ ਹਰੇਕ ਧਰਮ-ਪੁਸਤਕ ਭਗਤੀ ਦੀ ਸਿੱਖਿਆ ਹੀ ਪੁਕਾਰ ਪੁਕਾਰ ਕੇ ਦੱਸਦਾ ਹੈ।",
       "translation_ru": "все священные писания призывают к преданности"
     },
     {
       "verse_id": 35260,
       "gurmukhi": "ਸੁਣਿ ਸੁਣਿ ਮਾਨੈ ਵੇਖੈ ਜੋਤਿ ॥੬॥",
-      "roman": "suṇ suṇ mānai vekhai jot ||6||",
+      "roman": "suṇ suṇ mānē vekhē jot ||6||",
       "sahib_singh_pa": "ਜੋ ਜੋ ਜੀਵ ਇਸ ਸਿੱਖਿਆ ਨੂੰ ਸੁਣ ਸੁਣ ਕੇ ਸਰਧਾ ਲਿਆਉਂਦਾ ਹੈ ਉਹ ਰੱਬੀ ਜੋਤਿ ਨੂੰ (ਹਰ ਥਾਂ) ਵੇਖਦਾ ਹੈ ॥੬॥",
       "translation_ru": "тот, кто слушает и принимает это, видит Божественный свет ||6||"
     },
@@ -326,14 +326,14 @@
     {
       "verse_id": 35267,
       "gurmukhi": "ਦੇਖਿ ਕਹਉ ਭਾਵੈ ਮਨਿ ਸੋਇ ॥",
-      "roman": "dekh kahau bhāvai man soī",
+      "roman": "dekh kahau bhāvē man soī",
       "sahib_singh_pa": "ਉਸ ਨੂੰ (ਹਰ ਥਾਂ) ਵੇਖ ਕੇ ਮੈਂ ਉਸ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਦਾ ਹਾਂ, ਉਹੀ ਮੈਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ,",
       "translation_ru": "видя Его, я восхваляю — Он дорог моему сердцу"
     },
     {
       "verse_id": 35268,
       "gurmukhi": "ਨਾਨਕੁ ਕਹੈ ਅਵਰੁ ਨਹੀ ਕੋਇ ॥੮॥੧॥",
-      "roman": "nānak kahai avar nahī koī ||8||1||",
+      "roman": "nānak kahē avar nahī koī ||8||1||",
       "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ-ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਕੋਈ ਹੋਰ (ਉਸ ਵਰਗਾ) ਨਹੀਂ ਹੈ ॥੮॥੧॥",
       "translation_ru": "Нанак говорит — кроме Бога нет никого ||8||1||"
     }

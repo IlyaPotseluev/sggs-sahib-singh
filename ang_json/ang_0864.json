@@ -4,7 +4,7 @@
     {
       "verse_id": 36556,
       "gurmukhi": "ਦਿਨੁ ਰੈਣਿ ਨਾਨਕੁ ਨਾਮੁ ਧਿਆਏ ॥",
-      "roman": "din rain nānak nām dhiāe",
+      "roman": "din rēn nānak nām dhiāe",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ! ਇਹੋ ਜਿਹੇ ਸੰਤ ਜਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ) ਨਾਨਕ ਦਿਨ ਰਾਤ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਹੈ,",
       "translation_ru": "«(ਹੇ ਭਾਈ! ਇਹੋ ਜਿਹੇ ਸੰਤ ਜਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ) ਨਾਨਕ ਦਿਨ ਰਾਤ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਹੈ,»"
     },
@@ -32,14 +32,14 @@
     {
       "verse_id": 36560,
       "gurmukhi": "ਗੁਰ ਕੈ ਸਬਦਿ ਮੰਤ੍ਰੁ ਮਨੁ ਮਾਨ ॥",
-      "roman": "gur kai sabad mantar man mān",
+      "roman": "gur kē sabad mantar man mān",
       "sahib_singh_pa": "ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ਮੇਰਾ ਮਨ ਨਾਮ-ਮੰਤ੍ਰ ਨੂੰ (ਸਭ ਮੰਤ੍ਰਾਂ ਤੋਂ ਸ੍ਰੇਸ਼ਟ ਮੰਤ੍ਰ) ਮੰਨ ਰਿਹਾ ਹੈ।",
       "translation_ru": "Через слово Гуру мой ум принимает Нам-мантру как высший из всех мантр."
     },
     {
       "verse_id": 36561,
       "gurmukhi": "ਗੁਰ ਕੇ ਚਰਨ ਰਿਦੈ ਲੈ ਧਾਰਉ ॥",
-      "roman": "gur ke charan ridai lai dhārau",
+      "roman": "gur ke charan ridē lē dhārau",
       "sahib_singh_pa": "(ਤਾਹੀਏਂ, ਹੇ ਭਾਈ!) ਗੁਰੂ ਦੇ ਚਰਨ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਲੈ ਕੇ ਵਸਾਈ ਰੱਖਦਾ ਹਾਂ।",
       "translation_ru": "Поэтому, о брат, я помещаю стопы Гуру в своём сердце и удерживаю их там."
     },
@@ -53,7 +53,7 @@
     {
       "verse_id": 36563,
       "gurmukhi": "ਮਤ ਕੋ ਭਰਮਿ ਭੁਲੈ ਸੰਸਾਰਿ ॥",
-      "roman": "mat ko bharam bhulai sansār",
+      "roman": "mat ko bharam bhulē sansār",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਦੁਨੀਆ ਵਿਚ ਕਿਤੇ ਕੋਈ ਮਨੁੱਖ ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ (ਇਹ ਗੱਲ) ਨਾਹ ਭੁੱਲ ਜਾਏ,",
       "translation_ru": "О брат! Пусть никто в мире, впав в заблуждение, не забудет это,"
     },
@@ -123,21 +123,21 @@
     {
       "verse_id": 36573,
       "gurmukhi": "ਗੁਰੁ ਕਰਤਾ ਗੁਰੁ ਕਰਣੈ ਜੋਗੁ ॥",
-      "roman": "gur kartā gur karṇai jog",
+      "roman": "gur kartā gur karṇē jog",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਗੁਰੂ (ਆਤਮਕ ਅਵਸਥਾ ਵਿਚ ਕਰਤਾਰ ਨਾਲ ਇਕ-ਸੁਰ ਹੋਣ ਕਰਕੇ ਉਸ) ਕਰਤਾਰ ਦਾ ਰੂਪ ਹੈ ਜੋ ਸਭ ਕੁਝ ਕਰਨ ਦੇ ਸਮਰਥ ਹੈ।",
       "translation_ru": "О брат! Гуру есть образ Творца, способного совершать всё."
     },
     {
       "verse_id": 36574,
       "gurmukhi": "ਗੁਰੁ ਪਰਮੇਸਰੁ ਹੈ ਭੀ ਹੋਗੁ ॥",
-      "roman": "gur parmesar hai bhī hog",
+      "roman": "gur parmesar hē bhī hog",
       "sahib_singh_pa": "ਗੁਰੂ ਉਸ ਪਰਮੇਸਰ ਦਾ ਰੂਪ ਹੈ, ਜੋ (ਪਹਿਲਾਂ ਭੀ ਮੌਜੂਦ ਸੀ) ਹੁਣ ਭੀ ਮੌਜੂਦ ਹੈ ਅਤੇ ਸਦਾ ਕਾਇਮ ਰਹੇਗਾ।",
       "translation_ru": "Гуру — образ Бога, который был, есть и будет вечно."
     },
     {
       "verse_id": 36575,
       "gurmukhi": "ਕਹੁ ਨਾਨਕ ਪ੍ਰਭਿ ਇਹੈ ਜਨਾਈ ॥",
-      "roman": "kahu nānak prabh ihai janāī",
+      "roman": "kah nānak prabh ihē janāī",
       "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਪ੍ਰਭੂ ਨੇ ਮੈਨੂੰ ਇਹੀ ਗੱਲ ਸਮਝਾਈ ਹੈ (ਕਿ)",
       "translation_ru": "Нанак говорит: Бог открыл мне это,"
     },
@@ -165,21 +165,21 @@
     {
       "verse_id": 36579,
       "gurmukhi": "ਗੁਰੂ ਬਿਨਾ ਮੈ ਨਾਹੀ ਹੋਰ ॥",
-      "roman": "gurū binā mai nāhī hor",
+      "roman": "gurū binā mē nāhī hor",
       "sahib_singh_pa": "ਮੈਨੂੰ ਗੁਰੂ ਤੋਂ ਬਿਨਾ ਕੋਈ ਹੋਰ ਆਸਰਾ ਨਹੀਂ ਸੁੱਝਦਾ।",
       "translation_ru": "У меня нет иной опоры кроме Гуру."
     },
     {
       "verse_id": 36580,
       "gurmukhi": "ਗੁਰ ਕੀ ਟੇਕ ਰਹਹੁ ਦਿਨੁ ਰਾਤਿ ॥",
-      "roman": "gur kī ṭek rahahu din rāt",
+      "roman": "gur kī ṭek rahah din rāt",
       "sahib_singh_pa": "ਹੇ ਮਨ! ਉਸ ਗੁਰੂ ਦੇ ਆਸਰੇ ਦਿਨ ਰਾਤ ਟਿਕਿਆ ਰਹੁ,",
       "translation_ru": "О ум! Оставайся в опоре Гуру день и ночь,"
     },
     {
       "verse_id": 36581,
       "gurmukhi": "ਜਾ ਕੀ ਕੋਇ ਨ ਮੇਟੈ ਦਾਤਿ ॥੧॥",
-      "roman": "jā kī koī na meṭai dāt",
+      "roman": "jā kī koī na meṭē dāt",
       "sahib_singh_pa": "ਜਿਸ ਗੁਰੂ ਦੀ ਬਖ਼ਸ਼ੀ ਹੋਈ ਆਤਮਕ ਜੀਵਨ ਦੀ ਦਾਤ ਨੂੰ ਕੋਈ ਮਿਟਾ ਨਹੀਂ ਸਕਦਾ ॥੧॥",
       "translation_ru": "дар духовной жизни которого никто не может уничтожить."
     },
@@ -193,21 +193,21 @@
     {
       "verse_id": 36583,
       "gurmukhi": "ਜੋ ਤਿਸੁ ਭਾਵੈ ਸੋ ਪਰਵਾਣੁ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "jo tis bhāvai so parvān",
+      "roman": "jo tis bhāvē so parvān",
       "sahib_singh_pa": "ਜੋ ਕੁਝ ਪਰਮਾਤਮਾ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ, ਉਹੀ ਗੁਰੂ ਭੀ (ਸਿਰ-ਮੱਥੇ) ਕਬੂਲ ਕਰਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Что угодно Богу, то принимает и Гуру."
     },
     {
       "verse_id": 36584,
       "gurmukhi": "ਗੁਰ ਚਰਣੀ ਜਾ ਕਾ ਮਨੁ ਲਾਗੈ ॥",
-      "roman": "gur charaṇī jā kā man lāgai",
+      "roman": "gur charaṇī jā kā man lāgē",
       "sahib_singh_pa": "ਹੇ ਮੇਰੇ ਮਨ! ਜਿਸ ਮਨੁੱਖ ਦਾ ਮਨ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ,",
       "translation_ru": "О мой ум! Чей ум пребывает в стопах Гуру,"
     },
     {
       "verse_id": 36585,
       "gurmukhi": "ਦੂਖੁ ਦਰਦੁ ਭ੍ਰਮੁ ਤਾ ਕਾ ਭਾਗੈ ॥",
-      "roman": "dūkh dard bhram tā kā bhāgai",
+      "roman": "dūkh dard bhram tā kā bhāgē",
       "sahib_singh_pa": "ਉਸ ਦੀ ਹਰੇਕ ਭਟਕਣਾ ਹਰੇਕ ਦੁੱਖ ਦਰਦ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "у того исчезают все страдания, боли и заблуждения."
     },
@@ -242,14 +242,14 @@
     {
       "verse_id": 36590,
       "gurmukhi": "ਗੁਰ ਕੇ ਸੇਵਕ ਕਉ ਦੁਖੁ ਨ ਬਿਆਪੈ ॥",
-      "roman": "gur ke sevak kau dukh na biāpai",
+      "roman": "gur ke sevak kau dukh na biāpē",
       "sahib_singh_pa": "ਕੋਈ ਭੀ ਦੁੱਖ ਗੁਰੂ ਦੇ ਸੇਵਕ ਉਤੇ (ਆਪਣਾ) ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕਦਾ।",
       "translation_ru": "Никакое страдание не может одолеть слугу Гуру."
     },
     {
       "verse_id": 36591,
       "gurmukhi": "ਗੁਰ ਕਾ ਸੇਵਕੁ ਦਹ ਦਿਸਿ ਜਾਪੈ ॥੩॥",
-      "roman": "gur kā sevak dah dis jāapai",
+      "roman": "gur kā sevak dah dis jāapē",
       "sahib_singh_pa": "ਗੁਰੂ ਦੀ ਸਰਨ ਰਹਿਣ ਵਾਲਾ ਮਨੁੱਖ ਸਾਰੇ ਸੰਸਾਰ ਵਿਚ ਪਰਗਟ ਹੋ ਜਾਂਦਾ ਹੈ ॥੩॥",
       "translation_ru": "Слуга Гуру становится известным во всех направлениях."
     },
@@ -270,7 +270,7 @@
     {
       "verse_id": 36594,
       "gurmukhi": "ਕਹੁ ਨਾਨਕ ਜਾ ਕੇ ਪੂਰੇ ਭਾਗ ॥",
-      "roman": "kahu nānak jā ke pūre bhāg",
+      "roman": "kah nānak jā ke pūre bhāg",
       "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਜਿਸ ਮਨੁੱਖ ਦੇ ਵੱਡੇ ਭਾਗ ਜਾਗਦੇ ਹਨ,",
       "translation_ru": "Нанак говорит: у кого пробуждаются великие заслуги,"
     },
@@ -319,7 +319,7 @@
     {
       "verse_id": 36601,
       "gurmukhi": "ਗੁਰ ਬਿਨੁ ਅਵਰੁ ਨਾਹੀ ਮੈ ਥਾਉ ॥",
-      "roman": "gur bin avar nāhī mai thāu",
+      "roman": "gur bin avar nāhī mē thāu",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! (ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ ਘੁੱਪ ਹਨੇਰੇ ਵਿਚੋਂ ਬਚਣ ਲਈ) ਗੁਰੂ ਤੋਂ ਬਿਨਾ ਮੈਨੂੰ ਕੋਈ ਹੋਰ ਥਾਂ ਨਹੀਂ ਸੁੱਝਦਾ (ਜਿਸ ਦਾ ਆਸਰਾ ਲੈ ਸਕਾਂ।",
       "translation_ru": "О брат! У меня нет иной опоры кроме Гуру."
     },
@@ -333,7 +333,7 @@
     {
       "verse_id": 36603,
       "gurmukhi": "ਗੁਰੁ ਮੇਰਾ ਗਿਆਨੁ ਗੁਰੁ ਰਿਦੈ ਧਿਆਨੁ ॥",
-      "roman": "gur merā giān gur ridai dhiān",
+      "roman": "gur merā giān gur ridē dhiān",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਗੁਰੂ ਹੀ ਮੇਰੇ ਵਾਸਤੇ ਧਾਰਮਿਕ ਚਰਚਾ ਹੈ, ਗੁਰੂ (ਸਦਾ ਮੇਰੇ) ਹਿਰਦੇ ਵਿਚ ਟਿਕਿਆ ਹੋਇਆ ਹੈ, ਇਹੀ ਮੇਰੀ ਸਮਾਧੀ ਹੈ।",
       "translation_ru": "О брат! Гуру — моё знание, он пребывает в моём сердце как сосредоточение."
     },
@@ -354,7 +354,7 @@
     {
       "verse_id": 36606,
       "gurmukhi": "ਗੁਰੂ ਬਿਨਾ ਮੈ ਨਾਹੀ ਹੋਰੁ ॥੨॥",
-      "roman": "gurū binā mai nāhī hor",
+      "roman": "gurū binā mē nāhī hor",
       "sahib_singh_pa": "ਗੁਰੂ ਤੋਂ ਬਿਨਾ ਮੈਨੂੰ ਕੋਈ ਹੋਰ ਆਸਰਾ ਨਹੀਂ ਸੁੱਝਦਾ ॥੨॥",
       "translation_ru": "Без Гуру у меня нет иной опоры."
     },
@@ -382,7 +382,7 @@
     {
       "verse_id": 36610,
       "gurmukhi": "ਗੁਰ ਕੈ ਸੰਗਿ ਸਗਲ ਨਿਸਤਾਰਾ ॥੩॥",
-      "roman": "gur kai sang sagal nistārā",
+      "roman": "gur kē sang sagal nistārā",
       "sahib_singh_pa": "ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਿਹਾਂ ਸਾਰੇ ਜੀਵਾਂ ਦਾ ਪਾਰ-ਉਤਾਰਾ ਹੋ ਜਾਂਦਾ ਹੈ ॥੩॥",
       "translation_ru": "В обществе Гуру происходит спасение всех существ."
     },
@@ -403,7 +403,7 @@
     {
       "verse_id": 36613,
       "gurmukhi": "ਗੁਰ ਕਾ ਸਬਦੁ ਨ ਮੇਟੈ ਕੋਇ ॥",
-      "roman": "gur kā sabad na meṭai koī",
+      "roman": "gur kā sabad na meṭē koī",
       "sahib_singh_pa": "(ਜਿਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ) ਗੁਰੂ ਦਾ ਸ਼ਬਦ (ਵੱਸ ਪਏ ਉਸ ਦੇ ਅੰਦਰੋਂ) ਕੋਈ ਮਨੁੱਖ (ਆਤਮਕ ਜੀਵਨ ਦੇ ਉਜਾਰੇ ਨੂੰ) ਮਿਟਾ ਨਹੀਂ ਸਕਦਾ।",
       "translation_ru": "Никто не может уничтожить слово Гуру, укоренившееся в сердце."
     },

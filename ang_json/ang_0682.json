@@ -18,7 +18,7 @@
     {
       "verse_id": 29415,
       "gurmukhi": "ਹਾਥ ਦੇਇ ਰਾਖੈ ਅਪਨੇ ਕਉ ਸਾਸਿ ਸਾਸਿ ਪ੍ਰਤਿਪਾਲੇ ॥੧॥",
-      "roman": "hāth deī rākhai apne kau sāsi sāsi pratipāle",
+      "roman": "hāth deī rākhē apne kau sāsi sāsi pratipāle",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਆਪਣਾ ਹੱਥ ਦੇ ਕੇ ਆਪਣੇ ਸੇਵਕ ਦੀ ਰਾਖੀ ਕਰਦਾ ਹੈ, (ਸੇਵਕ ਨੂੰ ਉਸ ਦੇ) ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ ਪਾਲਦਾ ਰਹਿੰਦਾ ਹੈ ॥੧॥",
       "translation_ru": "Бог, протянув руку, защищает Своего слугу и с каждым его дыханием поддерживает его."
     },
@@ -46,7 +46,7 @@
     {
       "verse_id": 29419,
       "gurmukhi": "ਹਰਿ ਸਿਮਰਿ ਸਿਮਰਿ ਆਨਦ ਕਰਿ ਨਾਨਕ ਪ੍ਰਭਿ ਪੂਰਨ ਪੈਜ ਰਖਾਈ ॥੨॥੧੫॥੪੬॥",
-      "roman": "har simar simar ānand kar nānak prabh pūran paij rakhāī",
+      "roman": "har simar simar ānand kar nānak prabh pūran pēj rakhāī",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਤੂੰ ਭੀ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰ ਸਿਮਰ ਕੇ ਆਤਮਕ ਆਨੰਦ ਮਾਣ। (ਜਿਸ ਭੀ ਮਨੁੱਖ ਨੇ ਸਿਮਰਨ ਕੀਤਾ) ਪ੍ਰਭੂ ਨੇ ਪੂਰੇ ਤੌਰ ਤੇ ਉਸ ਦੀ ਇੱਜ਼ਤ ਰੱਖ ਲਈ ॥੨॥੧੫॥੪੬॥",
       "translation_ru": "О Нанак! И ты, повторяя Имя Бога, вкушай духовную радость. Бог полностью сохраняет честь каждого, кто помнит Его."
     },
@@ -60,7 +60,7 @@
     {
       "verse_id": 29421,
       "gurmukhi": "ਜਿਸ ਕਉ ਬਿਸਰੈ ਪ੍ਰਾਨਪਤਿ ਦਾਤਾ ਸੋਈ ਗਨਹੁ ਅਭਾਗਾ ॥",
-      "roman": "jis kau bisrai prānpati dātā soī ganahu abhāgā",
+      "roman": "jis kau bisrē prānpat dātā soī ganah abhāgā",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਉਸ ਮਨੁੱਖ ਨੂੰ ਬਦ-ਕਿਸਮਤ ਸਮਝੋ, ਜਿਸ ਨੂੰ ਜਿੰਦ ਦਾ ਮਾਲਕ-ਪ੍ਰਭੂ ਵਿਸਰ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "О брат! Считай несчастным того человека, который забывает Господа — Владыку жизни."
     },
@@ -123,14 +123,14 @@
     {
       "verse_id": 29430,
       "gurmukhi": "ਸਿਮਰਿ ਸਿਮਰਿ ਸੁਆਮੀ ਪ੍ਰਭੁ ਅਪੁਨਾ ਨਿਕਟਿ ਨ ਆਵੈ ਜਾਮ ॥",
-      "roman": "simar simar suāmī prabh apunā nikat na āvai jām",
+      "roman": "simar simar suāmī prabh apunā nikat na āvē jām",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਆਪਣੇ ਮਾਲਕ-ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਮੁੜ ਮੁੜ ਸਿਮਰ ਕੇ (ਸੇਵਕਾਂ ਦੇ) ਨੇੜੇ ਆਤਮਕ ਮੌਤ ਨਹੀਂ ਢੁਕਦੀ।",
       "translation_ru": "О брат! Повторяя Имя Господа, смерть души не приближается к слугам."
     },
     {
       "verse_id": 29431,
       "gurmukhi": "ਮੁਕਤਿ ਬੈਕੁੰਠ ਸਾਧ ਕੀ ਸੰਗਤਿ ਜਨ ਪਾਇਓ ਹਰਿ ਕਾ ਧਾਮ ॥੧॥",
-      "roman": "mukat baikunṭh sādh kī sangat jan pāiō har kā dhām",
+      "roman": "mukat bēkunṭh sādh kī sangat jan pāiō har kā dhām",
       "sahib_singh_pa": "ਸੇਵਕ ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਪ੍ਰਾਪਤ ਕਰ ਲੈਂਦੇ ਹਨ ਜੇਹੜੀ ਪਰਮਾਤਮਾ ਦਾ ਘਰ ਹੈ। (ਇਹ ਸਾਧ ਸੰਗਤਿ ਹੀ ਉਹਨਾਂ ਵਾਸਤੇ) ਵਿਸ਼ਨੂ ਦੀ ਪੁਰੀ ਹੈ, ਵਿਕਾਰਾਂ ਤੋਂ ਖ਼ਲਾਸੀ (ਪਾਣ ਦੀ ਥਾਂ) ਹੈ ॥੧॥",
       "translation_ru": "Слуги получают общество святых, которое является домом Бога; это и есть освобождение и рай."
     },
@@ -144,7 +144,7 @@
     {
       "verse_id": 29433,
       "gurmukhi": "ਗੋਬਿੰਦੁ ਦਮੋਦਰ ਸਿਮਰਉ ਦਿਨ ਰੈਨਿ ਨਾਨਕ ਸਦ ਕੁਰਬਾਨ ॥੨॥੧੭॥੪੮॥",
-      "roman": "gobind damodar simrau din rain nānak sad kurbān",
+      "roman": "gobind damodar simrau din rēn nānak sad kurbān",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਆਖ-ਹੇ ਭਾਈ!) ਮੈਂ (ਭੀ) ਉਸ ਗੋਬਿੰਦ ਨੂੰ ਦਮੋਦਰ ਨੂੰ ਦਿਨ ਰਾਤ ਸਿਮਰਦਾ ਰਹਿੰਦਾ ਹਾਂ, ਤੇ, ਉਸ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ ॥੨॥੧੭॥੪੮॥",
       "translation_ru": "О Нанак! Я также днём и ночью помню Гобинда, Дамодара, и посвящаю себя Ему."
     },
@@ -172,14 +172,14 @@
     {
       "verse_id": 29437,
       "gurmukhi": "ਚਰਨ ਤੁਮੑਾਰੇ ਹਿਰਦੈ ਵਾਸਹਿ ਸੰਤਨ ਕਾ ਸੰਗੁ ਪਾਵਉ ॥",
-      "roman": "charan tumhāre hirdai vāsahi santan kā sang pāvau",
+      "roman": "charan tumhāre hirdē vāsah santan kā sang pāvau",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਚਰਨ ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ਵੱਸਦੇ ਰਹਿਣ, ਮੈਂ ਤੇਰੇ ਸੰਤ ਜਨਾਂ ਦੀ ਸੰਗਤਿ ਹਾਸਲ ਕਰ ਲਵਾਂ,",
       "translation_ru": "О Бог! Пусть Твои стопы пребывают в моём сердце, и я обрету общество святых."
     },
     {
       "verse_id": 29438,
       "gurmukhi": "ਸੋਗ ਅਗਨਿ ਮਹਿ ਮਨੁ ਨ ਵਿਆਪੈ ਆਠ ਪਹਰ ਗੁਣ ਗਾਵਉ ॥੧॥",
-      "roman": "sog agan mah man na viāpai āṭh pahar guṇ gāvau",
+      "roman": "sog agan mah man na viāpē āṭh pahar guṇ gāvau",
       "sahib_singh_pa": "ਮੈਂ ਅੱਠੇ ਪਹਰ ਤੇਰੇ ਗੁਣ ਗਾਂਦਾ ਰਹਾਂ। (ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਮਨ ਚਿੰਤਾ ਦੀ ਅੱਗ ਵਿਚ ਨਹੀਂ ਫਸਦਾ ॥੧॥",
       "translation_ru": "Я буду воспевать Твои качества восемь прахаров, и тогда ум не попадёт в огонь тревог."
     },
@@ -214,7 +214,7 @@
     {
       "verse_id": 29443,
       "gurmukhi": "ਮਾਨੁਖ ਕਉ ਜਾਚਤ ਸ੍ਰਮੁ ਪਾਈਐ ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਮੋਖ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "mānukh kau jāchat sram pāīai prabh kai simran mokh",
+      "roman": "mānukh kau jāchat sram pāīē prabh kē simran mokh",
       "sahib_singh_pa": "ਮਨੁੱਖਾਂ ਪਾਸੋਂ ਮੰਗਦਿਆਂ ਨਿਰੀ ਖੇਚਲ ਹੀ ਹਾਸਲ ਹੁੰਦੀ ਹੈ, (ਦੂਜੇ ਪਾਸੇ,) ਪਰਮਾਤਮਾ ਦੇ ਸਿਮਰਨ ਦੀ ਰਾਹੀਂ (ਪਦਾਰਥ ਭੀ ਮਿਲਦੇ ਹਨ, ਤੇ) ਮਾਇਆ ਦੇ ਮੋਹ ਤੋਂ ਖ਼ਲਾਸੀ (ਭੀ) ਪ੍ਰਾਪਤ ਹੋ ਜਾਂਦੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Прося у людей, получаешь лишь трудности, а через поминание Бога достигается освобождение."
     },
@@ -228,21 +228,21 @@
     {
       "verse_id": 29445,
       "gurmukhi": "ਕ੍ਰਿਪਾ ਸਿੰਧੁ ਸੇਵਿ ਸਚੁ ਪਾਈਐ ਦੋਵੈ ਸੁਹੇਲੇ ਲੋਕ ॥੧॥",
-      "roman": "kirpā sindh sev sach pāīai dovai suhele lok",
+      "roman": "kirpā sindh sev sach pāīē dovē suhele lok",
       "sahib_singh_pa": "(ਪਰ) ਕਿਰਪਾ ਦੇ ਸਮੁੰਦਰ ਪਰਮਾਤਮਾ ਦੀ ਸਰਨ ਪੈ ਕੇ ਹੀ ਉਸ ਦਾ ਸਦਾ-ਥਿਰ ਨਾਮ ਪ੍ਰਾਪਤ ਹੁੰਦਾ ਹੈ (ਜਿਸ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਲੋਕ ਪਰਲੋਕ ਦੋਵੇਂ ਹੀ ਸੁਖਦਾਈ ਹੋ ਜਾਂਦੇ ਹਨ ॥੧॥",
       "translation_ru": "Но только, обратившись к Богу — океану милости, обретается Истина, и оба мира становятся благими."
     },
     {
       "verse_id": 29446,
       "gurmukhi": "ਆਨ ਅਚਾਰ ਬਿਉਹਾਰ ਹੈ ਜੇਤੇ ਬਿਨੁ ਹਰਿ ਸਿਮਰਨ ਫੋਕ ॥",
-      "roman": "ān achār biuhār hai jete bin har simran phok",
+      "roman": "ān achār biuhār hē jete bin har simran phok",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦੇ ਸਿਮਰਨ ਤੋਂ ਬਿਨਾ ਜਿਤਨੇ ਭੀ ਹੋਰ ਧਾਰਮਿਕ ਰਿਵਾਜ ਤੇ ਵਿਹਾਰ ਹਨ ਸਾਰੇ ਵਿਅਰਥ ਹਨ।",
       "translation_ru": "О брат! Все прочие религиозные обряды без поминания Бога — пусты."
     },
     {
       "verse_id": 29447,
       "gurmukhi": "ਨਾਨਕ ਜਨਮ ਮਰਣ ਭੈ ਕਾਟੇ ਮਿਲਿ ਸਾਧੂ ਬਿਨਸੇ ਸੋਕ ॥੨॥੧੯॥੫੦॥",
-      "roman": "nānak janam maran bhai kāṭe mil sādhū binse sok",
+      "roman": "nānak janam maran bhē kāṭe mil sādhū binse sok",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ ਜਨਮ ਮਰਨ ਦੇ ਸਾਰੇ ਡਰ ਕੱਟੇ ਜਾਂਦੇ ਹਨ, ਤੇ ਸਾਰੇ ਚਿੰਤਾ-ਫ਼ਿਕਰ ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ ॥੨॥੧੯॥੫੦॥",
       "translation_ru": "О Нанак! Встреча с Гуру устраняет страх рождения и смерти и уничтожает все тревоги."
     },
@@ -256,14 +256,14 @@
     {
       "verse_id": 29449,
       "gurmukhi": "ਤ੍ਰਿਸਨਾ ਬੁਝੈ ਹਰਿ ਕੈ ਨਾਮਿ ॥",
-      "roman": "trisnā bujhai har kai nām",
+      "roman": "trisnā bujhē har kē nām",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਜੁੜਿਆਂ (ਮਾਇਆ ਦੀ) ਤ੍ਰੇਹ ਬੁੱਝ ਜਾਂਦੀ ਹੈ।",
       "translation_ru": "О брат! Привязанность к Имени Бога утоляет жажду майи."
     },
     {
       "verse_id": 29450,
       "gurmukhi": "ਮਹਾ ਸੰਤੋਖੁ ਹੋਵੈ ਗੁਰ ਬਚਨੀ ਪ੍ਰਭ ਸਿਉ ਲਾਗੈ ਪੂਰਨ ਧਿਆਨੁ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "mahā santokh hovai gur bachnī prabh siu lāgai pūran dhiān",
+      "roman": "mahā santokh hovē gur bachnī prabh siu lāgē pūran dhiān",
       "sahib_singh_pa": "ਗੁਰੂ ਦੀ ਬਾਣੀ ਦਾ ਆਸਰਾ ਲਿਆਂ (ਮਨ ਵਿਚ) ਬੜਾ ਸੰਤੋਖ ਪੈਦਾ ਹੋ ਜਾਂਦਾ ਹੈ, ਤੇ, ਪਰਮਾਤਮਾ ਦੇ ਚਰਨਾਂ ਵਿਚ ਪੂਰੇ ਤੌਰ ਤੇ ਸੁਰਤਿ ਜੁੜ ਜਾਂਦੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Опираясь на Слово Гуру, в уме возникает глубокое удовлетворение, и сознание полностью соединяется с Богом."
     }

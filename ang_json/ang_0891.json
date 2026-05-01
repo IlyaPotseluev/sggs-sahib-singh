@@ -18,7 +18,7 @@
     {
       "verse_id": 37899,
       "gurmukhi": "ਜਾ ਕੈ ਰਿਦੈ ਵਸੈ ਹਰਿ ਨਾਮ ॥੨॥",
-      "roman": "jā kai ridai vasai har nām",
+      "roman": "jā kē ridē vasē har nām",
       "sahib_singh_pa": "ਜਿਸ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਆ ਵੱਸਦਾ ਹੈ ॥੨॥",
       "translation_ru": "У кого в сердце пребывает Имя Бога."
     },
@@ -39,14 +39,14 @@
     {
       "verse_id": 37902,
       "gurmukhi": "ਆਇ ਨ ਜਾਇ ਡੋਲੈ ਕਤ ਨਾਹੀ ॥",
-      "roman": "āe na jāe ḍolai kat nāhī",
+      "roman": "āe na jāe ḍolē kat nāhī",
       "sahib_singh_pa": "ਉਹ ਕਿਤੇ ਭਟਕਦਾ ਨਹੀਂ, ਕਿਤੇ ਡੋਲਦਾ ਨਹੀਂ,",
       "translation_ru": "Он не блуждает и не колеблется."
     },
     {
       "verse_id": 37903,
       "gurmukhi": "ਜਾ ਕੈ ਨਾਮੁ ਬਸੈ ਮਨ ਮਾਹੀ ॥੩॥",
-      "roman": "jā kai nām basai man māhī",
+      "roman": "jā kē nām basē man māhī",
       "sahib_singh_pa": "ਜਿਸ ਦੇ ਮਨ ਵਿਚ ਹਰਿ-ਨਾਮ ਆ ਵੱਸਦਾ ਹੈ ॥੩॥",
       "translation_ru": "У кого Имя пребывает в уме."
     },
@@ -60,7 +60,7 @@
     {
       "verse_id": 37905,
       "gurmukhi": "ਗੁਰਮੁਖਿ ਜਪੀਐ ਉਤਰੈ ਚਿੰਦ ॥",
-      "roman": "gurmukh japīai utarai chind",
+      "roman": "gurmukh japīē utarē chind",
       "sahib_singh_pa": "(ਜਿਹੜਾ ਮਨੁੱਖ ਜਪਦਾ ਹੈ, ਉਸ ਦਾ) ਚਿੰਤਾ-ਫ਼ਿਕਰ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "Тогда все тревоги уходят."
     },
@@ -95,7 +95,7 @@
     {
       "verse_id": 37910,
       "gurmukhi": "ਆਗੈ ਮਿਲੀ ਨਿਥਾਵੇ ਥਾਉ ॥",
-      "roman": "āgai milī nithāve thāu",
+      "roman": "āgē milī nithāve thāu",
       "sahib_singh_pa": "(ਕੀਰਤਨ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਪਰਲੋਕ ਵਿਚ ਨਿਆਸਰੇ ਜੀਵ ਨੂੰ ਭੀ ਆਸਰਾ ਮਿਲ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "Благодаря киртану даже безопорная душа получает опору в ином мире."
     },
@@ -123,7 +123,7 @@
     {
       "verse_id": 37914,
       "gurmukhi": "ਗੁਰ ਕਿਰਪਾ ਤੇ ਹਿਰਦੈ ਵਾਸੈ ਭਉਜਲੁ ਪਾਰਿ ਪਰਲਾ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "gur kirpā te hirdai vāsai bhaujāl pār parlā",
+      "roman": "gur kirpā te hirdē vāsē bhaujāl pār parlā",
       "sahib_singh_pa": "(ਜਿਸ ਮਨੁੱਖ ਦੇ) ਹਿਰਦੇ ਵਿਚ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ (ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ) ਆ ਵੱਸਦਾ ਹੈ, ਉਹ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘ ਗਿਆ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "в чьём сердце по милости Гуру поселяется Имя, тот переправляется через океан мира."
     },
@@ -172,28 +172,28 @@
     {
       "verse_id": 37921,
       "gurmukhi": "ਸੋ ਹਰਿ ਭਜਨੁ ਸਾਧ ਕੈ ਸੰਗਿ ॥",
-      "roman": "so har bhajan sādh kai sang",
+      "roman": "so har bhajan sādh kē sang",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਦੀ ਉਹ ਭਗਤੀ ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਵਿਚ (ਪ੍ਰਾਪਤ ਹੁੰਦੀ ਹੈ।",
       "translation_ru": "Эта преданность обретается в сангате Гуру."
     },
     {
       "verse_id": 37922,
       "gurmukhi": "ਮਨੁ ਤਨੁ ਰਾਪੈ ਹਰਿ ਕੈ ਰੰਗਿ ॥੩॥",
-      "roman": "man tan rāpai har kai rang",
+      "roman": "man tan rāpē har kē rang",
       "sahib_singh_pa": "ਜਿਸ ਨੂੰ ਪ੍ਰਾਪਤੀ ਹੁੰਦੀ ਹੈ, ਉਸ ਦਾ) ਮਨ ਅਤੇ ਤਨ ਪਰਮਾਤਮਾ ਦੇ ਪ੍ਰੇਮ-ਰੰਗ ਵਿਚ ਰੰਗਿਆ ਜਾਂਦਾ ਹੈ ॥੩॥",
       "translation_ru": "Тогда тело и ум окрашиваются в любовь к Богу."
     },
     {
       "verse_id": 37923,
       "gurmukhi": "ਛੋਡਿ ਸਿਆਣਪ ਬਹੁ ਚਤੁਰਾਈ ॥",
-      "roman": "chhoḍ siāṇap bahu chaturāī",
+      "roman": "chhoḍ siāṇap bah chaturāī",
       "sahib_singh_pa": "ਹੇ ਮਨ! (ਆਪਣੀ) ਸਿਆਣਪ ਅਤੇ ਬਹੁਤੀ ਚਤੁਰਾਈ ਛੱਡ ਦੇ।",
       "translation_ru": "О ум! Оставь свою мудрость и хитрость."
     },
     {
       "verse_id": 37924,
       "gurmukhi": "ਮਨ ਬਿਨੁ ਹਰਿ ਨਾਵੈ ਜਾਇ ਨ ਕਾਈ ॥",
-      "roman": "man bin har nāvai jāi na kāī",
+      "roman": "man bin har nāvē jāi na kāī",
       "sahib_singh_pa": "(ਜਿਵੇਂ ਜਾਲੇ ਦੇ ਕਾਰਨ ਭੁਇਂ ਵਿਚ ਪਾਣੀ ਜੀਊਰਦਾ ਨਹੀਂ, ਇਸੇ ਤਰ੍ਹਾਂ ਹਉਮੈ ਦੇ ਕਾਰਨ ਗੁਰੂ ਦੇ ਉਪਦੇਸ਼ ਦਾ ਅਸਰ ਨਹੀਂ ਹੁੰਦਾ), ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਇਹ ਜਾਲਾ ਦੂਰ ਨਹੀਂ ਹੁੰਦਾ।",
       "translation_ru": "Без Имени Бога эта паутина не исчезает."
     },
@@ -221,14 +221,14 @@
     {
       "verse_id": 37928,
       "gurmukhi": "ਸੰਤ ਕੈ ਸੰਗਿ ਰਾਮ ਰੰਗ ਕੇਲ ॥",
-      "roman": "sant kai sang rām rang kel",
+      "roman": "sant kē sang rām rang kel",
       "sahib_singh_pa": "ਹੇ ਪੰਡਿਤ! ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਹਿ ਕੇ ਪਰਮਾਤਮਾ ਦੇ ਪ੍ਰੇਮ ਦੀ ਖੇਡ ਖੇਡਿਆ ਕਰ,",
       "translation_ru": "О пандит! Пребывая в сангате, играй в игру любви к Богу."
     },
     {
       "verse_id": 37929,
       "gurmukhi": "ਆਗੈ ਜਮ ਸਿਉ ਹੋਇ ਨ ਮੇਲ ॥",
-      "roman": "āgai jam siu hoi na mel",
+      "roman": "āgē jam siu hoi na mel",
       "sahib_singh_pa": "ਅਗਾਂਹ ਪਰਲੋਕ ਵਿਚ ਤੈਨੂੰ ਜਮਾਂ ਨਾਲ ਵਾਹ ਨਹੀਂ ਪਏਗਾ।",
       "translation_ru": "Тогда в ином мире ты не встретишься с Ямой."
     },
@@ -256,7 +256,7 @@
     {
       "verse_id": 37933,
       "gurmukhi": "ਕਰਮ ਕਾਂਡ ਅਹੰਕਾਰੁ ਨ ਕਾਜੈ ਕੁਸਲ ਸੇਤੀ ਘਰਿ ਜਾਹਿ ਪੰਡਿਤ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "karam kāṇḍ ahankār na kājai kusal setī ghar jāh paṇḍit",
+      "roman": "karam kāṇḍ ahankār na kājē kusal setī ghar jāh paṇḍit",
       "sahib_singh_pa": "ਹੇ ਪੰਡਿਤ! ਤੀਰਥ-ਇਸ਼ਨਾਨ ਆਦਿਕ ਮਿਥੇ ਹੋਏ ਧਾਰਮਿਕ ਕੰਮਾਂ ਦੇ ਸਿਲਸਿਲੇ ਦਾ ਅਹੰਕਾਰ ਤੇਰੇ ਕਿਸੇ ਕੰਮ ਨਹੀਂ ਆਵੇਗਾ। (ਇਸ ਤਰ੍ਹਾਂ) ਤੂੰ ਆਨੰਦ ਨਾਲ (ਜੀਵਨ ਬਤੀਤ ਕਰਦਾ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਾਲੇ ਅਸਲ) ਘਰ ਵਿਚ ਜਾ ਪਹੁੰਚੇਂਗਾ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "ритуалы и гордыня не принесут пользы — так ты достигнешь истинного дома."
     },
@@ -333,7 +333,7 @@
     {
       "verse_id": 37944,
       "gurmukhi": "ਸੋ ਪਰਵਾਣੁ ਜਿਸੁ ਰਿਦੈ ਵਸਾਈ ॥",
-      "roman": "so parvāṇ jis ridai vasāī",
+      "roman": "so parvāṇ jis ridē vasāī",
       "sahib_singh_pa": "ਹੇ ਪੰਡਿਤ! ਜਿਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ (ਗੁਰੂ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ) ਵਸਾ ਦੇਂਦਾ ਹੈ ਉਹ ਮਨੁੱਖ (ਪਰਮਾਤਮਾ ਦੇ ਦਰ ਤੇ) ਕਬੂਲ ਹੋ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "Тот принят, в чьём сердце она поселяется."
     },
@@ -354,7 +354,7 @@
     {
       "verse_id": 37947,
       "gurmukhi": "ਗਹੁ ਕਰਿ ਪਕਰੀ ਨ ਆਈ ਹਾਥਿ ॥",
-      "roman": "gahu kar pakrī na āī hāth",
+      "roman": "gah kar pakrī na āī hāth",
       "sahib_singh_pa": "(ਹੇ ਸੰਤ ਜਨੋ! ਜਿਸ ਮਨੁੱਖ ਨੇ ਇਸ ਮਾਇਆ ਨੂੰ) ਬੜੇ ਧਿਆਨ ਨਾਲ ਭੀ ਫੜਿਆ, ਉਸ ਦੇ ਭੀ ਹੱਥ ਵਿਚ ਨਾਹ ਆਈ।",
       "translation_ru": "Даже схватив майю, её невозможно удержать."
     },
@@ -368,7 +368,7 @@
     {
       "verse_id": 37949,
       "gurmukhi": "ਕਹੁ ਨਾਨਕ ਜਉ ਤਿਆਗਿ ਦਈ ॥",
-      "roman": "kahu nānak jau tiāg daī",
+      "roman": "kah nānak jau tiāg daī",
       "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਜਦੋਂ ਕਿਸੇ ਮਨੁੱਖ ਨੇ ਇਸ ਨੂੰ (ਮਨੋਂ) ਛੱਡ ਦਿੱਤਾ,",
       "translation_ru": "Говорит Нанак: когда человек оставляет её,"
     },
@@ -382,7 +382,7 @@
     {
       "verse_id": 37951,
       "gurmukhi": "ਸੁਣਿ ਸੰਤਹੁ ਨਿਰਮਲ ਬੀਚਾਰ ॥",
-      "roman": "suṇ santahu nirmal bīchār",
+      "roman": "suṇ santah nirmal bīchār",
       "sahib_singh_pa": "ਹੇ ਸੰਤ ਜਨੋ! ਜੀਵਨ ਨੂੰ ਪਵਿੱਤਰ ਕਰਨ ਵਾਲੀ ਇਹ ਵਿਚਾਰ ਸੁਣੋ-",
       "translation_ru": "Слушайте, святые, эту чистую мысль:"
     },

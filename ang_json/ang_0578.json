@@ -74,7 +74,7 @@
     {
       "verse_id": 25279,
       "gurmukhi": "ਨਾਨਕ ਭ੍ਰਮ ਭੈ ਗੁਣ ਬਿਨਾਸੇ ਮਿਲਿ ਜਲੁ ਜਲਹਿ ਖਟਾਨਾ ॥੪॥੨॥",
-      "roman": "nānak bhram bhai guṇ bināse mil jal jaleh khaṭānā",
+      "roman": "nānak bhram bhē guṇ bināse mil jal jaleh khaṭānā",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਸੇਵਕ ਦੇ) ਅੰਦਰੋਂ ਭਰਮ ਡਰ ਤੇ ਮਾਇਆ ਦੇ ਤਿੰਨ ਗੁਣ ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ, (ਉਹ ਇਉਂ ਪਰਮਾਤਮਾ ਨਾਲ ਇਕ-ਰੂਪ ਹੋਇਆ ਰਹਿੰਦਾ ਹੈ, ਜਿਵੇਂ) ਪਾਣੀ ਪਾਣੀ ਵਿੱਚ ਮਿਲ ਕੇ ਇਕ ਰੂਪ ਹੋ ਜਾਂਦਾ ਹੈ ॥੪॥੨॥",
       "translation_ru": "О Нанак! Внутри слуги исчезают сомнения, страх и три качества майи, и он становится единым с Богом, как вода с водой."
     },
@@ -158,7 +158,7 @@
     {
       "verse_id": 25291,
       "gurmukhi": "ਜੋ ਸਰਣਿ ਆਵੈ ਗੁਣ ਨਿਧਾਨ ਪਾਵੈ ਸੋ ਬਹੁੜਿ ਜਨਮਿ ਨ ਮਰਤਾ ॥",
-      "roman": "jo saraṇ āvai guṇ nidhān pāvai so bahuṛ janam na martā",
+      "roman": "jo saraṇ āvē guṇ nidhān pāvē so bahuṛ janam na martā",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਜੇਹੜਾ ਜੀਵ ਤੇਰੀ ਸਰਨ ਆਉਂਦਾ ਹੈ ਉਹ (ਤੇਰੇ ਦਰ ਤੋਂ ਤੇਰੇ) ਗੁਣਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਹਾਸਲ ਕਰ ਲੈਂਦਾ ਹੈ, ਉਹ ਮੁੜ ਨਾਹ ਜੰਮਦਾ ਹੈ ਨਾਹ ਮਰਦਾ ਹੈ।",
       "translation_ru": "Тот, кто приходит к Тебе в прибежище, обретает сокровище Твоих качеств и больше не рождается и не умирает."
     },
@@ -200,14 +200,14 @@
     {
       "verse_id": 25297,
       "gurmukhi": "ਤਜਿ ਮਾਨੁ ਮੋਹੁ ਵਿਕਾਰ ਸਗਲੇ ਪ੍ਰਭੂ ਕੈ ਮਨਿ ਭਾਈਐ ॥",
-      "roman": "taj mān moh vikār sagle prabhū kai man bhāīai",
+      "roman": "taj mān moh vikār sagle prabhū kē man bhāīē",
       "sahib_singh_pa": "ਅਹੰਕਾਰ, ਮੋਹ, ਸਾਰੇ ਵਿਕਾਰ ਦੂਰ ਕਰ ਕੇ ਪਰਮਾਤਮਾ ਦੇ ਮਨ ਵਿਚ ਭਾ ਜਾਈਦਾ ਹੈ।",
       "translation_ru": "Отказавшись от эго, привязанности и всех пороков, человек становится угоден Богу."
     },
     {
       "verse_id": 25298,
       "gurmukhi": "ਬਿਨਵੰਤਿ ਨਾਨਕ ਦਿਨਸੁ ਰੈਣੀ ਸਦਾ ਹਰਿ ਹਰਿ ਧਿਆਈਐ ॥੩॥",
-      "roman": "binvant nānak dinas rainī sadā har har dhyāīai",
+      "roman": "binvant nānak dinas rēnī sadā har har dhyāīē",
       "sahib_singh_pa": "ਨਾਨਕ ਬੇਨਤੀ ਕਰਦਾ ਹੈ ਕਿ ਦਿਨ ਰਾਤ ਸਦਾ ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕਰਨਾ ਚਾਹੀਦਾ ਹੈ ॥੩॥",
       "translation_ru": "Нанак просит: день и ночь следует постоянно помнить Бога."
     },
@@ -235,7 +235,7 @@
     {
       "verse_id": 25302,
       "gurmukhi": "ਗੁਣ ਬੇਅੰਤ ਕਿਛੁ ਕਹਣੁ ਨ ਜਾਈ ਕੋਇ ਨ ਸਕੈ ਪਹੂਚਾ ॥",
-      "roman": "guṇ beant kichh kahan na jāī koī na sakai pahūchā",
+      "roman": "guṇ beant kichh kahan na jāī koī na sakē pahūchā",
       "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਵਿਚ ਬੇਅੰਤ ਗੁਣ ਹਨ, ਉਸ ਦੇ ਸਰੂਪ ਬਾਰੇ ਕੁਝ ਕਿਹਾ ਨਹੀਂ ਜਾ ਸਕਦਾ, ਕੋਈ ਮਨੁੱਖ ਉਸ ਦੇ ਗੁਣਾਂ ਦੇ ਅਖ਼ੀਰ ਤਕ ਨਹੀਂ ਪਹੁੰਚ ਸਕਦਾ।",
       "translation_ru": "Его качества бесконечны, невозможно их описать, никто не может достичь их конца."
     },
@@ -270,7 +270,7 @@
     {
       "verse_id": 25307,
       "gurmukhi": "ਧੰਨੁ ਸਿਰੰਦਾ ਸਚਾ ਪਾਤਿਸਾਹੁ ਜਿਨਿ ਜਗੁ ਧੰਧੈ ਲਾਇਆ ॥",
-      "roman": "dhan sirandā sachā pātisāh jin jag dhanḍhai lāiā",
+      "roman": "dhan sirandā sachā pātisāh jin jag dhanḍhē lāiā",
       "sahib_singh_pa": "ਉਹ ਸਿਰਜਣਹਾਰ ਪਾਤਿਸ਼ਾਹ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈ, ਜਿਸ ਨੇ ਜਗਤ ਨੂੰ ਮਾਇਆ ਦੇ ਆਹਰ ਵਿਚ ਲਾ ਰੱਖਿਆ ਹੈ।",
       "translation_ru": "Благословен истинный Творец, который вовлёк мир в дела майи."
     },

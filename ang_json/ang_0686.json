@@ -4,14 +4,14 @@
     {
       "verse_id": 29569,
       "gurmukhi": "ਜਨਮੁ ਪਦਾਰਥੁ ਦੁਬਿਧਾ ਖੋਵੈ ॥",
-      "roman": "janam padārath dubidhā khovai",
+      "roman": "janam padārath dubidhā khovē",
       "sahib_singh_pa": "ਉਹ ਮਨੁੱਖ (ਹਉਮੈ ਵਿਚ) ਭਟਕ ਭਟਕ ਕੇ ਦੁਖੀ ਹੁੰਦਾ ਹੈ; ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਕਿਸੇ ਹੋਰ ਆਸਰੇ ਦੀ ਭਾਲ ਵਿਚ ਉਹ ਅਮੋਲਕ ਮਨੁੱਖਾ ਜਨਮ ਨੂੰ ਗਵਾ ਲੈਂਦਾ ਹੈ;",
       "translation_ru": "Он теряет драгоценную человеческую жизнь в двойственности."
     },
     {
       "verse_id": 29570,
       "gurmukhi": "ਆਪੁ ਨ ਚੀਨਸਿ ਭ੍ਰਮਿ ਭ੍ਰਮਿ ਰੋਵੈ ॥੬॥",
-      "roman": "āp na chīnas bhram bhram rovai",
+      "roman": "āp na chīnas bhram bhram rovē",
       "sahib_singh_pa": "ਜੇਹੜਾ-ਮਨੁੱਖ (ਵਿਚਾਰੇ ਬਗੁਲੇ ਵਾਂਗ ਹਉਮੈ ਦੀ ਛਪੜੀ ਵਿਚ ਹੀ ਨ੍ਹਾਉਂਦਾ ਰਹਿੰਦਾ ਹੈ, ਤੇ) ਆਪਣੇ ਆਤਮਕ ਜੀਵਨ ਨੂੰ ਨਹੀਂ ਪਛਾਣਦਾ ॥੬॥",
       "translation_ru": "Не познав себя, он блуждает и плачет ॥6॥"
     },
@@ -32,7 +32,7 @@
     {
       "verse_id": 29573,
       "gurmukhi": "ਜਤੁ ਸਤੁ ਸੰਜਮੁ ਰਿਦੈ ਸਮਾਏ ॥",
-      "roman": "jat sat sanjam ridai samāe",
+      "roman": "jat sat sanjam ridē samāe",
       "sahib_singh_pa": "ਜਤ ਸਤ ਤੇ ਸੰਜਮ ਉਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ (ਸੁਤੇ ਹੀ) ਲੀਨ ਰਹਿੰਦੇ ਹਨ,",
       "translation_ru": "Самоконтроль, истина и дисциплина пребывают в его сердце,"
     },
@@ -46,14 +46,14 @@
     {
       "verse_id": 29575,
       "gurmukhi": "ਸਾਚੇ ਨਿਰਮਲ ਮੈਲੁ ਨ ਲਾਗੈ ॥",
-      "roman": "sāche nirmal mail na lāgai",
+      "roman": "sāche nirmal mēl na lāgē",
       "sahib_singh_pa": "ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਵਿਚ ਟਿਕ ਕੇ ਪਵਿਤ੍ਰ ਹੋਏ ਮਨੁੱਖ ਦੇ ਮਨ ਨੂੰ ਵਿਕਾਰਾਂ ਦੀ ਮੈਲ ਨਹੀਂ ਚੰਬੜਦੀ।",
       "translation_ru": "Пребывая в Истинном, он становится чистым и не запятнанным пороками."
     },
     {
       "verse_id": 29576,
       "gurmukhi": "ਗੁਰ ਕੈ ਸਬਦਿ ਭਰਮ ਭਉ ਭਾਗੈ ॥",
-      "roman": "gur kai shabad bharam bhau bhāgai",
+      "roman": "gur kē shabad bharam bhau bhāgē",
       "sahib_singh_pa": "ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਬਰਕਤਿ ਨਾਲ ਉਸ ਦੀ ਭਟਕਣਾ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ ਉਸ ਦਾ (ਦੁਨੀਆ ਵਾਲਾ) ਡਰ-ਸਹਮ ਮੁੱਕ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "Через слово Гуру исчезают сомнения и страх."
     },
@@ -67,7 +67,7 @@
     {
       "verse_id": 29578,
       "gurmukhi": "ਨਾਨਕੁ ਜਾਚੈ ਸਾਚੁ ਸਰੂਪੁ ॥੮॥੧॥",
-      "roman": "nānak jāchai sāch sarūp",
+      "roman": "nānak jāchē sāch sarūp",
       "sahib_singh_pa": "ਨਾਨਕ (ਭੀ) ਉਸ ਸਦਾ-ਥਿਰ ਹਸਤੀ ਵਾਲੇ ਪ੍ਰਭੂ (ਦੇ ਦਰ ਤੋਂ ਨਾਮ ਦੀ ਦਾਤਿ) ਮੰਗਦਾ ਹੈ ॥੮॥੧॥",
       "translation_ru": "Нанак просит у этого Истинного Бога дар Имени ॥8॥1॥"
     },
@@ -81,7 +81,7 @@
     {
       "verse_id": 29580,
       "gurmukhi": "ਸਹਜਿ ਮਿਲੈ ਮਿਲਿਆ ਪਰਵਾਣੁ ॥",
-      "roman": "sahaj milai miliā parvāṇ",
+      "roman": "sahaj milē miliā parvāṇ",
       "sahib_singh_pa": "ਜੇਹੜਾ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਰਾਹੀਂ ਅਡੋਲ ਅਵਸਥਾ ਵਿਚ ਟਿਕ ਕੇ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਜੁੜਦਾ ਹੈ, ਉਸ ਦਾ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਜੁੜਨਾ ਕਬੂਲ ਪੈਂਦਾ ਹੈ।",
       "translation_ru": "Тот человек, который через Гуру, пребывая в устойчивом состоянии, соединяется с Божественными стопами, его соединение принимается."
     },
@@ -123,14 +123,14 @@
     {
       "verse_id": 29586,
       "gurmukhi": "ਸੋ ਗੁਰੁ ਕਰਉ ਜਿ ਸਾਚੁ ਦ੍ਰਿੜਾਵੈ ॥",
-      "roman": "so gur karau ji sāch driṛhāvai",
+      "roman": "so gur karau j sāch driṛhāvē",
       "sahib_singh_pa": "ਮੈਂ (ਭੀ) ਉਹੀ ਗੁਰੂ ਧਾਰਨਾ ਚਾਹੁੰਦਾ ਹਾਂ ਜੇਹੜਾ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਨੂੰ (ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ) ਪੱਕੀ ਤਰ੍ਹਾਂ ਟਿਕਾ ਦੇਵੇ,",
       "translation_ru": "Я принимаю такого Гуру, который прочно утвердит в моём сердце вечного Бога,"
     },
     {
       "verse_id": 29587,
       "gurmukhi": "ਅਕਥੁ ਕਥਾਵੈ ਸਬਦਿ ਮਿਲਾਵੈ ॥",
-      "roman": "akath kathāvai sabad milāvai",
+      "roman": "akath kathāvē sabad milāvē",
       "sahib_singh_pa": "ਜੇਹੜਾ ਮੈਥੋਂ ਅਕੱਥ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਾਵੇ, ਤੇ ਆਪਣੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ਮੈਨੂੰ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਜੋੜ ਦੇਵੇ।",
       "translation_ru": "который побуждает меня воспевать непостижимого Бога и соединяет меня с Ним через Слово."
     },
@@ -165,28 +165,28 @@
     {
       "verse_id": 29592,
       "gurmukhi": "ਸੇਵਕੁ ਪ੍ਰਭ ਕੈ ਲਾਗੈ ਪਾਇ ॥",
-      "roman": "sevaku prabh kai lāgai pāe",
+      "roman": "sevak prabh kē lāgē pāe",
       "sahib_singh_pa": "ਉਹ ਸੇਵਕ ਪ੍ਰਭੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਜੁੜਿਆ ਰਹਿੰਦਾ ਹੈ,",
       "translation_ru": "Такой слуга пребывает у стоп Господа,"
     },
     {
       "verse_id": 29593,
       "gurmukhi": "ਸਤਿਗੁਰੁ ਪੂਰਾ ਮਿਲੈ ਮਿਲਾਇ ॥੩॥",
-      "roman": "satgur pūrā milai milāe",
+      "roman": "satgur pūrā milē milāe",
       "sahib_singh_pa": "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਪੂਰਾ ਗੁਰੂ ਮਿਲ ਪੈਂਦਾ ਹੈ ਗੁਰੂ ਉਸ ਨੂੰ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਮਿਲਾ ਦੇਂਦਾ ਹੈ ॥੩॥",
       "translation_ru": "и тот, кому встречается совершенный Гуру, соединяется с Господом."
     },
     {
       "verse_id": 29594,
       "gurmukhi": "ਆਪਿ ਦਿਖਾਵੈ ਆਪੇ ਦੇਖੈ ॥",
-      "roman": "āp dikhāvai āpe dekhai",
+      "roman": "āp dikhāvē āpe dekhē",
       "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਆਪਣਾ ਦਰਸਨ ਆਪ ਹੀ (ਗੁਰੂ ਦੀ ਰਾਹੀਂ) ਕਰਾਂਦਾ ਹੈ, ਆਪ ਹੀ (ਸਭ ਜੀਵਾਂ ਦੇ) ਦਿਲ ਦੀ ਜਾਣਦਾ ਹੈ।",
       "translation_ru": "Бог сам даёт своё видение и сам знает сердца всех."
     },
     {
       "verse_id": 29595,
       "gurmukhi": "ਹਠਿ ਨ ਪਤੀਜੈ ਨਾ ਬਹੁ ਭੇਖੈ ॥",
-      "roman": "haṭh na patījai nā bahu bhekhai",
+      "roman": "haṭh na patījē nā bah bhekhē",
       "sahib_singh_pa": "(ਇਸ ਵਾਸਤੇ ਉਹ) ਹਠ ਦੀ ਰਾਹੀਂ ਕੀਤੇ ਕਰਮਾਂ ਉਤੇ ਨਹੀਂ ਪਤੀਜਦਾ, ਨਾਹ ਹੀ ਬਹੁਤੇ (ਧਾਰਮਿਕ) ਭੇਖਾਂ ਤੇ ਪ੍ਰਸੰਨ ਹੁੰਦਾ ਹੈ।",
       "translation_ru": "Он не удовлетворяется упрямыми практиками и не радуется множеству внешних одежд."
     },
@@ -221,7 +221,7 @@
     {
       "verse_id": 29600,
       "gurmukhi": "ਨਾਮੁ ਜਪੈ ਭਉ ਭੋਜਨੁ ਖਾਇ ॥",
-      "roman": "nām japai bhau bhojan khāi",
+      "roman": "nām japē bhau bhojan khāi",
       "sahib_singh_pa": "ਜੇਹੜਾ ਜੇਹੜਾ ਮਨੁੱਖ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਦਾ ਹੈ ਤੇ ਪ੍ਰਭੂ ਦੇ ਡਰ-ਅਦਬ ਨੂੰ ਆਪਣੇ ਆਤਮਾ ਦੀ ਖ਼ੁਰਾਕ ਬਣਾਂਦਾ ਹੈ,",
       "translation_ru": "Тот, кто повторяет Имя и делает благоговение пищей своей души,"
     },
@@ -249,14 +249,14 @@
     {
       "verse_id": 29604,
       "gurmukhi": "ਮਨਿ ਮੈਲੈ ਸੂਚਾ ਕਿਉ ਹੋਇ ॥",
-      "roman": "man mailai sūchā kiu hoi",
+      "roman": "man mēlē sūchā kiu hoi",
       "sahib_singh_pa": "ਜੇ ਉਸ ਦਾ ਮਨ ਮੈਲਾ ਹੀ ਰਿਹਾ, ਤਾਂ ਉਹ ਪਵਿਤ੍ਰ ਕਿਵੇਂ ਹੋ ਸਕਦਾ ਹੈ?",
       "translation_ru": "если его ум нечист, как он станет чистым?"
     },
     {
       "verse_id": 29605,
       "gurmukhi": "ਸਾਚਿ ਮਿਲੈ ਪਾਵੈ ਪਤਿ ਸੋਇ ॥੬॥",
-      "roman": "sāch milai pāvai pat soi",
+      "roman": "sāch milē pāvē pat soi",
       "sahib_singh_pa": "ਜੇਹੜਾ ਮਨੁੱਖ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਵਿਚ (ਸਿਮਰਨ ਦੀ ਰਾਹੀਂ) ਲੀਨ ਹੁੰਦਾ ਹੈ (ਉਹੀ ਪਵਿਤ੍ਰ ਹੁੰਦਾ ਹੈ, ਤੇ) ਉਹ (ਲੋਕ ਪਰਲੋਕ ਵਿਚ) ਇੱਜ਼ਤ ਪਾਂਦਾ ਹੈ ॥੬॥",
       "translation_ru": "Тот, кто соединяется с вечным Богом, обретает честь."
     },
@@ -291,21 +291,21 @@
     {
       "verse_id": 29610,
       "gurmukhi": "ਕਿਸੁ ਆਗੈ ਪ੍ਰਭ ਤੁਧੁ ਸਾਲਾਹੀ ॥",
-      "roman": "kis āgai prabh tudh sālāhī",
+      "roman": "kis āgē prabh tudh sālāhī",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਕਿਸ ਬੰਦੇ ਅੱਗੇ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਾਂ?",
       "translation_ru": "О Господь, перед кем мне воспевать Тебя?"
     },
     {
       "verse_id": 29611,
       "gurmukhi": "ਤੁਧੁ ਬਿਨੁ ਦੂਜਾ ਮੈ ਕੋ ਨਾਹੀ ॥",
-      "roman": "tudh bin dūjā mai ko nāhī",
+      "roman": "tudh bin dūjā mē ko nāhī",
       "sahib_singh_pa": "ਮੈਨੂੰ ਤਾਂ ਤੈਥੋਂ ਬਿਨਾ ਹੋਰ ਕੋਈ ਕਿਤੇ ਦਿੱਸਦਾ ਹੀ ਨਹੀਂ।",
       "translation_ru": "Кроме Тебя, я никого не вижу."
     },
     {
       "verse_id": 29612,
       "gurmukhi": "ਜਿਉ ਤੁਧੁ ਭਾਵੈ ਤਿਉ ਰਾਖੁ ਰਜਾਇ ॥",
-      "roman": "jiu tudh bhāvai tiu rākh rajāi",
+      "roman": "jiu tudh bhāvē tiu rākh rajāi",
       "sahib_singh_pa": "ਜਿਵੇਂ ਤੇਰੀ ਮੇਹਰ ਹੋਵੇ ਮੈਨੂੰ ਆਪਣੀ ਰਜ਼ਾ ਵਿਚ ਰੱਖ,",
       "translation_ru": "Как угодно Тебе, так и храни меня в Твоей воле,"
     },
@@ -340,7 +340,7 @@
     {
       "verse_id": 29617,
       "gurmukhi": "ਤਾਕੀ ਹੈ ਓਟ ਸਾਧ ਰਾਖਹੁ ਦੇ ਕਰਿ ਹਾਥ ਕਰਿ ਕਿਰਪਾ ਮੇਲਹੁ ਹਰਿ ਰਾਇਆ ॥੧॥",
-      "roman": "tākī hai oṭ sādh rākhahu de kar hāth kar kirpā melahu har rāiā",
+      "roman": "tākī hē oṭ sādh rākhah de kar hāth kar kirpā melah har rāiā",
       "sahib_singh_pa": "ਹੇ ਗੁਰੂ! ਮੈਂ ਤਾਂ ਤੇਰਾ ਆਸਰਾ ਤੱਕਿਆ ਹੈ। ਆਪਣੇ ਹੱਥ ਦੇ ਕੇ (ਮੈਨੂੰ ਮਾਇਆ ਦੇ ਮੋਹ ਤੋਂ) ਬਚਾ ਲੈ। ਮੇਹਰ ਕਰ ਕੇ ਮੈਨੂੰ ਪ੍ਰਭੂ-ਪਾਤਿਸ਼ਾਹ ਨਾਲ ਮਿਲਾ ਦੇ ॥੧॥",
       "translation_ru": "Я ищу Твою защиту; протяни руку и спаси меня от привязанности, по милости соедини меня с Господом."
     },
@@ -354,14 +354,14 @@
     {
       "verse_id": 29619,
       "gurmukhi": "ਕਰਉ ਸੇਵਾ ਗੁਰ ਲਾਗਉ ਚਰਨ ਗੋਵਿੰਦ ਜੀ ਕਾ ਮਾਰਗੁ ਦੇਹੁ ਜੀ ਬਤਾਈ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "karau sevā gur lāgau charan govind jī kā mārag dehu jī batāī",
+      "roman": "karau sevā gur lāgau charan govind jī kā mārag deh jī batāī",
       "sahib_singh_pa": "ਹੁਣ ਮੈਂ ਤੇਰੀ ਚਰਨੀਂ ਆ ਪਿਆ ਹਾਂ, ਮੈਂ ਤੇਰੀ ਹੀ ਸੇਵਾ ਕਰਦਾ ਹਾਂ, ਮੈਨੂੰ ਪਰਮਾਤਮਾ (ਦੇ ਮਿਲਾਪ) ਦਾ ਰਸਤਾ ਦੱਸ ਦੇ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Я служу и припадаю к Твоим стопам, укажи мне путь к Богу."
     },
     {
       "verse_id": 29620,
       "gurmukhi": "ਅਨਿਕ ਉਪਾਵ ਕਰਉ ਮਾਇਆ ਕਉ ਬਚਿਤਿ ਧਰਉ ਮੇਰੀ ਮੇਰੀ ਕਰਤ ਸਦ ਹੀ ਵਿਹਾਵੈ ॥",
-      "roman": "anik upāv karau māiā kau bachit dharau merī merī karat sad hī vihāvai",
+      "roman": "anik upāv karau māiā kau bachit dharau merī merī karat sad hī vihāvē",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਮੈਂ (ਨਿੱਤ) ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ (ਹੀ) ਅਨੇਕਾਂ ਹੀਲੇ ਕਰਦਾ ਰਹਿੰਦਾ ਹਾਂ, ਮੈਂ (ਮਾਇਆ ਨੂੰ ਹੀ) ਉਚੇਚੇ ਤੌਰ ਤੇ ਆਪਣੇ ਮਨ ਵਿਚ ਟਿਕਾਈ ਰੱਖਦਾ ਹਾਂ, ਸਦਾ 'ਮੇਰੀ ਮਾਇਆ, ਮੇਰੀ ਮਾਇਆ' ਕਰਦਿਆਂ ਹੀ (ਮੇਰੀ ਉਮਰ ਬੀਤਦੀ) ਜਾ ਰਹੀ ਹੈ।",
       "translation_ru": "Я постоянно делаю усилия ради майи, удерживаю её в уме и всё время проходит в «моё, моё»."
     }

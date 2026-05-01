@@ -4,7 +4,7 @@
     {
       "verse_id": 15807,
       "gurmukhi": "ਸੋ ਪਾਤਿਸਾਹੁ ਸਾਹਾ ਪਤਿ ਸਾਹਿਬੁ ਨਾਨਕ ਰਹਣੁ ਰਜਾਈ ॥੧॥੧॥",
-      "roman": "so pātisāhu sāhā pat sāhib nānak rahaṇ rajāī ||1||1||",
+      "roman": "so pātisāh sāhā pat sāhib nānak rahaṇ rajāī ||1||1||",
       "sahib_singh_pa": "ਅਕਾਲ ਪੁਰਖ ਪਾਤਸ਼ਾਹ ਹੈ, ਸ਼ਾਹਾਂ ਦਾ ਸ਼ਾਹ ਹੈ, ਮਾਲਕ ਹੈ। ਹੇ ਨਾਨਕ! (ਸਾਨੂੰ) ਉਸ ਦੀ ਰਜ਼ਾ ਵਿਚ ਰਹਿਣਾ (ਹੀ ਫੱਬਦਾ ਹੈ)  ॥੧॥੧॥",
       "translation_ru": "Акал Пуракх — Патишах, Шах шахов, Владыка. О Нанак, нам подобает жить в Его разе. ॥੧॥੧॥"
     },
@@ -25,7 +25,7 @@
     {
       "verse_id": 15810,
       "gurmukhi": "ਸਭਿ ਧਿਆਵਹਿ ਸਭਿ ਧਿਆਵਹਿ ਤੁਧੁ ਜੀ ਹਰਿ ਸਚੇ ਸਿਰਜਣਹਾਰਾ ॥",
-      "roman": "sabh dhiāvahi sabh dhiāvahi tudh jī har sache sirjaṇhārā ॥",
+      "roman": "sabh dhiāvah sabh dhiāvah tudh jī har sache sirjaṇhārā ॥",
       "sahib_singh_pa": "ਹੇ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਤੇ ਸਭ ਜੀਵਾਂ ਨੂੰ ਪੈਦਾ ਕਰਨ ਵਾਲੇ ਹਰੀ! ਸਾਰੇ ਜੀਆ-ਜੰਤ ਤੈਨੂੰ ਸਿਮਰਦੇ ਹਨ।",
       "translation_ru": "О вечно пребывающий Хари, Творец всех существ! Все живые создания помнят Тебя."
     },
@@ -39,7 +39,7 @@
     {
       "verse_id": 15812,
       "gurmukhi": "ਹਰਿ ਧਿਆਵਹੁ ਸੰਤਹੁ ਜੀ ਸਭਿ ਦੂਖ ਵਿਸਾਰਣਹਾਰਾ ॥",
-      "roman": "har dhiāvahu santahu jī sabh dūkh visāraṇhārā ॥",
+      "roman": "har dhiāvah santah jī sabh dūkh visāraṇhārā ॥",
       "sahib_singh_pa": "ਹੇ ਸੰਤ ਜਨੋ! ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰੋ, ਉਹ ਸਾਰੇ ਦੁੱਖਾਂ ਦਾ ਨਾਸ ਕਰਨ ਵਾਲਾ ਹੈ।",
       "translation_ru": "О святые люди! Помните того Господа — Он уничтожает все страдания."
     },
@@ -88,7 +88,7 @@
     {
       "verse_id": 15819,
       "gurmukhi": "ਹਰਿ ਧਿਆਵਹਿ ਹਰਿ ਧਿਆਵਹਿ ਤੁਧੁ ਜੀ ਸੇ ਜਨ ਜੁਗ ਮਹਿ ਸੁਖ ਵਾਸੀ ॥",
-      "roman": "har dhiāvahi har dhiāvahi tudh jī se jan jug meh sukh vāsī ॥",
+      "roman": "har dhiāvah har dhiāvah tudh jī se jan jug meh sukh vāsī ॥",
       "sahib_singh_pa": "ਹੇ ਹਰੀ! ਜੋ ਮਨੁੱਖ ਤੈਨੂੰ ਸਿਮਰਦੇ ਹਨ ਜੋ ਤੈਨੂੰ ਧਿਆਉਂਦੇ ਹਨ, ਉਹ ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਵਿਚ ਸੁਖੀ ਵੱਸਦੇ ਹਨ।",
       "translation_ru": "О Хари! Те люди, которые помнят Тебя и сосредотачиваются на Тебе, живут свою жизнь в счастье."
     },
@@ -144,7 +144,7 @@
     {
       "verse_id": 15827,
       "gurmukhi": "ਤੇਰੇ ਅਨੇਕ ਤੇਰੇ ਅਨੇਕ ਪੜਹਿ ਬਹੁ ਸਿੰਮ੍ਰਿਤਿ ਸਾਸਤ ਜੀ ਕਰਿ ਕਿਰਿਆ ਖਟੁ ਕਰਮ ਕਰੰਤਾ ॥",
-      "roman": "tere anek tere anek paṛheh bahu simmrit sāstat jī kar kiriā khaṭ karam karaṅtā ॥",
+      "roman": "tere anek tere anek paṛheh bah simmrit sāstat jī kar kiriā khaṭ karam karaṅtā ॥",
       "sahib_singh_pa": "ਤੇਰੇ ਅਨੇਕਾਂ (ਸੇਵਕ) ਕਈ ਸਿਮ੍ਰਿਤੀਆਂ ਤੇ ਸ਼ਾਸਤ੍ਰ ਪੜ੍ਹਦੇ ਹਨ, (ਤੇ ਉਹਨਾਂ ਦੇ ਦੱਸੇ ਹੋਏ) ਛੇ ਧਾਰਮਿਕ ਕੰਮ ਤੇ ਹੋਰ ਕਰਮ ਕਰਦੇ ਹਨ।",
       "translation_ru": "Многие из Твоих слуг читают множество смрити и шастр и совершают шесть религиозных обрядов и другие дела, предписанные ими."
     },
@@ -172,7 +172,7 @@
     {
       "verse_id": 15831,
       "gurmukhi": "ਤੁਧੁ ਆਪੇ ਭਾਵੈ ਸੋਈ ਵਰਤੈ ਜੀ ਤੂੰ ਆਪੇ ਕਰਹਿ ਸੁ ਹੋਈ ॥",
-      "roman": "tudh āpe bhāvai soī vartai jī tūṅ āpe kareh su hoī ॥",
+      "roman": "tudh āpe bhāvē soī vartē jī tūṅ āpe kareh su hoī ॥",
       "sahib_singh_pa": "ਜਗਤ ਵਿਚ ਉਹੀ ਕੁਝ ਹੁੰਦਾ ਹੈ ਜੋ ਤੈਨੂੰ ਆਪ ਨੂੰ ਪਸੰਦ ਹੈ, ਉਹੀ ਹੁੰਦਾ ਹੈ ਜੋ ਤੂੰ ਆਪ ਹੀ ਕਰਦਾ ਹੈਂ।",
       "translation_ru": "В мире происходит только то, что нравится Тебе Самому; происходит только то, что Ты Сам совершаешь."
     },
@@ -186,7 +186,7 @@
     {
       "verse_id": 15833,
       "gurmukhi": "ਜਨੁ ਨਾਨਕੁ ਗੁਣ ਗਾਵੈ ਕਰਤੇ ਕੇ ਜੀ ਜੋ ਸਭਸੈ ਕਾ ਜਾਣੋਈ ॥੫॥੨॥",
-      "roman": "jan Nānak guṇ gāvai karte ke jī jo sabhsai kā jāṇoī ॥5॥2॥",
+      "roman": "jan Nānak guṇ gāvē karte ke jī jo sabhsē kā jāṇoī ॥5॥2॥",
       "sahib_singh_pa": "ਦਾਸ ਨਾਨਕ ਉਸ ਕਰਤਾਰ ਦੇ ਗੁਣ ਗਾਂਦਾ ਹੈ, ਜੋ ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ ਹੈ ॥੫॥੨॥",
       "translation_ru": "Раб Нанак поёт качества того Творца, который знает сердце каждого. ॥5॥2॥"
     },
@@ -207,7 +207,7 @@
     {
       "verse_id": 15836,
       "gurmukhi": "ਸੁਣਿ ਵਡਾ ਆਖੈ ਸਭ ਕੋਈ ॥",
-      "roman": "suṇ vaḍā ākhai sabh koī ॥",
+      "roman": "suṇ vaḍā ākhē sabh koī ॥",
       "sahib_singh_pa": "ਹਰੇਕ ਜੀਵ (ਹੋਰਨਾਂ ਪਾਸੋਂ ਸਿਰਫ਼) ਸੁਣ ਕੇ (ਕੀ) ਆਖ ਦੇਂਦਾ ਹੈ ਕਿ (ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਵੱਡਾ ਹੈਂ।",
       "translation_ru": "Каждое существо, лишь услышав от других, говорит: О Господь! Ты велик."
     },

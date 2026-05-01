@@ -4,7 +4,7 @@
     {
       "verse_id": 19943,
       "gurmukhi": "ਓਹੁ ਜੇਵ ਸਾਇਰ ਦੇਇ ਲਹਰੀ ਬਿਜੁਲ ਜਿਵੈ ਚਮਕਏ ॥",
-      "roman": "ohu jev sāir dei lahrī bijul jivai chamke",
+      "roman": "ohu jev sāir dei lahrī bijul jivē chamke",
       "sahib_singh_pa": "(ਉਂਝ ਹੈ ਭੀ ਇਹ ਥੋੜਾ ਸਮਾ ਰਹਿਣ ਵਾਲਾ) ਜਿਵੇਂ ਸਮੁੰਦਰ ਲਹਿਰਾਂ ਮਾਰਦਾ ਹੈ ਜਾਂ ਜਿਵੇਂ ਬਿਜਲੀ ਲਿਸ਼ਕ ਮਾਰਦੀ ਹੈ।",
       "translation_ru": "Это подобно волнам моря или вспышке молнии — кратковременно."
     },
@@ -18,7 +18,7 @@
     {
       "verse_id": 19945,
       "gurmukhi": "ਸਚੁ ਕਹੈ ਨਾਨਕੁ ਚੇਤਿ ਰੇ ਮਨ ਮਰਹਿ ਹਰਣਾ ਕਾਲਿਆ ॥੧॥",
-      "roman": "sach kahai nānak chet re man marahi harṇā kāliā 1",
+      "roman": "sach kahē nānak chet re man marahi harṇā kāliā 1",
       "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ-ਹੇ ਕਾਲੇ ਹਰਨ! ਹੇ ਮਨ! ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਨੂੰ ਸਿਮਰ, ਨਹੀਂ ਤਾਂ (ਇਸ ਜਗਤ-ਫੁਲਵਾੜੀ ਵਿਚ ਮਸਤ ਹੋ ਕੇ) ਤੂੰ ਆਪਣੀ ਆਤਮਕ ਮੌਤ ਸਹੇੜ ਲਏਂਗਾ ॥੧॥",
       "translation_ru": "Нанак говорит: помни Бога, иначе ты погибнешь духовно."
     },
@@ -32,14 +32,14 @@
     {
       "verse_id": 19947,
       "gurmukhi": "ਮੈ ਗੁਰੁ ਪੂਛਿਆ ਆਪਣਾ ਸਾਚਾ ਬੀਚਾਰੀ ਰਾਮ ॥",
-      "roman": "mai gur pūchhiā āpṇā sāchā bīchārī rām",
+      "roman": "mē gur pūchhiā āpṇā sāchā bīchārī rām",
       "sahib_singh_pa": "ਮੈਂ ਆਪਣੇ ਗੁਰੂ ਪਾਸੋਂ ਪੁੱਛਿਆ ਹੈ ਜੇਹੜਾ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਨੂੰ ਸਦਾ ਆਪਣੇ ਵਿਚਾਰ-ਮੰਡਲ ਵਿਚ ਟਿਕਾਈ ਰੱਖਦਾ ਹੈ।",
       "translation_ru": "Я спросил своего Гуру, который размышляет о вечном."
     },
     {
       "verse_id": 19948,
       "gurmukhi": "ਬੀਚਾਰਿ ਸਤਿਗੁਰੁ ਮੁਝੈ ਪੂਛਿਆ ਭਵਰੁ ਬੇਲੀ ਰਾਤਓ ॥",
-      "roman": "bīchār satigur mujhai pūchhiā bhavar belī rātō",
+      "roman": "bīchār satigur mujhē pūchhiā bhavar belī rātō",
       "sahib_singh_pa": "(ਹੇ ਭੌਰੇ ਮਨ! ਤੇਰੀ ਇਹ ਹਾਲਤ) ਵਿਚਾਰ ਕੇ ਮੈਂ ਗੁਰੂ ਤੋਂ ਪੁੱਛਿਆ ਹੈ ਕਿ ਇਹ ਮਨ-ਭੌਰਾ ਤਾਂ ਵੇਲਾਂ ਫੁੱਲਾਂ ਉਤੇ (ਦੁਨੀਆ ਦੇ ਸੁੰਦਰ ਪਦਾਰਥਾਂ ਦੇ ਰਸਾਂ ਵਿਚ) ਮਸਤ ਹੋ ਰਿਹਾ ਹੈ (ਇਸ ਦਾ ਕੀਹ ਬਣੇਗਾ?",
       "translation_ru": "Я спросил Гуру о состоянии ума, увлечённого наслаждениями."
     },
@@ -53,35 +53,35 @@
     {
       "verse_id": 19950,
       "gurmukhi": "ਜਮ ਮਗਿ ਬਾਧਾ ਖਾਹਿ ਚੋਟਾ ਸਬਦ ਬਿਨੁ ਬੇਤਾਲਿਆ ॥",
-      "roman": "jam mag bādhā khāhi choṭā sabad binu betāliā",
+      "roman": "jam mag bādhā khāh choṭā sabad bin betāliā",
       "sahib_singh_pa": "ਹੇ (ਦੁਨੀਆ ਦੇ ਪਦਾਰਥਾਂ ਵਿਚ ਮਸਤ ਹੋਏ) ਭੂਤ! ਸਤਿਗੁਰੂ ਦੇ ਸ਼ਬਦ ਤੋਂ ਖੁੰਝ ਕੇ ਤੂੰ ਜਮਰਾਜ ਦੇ ਰਸਤੇ ਵਿਚ ਬੱਝਾ ਹੋਇਆ ਚੋਟਾਂ ਖਾਵੇਂਗਾ।",
       "translation_ru": "Без слова Гуру душа страдает на пути смерти."
     },
     {
       "verse_id": 19951,
       "gurmukhi": "ਸਚੁ ਕਹੈ ਨਾਨਕੁ ਚੇਤਿ ਰੇ ਮਨ ਮਰਹਿ ਭਵਰਾ ਕਾਲਿਆ ॥੨॥",
-      "roman": "sach kahai nānak chet re man marahi bhavrā kāliā 2",
+      "roman": "sach kahē nānak chet re man marahi bhavrā kāliā 2",
       "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ-ਹੇ ਮੇਰੇ ਮਨ! ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਨੂੰ ਸਿਮਰ, ਨਹੀਂ ਤਾਂ ਭੌਰੇ (ਵਾਂਗ ਫੁੱਲਾਂ ਦੇ ਮਸਤ ਹੋਏ ਮਨ!) ਆਤਮਕ ਮੌਤ ਸਹੇੜ ਲਏਂਗਾ ॥੨॥",
       "translation_ru": "Нанак говорит: помни Бога, иначе погибнешь."
     },
     {
       "verse_id": 19952,
       "gurmukhi": "ਮੇਰੇ ਜੀਅੜਿਆ ਪਰਦੇਸੀਆ ਕਿਤੁ ਪਵਹਿ ਜੰਜਾਲੇ ਰਾਮ ॥",
-      "roman": "mere jīaṛiā pardesīā kit pavahi janjāle rām",
+      "roman": "mere jīaṛiā pardesīā kit pavah janjāle rām",
       "sahib_singh_pa": "ਹੇ ਮੇਰੇ ਪਰਦੇਸੀ ਜੀਵਾਤਮਾ! ਤੂੰ ਕਿਉਂ (ਮਾਇਆ ਦੇ) ਜੰਜਾਲ ਵਿਚ ਫਸ ਰਿਹਾ ਹੈਂ?",
       "translation_ru": "О моя душа-странник, почему ты попадаешь в сети майи?"
     },
     {
       "verse_id": 19953,
       "gurmukhi": "ਸਾਚਾ ਸਾਹਿਬੁ ਮਨਿ ਵਸੈ ਕੀ ਫਾਸਹਿ ਜਮ ਜਾਲੇ ਰਾਮ ॥",
-      "roman": "sāchā sāhib man vasai kī phāsahi jam jāle rām",
+      "roman": "sāchā sāhib man vasē kī phāsah jam jāle rām",
       "sahib_singh_pa": "ਜੇ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਮਾਲਕ ਤੇਰੇ ਮਨ ਵਿਚ ਵੱਸਦਾ ਹੋਵੇ ਤਾਂ ਤੂੰ (ਮਾਇਆ ਦੇ ਮੋਹ-ਰੂਪ) ਜਮ ਦੇ ਖਿਲਾਰੇ ਹੋਏ ਜਾਲ ਵਿਚ ਕਿਉਂ ਫਸੇਂ?",
       "translation_ru": "Если Бог в сердце, зачем попадать в сеть смерти?"
     },
     {
       "verse_id": 19954,
       "gurmukhi": "ਮਛੁਲੀ ਵਿਛੁੰਨੀ ਨੈਣ ਰੁੰਨੀ ਜਾਲੁ ਬਧਿਕਿ ਪਾਇਆ ॥",
-      "roman": "machhulī vichhuṇī nain runnī jāl badhik pāiā",
+      "roman": "machhulī vichhuṇī nēn runnī jāl badhik pāiā",
       "sahib_singh_pa": "(ਹੇ ਮੇਰੀ ਜਿੰਦੇ! ਵੇਖ) ਜਦੋਂ ਸ਼ਿਕਾਰੀ ਨੇ (ਪਾਣੀ ਵਿਚ) ਜਾਲ ਪਾਇਆ ਹੁੰਦਾ ਹੈ ਤੇ ਮੱਛੀ (ਭਿੱਤੀ ਦੇ ਲੱਬ ਵਿਚ ਫਸ ਕੇ ਜਾਲ ਵਿਚ ਫਸ ਜਾਂਦੀ ਹੈ ਤੇ ਪਾਣੀ ਤੋਂ) ਵਿਛੁੜ ਜਾਂਦੀ ਹੈ ਤਦੋਂ ਅੱਖਾਂ ਭਰ ਕੇ ਰੋਂਦੀ ਹੈ,",
       "translation_ru": "Рыба, попав в сеть, плачет, будучи оторвана от воды."
     },
@@ -95,14 +95,14 @@
     {
       "verse_id": 19956,
       "gurmukhi": "ਭਗਤਿ ਕਰਿ ਚਿਤੁ ਲਾਇ ਹਰਿ ਸਿਉ ਛੋਡਿ ਮਨਹੁ ਅੰਦੇਸਿਆ ॥",
-      "roman": "bhagat kar chit lāi har siu chhoṛ manahu andesiā",
+      "roman": "bhagat kar chit lāi har siu chhoṛ manah andesiā",
       "sahib_singh_pa": "ਹੇ ਮੇਰੀ ਜਿੰਦੇ! ਪਰਮਾਤਮਾ ਦੇ ਚਰਨਾਂ ਵਿਚ ਚਿੱਤ ਜੋੜ ਕੇ ਭਗਤੀ ਕਰ ਕੇ ਇਸ ਤਰ੍ਹਾਂ ਆਪਣੇ ਮਨ ਵਿਚੋਂ ਫ਼ਿਕਰ-ਅੰਦੇਸ਼ੇ ਦੂਰ ਕਰ ਲੈ।",
       "translation_ru": "Соедини ум с Богом через преданность и отбрось тревоги."
     },
     {
       "verse_id": 19957,
       "gurmukhi": "ਸਚੁ ਕਹੈ ਨਾਨਕੁ ਚੇਤਿ ਰੇ ਮਨ ਜੀਅੜਿਆ ਪਰਦੇਸੀਆ ॥੩॥",
-      "roman": "sach kahai nānak chet re man jīaṛiā pardesīā 3",
+      "roman": "sach kahē nānak chet re man jīaṛiā pardesīā 3",
       "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ-ਹੇ ਮੇਰੇ ਪਰਦੇਸੀ ਜੀਊੜੇ! ਹੇ ਮੇਰੇ ਮਨ! ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਨੂੰ ਸਿਮਰ ॥੩॥",
       "translation_ru": "Нанак говорит: помни Бога, о душа-странник."
     },
@@ -116,35 +116,35 @@
     {
       "verse_id": 19959,
       "gurmukhi": "ਜੁਗੁ ਜੁਗੁ ਮੀਠਾ ਵਿਸੁ ਭਰੇ ਕੋ ਜਾਣੈ ਜੋਗੀ ਰਾਮ ॥",
-      "roman": "jug jug mīṭhā vis bhare ko jāṇai jogī rām",
+      "roman": "jug jug mīṭhā vis bhare ko jāṇē jogī rām",
       "sahib_singh_pa": "ਜੇਹੜਾ ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਜੁੜਦਾ ਹੈ ਉਹ ਸਮਝ ਲੈਂਦਾ ਹੈ ਕਿ ਮਾਇਆ ਦਾ ਮੋਹ ਹੈ ਤਾਂ ਮਿੱਠਾ ਪਰ ਸਦਾ ਜ਼ਹਰ ਨਾਲ ਭਰਿਆ ਰਹਿੰਦਾ ਹੈ (ਤੇ ਜੀਵ ਨੂੰ ਆਤਮਕ ਮੌਤੇ ਮਾਰ ਦੇਂਦਾ ਹੈ)।",
       "translation_ru": "Майя сладка, но полна яда — это понимает редкий йог."
     },
     {
       "verse_id": 19960,
       "gurmukhi": "ਕੋਈ ਸਹਜਿ ਜਾਣੈ ਹਰਿ ਪਛਾਣੈ ਸਤਿਗੁਰੂ ਜਿਨਿ ਚੇਤਿਆ ॥",
-      "roman": "koī sahaj jāṇai har pachhāṇai satigur jin chetiā",
+      "roman": "koī sahaj jāṇē har pachhāṇē satigur jin chetiā",
       "sahib_singh_pa": "ਅਜੇਹਾ ਕੋਈ ਵਿਰਲਾ ਬੰਦਾ ਜਿਸ ਨੇ ਆਪਣੇ ਗੁਰੂ ਨੂੰ ਚੇਤੇ ਰੱਖਿਆ ਹੈ ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਟਿਕ ਕੇ ਇਸੇ ਅਸਲੀਅਤ ਨੂੰ ਸਮਝਦਾ ਹੈ ਤੇ ਪਰਮਾਤਮਾ ਨਾਲ ਸਾਂਝ ਪਾਂਦਾ ਹੈ।",
       "translation_ru": "Тот, кто помнит Гуру, постигает Бога в равновесии."
     },
     {
       "verse_id": 19961,
       "gurmukhi": "ਬਿਨੁ ਨਾਮ ਹਰਿ ਕੇ ਭਰਮਿ ਭੂਲੇ ਪਚਹਿ ਮੁਗਧ ਅਚੇਤਿਆ ॥",
-      "roman": "bin nām har ke bharam bhūle pachahi mugadh achetiā",
+      "roman": "bin nām har ke bharam bhūle pachah mugadh achetiā",
       "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਮਾਇਆ ਦੇ ਮੋਹ ਦੀ ਭਟਕਣਾ ਵਿਚ ਕੁਰਾਹੇ ਪੈ ਕੇ ਅਨੇਕਾਂ ਮੂਰਖ ਗ਼ਾਫ਼ਿਲ ਜੀਵ ਖ਼ੁਆਰ ਹੁੰਦੇ ਹਨ।",
       "translation_ru": "Без Имени люди блуждают в заблуждении и страдают."
     },
     {
       "verse_id": 19962,
       "gurmukhi": "ਹਰਿ ਨਾਮੁ ਭਗਤਿ ਨ ਰਿਦੈ ਸਾਚਾ ਸੇ ਅੰਤਿ ਧਾਹੀ ਰੁੰਨਿਆ ॥",
-      "roman": "har nām bhagat na ridai sāchā se ant dhāhī runniā",
+      "roman": "har nām bhagat na ridē sāchā se ant dhāhī runniā",
       "sahib_singh_pa": "ਜੇਹੜੇ ਬੰਦੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਨਹੀਂ ਸਿਮਰਦੇ, ਪ੍ਰਭੂ ਦੀ ਭਗਤੀ ਨਹੀਂ ਕਰਦੇ, ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਨੂੰ ਨਹੀਂ ਵਸਾਂਦੇ, ਉਹ ਆਖ਼ਰ ਢਾਹਾਂ ਮਾਰ ਮਾਰ ਕੇ ਰੋਂਦੇ ਹਨ।",
       "translation_ru": "Не помнящие Бога в конце плачут в отчаянии."
     },
     {
       "verse_id": 19963,
       "gurmukhi": "ਸਚੁ ਕਹੈ ਨਾਨਕੁ ਸਬਦਿ ਸਾਚੈ ਮੇਲਿ ਚਿਰੀ ਵਿਛੁੰਨਿਆ ॥੪॥੧॥੫॥",
-      "roman": "sach kahai nānak sabad sāchai mel chirī vichhuṇiā 4 1 5",
+      "roman": "sach kahē nānak sabad sāchē mel chirī vichhuṇiā 4 1 5",
       "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ-ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਆਪਣੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਸ਼ਬਦ ਵਿਚ ਜੋੜ ਕੇ ਚਿਰਾਂ ਤੋਂ ਵਿਛੁੜੇ ਜੀਵਾਂ ਨੂੰ (ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ) ਮਿਲਾ ਲੈਂਦਾ ਹੈ ॥੪॥੧॥੫॥",
       "translation_ru": "Нанак говорит: Бог соединяет с Собой через Слово тех, кто был долго разлучён."
     },
@@ -165,7 +165,7 @@
     {
       "verse_id": 19966,
       "gurmukhi": "ਹਮ ਘਰੇ ਸਾਚਾ ਸੋਹਿਲਾ ਸਾਚੈ ਸਬਦਿ ਸੁਹਾਇਆ ਰਾਮ ॥",
-      "roman": "ham ghare sāchā sohilā sāchai sabad suhāiā rām",
+      "roman": "ham ghare sāchā sohilā sāchē sabad suhāiā rām",
       "sahib_singh_pa": "(ਹੇ ਸਖੀ!) ਮੇਰੇ (ਹਿਰਦੇ-) ਘਰ ਵਿਚ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਗੀਤ ਹੋ ਰਿਹਾ ਹੈ, ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਵਾਲੇ ਗੁਰ-ਸ਼ਬਦ ਨੇ (ਮੇਰੇ ਹਿਰਦੇ-ਘਰ ਨੂੰ) ਸੋਹਣਾ ਬਣਾ ਦਿੱਤਾ ਹੈ।",
       "translation_ru": "О подруга! В моём доме сердца звучит песнь хвалы вечному Господу, и Гуршабд, наполненный этой хвалой, сделал его прекрасным."
     },
@@ -207,7 +207,7 @@
     {
       "verse_id": 19972,
       "gurmukhi": "ਦੂਜੜੈ ਕਾਮਣਿ ਭਰਮਿ ਭੁਲੀ ਹਰਿ ਵਰੁ ਨ ਪਾਏ ਰਾਮ ॥",
-      "roman": "dūjṛai kāman bharam bhulī har var na pāe rām",
+      "roman": "dūjṛē kāman bharam bhulī har var na pāe rām",
       "sahib_singh_pa": "(ਹੇ ਸਖੀ!) ਜੇਹੜੀ ਜੀਵ-ਇਸਤ੍ਰੀ (ਪ੍ਰਭੂ ਤੋਂ ਬਿਨਾ ਮਾਇਆ ਆਦਿਕ ਦੀ) ਹੋਰ ਹੋਰ ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ ਕੁਰਾਹੇ ਪੈ ਜਾਂਦੀ ਹੈ ਉਸ ਨੂੰ ਪ੍ਰਭੂ-ਪਤੀ ਦਾ ਮਿਲਾਪ ਨਹੀਂ ਹੁੰਦਾ।",
       "translation_ru": "О подруга! Та душа-жена, которая блуждает в двойственности и заблуждении, не достигает Господа-супруга."
     },
@@ -235,14 +235,14 @@
     {
       "verse_id": 19976,
       "gurmukhi": "ਦੇਖਿ ਪਿਰੁ ਵਿਗਸੀ ਅੰਦਰਹੁ ਸਰਸੀ ਸਚੈ ਸਬਦਿ ਸੁਭਾਏ ॥",
-      "roman": "dekh pir vigsī andarahu sarsī sachai sabad subhāe",
+      "roman": "dekh pir vigsī andarah sarsī sachē sabad subhāe",
       "sahib_singh_pa": "(ਆਪਣੇ ਅੰਦਰ) ਪ੍ਰਭੂ-ਪਤੀ ਨੂੰ ਵੇਖ ਕੇ ਉਹ ਖਿੜ ਪਈ, ਉਹ ਅੰਤਰ-ਆਤਮੇ ਆਨੰਦ-ਮਗਨ ਹੋ ਗਈ, ਉਹ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਵਾਲੇ ਗੁਰ-ਸ਼ਬਦ ਵਿਚ ਪ੍ਰਭੂ-ਪ੍ਰੇਮ ਵਿਚ ਲੀਨ ਹੋ ਗਈ।",
       "translation_ru": "Увидев Господа внутри, она расцветает и наполняется радостью, с любовью соединяясь с Гуршабдом."
     },
     {
       "verse_id": 19977,
       "gurmukhi": "ਨਾਨਕ ਵਿਣੁ ਨਾਵੈ ਕਾਮਣਿ ਭਰਮਿ ਭੁਲਾਣੀ ਮਿਲਿ ਪ੍ਰੀਤਮ ਸੁਖੁ ਪਾਏ ॥੨॥",
-      "roman": "nānak viṇ nāvai kāman bharam bhulāṇī mil prītam sukh pāe",
+      "roman": "nānak viṇ nāvē kāman bharam bhulāṇī mil prītam sukh pāe",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਤੋਂ ਖੁੰਝ ਕੇ ਜੀਵ-ਇਸਤ੍ਰੀ ਭਟਕਣਾ ਦੇ ਕਾਰਨ ਕੁਰਾਹੇ ਪਈ ਰਹਿੰਦੀ ਹੈ ਪ੍ਰੀਤਮ-ਪ੍ਰਭੂ ਨੂੰ ਮਿਲ ਕੇ ਆਤਮਕ ਆਨੰਦ ਮਾਣਦੀ ਹੈ ॥੨॥",
       "translation_ru": "О Нанак! Без Имени душа-жена блуждает в заблуждении, но, встретив Возлюбленного, обретает блаженство."
     }

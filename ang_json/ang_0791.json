@@ -4,7 +4,7 @@
     {
       "verse_id": 33592,
       "gurmukhi": "ਘਰੁ ਦਰੁ ਪਾਵੈ ਮਹਲੁ ਨਾਮੁ ਪਿਆਰਿਆ ॥",
-      "roman": "ghar dar pāvai mahal nām piāriā",
+      "roman": "ghar dar pāvē mahal nām piāriā",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਨੂੰ ਪਿਆਰ ਕਰ ਕੇ ਉਹ ਪ੍ਰਭੂ ਦਾ ਘਰ, ਪ੍ਰਭੂ ਦਾ ਦਰ ਤੇ ਮਹਲ ਲੱਭ ਲੈਂਦਾ ਹੈ।",
       "translation_ru": "Любя Имя, он находит дом Бога и Его обитель."
     },
@@ -32,7 +32,7 @@
     {
       "verse_id": 33596,
       "gurmukhi": "ਦੀਵਾ ਬਲੈ ਅੰਧੇਰਾ ਜਾਇ ॥",
-      "roman": "dīvā balai andherā jāe",
+      "roman": "dīvā balē andherā jāe",
       "sahib_singh_pa": "(ਜਿਵੇਂ ਜਦੋਂ) ਦੀਵਾ ਜਗਦਾ ਹੈ ਤਾਂ ਹਨੇਰਾ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "Когда зажигается светильник, тьма исчезает."
     },
@@ -46,7 +46,7 @@
     {
       "verse_id": 33598,
       "gurmukhi": "ਉਗਵੈ ਸੂਰੁ ਨ ਜਾਪੈ ਚੰਦੁ ॥",
-      "roman": "ugvai sūr na jāpe chand",
+      "roman": "ugvē sūr na jāpe chand",
       "sahib_singh_pa": "ਜਦੋਂ ਸੂਰਜ ਚੜ੍ਹ ਪੈਂਦਾ ਹੈ ਚੰਦ੍ਰਮਾ (ਚੜ੍ਹਿਆ ਹੋਇਆ) ਨਹੀਂ ਜਾਪਦਾ,",
       "translation_ru": "Когда восходит солнце, луна уже не видна,"
     },
@@ -67,7 +67,7 @@
     {
       "verse_id": 33601,
       "gurmukhi": "ਪੜਿੑ ਪੜਿੑ ਪੰਡਿਤ ਕਰਹਿ ਬੀਚਾਰ ॥",
-      "roman": "paṛh paṛh pandit karahi bīchār",
+      "roman": "paṛh paṛh pandit karah bīchār",
       "sahib_singh_pa": "ਵਿਦਵਾਨ ਲੋਕ ਇਹਨਾਂ ਨੂੰ ਪੜ੍ਹ ਪੜ੍ਹ ਕੇ ਇਹਨਾਂ ਦੇ ਸਿਰਫ਼ ਅਰਥ ਹੀ ਵਿਚਾਰਦੇ ਹਨ।",
       "translation_ru": "учёные, читая их снова и снова, лишь размышляют над их значением."
     },
@@ -123,21 +123,21 @@
     {
       "verse_id": 33609,
       "gurmukhi": "ਜਿ ਪ੍ਰਭੁ ਸਾਲਾਹੇ ਆਪਣਾ ਸੋ ਸੋਭਾ ਪਾਏ ॥",
-      "roman": "ji prabh sālāhe āpṇā so sobhā pāe",
+      "roman": "j prabh sālāhe āpṇā so sobhā pāe",
       "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ ਆਪਣੇ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਦਾ ਹੈ ਉਹ ਸੋਭਾ ਖੱਟਦਾ ਹੈ।",
       "translation_ru": "Тот, кто восхваляет своего Господа, обретает честь."
     },
     {
       "verse_id": 33610,
       "gurmukhi": "ਹਉਮੈ ਵਿਚਹੁ ਦੂਰਿ ਕਰਿ ਸਚੁ ਮੰਨਿ ਵਸਾਏ ॥",
-      "roman": "haumai vichahu dūr kar sach man vasāe",
+      "roman": "haumē vichah dūr kar sach man vasāe",
       "sahib_singh_pa": "ਮਨ ਵਿਚੋਂ 'ਹਉਮੈ' ਮਿਟਾ ਕੇ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪ੍ਰਭੂ ਨੂੰ ਵਸਾਂਦਾ ਹੈ।",
       "translation_ru": "Удаляя из сердца Хоумэ, он поселяют в нём вечного Господа."
     },
     {
       "verse_id": 33611,
       "gurmukhi": "ਸਚੁ ਬਾਣੀ ਗੁਣ ਉਚਰੈ ਸਚਾ ਸੁਖੁ ਪਾਏ ॥",
-      "roman": "sach bāṇī guṇ ucharai sachā sukh pāe",
+      "roman": "sach bāṇī guṇ ucharē sachā sukh pāe",
       "sahib_singh_pa": "ਸਤਿਗੁਰੂ ਦੀ ਬਾਣੀ ਦੀ ਰਾਹੀਂ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਉਚਾਰਦਾ ਹੈ ਤੇ ਨਾਮ ਸਿਮਰਦਾ ਹੈ (ਇਸ ਤਰ੍ਹਾਂ) ਅਸਲ ਸੁਖ ਮਾਣਦਾ ਹੈ।",
       "translation_ru": "Через Бани Сатгуру он произносит добродетели Господа и, помня Имя, обретает истинное счастье."
     },
@@ -151,7 +151,7 @@
     {
       "verse_id": 33613,
       "gurmukhi": "ਮਨੁ ਮੈਲਾ ਇਵ ਸੁਧੁ ਹੈ ਹਰਿ ਨਾਮੁ ਧਿਆਏ ॥੧੭॥",
-      "roman": "man mailā iv sudh hai har nām dhiāe",
+      "roman": "man mēlā iv sudh hē har nām dhiāe",
       "sahib_singh_pa": "ਸੋ, ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰ ਕੇ ਇਸ ਤਰ੍ਹਾਂ ਮੈਲਾ ਮਨ ਪਵਿਤ੍ਰ ਹੋ ਜਾਂਦਾ ਹੈ ॥੧੭॥",
       "translation_ru": "Так, размышляя о Имени Господа, нечистый ум становится чистым."
     },
@@ -186,7 +186,7 @@
     {
       "verse_id": 33618,
       "gurmukhi": "ਨਾਨਕ ਤਿਨਾ ਬਸੰਤੁ ਹੈ ਜਿਨੑ ਘਰਿ ਵਸਿਆ ਕੰਤੁ ॥",
-      "roman": "nānak tinā basant hai jinh ghar vasiā kant",
+      "roman": "nānak tinā basant hē jinh ghar vasiā kant",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਜਿਨ੍ਹਾਂ (ਜੀਵ-) ਇਸਤ੍ਰੀਆਂ ਦਾ ਖਸਮ ਘਰ ਵਿਚ ਵੱਸਦਾ ਹੈ ਉਹਨਾਂ ਦੇ ਭਾ ਦੀ ਬਸੰਤ ਰੁੱਤ ਆਈ ਹੋਈ ਹੈ;",
       "translation_ru": "О Нанак! У тех душ-жён, в доме которых пребывает Господь-супруг, царит весна."
     },
@@ -214,14 +214,14 @@
     {
       "verse_id": 33622,
       "gurmukhi": "ਅਨਦਿਨੁ ਸੇਵੀ ਗੁਣ ਰਵਾ ਮਨੁ ਸਚੈ ਰਚਨੀ ॥",
-      "roman": "andin sevī guṇ ravā man sachai rachnī",
+      "roman": "andin sevī guṇ ravā man sachē rachnī",
       "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ! ਮਿਹਰ ਕਰ) ਮੈਂ ਹਰ ਵੇਲੇ ਤੈਨੂੰ ਸਿਮਰਾਂ ਤੇਰੇ ਗੁਣ ਚੇਤੇ ਕਰਾਂ ਤੇ ਮੇਰਾ ਮਨ ਤੈਂ ਸੱਚੇ ਵਿਚ ਜੁੜਿਆ ਰਹੇ।",
       "translation_ru": "Да служу я Тебе всегда, помня Твои добродетели, и пусть мой ум соединится с Истиной."
     },
     {
       "verse_id": 33623,
       "gurmukhi": "ਪ੍ਰਭੁ ਮੇਰਾ ਬੇਅੰਤੁ ਹੈ ਅੰਤੁ ਕਿਨੈ ਨ ਲਖਨੀ ॥",
-      "roman": "prabh mēra bēant hai ant kinai na lakhṇī",
+      "roman": "prabh mēra bēant hē ant kinē na lakhṇī",
       "sahib_singh_pa": "ਮੇਰਾ ਪਰਮਾਤਮਾ ਬੇਅੰਤ ਹੈ ਕਿਸੇ ਜੀਵ ਨੇ ਉਸ ਦਾ ਅੰਤ ਨਹੀਂ ਪਾਇਆ।",
       "translation_ru": "Мой Господь безграничен — никто не постиг Его предел."
     },
@@ -235,7 +235,7 @@
     {
       "verse_id": 33625,
       "gurmukhi": "ਜੋ ਇਛੈ ਸੋ ਫਲੁ ਪਾਇਸੀ ਸਭਿ ਘਰੈ ਵਿਚਿ ਜਚਨੀ ॥੧੮॥",
-      "roman": "jo ichhai so phal pāisī sabh gharai vich jachnī",
+      "roman": "jo ichhē so phal pāisī sabh gharē vich jachnī",
       "sahib_singh_pa": "(ਜੋ ਸਿਮਰਦਾ ਹੈ) ਉਸ ਦੀਆਂ ਸਾਰੀਆਂ ਲੋੜਾਂ ਘਰ ਵਿਚ ਹੀ ਪੂਰੀਆਂ ਹੋ ਜਾਂਦੀਆਂ ਹਨ, ਉਹ ਜਿਸ ਫਲ ਦੀ ਤਾਂਘ ਕਰਦਾ ਹੈ ਉਹੀ ਉਸ ਨੂੰ ਮਿਲ ਜਾਂਦਾ ਹੈ ॥੧੮॥",
       "translation_ru": "Все его нужды исполняются дома, и он получает желаемый плод."
     },
@@ -249,7 +249,7 @@
     {
       "verse_id": 33627,
       "gurmukhi": "ਪਹਿਲ ਬਸੰਤੈ ਆਗਮਨਿ ਪਹਿਲਾ ਮਉਲਿਓ ਸੋਇ ॥",
-      "roman": "pehl basantai āgman pehlā maulio soi",
+      "roman": "pehl basantē āgman pehlā maulio soi",
       "sahib_singh_pa": "ਜੋ ਪ੍ਰਭੂ ਬਸੰਤ ਰੁੱਤ ਆਉਣ ਤੋਂ ਪਹਿਲਾਂ ਦਾ ਹੈ ਉਹ ਹੀ ਸਭ ਤੋਂ ਪਹਿਲਾਂ ਦਾ ਖਿੜਿਆ ਹੋਇਆ ਹੈ।",
       "translation_ru": "Тот Господь, который существует прежде прихода весны, есть первоцветущий."
     },
@@ -270,14 +270,14 @@
     {
       "verse_id": 33630,
       "gurmukhi": "ਪਹਿਲ ਬਸੰਤੈ ਆਗਮਨਿ ਤਿਸ ਕਾ ਕਰਹੁ ਬੀਚਾਰੁ ॥",
-      "roman": "pehl basantai āgman tis kā karahu bīchār",
+      "roman": "pehl basantē āgman tis kā karah bīchār",
       "sahib_singh_pa": "ਉਸ ਪ੍ਰਭੂ (ਦੇ ਗੁਣਾਂ) ਦੀ ਵਿਚਾਰ ਕਰੋ ਜੋ ਬਸੰਤ ਰੁੱਤ ਦੇ ਆਉਣ ਤੋਂ ਪਹਿਲਾਂ ਦਾ ਹੈ (ਭਾਵ, ਜਿਸ ਦੀ ਬਰਕਤਿ ਨਾਲ ਸਾਰਾ ਜਗਤ ਮਉਲਦਾ ਹੈ)।",
       "translation_ru": "Размышляйте о том Господе, который существует до прихода весны."
     },
     {
       "verse_id": 33631,
       "gurmukhi": "ਨਾਨਕ ਸੋ ਸਾਲਾਹੀਐ ਜਿ ਸਭਸੈ ਦੇ ਆਧਾਰੁ ॥੨॥",
-      "roman": "nānak so sālāhīai ji sabhsai dē ādhār",
+      "roman": "nānak so sālāhīē ji sabhsē dē ādhār",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰੀਏ ਜੋ ਸਭ ਦਾ ਆਸਰਾ ਹੈ ॥੨॥",
       "translation_ru": "О Нанак! Прославляйте Того, кто является опорой для всех."
     },
@@ -291,14 +291,14 @@
     {
       "verse_id": 33633,
       "gurmukhi": "ਮਿਲਿਐ ਮਿਲਿਆ ਨਾ ਮਿਲੈ ਮਿਲੈ ਮਿਲਿਆ ਜੇ ਹੋਇ ॥",
-      "roman": "miliai miliā nā milai milai miliā je hoi",
+      "roman": "miliē miliā nā milē milē miliā je hoi",
       "sahib_singh_pa": "ਨਿਰਾ ਕਹਿਣ ਨਾਲ ਕਿ ਮੈਂ ਮਿਲਿਆ ਹੋਇਆ ਹਾਂ ਮੇਲ ਨਹੀਂ ਹੁੰਦਾ, ਮੇਲ ਤਾਂ ਹੀ ਹੁੰਦਾ ਹੈ ਜੇ ਸਚੁ-ਮੁਚ ਮਿਲਿਆ ਹੋਵੇ।",
       "translation_ru": "Одними словами о встрече единения не происходит; единение происходит, когда оно действительно случилось."
     },
     {
       "verse_id": 33634,
       "gurmukhi": "ਅੰਤਰ ਆਤਮੈ ਜੋ ਮਿਲੈ ਮਿਲਿਆ ਕਹੀਐ ਸੋਇ ॥੩॥",
-      "roman": "antar ātmē jo milai miliā kahīai soi",
+      "roman": "antar ātmē jo milē miliā kahīē soi",
       "sahib_singh_pa": "ਜੋ ਅੰਦਰੋਂ ਆਤਮਾ ਵਿਚ ਮਿਲੇ, ਉਸ ਨੂੰ ਮਿਲਿਆ ਹੋਇਆ ਆਖਣਾ ਚਾਹੀਦਾ ਹੈ ॥੩॥",
       "translation_ru": "Того, кто соединяется внутри в душе, следует называть соединённым."
     },
@@ -312,35 +312,35 @@
     {
       "verse_id": 33636,
       "gurmukhi": "ਹਰਿ ਹਰਿ ਨਾਮੁ ਸਲਾਹੀਐ ਸਚੁ ਕਾਰ ਕਮਾਵੈ ॥",
-      "roman": "har har nām sālāhīai sach kār kamāvai",
+      "roman": "har har nām sālāhīē sach kār kamāvē",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰਨਾ ਚਾਹੀਦਾ ਹੈ (ਜੋ ਸਿਮਰਨ ਵਿਚ ਲੱਗਦਾ ਹੈ ਉਹ) ਇਹ ਸਿਮਰਨ ਦੀ ਕਾਰ ਸਦਾ ਕਰਦਾ ਹੈ।",
       "translation_ru": "Следует прославлять Имя Господа — тот, кто этим занят, постоянно выполняет это дело."
     },
     {
       "verse_id": 33637,
       "gurmukhi": "ਦੂਜੀ ਕਾਰੈ ਲਗਿਆ ਫਿਰਿ ਜੋਨੀ ਪਾਵੈ ॥",
-      "roman": "dūjī kārai lagiā phir jonī pāvai",
+      "roman": "dūjī kārē lagiā phir jonī pāvē",
       "sahib_singh_pa": "'ਨਾਮ' ਤੋਂ ਬਿਨਾ ਹੋਰ ਆਹਰਾਂ ਵਿਚ ਰੁੱਝਿਆ ਮੁੜ ਮੁੜ ਜੂਨਾਂ ਵਿਚ ਮਨੁੱਖ ਪੈਂਦਾ ਹੈ।",
       "translation_ru": "Тот, кто занят иными делами, вновь и вновь попадает в круг рождений."
     },
     {
       "verse_id": 33638,
       "gurmukhi": "ਨਾਮਿ ਰਤਿਆ ਨਾਮੁ ਪਾਈਐ ਨਾਮੇ ਗੁਣ ਗਾਵੈ ॥",
-      "roman": "nām ratiā nām pāīai nāmē guṇ gāvai",
+      "roman": "nām ratiā nām pāīē nāmē guṇ gāvē",
       "sahib_singh_pa": "'ਨਾਮ' ਵਿਚ ਜੁੜਿਆਂ 'ਨਾਮ' ਹੀ ਕਮਾਈਦਾ ਹੈ ਪ੍ਰਭੂ ਦੇ ਹੀ ਗੁਣ ਗਾਈਦੇ ਹਨ।",
       "translation_ru": "Соединённый с Именем обретает Имя и поёт добродетели Господа."
     },
     {
       "verse_id": 33639,
       "gurmukhi": "ਗੁਰ ਕੈ ਸਬਦਿ ਸਲਾਹੀਐ ਹਰਿ ਨਾਮਿ ਸਮਾਵੈ ॥",
-      "roman": "gur kai sabad sālāhīai har nām samāvai",
+      "roman": "gur kē sabad sālāhīē har nām samāvē",
       "sahib_singh_pa": "ਜਿਸ ਨੇ ਗੁਰ-ਸਬਦ ਦੀ ਰਾਹੀਂ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕੀਤੀ ਹੈ ਉਹ ਨਾਮ ਵਿਚ ਹੀ ਲੀਨ ਰਹਿੰਦਾ ਹੈ।",
       "translation_ru": "Тот, кто восхваляет через Шабд Гуру, пребывает в Имени."
     },
     {
       "verse_id": 33640,
       "gurmukhi": "ਸਤਿਗੁਰ ਸੇਵਾ ਸਫਲ ਹੈ ਸੇਵਿਐ ਫਲ ਪਾਵੈ ॥੧੯॥",
-      "roman": "satgur sevā safal hai seviai phal pāvai",
+      "roman": "satgur sevā safal hē seviē phal pāvē",
       "sahib_singh_pa": "ਗੁਰੂ ਦੇ ਹੁਕਮ ਵਿਚ ਤੁਰਨਾ ਬੜਾ ਗੁਣਕਾਰੀ ਹੈ, ਹੁਕਮ ਵਿਚ ਤੁਰਿਆਂ ਨਾਮ-ਧਨ ਰੂਪ ਫਲ ਮਿਲਦਾ ਹੈ ॥੧੯॥",
       "translation_ru": "Следование наставлению Гуру плодотворно — следуя ему, получают плод Имени."
     },
@@ -354,7 +354,7 @@
     {
       "verse_id": 33642,
       "gurmukhi": "ਕਿਸ ਹੀ ਕੋਈ ਕੋਇ ਮੰਞੁ ਨਿਮਾਣੀ ਇਕੁ ਤੂ ॥",
-      "roman": "kis hī koi koi mañju nimāṇī ik tū",
+      "roman": "kis hī koi koi mañj nimāṇī ik tū",
       "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ!) ਕਿਸੇ ਦਾ ਕੋਈ (ਮਿਥਿਆ) ਆਸਰਾ ਹੈ, ਕਿਸੇ ਦਾ ਕੋਈ ਆਸਰਾ ਹੈ, ਮੈਂ ਨਿਮਾਣੀ ਦਾ ਇਕ ਤੂੰ ਹੀ ਤੂੰ ਹੈਂ।",
       "translation_ru": "У кого-то есть один мнимый оплот, у кого-то другой, но у меня, беспомощной, есть только Ты."
     }

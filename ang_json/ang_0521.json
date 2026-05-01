@@ -11,14 +11,14 @@
     {
       "verse_id": 23164,
       "gurmukhi": "ਜਿਮੀ ਵਸੰਦੀ ਪਾਣੀਐ ਈਧਣੁ ਰਖੈ ਭਾਹਿ ॥",
-      "roman": "jimī vasandī pāṇīai īdhaṇ rakhai bhāh",
+      "roman": "jimī vasandī pāṇīē īdhaṇ rakhē bhāh",
       "sahib_singh_pa": "(ਜਿਵੇਂ) ਧਰਤੀ ਪਾਣੀ ਵਿਚ (ਅਡੋਲ) ਵੱਸਦੀ ਹੈ ਤੇ ਪਾਣੀ ਨੂੰ ਆਸਰਾ ਭੀ ਦੇਂਦੀ ਹੈ, (ਜਿਵੇਂ) ਲੱਕੜੀ (ਆਪਣੇ ਅੰਦਰ) ਅੱਗ (ਲੁਕਾ ਕੇ) ਰੱਖਦੀ ਹੈ,",
       "translation_ru": "Как земля пребывает в воде и даёт ей опору, как дерево хранит внутри огонь,"
     },
     {
       "verse_id": 23165,
       "gurmukhi": "ਨਾਨਕ ਸੋ ਸਹੁ ਆਹਿ ਜਾ ਕੈ ਆਢਲਿ ਹਭੁ ਕੋ ॥੨॥",
-      "roman": "nānak so sah āh jā kai āḍhal habh ko",
+      "roman": "nānak so sah āh jā kē āḍhal habh ko",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਤਿਵੇਂ) ਉਹ ਖਸਮ (ਪ੍ਰਭੂ) ਜਿਸ ਦੇ ਆਸਰੇ ਹਰੇਕ ਜੀਵ ਹੈ, (ਇਸ ਸਾਰੇ ਜਗਤ ਵਿਚ ਅਡੋਲ ਲੁਕਿਆ ਪਿਆ) ਹੈ ॥੨॥",
       "translation_ru": "так и Господь — тот, на чьей опоре держатся все существа."
     },
@@ -32,14 +32,14 @@
     {
       "verse_id": 23167,
       "gurmukhi": "ਤੇਰੇ ਕੀਤੇ ਕੰਮ ਤੁਧੈ ਹੀ ਗੋਚਰੇ ॥",
-      "roman": "tere kīte kam tudhai hī gochare",
+      "roman": "tere kīte kam tudhē hī gochare",
       "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ!) ਜੋ ਜੋ ਕੰਮ ਤੂੰ ਕੀਤੇ ਹਨ ਇਹ ਤੂੰ ਹੀ ਕਰ ਸਕਦਾ ਹੈਂ।",
       "translation_ru": "О Господь, всё, что Ты совершаешь, доступно только Тебе."
     },
     {
       "verse_id": 23168,
       "gurmukhi": "ਸੋਈ ਵਰਤੈ ਜਗਿ ਜਿ ਕੀਆ ਤੁਧੁ ਧੁਰੇ ॥",
-      "roman": "soī vartai jag ji kīā tudh dhure",
+      "roman": "soī vartē jag j kīā tudh dhure",
       "sahib_singh_pa": "ਜਗਤ ਵਿਚ ਉਹੀ ਕੁਝ ਹੋ ਰਿਹਾ ਹੈ ਜੋ ਕਰਨ ਵਾਸਤੇ ਤੂੰ ਧੁਰ ਤੋਂ ਹੁਕਮ ਕਰ ਦਿੱਤਾ ਹੈ।",
       "translation_ru": "В мире происходит лишь то, что Ты изначально повелел."
     },
@@ -60,7 +60,7 @@
     {
       "verse_id": 23171,
       "gurmukhi": "ਤੇਰੈ ਹਥਿ ਨਿਧਾਨੁ ਭਾਵੈ ਤਿਸੁ ਦੇਹਿ ॥",
-      "roman": "terai hath nidhān bhāvai tis deh",
+      "roman": "terē hath nidhān bhāvē tis deh",
       "sahib_singh_pa": "(ਤੇਰੇ ਨਾਮ ਦਾ) ਖ਼ਜ਼ਾਨਾ ਤੇਰੇ (ਆਪਣੇ) ਹੱਥ ਵਿਚ ਹੈ, ਜੋ ਤੈਨੂੰ ਚੰਗਾ ਲਗੇ ਉਸ ਨੂੰ ਤੂੰ (ਇਹ ਖ਼ਜ਼ਾਨਾ) ਦੇਂਦਾ ਹੈਂ।",
       "translation_ru": "Сокровище Имени в Твоих руках — Ты даёшь его тому, кому пожелаешь."
     },
@@ -116,14 +116,14 @@
     {
       "verse_id": 23179,
       "gurmukhi": "ਖੋਜੀ ਲਧਮੁ ਖੋਜੁ ਛਡੀਆ ਉਜਾੜਿ ॥",
-      "roman": "khojī ladhmu khoj chhaḍīā ujāṛ",
+      "roman": "khojī ladhm khoj chhaḍīā ujāṛ",
       "sahib_singh_pa": "(ਜਿਨ੍ਹਾਂ ਕਾਮਾਦਿਕਾਂ ਨੇ ਮੇਰੀ ਖੇਤੀ) ਉਜਾੜ ਦਿੱਤੀ ਸੀ ਉਹਨਾਂ ਦਾ ਖੋਜ ਮੈਂ ਖੋਜ ਲੱਭਣ ਵਾਲੇ (ਗੁਰੂ) ਦੀ ਰਾਹੀਂ ਲੱਭ ਲਿਆ ਹੈ,",
       "translation_ru": "Тех (страстей), которые разорили моё поле, я нашёл благодаря ищущему (Гуру)."
     },
     {
       "verse_id": 23180,
       "gurmukhi": "ਤੈ ਸਹਿ ਦਿਤੀ ਵਾੜਿ ਨਾਨਕ ਖੇਤੁ ਨ ਛਿਜਈ ॥੨॥",
-      "roman": "tai sah dītī vāṛ Nānak khet na chhijai",
+      "roman": "tē sah dītī vāṛ Nānak khet na chhijē",
       "sahib_singh_pa": "ਤੈਂ ਖਸਮ ਨੇ ਮੇਰੀ ਪੈਲੀ ਨੂੰ (ਗੁਰੂ ਦੀ ਸਹੈਤਾ ਦੀ) ਵਾੜ ਦੇ ਦਿੱਤੀ ਹੈ, ਹੁਣ ਨਾਨਕ ਦੀ ਪੈਲੀ ਨਹੀਂ ਉਜੜਦੀ ॥੨॥",
       "translation_ru": "Ты, Хозяин, поставил ограду (с помощью Гуру) вокруг моего поля, и теперь поле Нанака не разоряется."
     },
@@ -137,7 +137,7 @@
     {
       "verse_id": 23182,
       "gurmukhi": "ਆਰਾਧਿਹੁ ਸਚਾ ਸੋਇ ਸਭੁ ਕਿਛੁ ਜਿਸੁ ਪਾਸਿ ॥",
-      "roman": "ārādhihu sachā soi sabh kichh jis pās",
+      "roman": "ārādhih sachā soi sabh kichh jis pās",
       "sahib_singh_pa": "ਉਸ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰੋ, ਜਿਸ ਦੇ ਵੱਸ ਵਿਚ ਹਰੇਕ ਪਦਾਰਥ ਹੈ।",
       "translation_ru": "Помните того вечного Господа, у Которого во власти всё."
     },
@@ -151,7 +151,7 @@
     {
       "verse_id": 23184,
       "gurmukhi": "ਤਿਆਗਹੁ ਸਗਲ ਉਪਾਵ ਤਿਸ ਕੀ ਓਟ ਗਹੁ ॥",
-      "roman": "tiāgahu sagal upāv tis kī oṭ gahu",
+      "roman": "tiāgah sagal upāv tis kī oṭ gah",
       "sahib_singh_pa": "ਹੋਰ ਸਾਰੇ ਹੀਲੇ ਛੱਡੋ ਤੇ ਉਸ ਪਰਮਾਤਮਾ ਦਾ ਆਸਰਾ ਲਵੋ!",
       "translation_ru": "Оставьте все уловки и примите прибежище у Него."
     },
@@ -172,7 +172,7 @@
     {
       "verse_id": 23187,
       "gurmukhi": "ਜਪੀਐ ਅੰਮ੍ਰਿਤ ਨਾਮੁ ਬਿਘਨੁ ਨ ਲਗੈ ਕੋਇ ॥",
-      "roman": "japīai amrit nām bighan na lagai koi",
+      "roman": "japīē amrit nām bighan na lagē koi",
       "sahib_singh_pa": "ਜੇ ਪ੍ਰਭੂ ਦਾ ਅੰਮ੍ਰਿਤ-ਨਾਮ ਸਿਮਰੀਏ ਤਾਂ (ਜੀਵਨ ਦੇ ਰਾਹ ਵਿਚ) ਕੋਈ ਰੁਕਾਵਟ ਨਹੀਂ ਪੈਂਦੀ।",
       "translation_ru": "Если повторять амрит-Имя, никакое препятствие не возникает."
     },
@@ -200,7 +200,7 @@
     {
       "verse_id": 23191,
       "gurmukhi": "ਲਧਮੁ ਲਭਣਹਾਰੁ ਕਰਮੁ ਕਰੰਦੋ ਮਾ ਪਿਰੀ ॥",
-      "roman": "ladhmu labhaṇhār karam karando mā pirī",
+      "roman": "ladhm labhaṇhār karam karando mā pirī",
       "sahib_singh_pa": "ਜਦੋਂ ਮੇਰੇ ਪਿਆਰੇ ਖਸਮ ਨੇ (ਮੇਰੇ ਉੱਤੇ) ਬਖ਼ਸ਼ਸ਼ ਕੀਤੀ ਤਾਂ ਮੈਂ ਲੱਭਣ-ਜੋਗ ਪ੍ਰਭੂ ਨੂੰ ਲੱਭ ਲਿਆ।",
       "translation_ru": "Когда мой возлюбленный Господь даровал милость, я нашёл того, кого следует искать."
     },
@@ -221,7 +221,7 @@
     {
       "verse_id": 23194,
       "gurmukhi": "ਪਾਪੜਿਆ ਪਛਾੜਿ ਬਾਣੁ ਸਚਾਵਾ ਸੰਨਿੑ ਕੈ ॥",
-      "roman": "pāpaṛiā pachhāṛ bāṇ sachāvā sannh kai",
+      "roman": "pāpaṛiā pachhāṛ bāṇ sachāvā sannh kē",
       "sahib_singh_pa": "ਸੱਚ (ਭਾਵ, ਸਿਮਰਨ) ਦਾ ਤੀਰ ਤਾਣ ਕੇ ਚੰਦਰੇ ਪਾਪਾਂ ਨੂੰ ਨਸਾ ਦੇ,",
       "translation_ru": "Натяни стрелу истины и уничтожь злые грехи."
     },
@@ -242,7 +242,7 @@
     {
       "verse_id": 23197,
       "gurmukhi": "ਵਾਹੁ ਵਾਹੁ ਸਿਰਜਣਹਾਰ ਪਾਈਅਨੁ ਠਾਢਿ ਆਪਿ ॥",
-      "roman": "vāhu vāhu sirjaṇhār pāīan ṭhāḍ āp",
+      "roman": "vāh vāh sirjaṇhār pāīan ṭhāḍ āp",
       "sahib_singh_pa": "ਉਸ ਕਰਤਾਰ ਨੂੰ 'ਧੰਨ ਧੰਨ' ਆਖ ਜਿਸ ਨੇ (ਤੇਰੇ ਅੰਦਰ) ਆਪ ਠੰਢ ਪਾਈ ਹੈ।",
       "translation_ru": "Славь Творца, Который сам установил покой внутри тебя."
     },
@@ -326,14 +326,14 @@
     {
       "verse_id": 23209,
       "gurmukhi": "ਰਾਮੁ ਰਮਹੁ ਬਡਭਾਗੀਹੋ ਜਲਿ ਥਲਿ ਮਹੀਅਲਿ ਸੋਇ ॥",
-      "roman": "rām ramahu baḍbhāgīho jal thal mahīal soi",
+      "roman": "rām ramah baḍbhāgīho jal thal mahīal soi",
       "sahib_singh_pa": "ਹੇ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲਿਓ! ਉਸ ਪਰਮਾਤਮਾ ਨੂੰ ਸਿਮਰੋ ਜੋ ਪਾਣੀ ਵਿਚ ਧਰਤੀ ਦੇ ਅੰਦਰ ਧਰਤੀ ਦੇ ਉਪਰ (ਹਰ ਥਾਂ) ਮੌਜੂਦ ਹੈ।",
       "translation_ru": "О счастливые! Помните Господа, который пребывает в воде, на земле и повсюду."
     },
     {
       "verse_id": 23210,
       "gurmukhi": "ਨਾਨਕ ਨਾਮਿ ਅਰਾਧਿਐ ਬਿਘਨੁ ਨ ਲਾਗੈ ਕੋਇ ॥੨॥",
-      "roman": "Nānak nām ārādhiāi bighan na lāgai koi",
+      "roman": "Nānak nām ārādhiāi bighan na lāgē koi",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਜੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰੀਏ ਤਾਂ (ਜੀਵਨ-ਰਾਹ ਵਿਚ) ਕੋਈ ਰੁਕਾਵਟ ਨਹੀਂ ਪੈਂਦੀ ॥੨॥",
       "translation_ru": "О Нанак! Если помнить Имя, никакое препятствие не возникает."
     },
@@ -347,7 +347,7 @@
     {
       "verse_id": 23212,
       "gurmukhi": "ਭਗਤਾ ਕਾ ਬੋਲਿਆ ਪਰਵਾਣੁ ਹੈ ਦਰਗਹ ਪਵੈ ਥਾਇ ॥",
-      "roman": "bhagtā kā boliā parvān hai dargah pavai thāi",
+      "roman": "bhagtā kā boliā parvān hē dargah pavē thāi",
       "sahib_singh_pa": "ਬੰਦਗੀ ਕਰਨ ਵਾਲੇ ਮਨੁੱਖਾਂ ਦਾ ਬੋਲਿਆ ਬਚਨ ਮੰਨਣ-ਯੋਗ ਹੁੰਦਾ ਹੈ, ਪ੍ਰਭੂ ਦੀ ਦਰਗਾਹ ਵਿਚ (ਭੀ) ਕਬੂਲ ਹੁੰਦਾ ਹੈ।",
       "translation_ru": "Слова преданных принимаются и находят место в Божественном дворе."
     },

@@ -32,7 +32,7 @@
     {
       "verse_id": 31780,
       "gurmukhi": "ਜੋ ਤਿਸੁ ਭਾਵੈ ਸੋ ਪਰਵਾਣੁ ॥",
-      "roman": "jo tis bhāvai so parvān",
+      "roman": "jo tis bhāvē so parvān",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜੋ ਕੁਝ ਪਰਮਾਤਮਾ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ, ਜੀਵਾਂ ਨੂੰ ਉਹੀ ਕੁਝ ਸਿਰ-ਮੱਥੇ ਮੰਨਣਾ ਪੈਂਦਾ ਹੈ (ਉਹੀ ਕੁਝ ਜੀਵ ਕਰਦੇ ਹਨ)",
       "translation_ru": "О брат! Что угодно Богу, то и приходится принимать как истину,"
     },
@@ -53,21 +53,21 @@
     {
       "verse_id": 31783,
       "gurmukhi": "ਦੀਨ ਕੈ ਤੋਸੈ ਦੁਨੀ ਨ ਜਾਏ ॥੨॥",
-      "roman": "dīn kai tosai dunī na jāe",
+      "roman": "dīn kē tosē dunī na jāe",
       "sahib_singh_pa": "ਨਾਮ-ਧਨ ਇਕੱਠਾ ਕਰਦਿਆਂ ਉਸ ਦੀ ਇਹ ਦੁਨੀਆ ਭੀ ਨਹੀਂ ਵਿਗੜਦੀ ॥੨॥",
       "translation_ru": "собирая богатство имени, не портит и свою мирскую жизнь."
     },
     {
       "verse_id": 31784,
       "gurmukhi": "ਸਰਬ ਨਿਰੰਤਰਿ ਏਕੋ ਜਾਗੈ ॥",
-      "roman": "sarab nirantar eko jāgai",
+      "roman": "sarab nirantar eko jāgē",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! (ਜੀਵਾਂ ਦੇ ਕੀਹ ਵੱਸ?) ਹਰੇਕ ਜੀਵ ਉਸੇ ਉਸੇ ਕੰਮ ਵਿਚ ਲੱਗਦਾ ਹੈ,",
       "translation_ru": "О брат! Каждый занят тем делом,"
     },
     {
       "verse_id": 31785,
       "gurmukhi": "ਜਿਤੁ ਜਿਤੁ ਲਾਇਆ ਤਿਤੁ ਤਿਤੁ ਕੋ ਲਾਗੈ ॥੩॥",
-      "roman": "jit jit lāiā tit tit ko lāgai",
+      "roman": "jit jit lāiā tit tit ko lāgē",
       "sahib_singh_pa": "ਜਿਸ ਜਿਸ ਕੰਮ ਵਿਚ ਪਰਮਾਤਮਾ ਲਾਂਦਾ ਹੈ ॥੩॥",
       "translation_ru": "в которое Бог его направляет."
     },
@@ -81,7 +81,7 @@
     {
       "verse_id": 31787,
       "gurmukhi": "ਨਾਨਕੁ ਬੋਲੈ ਬੋਲਾਇਆ ਤੇਰਾ ॥੪॥੨੩॥੨੯॥",
-      "roman": "nānak bolai bolāiā terā",
+      "roman": "nānak bolē bolāiā terā",
       "sahib_singh_pa": "(ਤੇਰਾ ਦਾਸ) ਨਾਨਕ ਤੇਰਾ ਪ੍ਰੇਰਿਆ ਹੋਇਆ ਹੀ ਤੇਰਾ ਨਾਮ ਉਚਾਰ ਸਕਦਾ ਹੈ ॥੪॥੨੩॥੨੯॥",
       "translation_ru": "Нанак говорит только по твоему вдохновению и произносит твоё имя."
     },
@@ -123,7 +123,7 @@
     {
       "verse_id": 31793,
       "gurmukhi": "ਪ੍ਰਭੁ ਅਬਿਨਾਸੀ ਰੈਣਿ ਦਿਨੁ ਗਾਉ ॥",
-      "roman": "prabh abināsī raiṇ din gāo",
+      "roman": "prabh abināsī rēṇ din gāo",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਰਾਤ ਦਿਨ ਅਬਿਨਾਸ਼ੀ ਪ੍ਰਭੂ (ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੇ ਗੀਤ) ਗਾਇਆ ਕਰ।",
       "translation_ru": "О брат! Днём и ночью воспевай бессмертного Господа."
     },
@@ -137,14 +137,14 @@
     {
       "verse_id": 31795,
       "gurmukhi": "ਸੋ ਸਾਹੁ ਸੇਵਿ ਜਿਤੁ ਤੋਟਿ ਨ ਆਵੈ ॥",
-      "roman": "so sāh sev jit toṭ na āvai",
+      "roman": "so sāh sev jit toṭ na āvē",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਨਾਮ-ਧਨ ਦੇ ਮਾਲਕ ਉਸ ਪ੍ਰਭੂ ਦੀ ਸੇਵਾ-ਭਗਤੀ ਕਰਿਆ ਕਰ, (ਉਸ ਪਾਸੋਂ ਐਸਾ ਧਨ ਮਿਲਦਾ ਹੈ) ਜਿਸ ਧਨ ਵਿਚ ਕਦੇ ਘਾਟਾ ਨਹੀਂ ਪੈਂਦਾ।",
       "translation_ru": "О брат! Служи тому Господу, чьё богатство никогда не убывает."
     },
     {
       "verse_id": 31796,
       "gurmukhi": "ਖਾਤ ਖਰਚਤ ਸੁਖਿ ਅਨਦਿ ਵਿਹਾਵੈ ॥੩॥",
-      "roman": "khāt kharchat sukh anad vihāvai",
+      "roman": "khāt kharchat sukh anad vihāvē",
       "sahib_singh_pa": "ਉਸ ਧਨ ਨੂੰ ਆਪ ਵਰਤਦਿਆਂ ਹੋਰਨਾਂ ਵਿਚ ਵਰਤਾਂਦਿਆਂ ਜ਼ਿੰਦਗੀ ਸੁਖ ਆਨੰਦ ਨਾਲ ਬੀਤਦੀ ਹੈ ॥੩॥",
       "translation_ru": "Пользуясь этим богатством и делясь им, жизнь проходит в радости."
     },
@@ -242,7 +242,7 @@
     {
       "verse_id": 31810,
       "gurmukhi": "ਨਾਨਕੁ ਮਾਗੈ ਦਾਨੁ ਪਿਆਰੇ ॥੪॥੨੫॥੩੧॥",
-      "roman": "nānak māgai dān piāre",
+      "roman": "nānak māgē dān piāre",
       "sahib_singh_pa": "ਹੇ ਪਿਆਰੇ! (ਤੇਰੇ ਦਰ ਤੋਂ ਤੇਰਾ ਦਾਸ) ਨਾਨਕ (ਇਹੋ) ਦਾਨ ਮੰਗਦਾ ਹੈ ॥੪॥੨੫॥੩੧॥",
       "translation_ru": "О любимый! Нанак просит только этот дар."
     },
@@ -256,7 +256,7 @@
     {
       "verse_id": 31812,
       "gurmukhi": "ਸੇ ਸੰਜੋਗ ਕਰਹੁ ਮੇਰੇ ਪਿਆਰੇ ॥",
-      "roman": "se sanjog karahu mere piāre",
+      "roman": "se sanjog karah mere piāre",
       "sahib_singh_pa": "ਹੇ ਮੇਰੇ ਪਿਆਰੇ! (ਮੇਰੇ ਵਾਸਤੇ) ਉਹ ਢੋ ਢੁਕਾ,",
       "translation_ru": "О мой любимый! Устрой такие обстоятельства,"
     },
@@ -347,7 +347,7 @@
     {
       "verse_id": 31825,
       "gurmukhi": "ਮਾਧਵੇ ਭਜੁ ਦਿਨ ਨਿਤ ਰੈਣੀ ॥",
-      "roman": "mādhve bhaj din nit raiṇī",
+      "roman": "mādhve bhaj din nit rēṇī",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਦਿਨ ਰਾਤ ਸਦਾ ਮਾਇਆ ਦੇ ਪਤੀ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ।",
       "translation_ru": "О брат! Днём и ночью स्मरणяй Господа."
     },

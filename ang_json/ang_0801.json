@@ -25,7 +25,7 @@
     {
       "verse_id": 34017,
       "gurmukhi": "ਹਰਿ ਕੀਆ ਹੈ ਸਫਲ ਜਨਮੁ ਹਮਾਰਾ ॥",
-      "roman": "har kīā hai safal janam hamārā",
+      "roman": "har kīā hē safal janam hamārā",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਨੇ ਮੇਰੀ ਜ਼ਿੰਦਗੀ ਕਾਮਯਾਬ ਬਣਾ ਦਿੱਤੀ ਹੈ,",
       "translation_ru": "Бог сделал мою жизнь успешной."
     },
@@ -39,7 +39,7 @@
     {
       "verse_id": 34019,
       "gurmukhi": "ਗੁਰੁ ਭੇਟਿਆ ਹੈ ਮੁਕਤਿ ਦਾਤਾ ॥",
-      "roman": "gur bheṭiā hai mukat dātā",
+      "roman": "gur bheṭiā hē mukt dātā",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ!) ਵਿਕਾਰਾਂ ਤੋਂ ਖ਼ਲਾਸੀ ਦਿਵਾਣ ਵਾਲਾ ਗੁਰੂ ਮੈਨੂੰ ਮਿਲ ਪਿਆ,",
       "translation_ru": "Я встретил Гуру — дарующего освобождение."
     },
@@ -130,14 +130,14 @@
     {
       "verse_id": 34032,
       "gurmukhi": "ਕਰਿ ਕਿਰਪਾ ਮੋਹਿ ਮਾਰਗਿ ਪਾਵਹੁ ॥",
-      "roman": "kar kirpā mohi mārag pāvahu",
+      "roman": "kar kirpā moh mārag pāvah",
       "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ!) ਕਿਰਪਾ ਕਰ ਕੇ ਮੈਨੂੰ (ਜੀਵਨ ਦੇ ਸਹੀ) ਰਸਤੇ ਉਤੇ ਤੋਰ,",
       "translation_ru": "Смилуйся и поставь меня на правильный путь жизни,"
     },
     {
       "verse_id": 34033,
       "gurmukhi": "ਸਾਧਸੰਗਤਿ ਕੈ ਅੰਚਲਿ ਲਾਵਹੁ ॥੧॥",
-      "roman": "sādhsangat kai añchal lāvahu",
+      "roman": "sādhsangat kē añchal lāvah",
       "sahib_singh_pa": "ਮੈਨੂੰ ਸਾਧ ਸੰਗਤਿ ਦੇ ਲੜ ਨਾਲ ਲਾ ਦੇ ॥੧॥",
       "translation_ru": "присоедини меня к покрову Садхсангата."
     },
@@ -193,35 +193,35 @@
     {
       "verse_id": 34041,
       "gurmukhi": "ਹਉਮੈ ਪਚੇ ਦੀਪਕ ਦੇਖਿ ਪਤੰਗਾ ॥",
-      "roman": "haumai pachē dīpak dēkh pataṅgā",
+      "roman": "haumē pachē dīpak dēkh pataṅgā",
       "sahib_singh_pa": "ਜੀਵ ਹਉਮੈ (ਦੀ ਅੱਗ) ਵਿਚ ਸੜੇ ਪਏ ਹਨ ਜਿਵੇਂ ਦੀਵਿਆਂ ਨੂੰ ਵੇਖ ਕੇ ਪਤੰਗੇ ਸੜਦੇ ਹਨ।",
       "translation_ru": "живые существа сгорают в эго, как мотыльки в огне лампы."
     },
     {
       "verse_id": 34042,
       "gurmukhi": "ਸਗਲ ਸੀਗਾਰ ਕਰੇ ਨਹੀ ਪਾਵੈ ॥",
-      "roman": "sagal sīgār karē nahī pāvai",
+      "roman": "sagal sīgār karē nahī pāvē",
       "sahib_singh_pa": "(ਮਾਇਆ-ਵੇੜ੍ਹਿਆ ਜੀਵ ਭਾਵੇਂ ਬਾਹਰਲੇ ਭੇਖ ਆਦਿਕ ਦੇ) ਸਾਰੇ ਸਿੰਗਾਰ ਕਰਦਾ ਰਹੇ, (ਫਿਰ ਭੀ ਉਹ) ਪਰਮਾਤਮਾ ਨੂੰ ਮਿਲ ਨਹੀਂ ਸਕਦਾ।",
       "translation_ru": "Даже совершая все украшения и внешние обряды, не достигают Бога,"
     },
     {
       "verse_id": 34043,
       "gurmukhi": "ਜਾ ਹੋਇ ਕ੍ਰਿਪਾਲੁ ਤਾ ਗੁਰੂ ਮਿਲਾਵੈ ॥੩॥",
-      "roman": "jā hoi kripāl tā gurū milāvai",
+      "roman": "jā hoi kripāl tā gurū milāvē",
       "sahib_singh_pa": "ਜਦੋਂ ਪਰਮਾਤਮਾ ਆਪ (ਜੀਵ ਉੱਤੇ) ਦਇਆਵਾਨ ਹੁੰਦਾ ਹੈ, ਤਾਂ (ਉਸ ਨੂੰ) ਗੁਰੂ ਮਿਲਾਂਦਾ ਹੈ ॥੩॥",
       "translation_ru": "когда же Бог становится милостивым — Он приводит к Гуру."
     },
     {
       "verse_id": 34044,
       "gurmukhi": "ਹਉ ਫਿਰਉ ਉਦਾਸੀ ਮੈ ਇਕੁ ਰਤਨੁ ਦਸਾਇਆ ॥",
-      "roman": "hau phirau udāsī mai ik ratan dasāiā",
+      "roman": "hau phirau udāsī mē ik ratan dasāiā",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ!) ਮੈਂ (ਭੀ) ਨਾਮ-ਰਤਨ ਨੂੰ ਭਾਲਦੀ ਭਾਲਦੀ (ਬਾਹਰ) ਉਦਾਸ ਫਿਰ ਰਹੀ ਸਾਂ,",
       "translation_ru": "Я скитался в печали, ища драгоценность Имени,"
     },
     {
       "verse_id": 34045,
       "gurmukhi": "ਨਿਰਮੋਲਕੁ ਹੀਰਾ ਮਿਲੈ ਨ ਉਪਾਇਆ ॥",
-      "roman": "nirmolak hīrā milai na upāiā",
+      "roman": "nirmolak hīrā milē na upāiā",
       "sahib_singh_pa": "ਪਰ ਉਹ ਨਾਮ-ਹੀਰਾ ਅਮੋਲਕ ਹੈ ਉਹ (ਬਾਹਰਲੇ ਭੇਖ ਆਦਿਕ) ਉਪਾਵਾਂ ਨਾਲ ਨਹੀਂ ਮਿਲਦਾ।",
       "translation_ru": "но этот бесценный алмаз не достигается внешними средствами."
     },
@@ -291,7 +291,7 @@
     {
       "verse_id": 34055,
       "gurmukhi": "ਬਿਘਨੁ ਨ ਲਾਗੈ ਜਪਿ ਅਲਖ ਅਭੇਵ ॥੧॥",
-      "roman": "bighan na lāgai jap alakh abhev",
+      "roman": "bighan na lāgē jap alakh abhev",
       "sahib_singh_pa": "ਅਲੱਖ ਅਤੇ ਅਭੇਵ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪ ਕੇ (ਉਸ ਮਨੁੱਖ ਦੀ ਜ਼ਿੰਦਗੀ ਦੇ ਰਸਤੇ ਵਿਚ ਵਿਕਾਰਾਂ ਦੀ ਕੋਈ) ਰੁਕਾਵਟ ਨਹੀਂ ਪੈਂਦੀ ॥੧॥",
       "translation_ru": "Повторяя Имя непостижимого Бога, препятствия не возникают."
     },
@@ -361,7 +361,7 @@
     {
       "verse_id": 34065,
       "gurmukhi": "ਜਿਥੈ ਕਿਥੈ ਦੀਸਹਿ ਨਾਲੇ ॥",
-      "roman": "jithai kithai dīsahi nālē",
+      "roman": "jithē kithē dīsah nālē",
       "sahib_singh_pa": "ਸੇਵਕਾਂ ਨੂੰ ਪ੍ਰਭੂ ਜੀ ਹਰ ਥਾਂ ਆਪਣੇ ਅੰਗ-ਸੰਗ ਦਿੱਸਦੇ ਹਨ।",
       "translation_ru": "Он видим рядом повсюду."
     },

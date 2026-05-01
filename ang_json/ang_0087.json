@@ -4,21 +4,21 @@
     {
       "verse_id": 3470,
       "gurmukhi": "ਗੁਰਮਤੀ ਜਮੁ ਜੋਹਿ ਨ ਸਾਕੈ ਸਾਚੈ ਨਾਮਿ ਸਮਾਇਆ ॥",
-      "roman": "Gurmatī jam joh na sākai sāchai nām samāiā",
+      "roman": "Gurmatī jam joh na sākē sāchē nām samāiā",
       "sahib_singh_pa": "ਗੁਰੂ ਦੀ ਮਤਿ ਤੇ ਤੁਰਨ ਦੇ ਕਾਰਨ ਜਮ ਉਹਨਾਂ ਨੂੰ ਘੂਰ ਨਹੀਂ ਸਕਦਾ, (ਕਿਉਂਕਿ) ਸੱਚੇ ਨਾਮ ਵਿਚ ਉਹਨਾਂ ਦੀ ਬਿਰਤੀ ਜੁੜੀ ਹੁੰਦੀ ਹੈ।",
       "translation_ru": "Следуя наставлению Гуру, они не подвластны Яме, ибо погружены в Истинное Имя."
     },
     {
       "verse_id": 3471,
       "gurmukhi": "ਸਭੁ ਆਪੇ ਆਪਿ ਵਰਤੈ ਕਰਤਾ ਜੋ ਭਾਵੈ ਸੋ ਨਾਇ ਲਾਇਆ ॥",
-      "roman": "Sabh āpe āp vartai kartā jo bhāvai so nāi lāiā",
+      "roman": "Sabh āpe āp vartē kartā jo bhāvē so nāi lāiā",
       "sahib_singh_pa": "(ਪਰ) ਇਹ ਸਭ ਪ੍ਰਭੂ ਦਾ ਆਪਣਾ ਕੌਤਕ ਹੈ, ਜਿਸ ਤੇ ਪ੍ਰਸੰਨ ਹੁੰਦਾ ਹੈ ਉਸ ਨੂੰ ਨਾਮ ਵਿਚ ਜੋੜਦਾ ਹੈ।",
       "translation_ru": "Всё происходит по воле Творца: кого Он благоволит, того соединяет с Именем."
     },
     {
       "verse_id": 3472,
       "gurmukhi": "ਜਨ ਨਾਨਕੁ ਨਾਮੁ ਲਏ ਤਾ ਜੀਵੈ ਬਿਨੁ ਨਾਵੈ ਖਿਨੁ ਮਰਿ ਜਾਇਆ ॥੨॥",
-      "roman": "Jan Nānak nām lae tā jīvai bin nāvai khin mar jāiā",
+      "roman": "Jan Nānak nām lae tā jīvē bin nāvē khin mar jāiā",
       "sahib_singh_pa": "(ਇਹ) ਦਾਸ ਨਾਨਕ (ਭੀ) 'ਨਾਮ' ਦੇ ਆਸਰੇ ਹੈ, ਇਕ ਪਲਕ ਭਰ ਭੀ 'ਨਾਮ' ਤੋਂ ਸੱਖਣਾ ਰਹੇ ਤਾਂ ਮਰਨ ਲਗਦਾ ਹੈ ॥੨॥",
       "translation_ru": "Слуга Нанак живёт благодаря Имени; без Имени он умирает даже на миг."
     },
@@ -39,14 +39,14 @@
     {
       "verse_id": 3475,
       "gurmukhi": "ਜਿਥੈ ਓਹੁ ਜਾਇ ਤਿਥੈ ਓਹੁ ਸੁਰਖਰੂ ਉਸ ਕੈ ਮੁਹਿ ਡਿਠੈ ਸਭ ਪਾਪੀ ਤਰਿਆ ॥",
-      "roman": "Jithai oh jāi tithai oh surkharū us kai muh diṭhai sabh pāpī tariā",
+      "roman": "Jithē oh jāi tithē oh surkharū us kē muh diṭhē sabh pāpī tariā",
       "sahib_singh_pa": "ਜਿਥੇ ਉਹ ਜਾਂਦਾ ਹੈ, ਉਥੇ ਹੀ ਉਸ ਦਾ ਮੱਥਾ ਖਿੜਿਆ ਰਹਿੰਦਾ ਹੈ, ਉਸ ਦਾ ਮੂੰਹ ਵੇਖ ਕੇ (ਭਾਵ, ਉਸ ਦਾ ਦਰਸ਼ਨ ਕਰ ਕੇ) ਸਭ ਪਾਪੀ ਤਰ ਜਾਂਦੇ ਹਨ,",
       "translation_ru": "Где бы он ни был, он сияет, и, увидев его, грешники освобождаются."
     },
     {
       "verse_id": 3476,
       "gurmukhi": "ਓਸੁ ਅੰਤਰਿ ਨਾਮੁ ਨਿਧਾਨੁ ਹੈ ਨਾਮੋ ਪਰਵਰਿਆ ॥",
-      "roman": "Os antar nām nidhān hai nāmo parvariā",
+      "roman": "Os antar nām nidhān hē nāmo parvariā",
       "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਉਸ ਦੇ ਹਿਰਦੇ ਵਿਚ ਨਾਮ ਦਾ ਖ਼ਜ਼ਾਨਾ ਹੈ, ਤੇ ਨਾਮ ਹੀ ਉਸ ਦਾ ਪਰਵਾਰ ਹੈ (ਭਾਵ, ਨਾਮ ਹੀ ਉਸ ਦੇ ਸਿਰ ਦੇ ਦੁਆਲੇ ਰੌਸ਼ਨੀ ਦਾ ਚੱਕ੍ਰ ਹੈ)।",
       "translation_ru": "В его сердце сокровище Имени, и Имя — его окружение."
     },
@@ -74,7 +74,7 @@
     {
       "verse_id": 3480,
       "gurmukhi": "ਆਤਮਾ ਦੇਉ ਪੂਜੀਐ ਗੁਰ ਕੈ ਸਹਜਿ ਸੁਭਾਇ ॥",
-      "roman": "Ātmā deu pūjīai gur kai sahaj subhāi ॥",
+      "roman": "Ātmā deu pūjīē gur kē sahaj subhāi ॥",
       "sahib_singh_pa": "ਗੁਰੂ ਦੀ ਮਤਿ ਲੈ ਕੇ ਤੇ ਗੁਰੂ ਦੇ ਸੁਭਾਉ ਵਿਚ (ਆਪਣਾ ਸੁਭਾਉ ਲੀਨ ਕਰ ਕੇ) ਜੀਵ-ਆਤਮਾ ਦਾ ਪ੍ਰਕਾਸ਼ ਕਰਨ ਵਾਲੇ (ਹਰੀ) ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਨੀ ਚਾਹੀਦੀ ਹੈ।",
       "translation_ru": "Приняв наставление Гуру и растворив свой характер в его природе, следует восхвалять Того (Хари), кто раскрывает свет души."
     },
@@ -88,35 +88,35 @@
     {
       "verse_id": 3482,
       "gurmukhi": "ਆਤਮਾ ਅਡੋਲੁ ਨ ਡੋਲਈ ਗੁਰ ਕੈ ਭਾਇ ਸੁਭਾਇ ॥",
-      "roman": "Ātmā aḍol na ḍolai gur kai bhāi subhāi ॥",
+      "roman": "Ātmā aḍol na ḍolē gur kē bhāi subhāi ॥",
       "sahib_singh_pa": "ਕਿਉਂਕਿ ਸਤਿਗੁਰੂ ਦੇ ਪਿਆਰ ਵਿਚ ਤੇ ਸੁਭਾਉ ਵਿਚ (ਵਰਤਿਆਂ) ਜੀਵਾਤਮਾ (ਮਾਇਆਂ ਵਲੋਂ) ਅਹਿੱਲ ਹੋ ਕੇ ਡੋਲਣੋਂ ਹਟ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "Ибо, пребывая в любви и природе Сатгуру, душа становится устойчивой и перестаёт колебаться под влиянием майи."
     },
     {
       "verse_id": 3483,
       "gurmukhi": "ਗੁਰ ਵਿਣੁ ਸਹਜੁ ਨ ਆਵਈ ਲੋਭੁ ਮੈਲੁ ਨ ਵਿਚਹੁ ਜਾਇ ॥",
-      "roman": "Gur viṇ sahaj na āvai lobh mail na vichahu jāi ॥",
+      "roman": "Gur viṇ sahaj na āvē lobh mēl na vichah jāi ॥",
       "sahib_singh_pa": "ਸਤਿਗੁਰੂ ਤੋਂ ਬਿਨਾ ਅਡੋਲ ਅਵਸਥਾ ਨਹੀਂ ਆਉਂਦੀ, ਤੇ ਨਾਹ ਹੀ ਮਨ ਵਿਚੋਂ ਲੋਭ-ਮੈਲ ਦੂਰ ਹੁੰਦੀ ਹੈ।",
       "translation_ru": "Без Сатгуру не приходит устойчивое состояние, и нечистота жадности не уходит из ума."
     },
     {
       "verse_id": 3484,
       "gurmukhi": "ਖਿਨੁ ਪਲੁ ਹਰਿ ਨਾਮੁ ਮਨਿ ਵਸੈ ਸਭ ਅਠਸਠਿ ਤੀਰਥ ਨਾਇ ॥",
-      "roman": "Khin pal har nām man vasai sabh aṭhasaṭh tīrath nāi ॥",
+      "roman": "Khin pal har nām man vasē sabh aṭhasaṭh tīrath nāi ॥",
       "sahib_singh_pa": "ਜੇ ਇਕ ਪਲਕ ਭਰ ਭੀ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਮਨ ਵਿਚ ਵੱਸ ਜਾਏ (ਭਾਵ, ਜੇ ਜੀਵ ਇਕ ਮਨ ਇਕ ਪਲਕ ਭਰ ਭੀ ਨਾਮ ਜਪ ਸਕੇ) ਤਾਂ, ਮਾਨੋ, ਅਠਾਹਠ ਤੀਰਥਾਂ ਦਾ ਇਸ਼ਨਾਨ ਕਰ ਲੈਂਦਾ ਹੈ,",
       "translation_ru": "Если хотя бы на мгновение Имя Бога поселится в уме, то это словно омовение во всех шестьдесят восьми святых местах."
     },
     {
       "verse_id": 3485,
       "gurmukhi": "ਸਚੇ ਮੈਲੁ ਨ ਲਗਈ ਮਲੁ ਲਾਗੈ ਦੂਜੈ ਭਾਇ ॥",
-      "roman": "Sache mail na lagai mal lāgai dūjai bhāi ॥",
+      "roman": "Sache mēl na lagē mal lāgē dūjē bhāi ॥",
       "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਸੱਚੇ ਵਿਚ ਜੁੜੇ ਹੋਏ ਨੂੰ ਮੈਲ ਨਹੀਂ ਲਗਦੀ, ਮੈਲ਼ (ਸਦਾ) ਮਾਇਆ ਦੇ ਪਿਆਰ ਵਿਚ ਲੱਗਦੀ ਹੈ,",
       "translation_ru": "Ибо к соединённому с Истиной нечистота не пристаёт; она возникает лишь из любви к майе."
     },
     {
       "verse_id": 3486,
       "gurmukhi": "ਧੋਤੀ ਮੂਲਿ ਨ ਉਤਰੈ ਜੇ ਅਠਸਠਿ ਤੀਰਥ ਨਾਇ ॥",
-      "roman": "Dhotī mūl na utarai je aṭhasaṭh tīrath nāi ॥",
+      "roman": "Dhotī mūl na utarē je aṭhasaṭh tīrath nāi ॥",
       "sahib_singh_pa": "ਤੇ ਉਹ ਮੈਲ ਕਦੇ ਭੀ ਧੋਤਿਆਂ ਨਹੀਂ ਉਤਰਦੀ, ਭਾਵੇਂ ਅਠਾਹਠ ਤੀਰਥਾਂ ਦੇ ਇਸ਼ਨਾਨ ਪਏ ਕਰੀਏ।",
       "translation_ru": "И эта нечистота не смывается омовениями, даже если купаться во всех шестьдесят восьми святых местах."
     },
@@ -130,7 +130,7 @@
     {
       "verse_id": 3488,
       "gurmukhi": "ਨਾਨਕ ਮੈਲਾ ਊਜਲੁ ਤਾ ਥੀਐ ਜਾ ਸਤਿਗੁਰ ਮਾਹਿ ਸਮਾਇ ॥੧॥",
-      "roman": "Nānak mailā ūjal tā thīai jā satigur māhi samāi ॥1॥",
+      "roman": "Nānak mēlā ūjal tā thīē jā satigur māhi samāi ॥1॥",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਮੈਲਾ (ਮਨ) ਤਦੋਂ ਹੀ ਪਵਿਤ੍ਰ ਹੁੰਦਾ ਹੈ, ਜੇ (ਜੀਵ) ਸਤਿਗੁਰੂ ਵਿਚ ਲੀਨ ਹੋ ਜਾਵੇ (ਭਾਵ, ਆਪਾ-ਭਾਵ ਮਿਟਾ ਦੇਵੇ) ॥੧॥",
       "translation_ru": "О Нанак! Загрязнённый ум становится чистым лишь тогда, когда существо сливается с Сатгуру (устранив своё эго)."
     },
@@ -144,21 +144,21 @@
     {
       "verse_id": 3490,
       "gurmukhi": "ਮਨਮੁਖੁ ਲੋਕੁ ਸਮਝਾਈਐ ਕਦਹੁ ਸਮਝਾਇਆ ਜਾਇ ॥",
-      "roman": "Manmukh lok samjāīai kadahu samjhāiā jāi ॥",
+      "roman": "Manmukh lok samjāīai kadah samjhāiā jāi ॥",
       "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ ਸਤਿਗੁਰੂ ਵਲੋਂ ਮੁਖ ਮੋੜੀ ਬੈਠਾ ਹੈ, ਉਹ ਸਮਝਾਇਆਂ ਭੀ ਕਦੇ ਨਹੀਂ ਸਮਝਦਾ।",
       "translation_ru": "Человек, отвернувшийся от Сатгуру, не понимает, даже если его постоянно наставляют."
     },
     {
       "verse_id": 3491,
       "gurmukhi": "ਮਨਮੁਖੁ ਰਲਾਇਆ ਨਾ ਰਲੈ ਪਇਐ ਕਿਰਤਿ ਫਿਰਾਇ ॥",
-      "roman": "Manmukh ralāiā nā ralai paiai kirat phirāi ॥",
+      "roman": "Manmukh ralāiā nā ralē pēē kirat phirāi ॥",
       "sahib_singh_pa": "ਜੇ ਉਸ ਨੂੰ (ਗੁਰਮੁਖਾਂ ਦੇ ਵਿਚ) ਰਲਾ ਭੀ ਦੇਵੀਏ, ਤਾਂ ਭੀ (ਸੁਭਾਵ ਕਰਕੇ) ਉਹਨਾਂ ਨਾਲ ਨਹੀਂ ਰਲਦਾ ਤੇ (ਪਿਛਲੇ ਕੀਤੇ) ਸਿਰ ਪਏ ਕਰਮਾਂ ਅਨੁਸਾਰ ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ।",
       "translation_ru": "Даже если его соединить с гурмукхами, он не сливается с ними и блуждает по своим прошлым кармам."
     },
     {
       "verse_id": 3492,
       "gurmukhi": "ਲਿਵ ਧਾਤੁ ਦੁਇ ਰਾਹ ਹੈ ਹੁਕਮੀ ਕਾਰ ਕਮਾਇ ॥",
-      "roman": "Liv dhāt dui rāh hai hukmī kār kamāi ॥",
+      "roman": "Liv dhāt dui rāh hē hukmī kār kamāi ॥",
       "sahib_singh_pa": "(ਉਸ ਵਿਚਾਰੇ ਉਤੇ ਭੀ ਕੀਹ ਰੋਸ? (ਸੰਸਾਰ ਵਿਚ) ਰਸਤੇ ਹੀ ਦੋ ਹਨ (ਹਰੀ ਨਾਲ) ਪਿਆਰ ਤੇ (ਮਾਇਆ ਨਾਲ) ਪਿਆਰ; (ਤੇ ਮਨਮੁਖ) ਪ੍ਰਭੂ ਦੇ ਹੁਕਮ ਵਿਚ (ਹੀ) (ਮਾਇਆ ਵਾਲੀ) ਕਾਰ ਪਿਆ ਕਰਦਾ ਹੈ।",
       "translation_ru": "В мире есть лишь два пути: любовь к Богу и любовь к майе; и манмух действует по воле Бога в пути майи."
     },
@@ -179,7 +179,7 @@
     {
       "verse_id": 3495,
       "gurmukhi": "ਮਨੁ ਜੋ ਇਛੇ ਸੋ ਲਹੈ ਸਚੈ ਸਬਦਿ ਸੁਭਾਇ ॥",
-      "roman": "Man jo ichhe so lahai sache sabad subhāi ॥",
+      "roman": "Man jo ichhe so lahē sache sabad subhāi ॥",
       "sahib_singh_pa": "(ਇਸ ਤਰ੍ਹਾਂ ਸਤਿਗੁਰੂ ਦੇ) ਸੁਭਾਉ ਵਿਚ (ਆਪਾ ਲੀਨ ਕਰਨ ਵਾਲਾ) ਮਨ ਜੋ ਇੱਛਾ ਕਰਦਾ ਹੈ ਸੋ ਲੈਂਦਾ ਹੈ।",
       "translation_ru": "Такой ум, слившийся с природой Гуру, получает всё, что желает."
     },
@@ -193,7 +193,7 @@
     {
       "verse_id": 3497,
       "gurmukhi": "ਵਿਣੁ ਮਨੈ ਜਿ ਹੋਰੀ ਨਾਲਿ ਲੁਝਣਾ ਜਾਸੀ ਜਨਮੁ ਗਵਾਇ ॥",
-      "roman": "Viṇ manai ji horī nāl lujhṇā jāsī janam gavāi ॥",
+      "roman": "Viṇ manē j horī nāl lujhṇā jāsī janam gavāi ॥",
       "sahib_singh_pa": "ਮਨ ਨੂੰ ਛੱਡ ਕੇ ਜੋ ਜੀਵ (ਸਰੀਰ ਆਦਿਕ) ਹੋਰ ਨਾਲ ਝਗੜਾ ਪਾਂਦਾ ਹੈ, ਉਹ ਜਨਮ ਬਿਰਥਾ ਗਵਾਂਦਾ ਹੈ।",
       "translation_ru": "Кто, оставив ум, борется с внешним, тот напрасно теряет жизнь."
     },
@@ -207,14 +207,14 @@
     {
       "verse_id": 3499,
       "gurmukhi": "ਗੁਰ ਪਰਸਾਦੀ ਮਨੁ ਜਿਣੈ ਹਰਿ ਸੇਤੀ ਲਿਵ ਲਾਇ ॥",
-      "roman": "Gur parsādī man jiṇai har setī liv lāi ॥",
+      "roman": "Gur parsādī man jiṇē har setī liv lāi ॥",
       "sahib_singh_pa": "ਗੁਰਮੁਖ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਨ ਨੂੰ ਜਿੱਤਦਾ ਹੈ, ਪ੍ਰਭੂ ਨਾਲ ਪਿਆਰ ਜੋੜਦਾ ਹੈ-",
       "translation_ru": "Гурмукх по милости Гуру побеждает ум и соединяет любовь с Богом."
     },
     {
       "verse_id": 3500,
       "gurmukhi": "ਨਾਨਕ ਗੁਰਮੁਖਿ ਸਚੁ ਕਮਾਵੈ ਮਨਮੁਖਿ ਆਵੈ ਜਾਇ ॥੨॥",
-      "roman": "Nānak gurmukh sach kamāvai manmukh āvai jāi ॥2॥",
+      "roman": "Nānak gurmukh sach kamāvē manmukh āvē jāi ॥2॥",
       "sahib_singh_pa": "ਤੇ ਹੇ ਨਾਨਕ! ਗੁਰਮੁਖ ਸਦਾ-ਥਿਰ ਹਰਿ-ਨਾਮ ਸਿਮਰਨ ਦੀ ਕਮਾਈ ਕਰਦਾ ਹੈ। (ਪਰ) ਮਨਮੁਖ ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ ॥੨॥",
       "translation_ru": "О Нанак! Гурмукх практикует Истину, а манмух блуждает."
     },
@@ -228,14 +228,14 @@
     {
       "verse_id": 3502,
       "gurmukhi": "ਹਰਿ ਕੇ ਸੰਤ ਸੁਣਹੁ ਜਨ ਭਾਈ ਹਰਿ ਸਤਿਗੁਰ ਕੀ ਇਕ ਸਾਖੀ ॥",
-      "roman": "Har ke sant suṇahu jan bhāī har satigur kī ik sākhī ॥",
+      "roman": "Har ke sant suṇah jan bhāī har satigur kī ik sākhī ॥",
       "sahib_singh_pa": "ਹੇ ਹਰੀ ਦੇ ਸੰਤ ਜਨ ਪਿਆਰਿਓ! ਆਪਣੇ ਸਤਿਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਸੁਣੋ (ਭਾਵ, ਸਿੱਖਿਆ ਤੇ ਤੁਰੋ)।",
       "translation_ru": "О святые Бога, возлюбленные! Слушайте наставление Сатгуру (и следуйте ему)."
     },
     {
       "verse_id": 3503,
       "gurmukhi": "ਜਿਸੁ ਧੁਰਿ ਭਾਗੁ ਹੋਵੈ ਮੁਖਿ ਮਸਤਕਿ ਤਿਨਿ ਜਨਿ ਲੈ ਹਿਰਦੈ ਰਾਖੀ ॥",
-      "roman": "Jis dhur bhāg hovai mukh mastak tin jan lai hirdai rākhī ॥",
+      "roman": "Jis dhur bhāg hovē mukh mastak tin jan lē hirdē rākhī ॥",
       "sahib_singh_pa": "ਇਸ ਸਿੱਖਿਆ ਨੂੰ ਮਨੁੱਖ ਨੇ ਹਿਰਦੇ ਵਿਚ ਪਰੋ ਰੱਖਿਆ ਹੈ, ਜਿਸ ਦੇ ਮੱਥੇ ਉਤੇ ਧੁਰੋਂ ਹੀ ਭਾਗ ਹੋਵੇ।",
       "translation_ru": "Тот, кому с самого начала предназначена удача, принимает это наставление в сердце."
     },
@@ -249,7 +249,7 @@
     {
       "verse_id": 3505,
       "gurmukhi": "ਤਹ ਭਇਆ ਪ੍ਰਗਾਸੁ ਮਿਟਿਆ ਅੰਧਿਆਰਾ ਜਿਉ ਸੂਰਜ ਰੈਣਿ ਕਿਰਾਖੀ ॥",
-      "roman": "Tah bhaeā pragās miṭiā andhiārā jiu sūraj raiṇ kirākhī ॥",
+      "roman": "Tah bhaeā pragās miṭiā andhiārā jiu sūraj rēṇ kirākhī ॥",
       "sahib_singh_pa": "(ਸਤਿਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਨੂੰ ਜੇਹੜਾ ਹਿਰਦਾ ਇਕ ਵਾਰੀ ਧਾਰਨ ਕਰਦਾ ਹੈ) ਉਸ ਵਿਚ (ਆਤਮਕ ਜੀਵਨ ਦਾ) ਚਾਨਣ ਹੋ ਜਾਂਦਾ ਹੈ ਤੇ (ਮਾਇਆ ਦਾ) ਹਨੇਰਾ ਇਉਂ ਦੂਰ ਹੁੰਦਾ ਹੈ ਜਿਵੇਂ ਸੂਰਜ ਰਾਤ (ਦੇ ਹਨੇਰੇ) ਨੂੰ ਖਿੱਚ ਲੈਂਦਾ ਹੈ।",
       "translation_ru": "В таком сердце возникает свет, и тьма исчезает, как ночь исчезает перед солнцем."
     },

@@ -11,7 +11,7 @@
     {
       "verse_id": 20868,
       "gurmukhi": "ਕਰਮਿ ਮਿਲੈ ਤਾ ਪਾਈਐ ਹੋਰ ਹਿਕਮਤਿ ਹੁਕਮੁ ਖੁਆਰੁ ॥੨॥",
-      "roman": "karam milai tā pāīai hor hikmat hukam khuār",
+      "roman": "karam milē tā pāīē hor hikmat hukam khuār",
       "sahib_singh_pa": "(ਹਾਂ) ਰੱਬ ਦੀ ਮੇਹਰ ਨਾਲ ਮਿਲ ਜਾਏ ਤਾਂ ਮਿਲ ਪੈਂਦਾ ਹੈ, (ਮੇਹਰ ਤੋਂ ਬਿਨਾ ਕੋਈ) ਹੋਰ ਚਾਰਾਜੋਈ ਤੇ ਹੁਕਮ (ਵਰਤਣਾ) ਵਿਅਰਥ ਹੈ ॥੨॥",
       "translation_ru": "Оно достигается по милости Бога; без неё любые усилия и приказы напрасны."
     },
@@ -39,14 +39,14 @@
     {
       "verse_id": 20872,
       "gurmukhi": "ਸਤਿਗੁਰ ਜੇਵਡੁ ਦਾਤਾ ਕੋ ਨਹੀ ਸਭਿ ਸੁਣਿਅਹੁ ਲੋਕ ਸਬਾਇਆ ॥",
-      "roman": "satgur jevaḍ dātā ko nahī sabh suṇīahu lok sabāiā",
+      "roman": "satgur jevaḍ dātā ko nahī sabh suṇīah lok sabāiā",
       "sahib_singh_pa": "ਹੇ ਸਾਰੇ ਲੋਕੋ! ਧਿਆਨ ਦੇ ਕੇ ਸੁਣੋ, ਸਤਿਗੁਰੂ ਦੇ ਬਰਾਬਰ ਦਾ ਹੋਰ ਕੋਈ ਦਾਤਾ ਨਹੀਂ ਹੈ।",
       "translation_ru": "О люди! Слушайте внимательно: нет дарителя равного Сатгуру."
     },
     {
       "verse_id": 20873,
       "gurmukhi": "ਸਤਿਗੁਰਿ ਮਿਲਿਐ ਸਚੁ ਪਾਇਆ ਜਿਨੑੀ ਵਿਚਹੁ ਆਪੁ ਗਵਾਇਆ ॥",
-      "roman": "satgur miliā sach pāiā jinhī vichahu āp gavāiā",
+      "roman": "satgur miliā sach pāiā jinhī vichah āp gavāiā",
       "sahib_singh_pa": "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ ਆਪਣੇ ਅੰਦਰੋਂ ਆਪਾ-ਭਾਵ ਗਵਾ ਦਿੱਤਾ ਹੈ, ਉਹਨਾਂ ਨੂੰ ਉਸ ਸਤਿਗੁਰੂ ਦੇ ਮਿਲਣ ਨਾਲ ਸੱਚੇ ਪ੍ਰਭੂ ਦੀ ਪ੍ਰਾਪਤੀ ਹੋ ਗਈ,",
       "translation_ru": "Те, кто устранили своё эго, встретив Сатгуру, обрели Истинного Бога."
     },
@@ -74,7 +74,7 @@
     {
       "verse_id": 20877,
       "gurmukhi": "ਗਹਣੇ ਪਉਣੁ ਪਾਣੀ ਬੈਸੰਤਰੁ ਚੰਦੁ ਸੂਰਜੁ ਅਵਤਾਰ ॥",
-      "roman": "gahaṇe pauṇ pāṇī baisantar chand sūraj avtār",
+      "roman": "gahaṇe pauṇ pāṇī bēsantar chand sūraj avtār",
       "sahib_singh_pa": "ਪਉਣ ਪਾਣੀ ਤੇ ਅੱਗ, (ਮਾਨੋ) ਗਹਿਣੇ ਹਨ (ਜੋ ਉਹਨਾਂ ਗੋਪੀਆਂ ਨੇ ਪਾਏ ਹੋਏ ਹਨ)। (ਰਾਸਾਂ ਵਿਚ ਰਾਸਧਾਰੀਏ ਅਵਤਾਰਾਂ ਦਾ ਸਾਂਗ ਬਣਾ ਬਣਾ ਕੇ ਗਾਉਂਦੇ ਹਨ, ਕੁਦਰਤ ਦੀ ਰਾਸ ਵਿਚ) ਚੰਦ੍ਰਮਾ ਤੇ ਸੂਰਜ, (ਮਾਨੋ) ਦੋ ਅਵਤਾਰ ਹਨ।",
       "translation_ru": "Воздух, вода и огонь словно украшения; луна и солнце — словно два аватара."
     },
@@ -88,7 +88,7 @@
     {
       "verse_id": 20879,
       "gurmukhi": "ਨਾਨਕ ਮੁਸੈ ਗਿਆਨ ਵਿਹੂਣੀ ਖਾਇ ਗਇਆ ਜਮਕਾਲੁ ॥੧॥",
-      "roman": "nānak musai giān vihūṇī khāi gae jamkāl",
+      "roman": "nānak musē giān vihūṇī khāi gae jamkāl",
       "sahib_singh_pa": "(ਮਾਇਆ ਦੀ ਇਸ ਰਾਸ ਵਿਚ) ਗਿਆਨ ਤੋਂ ਸੱਖਣੀ ਦੁਨੀਆ ਠੱਗੀ ਜਾ ਰਹੀ ਹੈ, ਤੇ ਇਸ ਨੂੰ ਜਮਕਾਲ ਖਾਈ ਜਾ ਰਿਹਾ ਹੈ ॥੧॥",
       "translation_ru": "Нанак: лишённый знания мир обманывается, и его пожирает смерть."
     },
@@ -109,21 +109,21 @@
     {
       "verse_id": 20882,
       "gurmukhi": "ਪੈਰ ਹਲਾਇਨਿ ਫੇਰਨਿੑ ਸਿਰ ॥",
-      "roman": "pair halāin pheran sir",
+      "roman": "pēr halāin pheran sir",
       "sahib_singh_pa": "(ਨਾਚ ਵੇਲੇ ਉਹ ਗੁਰੂ) ਪੈਰਾਂ ਨੂੰ ਹਿਲਾਉਂਦੇ ਹਨ ਅਤੇ ਸਿਰ ਫੇਰਦੇ ਹਨ।",
       "translation_ru": "Они двигают ногами и вращают головой."
     },
     {
       "verse_id": 20883,
       "gurmukhi": "ਉਡਿ ਉਡਿ ਰਾਵਾ ਝਾਟੈ ਪਾਇ ॥",
-      "roman": "uḍ uḍ rāwā jhāṭai pāe",
+      "roman": "uḍ uḍ rāwā jhāṭē pāe",
       "sahib_singh_pa": "(ਉਹਨਾਂ ਦੇ ਪੈਰਾਂ ਨਾਲ) ਉੱਡ ਉੱਡ ਕੇ ਘੱਟਾ ਉਹਨਾਂ ਦੇ ਸਿਰ ਵਿਚ ਪੈਂਦਾ ਹੈ।",
       "translation_ru": "Пыль поднимается и падает на их головы."
     },
     {
       "verse_id": 20884,
       "gurmukhi": "ਵੇਖੈ ਲੋਕੁ ਹਸੈ ਘਰਿ ਜਾਇ ॥",
-      "roman": "vekhai lok hasai ghar jāe",
+      "roman": "vekhē lok hasē ghar jāe",
       "sahib_singh_pa": "(ਰਾਸ ਵੇਖਣ ਆਏ ਹੋਏ) ਲੋਕ (ਉਹਨਾਂ ਨੂੰ ਨੱਚਦਿਆਂ) ਵੇਖਦੇ ਹਨ ਅਤੇ ਹੱਸਦੇ ਹਨ (ਅੱਖਰੀਂ-ਲੋਕ ਵੇਖਦਾ ਹੈ ਅਤੇ ਹੱਸਦਾ ਹੈ)।",
       "translation_ru": "Люди смотрят и смеются, уходя домой."
     },
@@ -179,7 +179,7 @@
     {
       "verse_id": 20892,
       "gurmukhi": "ਭਿੰਨੀ ਰੈਣਿ ਜਿਨੑਾ ਮਨਿ ਚਾਉ ॥",
-      "roman": "bhinī raiṇ jinā man chāu",
+      "roman": "bhinī rēṇ jinā man chāu",
       "sahib_singh_pa": "ਉਹਨਾਂ ਸੇਵਕਾਂ ਦੀ ਜ਼ਿੰਦਗੀ-ਰੂਪ ਰਾਤ ਸੁਆਦਲੀ ਗੁਜ਼ਰਦੀ ਹੈ-",
       "translation_ru": "Их жизнь проходит в сладости и радости."
     },
@@ -221,7 +221,7 @@
     {
       "verse_id": 20898,
       "gurmukhi": "ਪੰਖੀ ਭਉਦੀਆ ਲੈਨਿ ਨ ਸਾਹ ॥",
-      "roman": "pankhī bhaudīā lain na sāh",
+      "roman": "pankhī bhaudīā lēn na sāh",
       "sahib_singh_pa": "ਪੰਛੀ, ਭੰਭੀਰੀਆਂ ਜੋ ਇਕ-ਸਾਹੇ ਉਡਦੀਆਂ ਰਹਿੰਦੀਆਂ ਹਨ-ਇਹ ਸਭ ਭੌਂਦੇ ਰਹਿੰਦੇ ਹਨ।",
       "translation_ru": "птицы и насекомые, непрерывно движущиеся — всё вращается."
     },
@@ -249,7 +249,7 @@
     {
       "verse_id": 20902,
       "gurmukhi": "ਪਇਐ ਕਿਰਤਿ ਨਚੈ ਸਭੁ ਕੋਇ ॥",
-      "roman": "pae kirat nachai sabh koi",
+      "roman": "pae kirat nachē sabh koi",
       "sahib_singh_pa": "ਹਰੇਕ ਜੀਵ ਆਪਣੇ ਕੀਤੇ ਕਰਮਾਂ ਦੇ ਸੰਸਕਾਰਾਂ ਅਨੁਸਾਰ ਨੱਚ ਰਿਹਾ ਹੈ।",
       "translation_ru": "Каждый танцует по своим кармическим поступкам."
     },
@@ -270,7 +270,7 @@
     {
       "verse_id": 20905,
       "gurmukhi": "ਨਚਣੁ ਕੁਦਣੁ ਮਨ ਕਾ ਚਾਉ ॥",
-      "roman": "nachṇu kudṇu man kā chāu",
+      "roman": "nachṇ kudṇ man kā chāu",
       "sahib_singh_pa": "ਨੱਚਣਾ ਕੁੱਦਣਾ (ਕੇਵਲ) ਮਨ ਦਾ ਸ਼ੌਕ ਹੈ,",
       "translation_ru": "Танцы и прыжки — лишь желание ума."
     },
@@ -291,35 +291,35 @@
     {
       "verse_id": 20908,
       "gurmukhi": "ਨਾਉ ਤੇਰਾ ਨਿਰੰਕਾਰੁ ਹੈ ਨਾਇ ਲਇਐ ਨਰਕਿ ਨ ਜਾਈਐ ॥",
-      "roman": "nāu terā nirankār hai nāe laeai narak na jāīai",
+      "roman": "nāu terā nirankār hē nāe laeē narak na jāīē",
       "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ!) ਤੇਰਾ ਨਾਮ ਨਿਰੰਕਾਰ ਹੈ, ਜੇ ਤੇਰਾ ਨਾਮ ਸਿਮਰੀਏ ਤਾਂ ਨਰਕ ਵਿਚ ਨਹੀਂ ਪਈਦਾ।",
       "translation_ru": "Твоё имя — Нирнкар; вспоминая его, не попадают в ад."
     },
     {
       "verse_id": 20909,
       "gurmukhi": "ਜੀਉ ਪਿੰਡੁ ਸਭੁ ਤਿਸ ਦਾ ਦੇ ਖਾਜੈ ਆਖਿ ਗਵਾਈਐ ॥",
-      "roman": "jīu piṇḍ sabh tis dā de khājai ākh gavāīai",
+      "roman": "jīu piṇḍ sabh tis dā de khājē ākh gavāīē",
       "sahib_singh_pa": "ਇਹ ਜਿੰਦ ਅਤੇ ਸਰੀਰ ਸਭ ਕੁਝ ਪ੍ਰਭੂ ਦਾ ਹੀ ਹੈ, ਉਹੀ (ਜੀਵਾਂ ਨੂੰ) ਖਾਣ ਵਾਸਤੇ (ਭੋਜਨ) ਦੇਂਦਾ ਹੈ, (ਕਿਤਨਾ ਕੁ ਦੇਂਦਾ ਹੈ) ਇਹ ਅੰਦਾਜ਼ਾ ਲਾਉਣਾ ਵਿਅਰਥ ਜਤਨ ਹੈ।",
       "translation_ru": "Жизнь и тело принадлежат Ему; Он даёт пищу — невозможно это полностью описать."
     },
     {
       "verse_id": 20910,
       "gurmukhi": "ਜੇ ਲੋੜਹਿ ਚੰਗਾ ਆਪਣਾ ਕਰਿ ਪੁੰਨਹੁ ਨੀਚੁ ਸਦਾਈਐ ॥",
-      "roman": "je loṛeh changā āpṇā kar puṇnahū nīch sadāīai",
+      "roman": "je loṛeh changā āpṇā kar puṇnah nīch sadāīai",
       "sahib_singh_pa": "ਹੇ ਜੀਵ! ਜੇ ਤੂੰ ਆਪਣੀ ਭਲਿਆਈ ਲੋੜਦਾ ਹੈਂ, ਤਾਂ ਚੰਗਾ ਕੰਮ ਕਰ ਕੇ ਭੀ ਆਪਣੇ ਆਪ ਨੂੰ ਨੀਵਾਂ ਅਖਵਾ।",
       "translation_ru": "Если хочешь блага — делай добро и оставайся смиренным."
     },
     {
       "verse_id": 20911,
       "gurmukhi": "ਜੇ ਜਰਵਾਣਾ ਪਰਹਰੈ ਜਰੁ ਵੇਸ ਕਰੇਦੀ ਆਈਐ ॥",
-      "roman": "je jarvāṇā parharai jar ves karedī āīai",
+      "roman": "je jarvāṇā parharē jar ves karedī āīē",
       "sahib_singh_pa": "ਜੇ (ਕੋਈ ਜੀਵ) ਬੁਢੇਪੇ ਨੂੰ ਪਰੇ ਹਟਾਉਣਾ ਚਾਹੇ (ਭਾਵ, ਬੁਢੇਪੇ ਤੋਂ ਬਚਣਾ ਚਾਹੇ, ਤਾਂ ਇਹ ਜਤਨ ਫ਼ਜ਼ੂਲ ਹੈ) ਬੁਢੇਪਾ ਵੇਸ ਧਾਰ ਕੇ ਆ ਹੀ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "Если кто хочет избежать старости — это напрасно, она всё равно приходит."
     },
     {
       "verse_id": 20912,
       "gurmukhi": "ਕੋ ਰਹੈ ਨ ਭਰੀਐ ਪਾਈਐ ॥੫॥",
-      "roman": "ko rahai na bharīai pāīai",
+      "roman": "ko rahē na bharīē pāīē",
       "sahib_singh_pa": "ਜਦੋਂ ਸੁਆਸ ਪੂਰੇ ਹੋ ਜਾਂਦੇ ਹਨ, ਤਾਂ ਕੋਈ ਜੀਵ ਇੱਥੇ ਰਹਿ ਨਹੀਂ ਸਕਦਾ ॥੫॥",
       "translation_ru": "Когда дыхание исчерпывается, никто не остаётся."
     },
@@ -340,7 +340,7 @@
     {
       "verse_id": 20915,
       "gurmukhi": "ਬੰਦੇ ਸੇ ਜਿ ਪਵਹਿ ਵਿਚਿ ਬੰਦੀ ਵੇਖਣ ਕਉ ਦੀਦਾਰੁ ॥",
-      "roman": "bande se ji paveh vich bandī vekhaṇ kau dīdār",
+      "roman": "bande se j paveh vich bandī vekhaṇ kau dīdār",
       "sahib_singh_pa": "(ਕਿ) ਰੱਬ ਦਾ ਦੀਦਾਰ ਦੇਖਣ ਲਈ ਜੋ ਮਨੁੱਖ (ਸ਼ਰਹ ਦੀ) ਬੰਦਸ਼ ਵਿਚ ਪੈਂਦੇ ਹਨ, ਉਹੀ ਰੱਬ ਦੇ ਬੰਦੇ ਹਨ।",
       "translation_ru": "Они считают, что те, кто подчиняются закону, — слуги Бога."
     },

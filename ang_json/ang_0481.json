@@ -109,7 +109,7 @@
     {
       "verse_id": 21630,
       "gurmukhi": "ਅੰਮ੍ਰਿਤੁ ਲੈ ਲੈ ਨੀਮੁ ਸਿੰਚਾਈ ॥",
-      "roman": "amrit lai lai nīm sinchāī",
+      "roman": "amrit lē lē nīm sinchāī",
       "sahib_singh_pa": "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਜੇ ਅੰਮ੍ਰਿਤ (ਭਾਵ, ਮਿਠਾਸ ਵਾਲਾ ਜਲ) ਲੈ ਕੇ ਨਿੰਮ ਦੇ ਬੂਟੇ ਨੂੰ ਮੁੜ ਮੁੜ ਸਿੰਜਦੇ ਰਹੀਏ,",
       "translation_ru": "Если снова и снова поливать дерево нима сладкой водой,"
     },
@@ -151,7 +151,7 @@
     {
       "verse_id": 21636,
       "gurmukhi": "ਦੇਖਤ ਨੈਨ ਚਲਿਓ ਜਗੁ ਜਾਈ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "dekhat nain chaliō jag jāī",
+      "roman": "dekhat nēn chaliō jag jāī",
       "sahib_singh_pa": "ਮੇਰੇ ਅੱਖੀਂ ਵੇਂਹਦਿਆਂ ਸਾਰਾ ਜਗਤ ਤੁਰਿਆ ਜਾ ਰਿਹਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "на моих глазах весь мир уходит."
     },
@@ -179,7 +179,7 @@
     {
       "verse_id": 21640,
       "gurmukhi": "ਬੈਸੰਤਰੁ ਜਾ ਕੇ ਕਪਰੇ ਧੋਈ ॥੩॥",
-      "roman": "baisantar jā ke kapre dhoī",
+      "roman": "bēsantar jā ke kapre dhoī",
       "sahib_singh_pa": "ਜਿਸ ਦੇ ਕੱਪੜੇ ਬੈਸੰਤਰ ਦੇਵਤਾ ਧੋਂਦਾ ਸੀ (ਭਾਵ, ਜਿਸ ਰਾਵਣ ਦੇ ਪੁੱਤਰ ਪੋਤਰਿਆਂ ਦੀ ਰੋਟੀ ਤਿਆਰ ਕਰਨ ਲਈ ਦਿਨੇ ਰਾਤ ਰਸੋਈ ਤਪਦੀ ਰਹਿੰਦੀ ਸੀ ਤੇ ਉਹਨਾਂ ਦੇ ਕੱਪੜੇ ਸਾਫ਼ ਕਰਨ ਲਈ ਹਰ ਵੇਲੇ ਅੱਗ ਦੀਆਂ ਭੱਠੀਆਂ ਚੜ੍ਹੀਆਂ ਰਹਿੰਦੀਆਂ ਸਨ) ॥੩॥",
       "translation_ru": "а огонь стирал его одежду."
     },
@@ -193,14 +193,14 @@
     {
       "verse_id": 21642,
       "gurmukhi": "ਅਸਥਿਰੁ ਰਹੈ ਨ ਕਤਹੂੰ ਜਾਈ ॥੪॥",
-      "roman": "asthir rahai na katahū jāī",
+      "roman": "asthir rahē na katahū jāī",
       "sahib_singh_pa": "ਉਹ ਸਦਾ ਅਡੋਲ ਰਹਿੰਦਾ ਹੈ, ਇਸ ਜਗਤ-ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ) ਭਟਕਦਾ ਨਹੀਂ ਹੈ ॥੪॥",
       "translation_ru": "остаётся устойчивым и не блуждает."
     },
     {
       "verse_id": 21643,
       "gurmukhi": "ਕਹਤ ਕਬੀਰ ਸੁਨਹੁ ਰੇ ਲੋਈ ॥",
-      "roman": "kahat Kabīr sunahu re loī",
+      "roman": "kahat Kabīr sunah re loī",
       "sahib_singh_pa": "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਸੁਣੋ, ਹੇ ਜਗਤ ਦੇ ਲੋਕੋ!",
       "translation_ru": "Говорит Кабир: слушайте, люди мира!"
     },
@@ -221,7 +221,7 @@
     {
       "verse_id": 21646,
       "gurmukhi": "ਪਹਿਲਾ ਪੂਤੁ ਪਿਛੈਰੀ ਮਾਈ ॥",
-      "roman": "pahilā pūt pichhairī māī",
+      "roman": "pahilā pūt pichhērī māī",
       "sahib_singh_pa": "ਇਹ ਜੀਵਾਤਮਾ ਤਾਂ ਪਵਿੱਤਰ (ਪਰਮਾਤਮਾ ਦੀ ਅੰਸ) ਸੀ, ਪਰ ਇਸ ਉੱਤੇ ਮਾਇਆ ਦਾ ਪ੍ਰਭਾਵ ਪੈ ਗਿਆ,",
       "translation_ru": "Душа была чистой, но попала под влияние майи,"
     },
@@ -235,7 +235,7 @@
     {
       "verse_id": 21648,
       "gurmukhi": "ਏਕੁ ਅਚੰਭਉ ਸੁਨਹੁ ਤੁਮੑ ਭਾਈ ॥",
-      "roman": "ek achambhau sunahu tumh bhāī",
+      "roman": "ek achambhau sunah tumh bhāī",
       "sahib_singh_pa": "ਸੁਣੋ ਇਕ ਅਚਰਜ ਖੇਡ (ਜੋ ਜਗਤ ਵਿਚ ਵਰਤ ਰਹੀ ਹੈ।)",
       "translation_ru": "Слушайте удивительное явление,"
     },
@@ -256,49 +256,49 @@
     {
       "verse_id": 21651,
       "gurmukhi": "ਦੇਖਤ ਕੁਤਰਾ ਲੈ ਗਈ ਬਿਲਾਈ ॥੨॥",
-      "roman": "dekhat kutrā lai gaī bilāī",
+      "roman": "dekhat kutrā lē gaī bilāī",
       "sahib_singh_pa": "ਤ੍ਰਿਸ਼ਨਾ-ਬਿੱਲੀ ਇਸ ਦੇ ਸੰਤੋਖ ਨੂੰ ਸਾਡੇ ਵੇਖਦਿਆਂ ਹੀ ਫੜ ਲੈ ਗਈ ਹੈ ॥੨॥",
       "translation_ru": "и жажда унесла её удовлетворённость."
     },
     {
       "verse_id": 21652,
       "gurmukhi": "ਤਲੈ ਰੇ ਬੈਸਾ ਊਪਰਿ ਸੂਲਾ ॥",
-      "roman": "talai re baisā ūpar sūlā",
+      "roman": "talē re bēsā ūpar sūlā",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਇਸ ਜੀਵ ਨੇ ਸੰਸਾਰਕ ਪਸਾਰੇ ਨੂੰ ਆਪਣਾ ਬਣਾ ਲਿਆ ਹੈ ਤੇ ਅਸਲੀ ਮੂਲ-ਪ੍ਰਭੂ ਨੂੰ ਆਪਣੇ ਅੰਦਰੋਂ ਬਾਹਰ ਕੱਢ ਦਿੱਤਾ ਹੈ।",
       "translation_ru": "Человек принял мирское как своё и отверг Бога внутри,"
     },
     {
       "verse_id": 21653,
       "gurmukhi": "ਤਿਸ ਕੈ ਪੇਡਿ ਲਗੇ ਫਲ ਫੂਲਾ ॥੩॥",
-      "roman": "tis kai peṛ lage phal phūlā",
+      "roman": "tis kē peṛ lage phal phūlā",
       "sahib_singh_pa": "ਹੁਣ ਇਹੋ ਜਿਹੇ (ਜੀਵ-ਰੁੱਖ) ਦੇ ਪੇੜ ਨੂੰ ਫੁੱਲ ਫਲ ਭੀ ਅਜਿਹੇ ਹੀ ਵਾਸਨਾ ਦੇ ਹੀ ਲੱਗ ਰਹੇ ਹਨ ॥੩॥",
       "translation_ru": "и теперь его плоды и цветы — такие же желания."
     },
     {
       "verse_id": 21654,
       "gurmukhi": "ਘੋਰੈ ਚਰਿ ਭੈਸ ਚਰਾਵਨ ਜਾਈ ॥",
-      "roman": "ghorai char bhais charāvan jāī",
+      "roman": "ghorē char bhēs charāvan jāī",
       "sahib_singh_pa": "(ਜੀਵਾਤਮਾ ਦੇ ਕਮਜ਼ੋਰ ਪੈਣ ਕਰਕੇ) ਵਾਸ਼ਨਾ-ਭੈਂਸ ਮਨ-ਘੋੜੇ ਉੱਤੇ ਸਵਾਰ ਹੋ ਕੇ ਇਸ ਨੂੰ ਵਿਸ਼ੇ ਭੋਗਣ ਲਈ ਭਜਾਈ ਫਿਰਦੀ ਹੈ।",
       "translation_ru": "Желание, как буйвол, оседлало ум и гонит его к наслаждениям."
     },
     {
       "verse_id": 21655,
       "gurmukhi": "ਬਾਹਰਿ ਬੈਲੁ ਗੋਨਿ ਘਰਿ ਆਈ ॥੪॥",
-      "roman": "bāhar bail gon ghar āī",
+      "roman": "bāhar bēl gon ghar āī",
       "sahib_singh_pa": "(ਹੁਣ ਹਾਲਤ ਇਹ ਬਣ ਗਈ ਹੈ ਕਿ) ਧੀਰਜ-ਰੂਪ ਬਲਦ ਬਾਹਰ ਨਿਕਲ ਗਿਆ ਹੈ (ਭਾਵ, ਧੀਰਜ ਨਹੀਂ ਰਹਿ ਗਈ), ਤੇ ਤ੍ਰਿਸ਼ਨਾ ਦੀ ਛੱਟ ਜੀਵ ਉੱਤੇ ਆ ਪਈ ਹੈ ॥੪॥",
       "translation_ru": "Терпение ушло, а жажда полностью овладела человеком."
     },
     {
       "verse_id": 21656,
       "gurmukhi": "ਕਹਤ ਕਬੀਰ ਜੁ ਇਸ ਪਦ ਬੂਝੈ ॥",
-      "roman": "kahat Kabīr ju is pad būjhai",
+      "roman": "kahat Kabīr ju is pad būjhē",
       "sahib_singh_pa": "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਜੋ ਮਨੁੱਖ ਇਸ (ਵਾਪਰਨ ਵਾਲੀ) ਹਾਲਤ ਨੂੰ ਸਮਝ ਲੈਂਦਾ ਹੈ,",
       "translation_ru": "Говорит Кабир: тот, кто понимает это состояние,"
     },
     {
       "verse_id": 21657,
       "gurmukhi": "ਰਾਮ ਰਮਤ ਤਿਸੁ ਸਭੁ ਕਿਛੁ ਸੂਝੈ ॥੫॥੯॥੨੨॥",
-      "roman": "rām ramat tis sabh kichh sūjhai",
+      "roman": "rām ramat tis sabh kichh sūjhē",
       "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਕਰ ਕੇ ਉਸ ਨੂੰ ਜੀਵਨ ਦੇ ਸਹੀ ਰਸਤੇ ਦੀ ਸਾਰੀ ਸੂਝ ਪੈ ਜਾਂਦੀ ਹੈ (ਤੇ, ਉਹ ਇਸ ਤ੍ਰਿਸ਼ਨਾ-ਜਾਲ ਵਿਚ ਨਹੀਂ ਫਸਦਾ) ॥੫॥੯॥੨੨॥",
       "translation_ru": "постигает всё через память о Боге."
     },
@@ -354,7 +354,7 @@
     {
       "verse_id": 21665,
       "gurmukhi": "ਜਾ ਜਮੁ ਆਇ ਝੋਟ ਪਕਰੈ ਤਬਹਿ ਕਾਹੇ ਰੋਇਆ ॥੨॥",
-      "roman": "jā jam āe jhoṭ pakrai tabah kāhe roiā",
+      "roman": "jā jam āe jhoṭ pakrē tabah kāhe roiā",
       "sahib_singh_pa": "ਜਿਸ ਵੇਲੇ ਜਮ ਸਿਰੋਂ ਆ ਫੜੇਗਾ, ਤਦੋਂ ਰੋਣ ਦਾ ਕੀਹ ਲਾਭ ਹੋਵੇਗਾ? ॥੨॥",
       "translation_ru": "Когда придёт смерть и схватит тебя, что даст тогда плач?"
     }

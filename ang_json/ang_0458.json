@@ -32,14 +32,14 @@
     {
       "verse_id": 20587,
       "gurmukhi": "ਖਿਸੈ ਜੋਬਨੁ ਬਧੈ ਜਰੂਆ ਦਿਨ ਨਿਹਾਰੇ ਸੰਗਿ ਮੀਚੁ ॥",
-      "roman": "khisai joban badhai jarūā din nihāre sang mīch",
+      "roman": "khisē joban badhē jarūā din nihāre sang mīch",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਮੇਰੀ ਜਵਾਨੀ ਢਲ ਰਹੀ ਹੈ, ਬੁਢੇਪਾ ਵਧ ਰਿਹਾ ਹੈ, ਮੌਤ (ਮੇਰੇ) ਨਾਲ (ਮੇਰੀ ਜ਼ਿੰਦਗੀ ਦੇ) ਦਿਨ ਤੱਕ ਰਹੀ ਹੈ।",
       "translation_ru": "Моя молодость уходит, старость растёт, смерть наблюдает за каждым днём."
     },
     {
       "verse_id": 20588,
       "gurmukhi": "ਬਿਨਵੰਤਿ ਨਾਨਕ ਆਸ ਤੇਰੀ ਸਰਣਿ ਸਾਧੂ ਰਾਖੁ ਨੀਚੁ ॥੨॥",
-      "roman": "binvanti nānak ās terī saraṇ sādhū rākhu nīch",
+      "roman": "binvanti nānak ās terī saraṇ sādhū rākh nīch",
       "sahib_singh_pa": "ਤੇਰਾ ਦਾਸ ਨਾਨਕ (ਤੇਰੇ ਦਰ ਤੇ) ਬੇਨਤੀ ਕਰਦਾ ਹੈ, ਮੈਨੂੰ ਤੇਰੀ ਹੀ ਆਸ ਹੈ, ਮੈਨੂੰ ਨੀਚ ਨੂੰ ਗੁਰੂ ਦੀ ਸਰਨ ਰੱਖ ॥੨॥",
       "translation_ru": "Нанак молит: моя надежда только на Тебя, сохрани меня, низкого, в прибежище Гуру."
     },
@@ -60,7 +60,7 @@
     {
       "verse_id": 20591,
       "gurmukhi": "ਭ੍ਰਮਤ ਭਾਰ ਅਗਨਤ ਆਇਓ ਬਹੁ ਪ੍ਰਦੇਸਹ ਧਾਇਓ ॥",
-      "roman": "bhramat bhār aganat āio bahu pradesah dhāio",
+      "roman": "bhramat bhār aganat āio bah pradesah dhāio",
       "sahib_singh_pa": "ਅਨੇਕਾਂ ਪਾਪਾਂ ਦਾ ਭਾਰ ਚੁੱਕ ਕੇ ਮੈਂ ਭਟਕਦਾ ਆ ਰਿਹਾ ਹਾਂ, ਅਨੇਕਾਂ ਪਰਦੇਸਾਂ ਵਿਚ (ਜੂਨਾਂ ਵਿਚ) ਦੌੜ ਚੁਕਿਆ ਹਾਂ (ਦੁੱਖ ਹੀ ਦੁੱਖ ਵੇਖੇ ਹਨ)।",
       "translation_ru": "Я скитался с тяжестью бесчисленных грехов, блуждая по многим мирам."
     },
@@ -81,7 +81,7 @@
     {
       "verse_id": 20594,
       "gurmukhi": "ਸੂਖ ਸਹਜ ਆਨੰਦ ਨਾਨਕ ਕ੍ਰਿਪਾ ਤੇਰੀ ਤਰੈ ਭਉਨ ॥੩॥",
-      "roman": "sūkh sahaj ānand nānak kirpā terī tarai bhaun",
+      "roman": "sūkh sahaj ānand nānak kirpā terī tarē bhaun",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਆਖ-ਹੇ ਪ੍ਰਭੂ!) ਜਿਸ ਮਨੁੱਖ ਉਤੇ ਤੇਰੀ ਕਿਰਪਾ ਹੋ ਜਾਂਦੀ ਹੈ, ਉਸ ਨੂੰ ਆਤਮਕ ਅਡੋਲਤਾ ਤੇ ਸੁਖ ਆਨੰਦ ਪ੍ਰਾਪਤ ਹੋ ਜਾਂਦੇ ਹਨ, ਉਹ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘ ਜਾਂਦਾ ਹੈ ॥੩॥",
       "translation_ru": "По Твоей милости человек обретает покой и радость и переплывает океан мира."
     },
@@ -95,7 +95,7 @@
     {
       "verse_id": 20596,
       "gurmukhi": "ਜੇਨ ਕੇਨ ਪਰਕਾਰੇ ਹਰਿ ਹਰਿ ਜਸੁ ਸੁਨਹੁ ਸ੍ਰਵਨ ॥",
-      "roman": "jen ken parkāre har har jas sunahu sravan",
+      "roman": "jen ken parkāre har har jas sunah sravan",
       "sahib_singh_pa": "(ਸੋ, ਹੇ ਭਾਈ!) ਜਿਸ ਤਰ੍ਹਾਂ ਭੀ ਹੋ ਸਕੇ ਆਪਣੇ ਕੰਨਾਂ ਨਾਲ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਸੁਣਦੇ ਰਿਹਾ ਕਰੋ।",
       "translation_ru": "Слушайте славу Бога всеми возможными способами."
     },
@@ -158,7 +158,7 @@
     {
       "verse_id": 20605,
       "gurmukhi": "ਗਹਿ ਕੰਠਿ ਲਾਇਆ ਗੁਰਿ ਮਿਲਾਇਆ ਜਸੁ ਬਿਮਲ ਸੰਤ ਵਖਾਣਿਆ ॥",
-      "roman": "gahi kanṭh lāiā gur milāiā jas bimal sant vakhāṇiā",
+      "roman": "gah kanṭh lāiā gur milāiā jas bimal sant vakhāṇiā",
       "sahib_singh_pa": "ਗੁਰੂ ਨੇ ਉਹਨਾਂ ਨੂੰ ਭਗਵਾਨ ਦੇ ਚਰਨਾਂ ਵਿਚ ਜੋੜ ਦਿੱਤਾ ਹੈ, (ਭਗਵਾਨ ਨੇ ਉਹਨਾਂ ਦੀ ਬਾਂਹ) ਫੜ ਕੇ ਉਹਨਾਂ ਨੂੰ ਆਪਣੇ ਗਲ ਲਾ ਲਿਆ ਹੈ। ਉਹ ਸੰਤ ਜਨ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ ਉਚਾਰਦੇ ਰਹਿੰਦੇ ਹਨ।",
       "translation_ru": "Гуру соединил их с Богом; Он, взяв их за руку, обнял их. Эти святые постоянно воспевают чистую славу Бога."
     },
@@ -207,7 +207,7 @@
     {
       "verse_id": 20612,
       "gurmukhi": "ਗੋਵਿੰਦ ਗੁਪਾਲ ਦਇਆਲ ਸੰਮ੍ਰਿਥ ਬੋਲਿ ਸਾਧੂ ਹਰਿ ਜੈ ਜਏ ॥",
-      "roman": "govind gupāl dayāl samrith bol sādhū har jai jae",
+      "roman": "govind gupāl dayāl samrith bol sādhū har jē jae",
       "sahib_singh_pa": "ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਗੋਵਿੰਦ ਗੁਪਾਲ ਦਇਆਲ ਸਮਰੱਥ ਪਰਮਾਤਮਾ ਦੀ ਜੈ ਜੈਕਾਰ ਕਰਦਾ ਰਿਹਾ ਕਰ।",
       "translation_ru": "Приняв прибежище у Гуру, постоянно провозглашай славу милосердного и всемогущего Господа."
     },
@@ -228,7 +228,7 @@
     {
       "verse_id": 20615,
       "gurmukhi": "ਘਟ ਘਟ ਵਾਸੀ ਆਪਿ ਵਿਰਲੈ ਕਿਨੈ ਲਹਿਆ ॥",
-      "roman": "ghaṭ ghaṭ vāsī āp viralai kinai lahiā",
+      "roman": "ghaṭ ghaṭ vāsī āp viralē kinē lahiā",
       "sahib_singh_pa": "ਉਹ ਆਪ ਹੀ ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਨਿਵਾਸ ਰੱਖਦਾ ਹੈ, ਪਰ ਕਿਸੇ ਵਿਰਲੇ ਮਨੁੱਖ ਨੇ ਇਹ ਗੱਲ ਸਮਝੀ ਹੈ।",
       "translation_ru": "Он Сам обитает в каждом теле, но лишь редкий человек понимает это."
     },
@@ -263,7 +263,7 @@
     {
       "verse_id": 20620,
       "gurmukhi": "ਦਿਨੁ ਰੈਣਿ ਸੁਹਾਵੜੀ ਆਈ ਸਿਮਰਤ ਨਾਮੁ ਹਰੇ ॥",
-      "roman": "din rain suhāvṛī āī simrat nām hare",
+      "roman": "din rēn suhāvṛī āī simrat nām hare",
       "sahib_singh_pa": "ਮਨੁੱਖ ਲਈ ਉਹ ਦਿਨ ਸੋਹਣਾ ਆਉਂਦਾ ਹੈ ਉਹ ਰਾਤ ਸੋਹਣੀ ਆਉਂਦੀ ਹੈ ਜਦੋਂ ਉਹ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਹੈ।",
       "translation_ru": "Для человека прекрасны и день, и ночь, когда он помнит Имя Бога."
     }

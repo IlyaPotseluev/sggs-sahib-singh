@@ -4,7 +4,7 @@
     {
       "verse_id": 25907,
       "gurmukhi": "ੴ ਸਤਿ ਨਾਮੁ ਕਰਤਾ ਪੁਰਖੁ ਨਿਰਭਉ ਨਿਰਵੈਰੁ ਅਕਾਲ ਮੂਰਤਿ ਅਜੂਨੀ ਸੈਭੰ ਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
-      "roman": "ik oṅkār sat nām kartā purakh nirbhau nirvair akāl mūrat ajūnī saibhaṅ gur prasād",
+      "roman": "ik oṅkār sat nām kartā purakh nirbhau nirvēr akāl mūrat ajūnī sēbhaṅ gur prasād",
       "sahib_singh_pa": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ, ਜਿਸ ਦਾ ਨਾਮ 'ਹੋਂਦ ਵਾਲਾ' ਹੈ ਜੋ ਸ੍ਰਿਸ਼ਟੀ ਦਾ ਰਚਨਹਾਰ ਹੈ, ਜੋ ਸਭ ਵਿਚ ਵਿਆਪਕ ਹੈ, ਭੈ ਤੋਂ ਰਹਿਤ ਹੈ, ਵੈਰ-ਰਹਿਤ ਹੈ, ਜਿਸ ਦਾ ਸਰੂਪ ਕਾਲ ਤੋਂ ਪਰੇ ਹੈ, (ਭਾਵ, ਜਿਸ ਦਾ ਸਰੀਰ ਨਾਸ-ਰਹਿਤ ਹੈ), ਜੋ ਜੂਨਾਂ ਵਿਚ ਨਹੀਂ ਆਉਂਦਾ, ਜਿਸ ਦਾ ਪ੍ਰਕਾਸ਼ ਆਪਣੇ ਆਪ ਤੋਂ ਹੋਇਆ ਹੈ ਅਤੇ ਜੋ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।",
       "translation_ru": "Вечный Творец един, Его имя — существующий; Он создатель, всепроникающий, без страха, без вражды, вне времени, не подвержен разрушению, не рождается, самосияющий и постигается по милости Сатгуру."
     },
@@ -25,21 +25,21 @@
     {
       "verse_id": 25910,
       "gurmukhi": "ਪੁਛਹੁ ਜਾਇ ਸਿਆਣਿਆ ਆਗੈ ਮਿਲਣੁ ਕਿਨਾਹ ॥",
-      "roman": "puchhahu jāe siāṇiā āgai milaṇ kināh",
+      "roman": "puchhah jāe siāṇiā āgē milaṇ kināh",
       "sahib_singh_pa": "ਜਾ ਕੇ ਸਿਆਣੇ ਜੀਵਾਂ (ਗੁਰਮੁਖਾਂ) ਪਾਸੋਂ ਪਤਾ ਲਵੋ ਕਿ ਅਗੇ ਜਾ ਕੇ ਪਰਮਾਤਮਾ ਦੇ ਚਰਨਾਂ ਦਾ ਮਿਲਾਪ ਕਿਨ੍ਹਾਂ ਨੂੰ ਹੁੰਦਾ ਹੈ।",
       "translation_ru": "Спроси у мудрых, кому впереди дано соединение с Господом."
     },
     {
       "verse_id": 25911,
       "gurmukhi": "ਜਿਨ ਮੇਰਾ ਸਾਹਿਬੁ ਵੀਸਰੈ ਵਡੜੀ ਵੇਦਨ ਤਿਨਾਹ ॥੧॥",
-      "roman": "jin merā sāhib vīsarai vaḍṛī vedan tināh",
+      "roman": "jin merā sāhib vīsarē vaḍṛī vedan tināh",
       "sahib_singh_pa": "ਜਿਨ੍ਹਾਂ ਨੂੰ ਪਿਆਰਾ ਮਾਲਕ-ਪ੍ਰਭੂ ਭੁੱਲ ਜਾਂਦਾ ਹੈ ਉਹਨਾਂ ਨੂੰ ਬੜਾ ਆਤਮਕ ਕਲੇਸ਼ ਹੁੰਦਾ ਹੈ ॥੧॥",
       "translation_ru": "Те, кто забывают Господа, испытывают великое духовное страдание."
     },
     {
       "verse_id": 25912,
       "gurmukhi": "ਭੀ ਸਾਲਾਹਿਹੁ ਸਾਚਾ ਸੋਇ ॥",
-      "roman": "bhī sālāhihu sāchā soi",
+      "roman": "bhī sālāhih sāchā soi",
       "sahib_singh_pa": "ਮੁੜ ਮੁੜ ਉਸ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦੇ ਰਹੋ।",
       "translation_ru": "Снова и снова восхваляйте Истинного."
     },
@@ -53,7 +53,7 @@
     {
       "verse_id": 25914,
       "gurmukhi": "ਵਡਾ ਕਰਿ ਸਾਲਾਹਣਾ ਹੈ ਭੀ ਹੋਸੀ ਸੋਇ ॥",
-      "roman": "vaḍā kar sālāhaṇā hai bhī hosī soi",
+      "roman": "vaḍā kar sālāhaṇā hē bhī hosī soi",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਨੂੰ ਵੱਡਾ ਆਖ ਕੇ ਉਸ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰੋ, ਉਹ ਹੀ ਮੌਜੂਦ ਹੈ ਤੇ ਰਹੇਗਾ।",
       "translation_ru": "Прославляйте Его как великого — Он есть и будет."
     },
@@ -67,7 +67,7 @@
     {
       "verse_id": 25916,
       "gurmukhi": "ਜੋ ਤਿਸੁ ਭਾਵੈ ਸੋ ਥੀਐ ਰੰਨ ਕਿ ਰੁੰਨੈ ਹੋਇ ॥੨॥",
-      "roman": "jo tis bhāvai so thīai rann ki runnai hoi",
+      "roman": "jo tis bhāvē so thīē rann ki runnē hoi",
       "sahib_singh_pa": "ਜੋ ਕੁਝ ਪ੍ਰਭੂ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ ਉਹੀ ਹੁੰਦਾ ਹੈ, ਰੰਨਾਂ ਵਾਂਗ ਰੋਣ ਤੋਂ ਕੀ ਹੋ ਸਕਦਾ? ॥੨॥",
       "translation_ru": "Происходит только то, что угодно Ему; что даст плач?"
     },
@@ -109,7 +109,7 @@
     {
       "verse_id": 25922,
       "gurmukhi": "ਅਗੈ ਗਏ ਨ ਮੰਨੀਅਨਿ ਮਾਰਿ ਕਢਹੁ ਵੇਪੀਰ ॥੪॥੧॥",
-      "roman": "agai gae na mannīan māri kaḍhahu vepīr",
+      "roman": "agē gae na mannīan māri kaḍhah vepīr",
       "sahib_singh_pa": "(ਇਥੋਂ) ਸਾਡੇ ਨਾਲ ਗਏ ਹੋਏ ਪਾਪ-ਵਿਕਾਰ (ਅਗਾਂਹ) ਆਦਰ ਨਹੀਂ ਪਾਂਦੇ। ਇਹਨਾਂ ਬੇ-ਮੁਰਸ਼ਿਦਾਂ ਨੂੰ (ਹੁਣੇ ਹੀ) ਮਾਰ ਕੇ ਆਪਣੇ ਅੰਦਰੋਂ ਕੱਢ ਦਿਉ ॥੪॥੧॥",
       "translation_ru": "Пороки не принимаются впереди — изгнай их сейчас."
     },
@@ -151,7 +151,7 @@
     {
       "verse_id": 25928,
       "gurmukhi": "ਇਨਿ ਮਾਇਆ ਜਗੁ ਮੋਹਿਆ ਵਿਰਲਾ ਬੂਝੈ ਕੋਇ ॥ ਰਹਾਉ ॥",
-      "roman": "in māiā jag mohiā virlā būjhai koi",
+      "roman": "in māiā jag mohiā virlā būjhē koi",
       "sahib_singh_pa": "ਇਸ ਮਾਇਆ ਨੇ ਸਾਰੇ ਜਗਤ ਨੂੰ ਆਪਣੇ ਵੱਸ ਵਿਚ ਕੀਤਾ ਹੋਇਆ ਹੈ। ਕੋਈ ਵਿਰਲਾ ਹੀ ਇਹ ਗਲ ਸਮਝਦਾ ਹੈ ॥ ਰਹਾਉ॥",
       "translation_ru": "Майя пленила мир, редкий понимает это."
     },
@@ -172,28 +172,28 @@
     {
       "verse_id": 25931,
       "gurmukhi": "ਵਣਜਾਰਿਆ ਸਿਉ ਵਣਜੁ ਕਰਿ ਲੈ ਲਾਹਾ ਮਨ ਹਸੁ ॥੨॥",
-      "roman": "vaṇjāriā siu vaṇaj kar lai lāhā man has",
+      "roman": "vaṇjāriā siu vaṇaj kar lē lāhā man has",
       "sahib_singh_pa": "ਇਹ ਨਾਮ-ਵਣਜ ਕਰਨ ਵਾਲੇ ਸਤਸੰਗੀਆਂ ਨਾਲ ਮਿਲ ਕੇ ਤੂੰ ਭੀ ਹਰੀ-ਨਾਮ ਦਾ ਵਣਜ ਕਰ, ਤਾਂ ਇਸ ਵਿਚੋਂ ਖੱਟੀ ਮਿਲੇਗੀ ਮਨ ਦਾ ਖਿੜਾਓ ॥੨॥",
       "translation_ru": "Торгуй с праведными и получи прибыль — радость ума."
     },
     {
       "verse_id": 25932,
       "gurmukhi": "ਸੁਣਿ ਸਾਸਤ ਸਉਦਾਗਰੀ ਸਤੁ ਘੋੜੇ ਲੈ ਚਲੁ ॥",
-      "roman": "suṇ sāstat saudāgarī sat ghore lai chal",
+      "roman": "suṇ sāstat saudāgarī sat ghore lē chal",
       "sahib_singh_pa": "ਧਰਮ-ਪੁਸਤਕਾਂ (ਦਾ ਉਪਦੇਸ਼) ਸੁਣਿਆ ਕਰ, ਇਹ ਹਰੀ-ਨਾਮ ਦੀ ਸੌਦਾਗਰੀ ਹੈ, (ਸੌਦਾਗਰੀ ਦਾ ਮਾਲ ਲੱਦਣ ਵਾਸਤੇ) ਉੱਚੇ ਆਚਰਨ ਨੂੰ ਘੋੜੇ ਬਣਾ ਕੇ ਲੈ ਤੁਰ।",
       "translation_ru": "Слушай писания — это торговля; возьми праведность как коней."
     },
     {
       "verse_id": 25933,
       "gurmukhi": "ਖਰਚੁ ਬੰਨੁ ਚੰਗਿਆਈਆ ਮਤੁ ਮਨ ਜਾਣਹਿ ਕਲੁ ॥",
-      "roman": "kharch bann changiāīā mat man jāṇahi kal",
+      "roman": "kharch bann changiāīā mat man jāṇah kal",
       "sahib_singh_pa": "ਚੰਗੇ ਗੁਣਾਂ ਨੂੰ ਜੀਵਨ-ਸਫ਼ਰ ਦਾ ਖ਼ਰਚ ਬਣਾ। ਹੇ ਮਨ! (ਇਸ ਵਪਾਰ ਦੇ ਉੱਦਮ ਨੂੰ) ਕੱਲ ਤੇ ਨਾਹ ਪਾ।",
       "translation_ru": "Сделай добродетели своим запасом и не откладывай."
     },
     {
       "verse_id": 25934,
       "gurmukhi": "ਨਿਰੰਕਾਰ ਕੈ ਦੇਸਿ ਜਾਹਿ ਤਾ ਸੁਖਿ ਲਹਹਿ ਮਹਲੁ ॥੩॥",
-      "roman": "nirankār kai des jāhi tā sukh lahahi mahal",
+      "roman": "nirankār kē des jāhi tā sukh lahahi mahal",
       "sahib_singh_pa": "ਜੇ ਤੂੰ ਪਰਮਾਤਮਾ ਦੇ ਦੇਸ ਵਿਚ (ਪਰਮਾਤਮਾ ਦੇ ਚਰਨਾਂ ਵਿਚ) ਟਿਕ ਜਾਏਂ, ਤਾਂ ਆਤਮਕ ਸੁਖ ਵਿਚ ਥਾਂ ਲੱਭ ਜਾਏਗਾ ॥੩॥",
       "translation_ru": "Если достигнешь области Бога, обретешь духовное счастье."
     },

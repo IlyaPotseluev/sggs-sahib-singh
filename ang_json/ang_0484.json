@@ -39,7 +39,7 @@
     {
       "verse_id": 21751,
       "gurmukhi": "ਕਹਤੁ ਕਬੀਰ ਸੁਨਹੁ ਮੇਰੀ ਮਾਈ ॥",
-      "roman": "kahat kabīr sunahu merī māī",
+      "roman": "kahat kabīr sunah merī māī",
       "sahib_singh_pa": "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਹੇ ਮੇਰੀ ਮਾਂ! ਸੁਣ,",
       "translation_ru": "Кабир говорит: о моя мать, слушай,"
     },
@@ -60,35 +60,35 @@
     {
       "verse_id": 21754,
       "gurmukhi": "ਰਹੁ ਰਹੁ ਰੀ ਬਹੁਰੀਆ ਘੂੰਘਟੁ ਜਿਨਿ ਕਾਢੈ ॥",
-      "roman": "rahu rahu rī bahurīā ghūṅghaṭ jin kāḍhai",
+      "roman": "rah rah rī bahurīā ghūṅghaṭ jin kāḍhē",
       "sahib_singh_pa": "ਹੇ ਮੇਰੀ ਅੰਞਾਣ ਜਿੰਦੇ! ਹੁਣ ਬੱਸ ਕਰ, ਪ੍ਰਭੂ-ਪਤੀ ਵਲੋਂ ਘੁੰਡ ਕੱਢਣਾ ਛੱਡ ਦੇਹ, (ਜੇ ਸਾਰੀ ਉਮਰ ਪ੍ਰਭੂ ਨਾਲੋਂ ਤੇਰੀ ਵਿੱਥ ਹੀ ਰਹੀ, ਤਾਂ)",
       "translation_ru": "О моя невежественная душа, остановись, перестань скрываться от Бога-Повелителя."
     },
     {
       "verse_id": 21755,
       "gurmukhi": "ਅੰਤ ਕੀ ਬਾਰ ਲਹੈਗੀ ਨ ਆਢੈ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "ant kī bār lahēgī na āḍhai",
+      "roman": "ant kī bār lahēgī na āḍhē",
       "sahib_singh_pa": "ਤੇਰਾ ਸਾਰਾ ਜੀਵਨ ਅਜਾਈਂ ਚਲਿਆ ਜਾਇਗਾ (ਇਸ ਜੀਵਨ ਦਾ ਆਖ਼ਰ ਅੱਧੀ ਦਮੜੀ ਭੀ ਮੁੱਲ ਨਹੀਂ ਪੈਣਾ) ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Иначе вся жизнь пройдёт впустую, и в конце она не будет стоить даже половины гроша."
     },
     {
       "verse_id": 21756,
       "gurmukhi": "ਘੂੰਘਟੁ ਕਾਢਿ ਗਈ ਤੇਰੀ ਆਗੈ ॥",
-      "roman": "ghūṅghaṭ kāḍh gaī terī āgai",
+      "roman": "ghūṅghaṭ kāḍh gaī terī āgē",
       "sahib_singh_pa": "ਤੈਥੋਂ ਪਹਿਲਾਂ (ਇਸ ਜਗਤ ਵਿਚ ਕਈ ਜਿੰਦ-ਵਹੁਟੀਆਂ ਪ੍ਰਭੂ ਵਲੋਂ) ਘੁੰਡ ਕੱਢ ਕੇ ਤੁਰ ਗਈਆਂ,",
       "translation_ru": "До тебя многие души ушли, скрываясь от Бога."
     },
     {
       "verse_id": 21757,
       "gurmukhi": "ਉਨ ਕੀ ਗੈਲਿ ਤੋਹਿ ਜਿਨਿ ਲਾਗੈ ॥੧॥",
-      "roman": "un kī gail tohi jin lāgai",
+      "roman": "un kī gēl tohi jin lāgē",
       "sahib_singh_pa": "(ਵੇਖੀਂ!) ਕਿਤੇ ਉਹਨਾਂ ਵਾਲੀ ਵਾਦੀ ਤੈਨੂੰ ਨਾਹ ਪੈ ਜਾਏ ॥੧॥",
       "translation_ru": "Смотри, чтобы ты не пошла по их пути."
     },
     {
       "verse_id": 21758,
       "gurmukhi": "ਘੂੰਘਟ ਕਾਢੇ ਕੀ ਇਹੈ ਬਡਾਈ ॥",
-      "roman": "ghūṅghaṭ kāḍe kī ihai baḍāī",
+      "roman": "ghūṅghaṭ kāḍe kī ihē baḍāī",
       "sahib_singh_pa": "(ਪ੍ਰਭੂ-ਪਤੀ ਵਲੋਂ) ਘੁੰਡ ਕੱਢਿਆਂ (ਤੇ ਮਾਇਆ ਨਾਲ ਪ੍ਰੀਤ ਜੋੜਿਆਂ, ਇਸ ਜਗਤ ਵਿਚ ਲੋਕਾਂ ਵਲੋਂ)",
       "translation_ru": "Вот вся слава того, кто скрывается от Бога и привязывается к майе,"
     },
@@ -102,28 +102,28 @@
     {
       "verse_id": 21760,
       "gurmukhi": "ਘੂੰਘਟੁ ਤੇਰੋ ਤਉ ਪਰਿ ਸਾਚੈ ॥",
-      "roman": "ghūṅghaṭ tero tau par sāchai",
+      "roman": "ghūṅghaṭ tero tau par sāchē",
       "sahib_singh_pa": "(ਪਰ, ਹੇ ਜਿੰਦੇ! ਇਹ ਤਾਂ ਸੀ ਝੂਠਾ ਘੁੰਡ ਜੋ ਤੂੰ ਪ੍ਰਭੂ-ਪਤੀ ਵਲੋਂ ਕੱਢੀ ਰੱਖਿਆ, ਤੇ ਚਾਰ ਦਿਨ ਜਗਤ ਵਿਚ ਮਾਇਆ ਕਮਾਣ ਦੀ ਸ਼ੁਹਰਤ ਖੱਟੀ),",
       "translation_ru": "Но этот твой покров был ложным, скрывающим от Бога."
     },
     {
       "verse_id": 21761,
       "gurmukhi": "ਹਰਿ ਗੁਨ ਗਾਇ ਕੂਦਹਿ ਅਰੁ ਨਾਚੈ ॥੩॥",
-      "roman": "har guṇ gāi kūdahi aru nāchai",
+      "roman": "har guṇ gāi kūdahi aru nāchē",
       "sahib_singh_pa": "ਤੇਰਾ ਸੱਚਾ ਘੁੰਡ ਤਦੋਂ ਹੀ ਹੋ ਸਕਦਾ ਹੈ ਜੇ (ਮਾਇਆ ਦੇ ਮੋਹ ਵਲੋਂ ਮੂੰਹ ਲੁਕਾ ਕੇ) ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਵੇਂ, ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦਾ ਹੁਲਾਰਾ ਤੇਰੇ ਅੰਦਰ ਉੱਠੇ ॥੩॥",
       "translation_ru": "Истинный покров — когда ты поёшь качества Бога и радуешься в восхвалении Его."
     },
     {
       "verse_id": 21762,
       "gurmukhi": "ਕਹਤ ਕਬੀਰ ਬਹੂ ਤਬ ਜੀਤੈ ॥",
-      "roman": "kahat kabīr bahū tab jītai",
+      "roman": "kahat kabīr bahū tab jītē",
       "sahib_singh_pa": "ਕਬੀਰ ਆਖਦਾ ਹੈ-ਜਿੰਦ-ਵਹੁਟੀ ਤਦੋਂ ਹੀ ਮਨੁੱਖ-ਜਨਮ ਦੀ ਬਾਜ਼ੀ ਜਿੱਤਦੀ ਹੈ,",
       "translation_ru": "Кабир говорит: душа-невестка тогда побеждает в жизни,"
     },
     {
       "verse_id": 21763,
       "gurmukhi": "ਹਰਿ ਗੁਨ ਗਾਵਤ ਜਨਮੁ ਬਿਤੀਤੈ ॥੪॥੧॥੩੪॥",
-      "roman": "har guṇ gāvat janam bitītai",
+      "roman": "har guṇ gāvat janam bitītē",
       "sahib_singh_pa": "ਜੇ ਇਸ ਦੀ ਸਾਰੀ ਉਮਰ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਦਿਆਂ ਗੁਜ਼ਰੇ ॥੪॥੧॥੩੪॥",
       "translation_ru": "если её жизнь проходит в воспевании качеств Бога."
     },
@@ -172,7 +172,7 @@
     {
       "verse_id": 21770,
       "gurmukhi": "ਪਿੰਡੁ ਪਰੈ ਤਉ ਪ੍ਰੀਤਿ ਨ ਤੋਰਉ ॥੨॥",
-      "roman": "piṇḍ parai tau prīt na torau",
+      "roman": "piṇḍ parē tau prīt na torau",
       "sahib_singh_pa": "ਇਹ ਸਰੀਰ ਨਾਸ ਹੋ ਜਾਣ ਤੇ ਭੀ ਮੈਂ ਤੇਰੇ ਨਾਲੋਂ ਪਿਆਰ ਨਹੀਂ ਤੋੜਨਾ ॥੨॥",
       "translation_ru": "Даже если тело разрушится, я не порву любовь к Тебе."
     },
@@ -193,7 +193,7 @@
     {
       "verse_id": 21773,
       "gurmukhi": "ਕਹਤੁ ਕਬੀਰੁ ਸੁਨਹੁ ਰੇ ਲੋਈ ॥",
-      "roman": "kahat kabīr sunahu re loī",
+      "roman": "kahat kabīr sunah re loī",
       "sahib_singh_pa": "(ਇਹ ਵਿੱਥ ਪੁਆਉਣ ਵਾਲਾ ਚੰਦਰਾ ਜਗਤ ਦਾ ਮੋਹ ਸੀ, ਸੋ,) ਕਬੀਰ ਆਖਦਾ ਹੈ-ਸੁਣ, ਹੇ ਜਗਤ! (ਹੇ ਜਗਤ ਦੇ ਮੋਹ!)",
       "translation_ru": "Кабир говорит: слушайте, о люди,"
     },
@@ -277,7 +277,7 @@
     {
       "verse_id": 21785,
       "gurmukhi": "ਸੂਤੈ ਸੂਤ ਮਿਲਾਏ ਕੋਰੀ ॥੪॥੩॥੩੬॥",
-      "roman": "sūtai sūt milāe korī",
+      "roman": "sūtē sūt milāe korī",
       "sahib_singh_pa": "ਤਾਂ ਸੂਤਰ ਵਿਚ ਸੂਤਰ ਰਲਾ ਦੇਂਦਾ ਹੈ (ਭਾਵ, ਸਾਰੇ ਜਗਤ ਨੂੰ ਆਪਣੇ ਵਿਚ ਮਿਲਾ ਲੈਂਦਾ ਹੈ) ॥੪॥੩॥੩੬॥",
       "translation_ru": "Он соединяет нить с нитью, возвращая всё в Себя."
     },
@@ -291,21 +291,21 @@
     {
       "verse_id": 21787,
       "gurmukhi": "ਅੰਤਰਿ ਮੈਲੁ ਜੇ ਤੀਰਥ ਨਾਵੈ ਤਿਸੁ ਬੈਕੁੰਠ ਨ ਜਾਨਾਂ ॥",
-      "roman": "antar mail je tīrath nāvai tis baikunṭh na jānāṅ",
+      "roman": "antar mēl je tīrath nāvē tis bēkunṭh na jānāṅ",
       "sahib_singh_pa": "ਜੇ ਮਨ ਵਿਚ ਵਿਕਾਰਾਂ ਦੀ ਮੈਲ (ਭੀ ਟਿਕੀ ਰਹੇ, ਤੇ) ਕੋਈ ਮਨੁੱਖ ਤੀਰਥਾਂ ਉੱਤੇ ਨ੍ਹਾਉਂਦਾ ਫਿਰੇ, ਤਾਂ ਇਸ ਤਰ੍ਹਾਂ ਉਸ ਨੇ ਸੁਰਗ ਵਿਚ ਨਹੀਂ ਜਾ ਅੱਪੜਨਾ;",
       "translation_ru": "Если внутри остаётся грязь пороков, то омовения в святых местах не приведут в рай."
     },
     {
       "verse_id": 21788,
       "gurmukhi": "ਲੋਕ ਪਤੀਣੇ ਕਛੂ ਨ ਹੋਵੈ ਨਾਹੀ ਰਾਮੁ ਅਯਾਨਾ ॥੧॥",
-      "roman": "lok patīṇe kachhū na hovai nāhī rām ayānā",
+      "roman": "lok patīṇe kachhū na hovē nāhī rām ayānā",
       "sahib_singh_pa": "(ਤੀਰਥਾਂ ਉੱਤੇ ਨ੍ਹਾਤਿਆਂ ਲੋਕ ਤਾਂ ਕਹਿਣ ਲੱਗ ਪੈਣਗੇ ਕਿ ਇਹ ਭਗਤ ਹੈ, ਪਰ) ਲੋਕਾਂ ਦੇ ਪਤੀਜਿਆਂ ਕੋਈ ਲਾਭ ਨਹੀਂ ਹੁੰਦਾ, ਕਿਉਂਕਿ ਪਰਮਾਤਮਾ (ਜੋ ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਜਾਣਦਾ ਹੈ) ਅੰਞਾਣਾ ਨਹੀਂ ਹੈ ॥੧॥",
       "translation_ru": "Людское одобрение ничего не даёт, ведь Бог не невежественен."
     },
     {
       "verse_id": 21789,
       "gurmukhi": "ਪੂਜਹੁ ਰਾਮੁ ਏਕੁ ਹੀ ਦੇਵਾ ॥",
-      "roman": "pūjahu rām ek hī devā",
+      "roman": "pūjah rām ek hī devā",
       "sahib_singh_pa": "ਸੋ, ਇਕ ਪਰਮਾਤਮਾ ਦੇਵ ਦਾ ਭਜਨ ਕਰੋ।",
       "translation_ru": "Поклоняйтесь одному Богу."
     },
@@ -319,35 +319,35 @@
     {
       "verse_id": 21791,
       "gurmukhi": "ਜਲ ਕੈ ਮਜਨਿ ਜੇ ਗਤਿ ਹੋਵੈ ਨਿਤ ਨਿਤ ਮੇਂਡੁਕ ਨਾਵਹਿ ॥",
-      "roman": "jal kai majan je gat hovai nit nit meṇḍuk nāvahi",
+      "roman": "jal kē majan je gat hovē nit nit meṇḍuk nāvah",
       "sahib_singh_pa": "ਪਾਣੀ ਵਿਚ ਚੁੱਭੀ ਲਾਇਆਂ ਜੇ ਮੁਕਤੀ ਮਿਲ ਸਕਦੀ ਹੋਵੇ ਤਾਂ ਡੱਡੂ ਸਦਾ ਹੀ ਨ੍ਹਾਉਂਦੇ ਹਨ।",
       "translation_ru": "Если бы омовение давало освобождение, то лягушки были бы спасены, ведь они всегда в воде."
     },
     {
       "verse_id": 21792,
       "gurmukhi": "ਜੈਸੇ ਮੇਂਡੁਕ ਤੈਸੇ ਓਇ ਨਰ ਫਿਰਿ ਫਿਰਿ ਜੋਨੀ ਆਵਹਿ ॥੨॥",
-      "roman": "jaisē meṇḍuk taisē oi nar phir phir jonī āvahi",
+      "roman": "jēsē meṇḍuk tēsē oi nar phir phir jonī āvahi",
       "sahib_singh_pa": "ਜਿਵੇਂ ਉਹ ਡੱਡੂ ਹਨ ਤਿਵੇਂ ਉਹ ਮਨੁੱਖ ਸਮਝੋ; (ਪਰ ਨਾਮ ਤੋਂ ਬਿਨਾ ਉਹ) ਸਦਾ ਜੂਨਾਂ ਵਿਚ ਪਏ ਰਹਿੰਦੇ ਹਨ ॥੨॥",
       "translation_ru": "Такие люди подобны лягушкам и снова и снова рождаются."
     },
     {
       "verse_id": 21793,
       "gurmukhi": "ਮਨਹੁ ਕਠੋਰੁ ਮਰੈ ਬਾਨਾਰਸਿ ਨਰਕੁ ਨ ਬਾਂਚਿਆ ਜਾਈ ॥",
-      "roman": "manahu kaṭhor marai bānāras narak na bānchiā jāī",
+      "roman": "manah kaṭhor marē bānāras narak na bānchiā jāī",
       "sahib_singh_pa": "ਜੇ ਮਨੁੱਖ ਕਾਂਸ਼ੀ ਵਿਚ ਸਰੀਰ ਤਿਆਗੇ, ਪਰ ਮਨੋਂ ਰਹੇ ਕਠੋਰ, ਇਸ ਤਰ੍ਹਾਂ ਉਸ ਦਾ ਨਰਕ (ਵਿਚ ਪੈਣਾ) ਛੁੱਟ ਨਹੀਂ ਸਕਦਾ।",
       "translation_ru": "Если человек умирает в Каши, но сердце его жёсткое, он не избегает ада."
     },
     {
       "verse_id": 21794,
       "gurmukhi": "ਹਰਿ ਕਾ ਸੰਤੁ ਮਰੈ ਹਾੜੰਬੈ ਤ ਸਗਲੀ ਸੈਨ ਤਰਾਈ ॥੩॥",
-      "roman": "har kā sant marai hāṛambai ta saglī sain tarāī",
+      "roman": "har kā sant marē hāṛambē ta saglī sēn tarāī",
       "sahib_singh_pa": "(ਦੂਜੇ ਪਾਸੇ) ਪਰਮਾਤਮਾ ਦਾ ਭਗਤ ਮਗਹਰ ਦੀ ਸ੍ਰਾਪੀ ਹੋਈ ਧਰਤੀ ਵਿਚ ਭੀ ਜੇ ਜਾ ਮਰੇ, ਤਾਂ ਉਹ ਸਗੋਂ ਹੋਰ ਸਾਰੇ ਲੋਕਾਂ ਨੂੰ ਭੀ ਤਾਰ ਲੈਂਦਾ ਹੈ ॥੩॥",
       "translation_ru": "Но святой Бога, даже умирая в Магхаре, спасает многих."
     },
     {
       "verse_id": 21795,
       "gurmukhi": "ਦਿਨਸੁ ਨ ਰੈਨਿ ਬੇਦੁ ਨਹੀ ਸਾਸਤ੍ਰ ਤਹਾ ਬਸੈ ਨਿਰੰਕਾਰਾ ॥",
-      "roman": "dinas na rain bēd nahī sāstr tahā basai nirankārā",
+      "roman": "dinas na rēn bēd nahī sāstr tahā basē nirankārā",
       "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਉੱਥੇ ਵੱਸਦਾ ਹੈ ਜਿੱਥੇ ਦਿਨ ਤੇ ਰਾਤ ਨਹੀਂ, ਜਿੱਥੇ ਵੇਦ ਨਹੀਂ, ਜਿੱਥੇ ਸ਼ਾਸਤ੍ਰ ਨਹੀਂ (ਭਾਵ, ਉਹ ਪ੍ਰਭੂ ਉਸ ਆਤਮਕ ਅਵਸਥਾ ਵਿਚ ਅੱਪੜਿਆਂ ਮਿਲਦਾ ਹੈ, ਜੋ ਆਤਮਕ ਅਵਸਥਾ ਕਿਸੇ ਖ਼ਾਸ ਸਮੇ ਦੀ ਮੁਥਾਜ ਨਹੀਂ, ਜੋ ਕਿਸੇ ਖ਼ਾਸ ਧਰਮ-ਪੁਸਤਕ ਦੀ ਮੁਥਾਜ ਨਹੀਂ)",
       "translation_ru": "Бог пребывает там, где нет ни дня ни ночи, ни вед, ни шастр."
     },

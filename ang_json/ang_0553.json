@@ -53,7 +53,7 @@
     {
       "verse_id": 24326,
       "gurmukhi": "ਗੁਰਮੁਖਿ ਪਾਈਐ ਨਾਨਕਾ ਖਾਧੈ ਜਾਹਿ ਬਿਕਾਰ ॥੧॥",
-      "roman": "gurmukh pāīai nānakā khādhai jāh bikār",
+      "roman": "gurmukh pāīē nānakā khādhē jāh bikār",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਇਹ ਖ਼ੁਰਾਕ ਸਤਿਗੁਰੂ ਦੇ ਸਨਮੁਖ ਹੋਇਆਂ ਮਿਲਦੀ ਹੈ ਤੇ ਇਸ ਦੇ ਖਾਧਿਆਂ ਸਾਰੇ ਵਿਕਾਰ ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ ॥੧॥",
       "translation_ru": "О Нанак, эта пища обретается через Сатгуру, и, вкушая её, все пороки исчезают."
     },
@@ -81,7 +81,7 @@
     {
       "verse_id": 24330,
       "gurmukhi": "ਇਤੁ ਮਦਿ ਪੀਤੈ ਨਾਨਕਾ ਬਹੁਤੇ ਖਟੀਅਹਿ ਬਿਕਾਰ ॥",
-      "roman": "it mad pītai nānakā bahute khaṭīah bikār",
+      "roman": "it mad pītē nānakā bahute khaṭīah bikār",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਇਸ ਸ਼ਰਾਬ ਦੇ ਪੀਤਿਆਂ ਬਹੁਤੇ ਵਿਕਾਰ ਖੱਟੇ ਜਾਂਦੇ ਹਨ (ਭਾਵ, ਅਹੰਕਾਰ ਤ੍ਰਿਸ਼ਨਾ ਕੂੜ ਆਦਿਕ ਦੇ ਕਾਰਨ ਵਿਕਾਰ ਹੀ ਵਿਕਾਰ ਪੈਦਾ ਹੋ ਰਹੇ ਹਨ)।",
       "translation_ru": "О Нанак, от употребления этого вина приобретается множество пороков."
     },
@@ -95,7 +95,7 @@
     {
       "verse_id": 24332,
       "gurmukhi": "ਨਾਨਕ ਇਹੁ ਭੋਜਨੁ ਸਚੁ ਹੈ ਸਚੁ ਨਾਮੁ ਆਧਾਰੁ ॥੨॥",
-      "roman": "nānak ih bhojan sach hai sach nām ādhār",
+      "roman": "nānak ih bhojan sach hē sach nām ādhār",
       "sahib_singh_pa": "ਤਾਂ ਹੇ ਨਾਨਕ! ਇਹ ਭੋਜਨ ਸੱਚਾ ਹੈ, ਕਿਉਂਕਿ ਸੱਚਾ ਨਾਮ ਹੀ (ਜ਼ਿੰਦਗੀ ਦਾ) ਆਸਰਾ ਹੋ ਸਕਦਾ ਹੈ ॥੨॥",
       "translation_ru": "О Нанак, это истинная пища, ведь Истинное Имя — единственная опора жизни."
     },
@@ -137,21 +137,21 @@
     {
       "verse_id": 24338,
       "gurmukhi": "ਆਪੇ ਜੋਗੀ ਆਪੇ ਭੋਗੀ ਆਪੇ ਸੰਨਿਆਸੀ ਫਿਰੈ ਬਿਬਾਣੀ ॥",
-      "roman": "āpe jogī āpe bhogī āpe sannyāsī phirai bibāṇī",
+      "roman": "āpe jogī āpe bhogī āpe sannyāsī phirē bibāṇī",
       "sahib_singh_pa": "ਆਪ ਹੀ ਜੋਗ ਦੀ ਸਾਧਨਾ ਕਰਨ ਵਾਲਾ ਹੈ, ਆਪ ਹੀ ਭੋਗਾਂ ਵਿਚ ਪਰਵਿਰਤ ਹੈ ਤੇ ਆਪ ਹੀ ਸੰਨਿਆਸੀ ਬਣ ਕੇ ਉਜਾੜਾਂ ਵਿਚ ਫਿਰਦਾ ਹੈ।",
       "translation_ru": "Он Сам — йог, наслаждающийся и отречённый, странствующий в пустынях."
     },
     {
       "verse_id": 24339,
       "gurmukhi": "ਆਪੈ ਨਾਲਿ ਗੋਸਟਿ ਆਪਿ ਉਪਦੇਸੈ ਆਪੇ ਸੁਘੜੁ ਸਰੂਪੁ ਸਿਆਣੀ ॥",
-      "roman": "āpe nāl gosṭ āp updesai āpe sughaṛ sarūp siyāṇī",
+      "roman": "āpe nāl gosṭ āp updesē āpe sughaṛ sarūp siyāṇī",
       "sahib_singh_pa": "ਆਪ ਹੀ ਆਪਣੇ ਨਾਲ ਚਰਚਾ ਕਰਦਾ ਹੈ, ਆਪ ਹੀ ਉਪਦੇਸ਼ ਕਰਦਾ ਹੈ, ਆਪ ਹੀ ਸਿਆਣੀ ਮੱਤ ਵਾਲਾ ਸੁੰਦਰ ਸਰੂਪ ਵਾਲਾ ਹੈ।",
       "translation_ru": "Он Сам беседует с Собой, Сам наставляет, Сам обладает мудростью и прекрасной формой."
     },
     {
       "verse_id": 24340,
       "gurmukhi": "ਆਪਣਾ ਚੋਜੁ ਕਰਿ ਵੇਖੈ ਆਪੇ ਆਪੇ ਸਭਨਾ ਜੀਆ ਕਾ ਹੈ ਜਾਣੀ ॥੧੨॥",
-      "roman": "āpṇā choj kar vekhai āpe āpe sabhnā jīā kā hai jāṇī",
+      "roman": "āpṇā choj kar vekhē āpe āpe sabhnā jīā kā hē jāṇī",
       "sahib_singh_pa": "ਆਪਣਾ ਕੌਤਕ ਕਰ ਕੇ ਆਪ ਹੀ ਵੇਖਦਾ ਹੈ ਤੇ ਆਪ ਹੀ ਸਾਰੇ ਜੀਵਾਂ ਦੇ ਹਿਰਦੇ ਦੀ ਜਾਣਨ ਵਾਲਾ ਹੈ ॥੧੨॥",
       "translation_ru": "Он Сам творит Свою игру и наблюдает, и Сам знает сердца всех существ."
     },
@@ -165,28 +165,28 @@
     {
       "verse_id": 24342,
       "gurmukhi": "ਏਹਾ ਸੰਧਿਆ ਪਰਵਾਣੁ ਹੈ ਜਿਤੁ ਹਰਿ ਪ੍ਰਭੁ ਮੇਰਾ ਚਿਤਿ ਆਵੈ ॥",
-      "roman": "ehā sandhiā parvāṇ hai jit har prabh merā chit āvai",
+      "roman": "ehā sandhiā parvāṇ hē jit har prabh merā chit āvē",
       "sahib_singh_pa": "ਉਹੋ ਸੰਧਿਆ (ਸਵੇਰ ਦੁਪਹਿਰ ਤੇ ਸ਼ਾਮ ਦੀ ਪੂਜਾ) ਕਬੂਲ ਹੈ ਜਿਸ ਨਾਲ ਪਿਆਰਾ ਪ੍ਰਭੂ ਹਿਰਦੇ ਵਿਚ ਵੱਸ ਪਏ,",
       "translation_ru": "Та молитва принимается, благодаря которой Господь поселяется в сердце."
     },
     {
       "verse_id": 24343,
       "gurmukhi": "ਹਰਿ ਸਿਉ ਪ੍ਰੀਤਿ ਊਪਜੈ ਮਾਇਆ ਮੋਹੁ ਜਲਾਵੈ ॥",
-      "roman": "har siu prīt ūpajai māiā moh jalāvai",
+      "roman": "har siu prīt ūpajē māiā moh jalāvē",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਨਾਲ ਪਿਆਰ ਪੈਦਾ ਹੋ ਜਾਵੇ ਤੇ ਮਾਇਆ ਦਾ ਮੋਹ ਸੜ ਜਾਏ।",
       "translation_ru": "Когда возникает любовь к Богу, привязанность к майе сгорает."
     },
     {
       "verse_id": 24344,
       "gurmukhi": "ਗੁਰ ਪਰਸਾਦੀ ਦੁਬਿਧਾ ਮਰੈ ਮਨੂਆ ਅਸਥਿਰੁ ਸੰਧਿਆ ਕਰੇ ਵੀਚਾਰੁ ॥",
-      "roman": "gur parsādī dubidhā marai manūā asthir sandhiā kare vichār",
+      "roman": "gur parsādī dubidhā marē manūā asthir sandhiā kare vichār",
       "sahib_singh_pa": "ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਜਿਸ ਮਨੁੱਖ ਦੀ ਦੁਬਿਧਾ ਦੂਰ ਹੋਵੇ, ਮਨ ਟਿਕ ਜਾਏ, ਉਹ ਸੰਧਿਆ ਦੀ (ਸੱਚੀ) ਵਿਚਾਰ ਕਰਦਾ ਹੈ।",
       "translation_ru": "По милости Гуру двойственность исчезает, ум становится устойчивым и постигает истинную молитву."
     },
     {
       "verse_id": 24345,
       "gurmukhi": "ਨਾਨਕ ਸੰਧਿਆ ਕਰੈ ਮਨਮੁਖੀ ਜੀਉ ਨ ਟਿਕੈ ਮਰਿ ਜੰਮੈ ਹੋਇ ਖੁਆਰੁ ॥੧॥",
-      "roman": "nānak sandhiā karai manmukhī jīu na ṭikai mar jammē hoē khuār",
+      "roman": "nānak sandhiā karē manmukhī jīu na ṭikē mar jammē hoē khuār",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਮਨਮੁਖ ਸੰਧਿਆ ਕਰਦਾ ਹੈ, (ਪਰ) ਉਸ ਦਾ ਮਨ ਟਿਕਦਾ ਨਹੀਂ, (ਇਸ ਵਾਸਤੇ) ਜੰਮਦਾ ਮਰਦਾ ਹੈ ਤੇ ਖ਼ੁਆਰ ਹੁੰਦਾ ਹੈ ॥੧॥",
       "translation_ru": "О Нанак, своевольный человек совершает молитву, но его ум не устойчив, он рождается и умирает, пребывая в страдании."
     },
@@ -235,14 +235,14 @@
     {
       "verse_id": 24352,
       "gurmukhi": "ਆਪੇ ਮਾਰੇ ਆਪੇ ਛੋਡੈ ਆਪੇ ਬਖਸੇ ਕਰੇ ਦਇਆ ॥",
-      "roman": "āpe māre āpe chhoḍai āpe bakhse kare daia",
+      "roman": "āpe māre āpe chhoḍē āpe bakhse kare dēa",
       "sahib_singh_pa": "(ਜੀਵਾਂ ਨੂੰ) ਆਪ ਹੀ ਮਾਰਦਾ ਹੈ ਆਪ ਹੀ ਛੱਡਦਾ ਹੈ, ਆਪ ਹੀ ਬਖ਼ਸ਼ਦਾ ਹੈ ਤੇ ਆਪ ਹੀ ਮੇਹਰ ਕਰਦਾ ਹੈ।",
       "translation_ru": "Он Сам убивает и Сам освобождает, Сам прощает и проявляет милость."
     },
     {
       "verse_id": 24353,
       "gurmukhi": "ਆਪਿ ਅਭੁਲੁ ਨ ਭੁਲੈ ਕਬ ਹੀ ਸਭੁ ਸਚੁ ਤਪਾਵਸੁ ਸਚੁ ਥਿਆ ॥",
-      "roman": "āp abhul na bhulai kabh hī sabh sach tapāvas sach thiā",
+      "roman": "āp abhul na bhulē kabh hī sabh sach tapāvas sach thiā",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਆਪ ਅਭੁੱਲ ਹੈ, ਕਦੇ ਭੁੱਲਦਾ ਨਹੀਂ, ਉਸ ਦਾ ਇਨਸਾਫ਼ ਭੀ ਨਿਰੋਲ ਸੱਚ ਹੈ।",
       "translation_ru": "Он Сам безошибочен и никогда не ошибается; Его суд полностью истинен."
     },
@@ -263,14 +263,14 @@
     {
       "verse_id": 24356,
       "gurmukhi": "ਹਰਿ ਨਾਮੁ ਨ ਸਿਮਰਹਿ ਸਾਧਸੰਗਿ ਤੈ ਤਨਿ ਉਡੈ ਖੇਹ ॥",
-      "roman": "har nām na simrah sādhsaṅg tai tan uḍai kheh",
+      "roman": "har nām na simrah sādhsaṅg tē tan uḍē kheh",
       "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ ਸਾਧ ਸੰਗਤ ਵਿਚ ਹਰੀ ਦਾ ਨਾਮ ਨਹੀਂ ਸਿਮਰਦੇ, ਉਹਨਾਂ ਦੇ ਸਰੀਰ ਤੇ ਸੁਆਹ ਪੈਂਦੀ ਹੈ, (ਭਾਵ, ਉਹਨਾਂ ਦੇ ਸਰੀਰ ਨੂੰ ਫਿਟਕਾਰ ਪੈਂਦੀ ਹੈ)।",
       "translation_ru": "Те, кто не помнят Имя Бога в обществе святых, на их тело падает пепел."
     },
     {
       "verse_id": 24357,
       "gurmukhi": "ਜਿਨਿ ਕੀਤੀ ਤਿਸੈ ਨ ਜਾਣਈ ਨਾਨਕ ਫਿਟੁ ਅਲੂਣੀ ਦੇਹ ॥੧॥",
-      "roman": "jin kītī tisai na jāṇai nānak fiṭ alūṇī deh",
+      "roman": "jin kītī tisē na jāṇē nānak fiṭ alūṇī deh",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਪ੍ਰੇਮ ਤੋਂ ਸੱਖਣੇ ਉਸ ਸਰੀਰ ਨੂੰ ਧਿੱਕਾਰ ਹੈ, ਜੋ ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਨਹੀਂ ਪਛਾਣਦਾ ਜਿਸ ਨੇ ਉਸ ਨੂੰ ਬਣਾਇਆ ਹੈ ॥੧॥",
       "translation_ru": "О Нанак, проклято тело без любви, которое не знает своего Создателя."
     }

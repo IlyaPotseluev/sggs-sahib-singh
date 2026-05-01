@@ -25,7 +25,7 @@
     {
       "verse_id": 38366,
       "gurmukhi": "ਸਾਧਸੰਗਿ ਚੂਕੇ ਭੈ ਫੇਰ ॥੧॥",
-      "roman": "sādhsaṅg chūke bhai pher",
+      "roman": "sādhsaṅg chūke bhē pher",
       "sahib_singh_pa": "ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਵਿਚ (ਰਹਿਣ ਕਰਕੇ) ਜਨਮ ਮਰਨ ਗੇੜ ਦੇ ਸਾਰੇ ਡਰ ਭੀ ਖ਼ਤਮ ਹੋ ਗਏ ਹਨ ॥੧॥",
       "translation_ru": "В общине Гуру исчез страх круговорота рождений."
     },
@@ -53,7 +53,7 @@
     {
       "verse_id": 38370,
       "gurmukhi": "ਜਪਿ ਜਪਿ ਨਾਮੁ ਪੂਜੇ ਪ੍ਰਭ ਪੈਰ ॥",
-      "roman": "jap jap nām pūje prabh pair",
+      "roman": "jap jap nām pūje prabh pēr",
       "sahib_singh_pa": "ਜਦੋਂ ਕੋਈ ਜੀਵ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪ ਜਪ ਕੇ ਉਸ ਦੇ ਚਰਨ ਪੂਜਣੇ ਸ਼ੁਰੂ ਕਰਦਾ ਹੈ।",
       "translation_ru": "Когда человек повторяет Имя и почитает стопы Бога."
     },
@@ -88,7 +88,7 @@
     {
       "verse_id": 38375,
       "gurmukhi": "ਸਿੰਧੁ ਸਮਾਇਓ ਘਟੁਕੇ ਮਾਹਿ ॥",
-      "roman": "siṅdh samāio ghaṭuke māhi",
+      "roman": "siṅdh samāio ghaṭuke māh",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਉਸ ਦੇ ਅੰਦਰ ਇਉਂ ਆ ਟਿਕਦਾ ਹੈ ਜਿਵੇਂ ਸਮੁੰਦਰ (ਮਾਨੋ) ਇਕ ਨਿੱਕੇ ਜਿਹੇ ਘੜੇ ਵਿਚ ਆ ਟਿਕੇ।",
       "translation_ru": "Бог входит в него, как океан в маленький сосуд."
     },
@@ -116,7 +116,7 @@
     {
       "verse_id": 38379,
       "gurmukhi": "ਪਾਪ ਪੁੰਨ ਹਮਰੈ ਵਸਿ ਨਾਹਿ ॥",
-      "roman": "pāp puṇn hamrai vas nāhi",
+      "roman": "pāp puṇn hamrē vas nāh",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ!) ਚੰਗੇ ਮਾੜੇ ਕੰਮ ਕਰਨੇ ਅਸਾਂ ਜੀਵਾਂ ਦੇ ਵੱਸ ਵਿਚ ਨਹੀਂ ਹਨ।",
       "translation_ru": "Добро и зло не находятся в нашей власти."
     },
@@ -137,21 +137,21 @@
     {
       "verse_id": 38382,
       "gurmukhi": "ਨਾ ਤਨੁ ਤੇਰਾ ਨਾ ਮਨੁ ਤੋਹਿ ॥",
-      "roman": "nā tan terā nā man tohi",
+      "roman": "nā tan terā nā man toh",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ!) ਨਾਹ ਉਹ ਸਰੀਰ ਤੇਰਾ ਹੈ, ਤੇ, ਨਾਹ ਹੀ (ਉਸ ਸਰੀਰ ਵਿਚ ਵੱਸਦਾ) ਮਨ ਤੇਰਾ ਹੈ,",
       "translation_ru": "О брат! ни это тело не твоё, ни ум, который в этом теле пребывает, не твой,"
     },
     {
       "verse_id": 38383,
       "gurmukhi": "ਮਾਇਆ ਮੋਹਿ ਬਿਆਪਿਆ ਧੋਹਿ ॥",
-      "roman": "māiā moh biāpiā dhohi",
+      "roman": "māiā moh biāpiā dhoh",
       "sahib_singh_pa": "(ਜਿਸ ਸਰੀਰ ਦੀ ਖ਼ਾਤਰ) ਤੂੰ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਦੀ ਠੱਗੀ ਵਿਚ ਫਸਿਆ ਰਹਿੰਦਾ ਹੈਂ।",
       "translation_ru": "из-за этого тела ты пребываешь в обмане, в ловушке привязанности к майе."
     },
     {
       "verse_id": 38384,
       "gurmukhi": "ਕੁਦਮ ਕਰੈ ਗਾਡਰ ਜਿਉ ਛੇਲ ॥",
-      "roman": "kudam karai gāḍar jio chhel",
+      "roman": "kudam karē gāḍar jio chhel",
       "sahib_singh_pa": "(ਵੇਖ!) ਜਿਵੇਂ ਭੇਡ ਦਾ ਬੱਚਾ ਭੇਡ ਨਾਲ ਕਲੋਲ ਕਰਦਾ ਹੈ (ਉਸ ਵਿਚਾਰੇ ਉਤੇ) ਅਚਨਚੇਤ (ਮੌਤ ਦਾ) ਜਾਲ ਆ ਪੈਂਦਾ ਹੈ,",
       "translation_ru": "Смотри! как ягнёнок играет с овцой, и внезапно на него падает сеть,"
     },
@@ -193,7 +193,7 @@
     {
       "verse_id": 38390,
       "gurmukhi": "ਕਰੈ ਬਿਕਾਰ ਜੀਅਰੇ ਕੈ ਤਾਈ ॥",
-      "roman": "karai bikār jīare kai tāī",
+      "roman": "karē bikār jīare kē tāī",
       "sahib_singh_pa": "ਆਪਣੀ ਇਸ ਜਿੰਦ (ਨੂੰ ਸੁਖ ਦੇਣ) ਦੀ ਖ਼ਾਤਰ ਜੀਵ ਵਿਕਾਰ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ,",
       "translation_ru": "Ради этой своей жизни человек совершает пороки,"
     },
@@ -207,28 +207,28 @@
     {
       "verse_id": 38392,
       "gurmukhi": "ਧਰਤ ਧੋਹ ਅਨਿਕ ਛਲ ਜਾਨੈ ॥",
-      "roman": "dharat dhoh anik chhal jānai",
+      "roman": "dharat dhoh anik chhal jānē",
       "sahib_singh_pa": "ਮੂਰਖ ਜੀਵ ਅਨੇਕਾਂ ਠੱਗੀਆਂ ਕਰਦਾ ਹੈ, ਅਨੇਕਾਂ ਫ਼ਰੇਬ ਕਰਨੇ ਜਾਣਦਾ ਹੈ।",
       "translation_ru": "Глупый человек совершает множество обманов и знает множество уловок."
     },
     {
       "verse_id": 38393,
       "gurmukhi": "ਕਉਡੀ ਕਉਡੀ ਕਉ ਖਾਕੁ ਸਿਰਿ ਛਾਨੈ ॥",
-      "roman": "kauṛī kauṛī kau khāk sir chhānai",
+      "roman": "kauṛī kauṛī kau khāk sir chhānē",
       "sahib_singh_pa": "ਕੌਡੀ ਕੌਡੀ ਕਮਾਣ ਦੀ ਖ਼ਾਤਰ ਆਪਣੇ ਸਿਰ ਉਤੇ (ਦਗ਼ੇ-ਫ਼ਰੇਬ ਦੇ ਕਾਰਨ ਬਦਨਾਮੀ ਦੀ) ਸੁਆਹ ਪਾਂਦਾ ਫਿਰਦਾ ਹੈ।",
       "translation_ru": "Ради каждой мелкой выгоды он сыплет пепел на свою голову — навлекает позор."
     },
     {
       "verse_id": 38394,
       "gurmukhi": "ਜਿਨਿ ਦੀਆ ਤਿਸੈ ਨ ਚੇਤੈ ਮੂਲਿ ॥",
-      "roman": "jin dīā tisai na chetai mūl",
+      "roman": "jin dīā tisē na chetē mūl",
       "sahib_singh_pa": "ਜਿਸ (ਪ੍ਰਭੂ) ਨੇ (ਇਸ ਨੂੰ ਇਹ ਸਭ ਕੁਝ) ਦਿੱਤਾ ਹੈ ਉਸ ਨੂੰ ਇਹ ਬਿਲਕੁਲ ਯਾਦ ਨਹੀਂ ਕਰਦਾ।",
       "translation_ru": "Того, кто дал ему всё это, он совсем не вспоминает."
     },
     {
       "verse_id": 38395,
       "gurmukhi": "ਮਿਥਿਆ ਲੋਭੁ ਨ ਉਤਰੈ ਸੂਲੁ ॥੩॥",
-      "roman": "mithiā lobh na utrai sūl",
+      "roman": "mithiā lobh na utrē sūl",
       "sahib_singh_pa": "(ਇਸ ਦੇ ਅੰਦਰ) ਨਾਸਵੰਤ ਪਦਾਰਥਾਂ ਦਾ ਲੋਭ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ (ਇਹਨਾਂ ਦੀ) ਚੋਭ (ਇਸ ਦੇ ਅੰਦਰੋਂ) ਕਦੇ ਨਹੀਂ ਦੂਰ ਹੁੰਦੀ ॥੩॥",
       "translation_ru": "Ложная жадность остаётся в нём, и её боль никогда не уходит."
     },
@@ -256,7 +256,7 @@
     {
       "verse_id": 38399,
       "gurmukhi": "ਨਾਨਕ ਸਾਚੈ ਸਾਚਿ ਸਮਾਇ ॥੪॥੪੧॥੫੨॥",
-      "roman": "nānak sāchai sāch samāe",
+      "roman": "nānak sāchē sāch samāe",
       "sahib_singh_pa": "ਤੇ, ਹੇ ਨਾਨਕ! (ਉਹ ਭਾਗਾਂ ਵਾਲਾ) ਸਦਾ ਹੀ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਵਿਚ ਲੀਨ ਹੋਇਆ ਰਹਿੰਦਾ ਹੈ ॥੪॥੪੧॥੫੨॥",
       "translation_ru": "и, о Нанак, он пребывает слитым с Вечным Богом."
     },
@@ -284,7 +284,7 @@
     {
       "verse_id": 38403,
       "gurmukhi": "ਜਾ ਕੈ ਰਾਮੁ ਬਸੈ ਮਨ ਮਾਹੀ ॥",
-      "roman": "jā kai rām basai man māhī",
+      "roman": "jā kē rām basē man māhī",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਪਰਮਾਤਮਾ (ਦਾ ਨਾਮ) ਆ ਵੱਸਦਾ ਹੈ,",
       "translation_ru": "О брат! тот, в чьём уме поселяется Бог,"
     },
@@ -312,7 +312,7 @@
     {
       "verse_id": 38407,
       "gurmukhi": "ਜਿਸ ਕੈ ਮਸਤਕਿ ਹਾਥੁ ਗੁਰੁ ਧਰੈ ॥ ਸੋ ਦਾਸੁ ਅਦੇਸਾ ਕਾਹੇ ਕਰੈ ॥",
-      "roman": "jis kai mastak hāth gur dharai so dās adesā kāhe karai",
+      "roman": "jis kē mastak hāth gur dharē so dās adesā kāhe karē",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਇਸ ਮਨੁੱਖ ਦੇ ਮੱਥੇ ਉਤੇ ਗੁਰੂ (ਆਪਣਾ) ਹੱਥ ਰੱਖਦਾ ਹੈ, (ਪ੍ਰਭੂ ਦਾ ਉਹ) ਸੇਵਕ ਕਿਸੇ ਤਰ੍ਹਾਂ ਦਾ ਭੀ ਕੋਈ ਚਿੰਤਾ-ਫ਼ਿਕਰ ਨਹੀਂ ਕਰਦਾ।",
       "translation_ru": "О брат! тому, на чью голову Гуру кладёт свою руку, слуга Бога не имеет никаких тревог."
     },
@@ -347,35 +347,35 @@
     {
       "verse_id": 38412,
       "gurmukhi": "ਪਾਰਬ੍ਰਹਮੁ ਜਿਸੁ ਕਿਰਪਾ ਕਰੈ ॥",
-      "roman": "pārbrahm jis kirpā karai",
+      "roman": "pārbrahm jis kirpā karē",
       "sahib_singh_pa": "ਜਿਸ ਮਨੁੱਖ ਉਤੇ ਪਰਮਾਤਮਾ ਮਿਹਰ ਕਰਦਾ ਹੈ,",
       "translation_ru": "Тот, на кого Верховный Бог проявляет милость,"
     },
     {
       "verse_id": 38413,
       "gurmukhi": "ਸਾਧਸੰਗਿ ਸੋ ਭਵਜਲੁ ਤਰੈ ॥੩॥",
-      "roman": "sādhsaṅg so bhavjal tarai",
+      "roman": "sādhsaṅg so bhavjal tarē",
       "sahib_singh_pa": "ਉਹ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਵਿਚ (ਰਹਿ ਕੇ) ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘ ਜਾਂਦਾ ਹੈ ॥੩॥",
       "translation_ru": "в обществе Гуру переправляется через океан мира."
     },
     {
       "verse_id": 38414,
       "gurmukhi": "ਅੰਮ੍ਰਿਤੁ ਪੀਵਹੁ ਸਾਧ ਪਿਆਰੇ ॥",
-      "roman": "amrit pīvhu sādh piāre",
+      "roman": "amrit pīvh sādh piāre",
       "sahib_singh_pa": "ਹੇ ਪਿਆਰੇ ਸੰਤ ਜਨੋ! (ਤੁਸੀ ਭੀ) ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਨਾਮ-ਜਲ ਪੀਂਦੇ ਰਹੋ,",
       "translation_ru": "О дорогие святые! пейте нектар Имени, дарующий духовную жизнь,"
     },
     {
       "verse_id": 38415,
       "gurmukhi": "ਮੁਖ ਊਜਲ ਸਾਚੈ ਦਰਬਾਰੇ ॥",
-      "roman": "mukh ūjal sāchai darbāre",
+      "roman": "mukh ūjal sāchē darbāre",
       "sahib_singh_pa": "ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ ਦਰਬਾਰ ਵਿਚ ਤੁਹਾਡੇ ਮੂੰਹ ਉਜਲੇ ਹੋਣਗੇ (ਤੁਹਾਨੂੰ ਉਥੇ ਆਦਰ-ਸਤਕਾਰ ਮਿਲੇਗਾ)।",
       "translation_ru": "и ваши лица будут сиять в дворе Вечного Бога."
     },
     {
       "verse_id": 38416,
       "gurmukhi": "ਅਨਦ ਕਰਹੁ ਤਜਿ ਸਗਲ ਬਿਕਾਰ ॥",
-      "roman": "anad karhu taj sagal bikār",
+      "roman": "anad karh taj sagal bikār",
       "sahib_singh_pa": "(ਹੇ ਸੰਤ ਜਨੋ!) ਸਾਰੇ ਵਿਚਾਰ ਛੱਡ ਕੇ ਆਤਮਕ ਆਨੰਦ ਮਾਣਦੇ ਰਹੋ,",
       "translation_ru": "О святые! оставьте все пороки и пребывайте в духовной радости,"
     },

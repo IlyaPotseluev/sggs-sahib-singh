@@ -46,14 +46,14 @@
     {
       "verse_id": 38194,
       "gurmukhi": "ਨਾਮ ਬਿਨਾ ਕਿਛੁ ਕਾਮਿ ਨ ਆਵੈ ਮੇਰਾ ਮੇਰਾ ਕਰਿ ਬਹੁਤੁ ਪਛੁਤਾਨੇ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "nām binā kichh kām na āvai merā merā kar bahut pachhutāne",
+      "roman": "nām binā kichh kām na āvē merā merā kar bahut pachhutāne",
       "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ (ਹੋਰ ਕੋਈ ਸ਼ੈ ਕਿਸੇ ਦੇ) ਕੰਮ ਨਹੀਂ ਆਉਂਦੀ। (ਇਹ) ਮੇਰਾ (ਸਰੀਰ ਹੈ, ਇਹ) ਮੇਰਾ (ਧਨ ਹੈ)-ਇਉਂ ਆਖ ਆਖ ਕੇ (ਅਨੇਕਾਂ ਹੀ ਜੀਵ) ਬਹੁਤ ਪਛੁਤਾਂਦੇ ਗਏ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Без Имени Бога ничто не приносит пользы; говоря «моё», многие потом сильно раскаиваются."
     },
     {
       "verse_id": 38195,
       "gurmukhi": "ਜੋ ਜੋ ਕਰੈ ਸੋਈ ਮਾਨਿ ਲੇਹੁ ॥",
-      "roman": "jo jo kare soī mān lehu",
+      "roman": "jo jo kare soī mān leh",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਜੋ ਕੁਝ ਕਰਦਾ ਹੈ ਉਸੇ ਨੂੰ ਠੀਕ ਮੰਨਿਆ ਕਰ।",
       "translation_ru": "Принимай всё, что делает Бог, как правильное."
     },
@@ -67,7 +67,7 @@
     {
       "verse_id": 38197,
       "gurmukhi": "ਤਿਸ ਕਾ ਭਾਣਾ ਲਾਗੈ ਮੀਠਾ ॥",
-      "roman": "tis kā bhāṇā lāgai mīṭhā",
+      "roman": "tis kā bhāṇā lāgē mīṭhā",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜਿਸ ਕਿਸੇ ਬੰਦੇ ਨੂੰ ਪਰਮਾਤਮਾ ਦੀ ਰਜ਼ਾ ਮਿੱਠੀ ਲੱਗਦੀ ਹੈ,",
       "translation_ru": "Тому, кому сладка Божья воля,"
     },
@@ -123,14 +123,14 @@
     {
       "verse_id": 38205,
       "gurmukhi": "ਬੂਡਤ ਲੋਹ ਸਾਧਸੰਗਿ ਤਰੈ ॥",
-      "roman": "būdat loh sādhsaṅg tarai",
+      "roman": "būdat loh sādhsaṅg tarē",
       "sahib_singh_pa": "ਲੋਹੇ ਵਰਗਾ ਕਠੋਰ-ਚਿੱਤ ਬੰਦਾ ਭੀ ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਹਿ ਕੇ ਪਾਰ ਲੰਘ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "Даже твёрдое сердце, как железо, в обществе святых переправляется."
     },
     {
       "verse_id": 38206,
       "gurmukhi": "ਨਾਨਕ ਜਿਸਹਿ ਪਰਾਪਤਿ ਕਰੈ ॥੪॥੩੧॥੪੨॥",
-      "roman": "nānak jiseh parāpat karai",
+      "roman": "nānak jiseh parāpat karē",
       "sahib_singh_pa": "ਪਰ, ਹੇ ਨਾਨਕ! (ਗੁਣ ਗਾਣ ਦਾ ਉੱਦਮ ਉਹੀ ਮਨੁੱਖ) ਕਰਦਾ ਹੈ ਜਿਸ ਨੂੰ ਧੁਰੋਂ ਇਹ ਦਾਤ ਪ੍ਰਾਪਤ ਹੋਵੇ ॥੪॥੩੧॥੪੨॥",
       "translation_ru": "Но, говорит Нанак, только тот делает это, кому дана такая милость."
     },
@@ -144,21 +144,21 @@
     {
       "verse_id": 38208,
       "gurmukhi": "ਮਨ ਮਾਹਿ ਜਾਪਿ ਭਗਵੰਤੁ ॥",
-      "roman": "man māhi jāp bhagvant",
+      "roman": "man māh jāp bhagvant",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! -ਆਪਣੇ ਮਨ ਵਿਚ ਭਗਵਾਨ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ-",
       "translation_ru": "О брат! Повторяй Имя Бога в своём сердце."
     },
     {
       "verse_id": 38209,
       "gurmukhi": "ਗੁਰਿ ਪੂਰੈ ਇਹੁ ਦੀਨੋ ਮੰਤੁ ॥",
-      "roman": "gur pūrai ih dīno mant",
+      "roman": "gur pūrē ih dīno mant",
       "sahib_singh_pa": "ਪੂਰੇ ਗੁਰੂ ਨੇ (ਜਿਸ ਮਨੁੱਖ ਨੂੰ) ਇਹ ਉਪਦੇਸ਼ ਦਿੱਤਾ,",
       "translation_ru": "Тому, кому совершенный Гуру дал это наставление,"
     },
     {
       "verse_id": 38210,
       "gurmukhi": "ਮਿਟੇ ਸਗਲ ਭੈ ਤ੍ਰਾਸ ॥",
-      "roman": "miṭe sagal bhai trās",
+      "roman": "miṭe sagal bhē trās",
       "sahib_singh_pa": "ਉਸ ਮਨੁੱਖ ਦੇ ਸਾਰੇ ਡਰ ਸਹਿਮ ਮਿਟ ਜਾਂਦੇ ਹਨ,",
       "translation_ru": "исчезают все страхи,"
     },
@@ -235,14 +235,14 @@
     {
       "verse_id": 38221,
       "gurmukhi": "ਕਰਿ ਕਿਰਪਾ ਅਰਦਾਸਿ ਸੁਣੀਜੈ ॥",
-      "roman": "kar kirpā ardās suṇījai",
+      "roman": "kar kirpā ardās suṇījē",
       "sahib_singh_pa": "ਕਿਰਪਾ ਕਰ ਕੇ ਮੇਰੀ ਅਰਜ਼ੋਈ ਸੁਣ,",
       "translation_ru": "Смилуйся и услышь мою молитву,"
     },
     {
       "verse_id": 38222,
       "gurmukhi": "ਅਪਣੇ ਸੇਵਕ ਕਉ ਦਰਸਨੁ ਦੀਜੈ ॥",
-      "roman": "apne sevak kau darsan dījai",
+      "roman": "apne sevak kau darsan dījē",
       "sahib_singh_pa": "(ਉਸ ਦੇ ਦਰ ਤੇ ਅਰਦਾਸ ਕਰ ਤੇ ਆਖ-ਹੇ ਪ੍ਰਭੂ!) ਆਪਣੇ ਸੇਵਕ ਨੂੰ ਦਰਸ਼ਨ ਦੇਹ।",
       "translation_ru": "даруй своему слуге Твоё видение."
     },
@@ -305,7 +305,7 @@
     {
       "verse_id": 38231,
       "gurmukhi": "ਕਾਰਜੁ ਤੇਰਾ ਹੋਵੈ ਪੂਰਾ ਹਰਿ ਹਰਿ ਹਰਿ ਗੁਣ ਗਾਇ ਮਨ ਮੇਰੇ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "kārāj terā hovai pūrā har har har guṇ gāe man mere",
+      "roman": "kārāj terā hovē pūrā har har har guṇ gāe man mere",
       "sahib_singh_pa": "ਸਦਾ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਇਆ ਕਰ। ਤੇਰਾ (ਸਿਮਰਨ ਕਰਨ ਵਾਲਾ ਇਹ) ਕੰਮ ਜ਼ਰੂਰ ਸਿਰੇ ਚੜ੍ਹੇਗਾ (ਭਾਵ, ਜ਼ਰੂਰ ਫਲ ਦੇਵੇਗਾ) ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Воспевая качества Бога, твоя цель обязательно исполнится."
     },
@@ -347,7 +347,7 @@
     {
       "verse_id": 38237,
       "gurmukhi": "ਜਾ ਕੇ ਕੀਨੇ ਹੈ ਜੀਵ ॥",
-      "roman": "jā ke kīne hai jīv",
+      "roman": "jā ke kīne hē jīv",
       "sahib_singh_pa": "ਜਿਸ ਦੇ ਪੈਦਾ ਕੀਤੇ ਹੋਏ ਇਹ ਸਾਰੇ ਜੀਵ ਹਨ।",
       "translation_ru": "Он создал всех существ."
     },
@@ -368,14 +368,14 @@
     {
       "verse_id": 38240,
       "gurmukhi": "ਸਰਬ ਕੀ ਰੇਣ ਹੋਵੀਜੈ ॥",
-      "roman": "sarab kī reṇ hovījai",
+      "roman": "sarab kī reṇ hovījē",
       "sahib_singh_pa": "ਹੇ ਮੇਰੇ ਮਨ! ਸਭਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਬਣੇ ਰਹਿਣਾ ਚਾਹੀਦਾ ਹੈ,",
       "translation_ru": "О ум! Стань пылью у ног всех."
     },
     {
       "verse_id": 38241,
       "gurmukhi": "ਆਪੁ ਮਿਟਾਇ ਮਿਲੀਜੈ ॥",
-      "roman": "āp miṭāe milījai",
+      "roman": "āp miṭāe milījē",
       "sahib_singh_pa": "(ਆਪਣੇ ਅੰਦਰੋਂ) ਅਹੰਕਾਰ ਦੂਰ ਕਰ ਕੇ ਹੀ ਪਰਮਾਤਮਾ ਨੂੰ ਮਿਲ ਸਕੀਦਾ ਹੈ।",
       "translation_ru": "Только уничтожив эго, можно соединиться с Богом."
     },

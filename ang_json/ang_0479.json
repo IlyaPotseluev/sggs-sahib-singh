@@ -11,7 +11,7 @@
     {
       "verse_id": 21536,
       "gurmukhi": "ਪਾਸਿ ਬੈਠੀ ਬੀਬੀ ਕਵਲਾ ਦਾਸੀ ॥੨॥",
-      "roman": "pās baiṭhī bībī kavlā dāsī",
+      "roman": "pās bēṭhī bībī kavlā dāsī",
       "sahib_singh_pa": "ਅਤੇ ਲੱਛਮੀ ਉਸ ਦੇ ਕੋਲ ਟਹਿਲਣ ਬਣ ਕੇ ਬੈਠੀ ਹੋਈ ਹੈ ॥੨॥",
       "translation_ru": "а Лакшми сидит рядом как служанка."
     },
@@ -25,7 +25,7 @@
     {
       "verse_id": 21538,
       "gurmukhi": "ਸਹੰਸ ਨਾਮੁ ਲੈ ਲੈ ਕਰਉ ਸਲਾਮੁ ॥੩॥",
-      "roman": "sahans nām lai lai karaū salām",
+      "roman": "sahans nām lē lē karaū salām",
       "sahib_singh_pa": "ਉਸ ਰਾਮ ਨੂੰ (ਜੋ ਮੇਰੇ ਮਨ-ਤੀਰਥ ਅਤੇ ਜੀਭ ਉੱਤੇ ਵੱਸ ਰਿਹਾ ਹੈ) ਮੈਂ ਹਜ਼ਾਰ ਨਾਮ ਲੈ ਲੈ ਕੇ ਪ੍ਰਣਾਮ ਕਰਦਾ ਹਾਂ ॥੩॥",
       "translation_ru": "я многократно кланяюсь, произнося Его тысячи имён."
     },
@@ -60,28 +60,28 @@
     {
       "verse_id": 21543,
       "gurmukhi": "ਪਾਤੀ ਤੋਰੈ ਮਾਲਿਨੀ ਪਾਤੀ ਪਾਤੀ ਜੀਉ ॥",
-      "roman": "pātī torai mālinī pātī pātī jīu",
+      "roman": "pātī torē mālinī pātī pātī jīu",
       "sahib_singh_pa": "(ਮੂਰਤੀ ਅੱਗੇ ਭੇਟ ਧਰਨ ਲਈ) ਮਾਲਣ ਪੱਤਰ ਤੋੜਦੀ ਹੈ, (ਪਰ ਇਹ ਨਹੀਂ ਜਾਣਦੀ ਕਿ) ਹਰੇਕ ਪੱਤਰ ਵਿਚ ਜਿੰਦ ਹੈ।",
       "translation_ru": "Малини рвёт листья (для подношения перед идолом), но не знает, что в каждом листе есть жизнь."
     },
     {
       "verse_id": 21544,
       "gurmukhi": "ਜਿਸੁ ਪਾਹਨ ਕਉ ਪਾਤੀ ਤੋਰੈ ਸੋ ਪਾਹਨ ਨਿਰਜੀਉ ॥੧॥",
-      "roman": "jis pāhan kau pātī torai so pāhan nirjīu",
+      "roman": "jis pāhan kau pātī torē so pāhan nirjīu",
       "sahib_singh_pa": "ਜਿਸ ਪੱਥਰ (ਦੀ ਮੂਰਤੀ) ਦੇ ਖ਼ਾਤਰ (ਮਾਲਣ) ਪੱਤਰ ਤੋੜਦੀ ਹੈ, ਉਹ ਪੱਥਰ (ਦੀ ਮੂਰਤੀ) ਨਿਰਜਿੰਦ ਹੈ ॥੧॥",
       "translation_ru": "Тот камень (идол), ради которого она рвёт листья, сам лишён жизни."
     },
     {
       "verse_id": 21545,
       "gurmukhi": "ਭੂਲੀ ਮਾਲਨੀ ਹੈ ਏਉ ॥",
-      "roman": "bhūlī mālnī hai eu",
+      "roman": "bhūlī mālnī hē eu",
       "sahib_singh_pa": "(ਇਕ ਨਿਰਜਿੰਦ ਮੂਰਤੀ ਦੀ ਸੇਵਾ ਕਰ ਕੇ) ਇਸ ਤਰ੍ਹਾਂ (ਇਹ) ਮਾਲਣ ਭੁੱਲ ਰਹੀ ਹੈ,",
       "translation_ru": "Так эта малини пребывает в заблуждении,"
     },
     {
       "verse_id": 21546,
       "gurmukhi": "ਸਤਿਗੁਰੁ ਜਾਗਤਾ ਹੈ ਦੇਉ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "satigur jāgtā hai deu",
+      "roman": "satigur jāgtā hē deu",
       "sahib_singh_pa": "(ਅਸਲੀ ਇਸ਼ਟ) ਸਤਿਗੁਰੂ ਤਾਂ (ਜੀਉਂਦਾ) ਜਾਗਦਾ ਦੇਵਤਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "ведь истинный объект поклонения — Сатгуру, живой и пробуждённый."
     },
@@ -102,14 +102,14 @@
     {
       "verse_id": 21549,
       "gurmukhi": "ਪਾਖਾਨ ਗਢਿ ਕੈ ਮੂਰਤਿ ਕੀਨੑੀ ਦੇ ਕੈ ਛਾਤੀ ਪਾਉ ॥",
-      "roman": "pākhān gaṛh kai mūrat kīnhī de kai chhātī pāu",
+      "roman": "pākhān gaṛh kē mūrat kīnhī de kē chhātī pāu",
       "sahib_singh_pa": "(ਮੂਰਤੀ ਘੜਨ ਵਾਲੇ ਨੇ) ਪੱਥਰ ਘੜ ਕੇ, ਤੇ (ਘੜਨ ਵੇਲੇ ਮੂਰਤੀ ਦੀ) ਛਾਤੀ ਉੱਤੇ ਪੈਰ ਰੱਖ ਕੇ ਮੂਰਤੀ ਤਿਆਰ ਕੀਤੀ ਹੈ।",
       "translation_ru": "Идол сделан из камня, причём мастер ставил ногу на его грудь при изготовлении."
     },
     {
       "verse_id": 21550,
       "gurmukhi": "ਜੇ ਏਹ ਮੂਰਤਿ ਸਾਚੀ ਹੈ ਤਉ ਗੜ੍ਹਣਹਾਰੇ ਖਾਉ ॥੩॥",
-      "roman": "je eh mūrat sāchī hai tau gaṛhaṇhāre khāu",
+      "roman": "je eh mūrat sāchī hē tau gaṛhaṇhāre khāu",
       "sahib_singh_pa": "ਜੇ ਇਹ ਮੂਰਤੀ ਹੀ ਅਸਲੀ ਦੇਵਤਾ ਹੈ ਤਾਂ (ਇਸ ਨਿਰਾਦਰੀ ਦੇ ਕਾਰਨ) ਘੜਨ ਵਾਲੇ ਨੂੰ ਹੀ ਖਾ ਜਾਂਦੀ ॥੩॥",
       "translation_ru": "Если бы этот идол был истинным божеством, он бы наказал того, кто его сделал."
     },
@@ -130,14 +130,14 @@
     {
       "verse_id": 21553,
       "gurmukhi": "ਮਾਲਿਨਿ ਭੂਲੀ ਜਗੁ ਭੁਲਾਨਾ ਹਮ ਭੁਲਾਨੇ ਨਾਹਿ ॥",
-      "roman": "mālin bhūlī jag bhulānā ham bhulāne nāhi",
+      "roman": "mālin bhūlī jag bhulānā ham bhulāne nāh",
       "sahib_singh_pa": "ਮਾਲਣ (ਮੂਰਤੀ ਪੂਜਣ ਦੇ) ਭੁਲੇਖੇ ਵਿਚ ਪਈ ਹੈ, ਜਗਤ ਭੀ ਇਹੀ ਟਪਲਾ ਖਾ ਰਿਹਾ ਹੈ, ਪਰ ਅਸਾਂ ਇਹ ਗ਼ਲਤੀ ਨਹੀਂ ਖਾਧੀ,",
       "translation_ru": "Малини заблуждается, и весь мир тоже в заблуждении, но мы не поддались этой ошибке,"
     },
     {
       "verse_id": 21554,
       "gurmukhi": "ਕਹੁ ਕਬੀਰ ਹਮ ਰਾਮ ਰਾਖੇ ਕ੍ਰਿਪਾ ਕਰਿ ਹਰਿ ਰਾਇ ॥੫॥੧॥੧੪॥",
-      "roman": "kahu kabīr ham rām rākhe kripā kar har rāi",
+      "roman": "kah kabīr ham rām rākhe kripā kar har rāi",
       "sahib_singh_pa": "ਕਬੀਰ ਆਖਦਾ ਹੈ- ਕਿਉਂਕਿ ਪਰਮਾਤਮਾ ਨੇ ਆਪਣੀ ਮਿਹਰ ਕਰ ਕੇ ਸਾਨੂੰ ਇਸ ਭੁਲੇਖੇ ਤੋਂ ਬਚਾ ਲਿਆ ਹੈ ॥੫॥੧॥੧੪॥",
       "translation_ru": "говорит Кабир: Бог по своей милости спас нас от этого заблуждения."
     },
@@ -179,35 +179,35 @@
     {
       "verse_id": 21560,
       "gurmukhi": "ਸੂਕੇ ਸਰਵਰਿ ਪਾਲਿ ਬੰਧਾਵੈ ਲੂਣੈ ਖੇਤਿ ਹਥ ਵਾਰਿ ਕਰੈ ॥",
-      "roman": "sūke sarvar pāl bandhāvai lūṇai khet hath vār karai",
+      "roman": "sūke sarvar pāl bandhāvē lūṇē khet hath vār karē",
       "sahib_singh_pa": "(ਹੁਣ ਬੁਢੇਪਾ ਆਉਣ ਤੇ ਭੀ ਮੌਤ ਤੋਂ ਬਚਣ ਲਈ ਆਹਰ ਕਰਦਾ ਹੈ, ਪਰ ਇਸ ਦੇ ਉੱਦਮ ਇਉਂ ਹਨ ਜਿਵੇਂ) ਸੁੱਕੇ ਹੋਏ ਤਲਾ ਵਿਚ ਵੱਟ ਬੰਨ੍ਹ ਰਿਹਾ ਹੈ (ਤਾਂ ਕਿ ਪਾਣੀ ਤਲਾ ਵਿਚੋਂ ਬਾਹਰ ਨਾ ਨਿਕਲ ਜਾਏ), ਅਤੇ ਕੱਟੇ ਹੋਏ ਖੇਤ ਦੇ ਦੁਆਲੇ ਵਾੜ ਦੇ ਰਿਹਾ ਹੈ।",
       "translation_ru": "Человек старается удержать жизнь, словно строит дамбу в высохшем озере или ограждает уже сжатое поле."
     },
     {
       "verse_id": 21561,
       "gurmukhi": "ਆਇਓ ਚੋਰੁ ਤੁਰੰਤਹ ਲੇ ਗਇਓ ਮੇਰੀ ਰਾਖਤ ਮੁਗਧੁ ਫਿਰੈ ॥੨॥",
-      "roman": "āio chor turantah le gaio merī rākhat mugadh firai",
+      "roman": "āio chor turantah le gēo merī rākhat mugadh firē",
       "sahib_singh_pa": "ਮੂਰਖ ਮਨੁੱਖ ਜਿਸ ਸਰੀਰ ਨੂੰ ਆਪਣਾ ਬਣਾਈ ਰੱਖਣ ਦੇ ਜਤਨ ਕਰਦਾ ਫਿਰਦਾ ਹੈ, ਪਰ (ਜਦੋਂ ਜਮ ਰੂਪ) ਚੋਰ (ਭਾਵ, ਚੁਪ ਕੀਤੇ ਹੀ ਜਮ) ਆਉਂਦਾ ਹੈ ਤੇ (ਜਿੰਦ ਨੂੰ) ਲੈ ਤੁਰਦਾ ਹੈ ॥੨॥",
       "translation_ru": "Но когда приходит вор (смерть), он уносит душу, а глупец всё ещё пытается сохранить тело."
     },
     {
       "verse_id": 21562,
       "gurmukhi": "ਚਰਨ ਸੀਸੁ ਕਰ ਕੰਪਨ ਲਾਗੇ ਨੈਨੀ ਨੀਰੁ ਅਸਾਰ ਬਹੈ ॥",
-      "roman": "charan sīs kar kampan lāge nainī nīr asār bahai",
+      "roman": "charan sīs kar kampan lāge nēnī nīr asār bahē",
       "sahib_singh_pa": "ਪੈਰ, ਸਿਰ, ਹੱਥ ਕੰਬਣ ਲੱਗ ਜਾਂਦੇ ਹਨ, ਅੱਖਾਂ ਵਿਚੋਂ ਆਪ-ਮੁਹਾਰੇ ਪਾਣੀ ਵਗੀ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "Ноги, голова и руки начинают дрожать, слёзы текут из глаз сами по себе."
     },
     {
       "verse_id": 21563,
       "gurmukhi": "ਜਿਹਵਾ ਬਚਨੁ ਸੁਧੁ ਨਹੀ ਨਿਕਸੈ ਤਬ ਰੇ ਧਰਮ ਕੀ ਆਸ ਕਰੈ ॥੩॥",
-      "roman": "jihvā bachan sudh nahī nikasai tab re dharam kī ās karai",
+      "roman": "jihvā bachan sudh nahī nikasē tab re dharam kī ās karē",
       "sahib_singh_pa": "ਜੀਭ ਵਿਚੋਂ ਕੋਈ ਸਾਫ਼ ਲਫ਼ਜ਼ ਨਹੀਂ ਨਿਕਲਦਾ। ਹੇ ਮੂਰਖ! (ਕੀ) ਉਸ ਵੇਲੇ ਤੂੰ ਧਰਮ ਕਮਾਣ ਦੀ ਆਸ ਕਰਦਾ ਹੈਂ? ॥੩॥",
       "translation_ru": "Язык уже не произносит чётких слов — разве тогда надеешься заняться духовной жизнью?"
     },
     {
       "verse_id": 21564,
       "gurmukhi": "ਹਰਿ ਜੀਉ ਕ੍ਰਿਪਾ ਕਰੈ ਲਿਵ ਲਾਵੈ ਲਾਹਾ ਹਰਿ ਹਰਿ ਨਾਮੁ ਲੀਓ ॥",
-      "roman": "har jīu kripā karai liv lāvai lāhā har har nām līo",
+      "roman": "har jīu kripā karē liv lāvē lāhā har har nām līo",
       "sahib_singh_pa": "ਜਿਸ ਮਨੁੱਖ ਉੱਤੇ ਪਰਮਾਤਮਾ ਮਿਹਰ ਕਰਦਾ ਹੈ, ਉਸ ਦੀ ਸੁਰਤਿ (ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ) ਜੋੜਦਾ ਹੈ, ਉਹ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਰੂਪ ਲਾਭ ਖੱਟਦਾ ਹੈ।",
       "translation_ru": "Тот, на кого Бог проливает милость, соединяется с Ним и обретает пользу — Имя Бога."
     },
@@ -221,7 +221,7 @@
     {
       "verse_id": 21566,
       "gurmukhi": "ਕਹਤ ਕਬੀਰ ਸੁਨਹੁ ਰੇ ਸੰਤਹੁ ਅਨੁ ਧਨੁ ਕਛੂਐ ਲੈ ਨ ਗਇਓ ॥",
-      "roman": "kahat kabīr sunahu re santahu an dhan kachhūai lai na gaio",
+      "roman": "kahat kabīr sunah re santah an dhan kachhūē lē na gēo",
       "sahib_singh_pa": "ਕਬੀਰ ਕਹਿੰਦਾ ਹੈ-ਹੇ ਸੰਤ ਜਨੋ! ਸੁਣੋ, (ਕੋਈ ਜੀਵ ਭੀ ਮਰਨ ਵੇਲੇ) ਕੋਈ ਹੋਰ ਧਨ-ਪਦਾਰਥ ਆਪਣੇ ਨਾਲ ਨਹੀਂ ਲੈ ਜਾਂਦਾ,",
       "translation_ru": "Кабир говорит: слушайте, святые — никто не уносит с собой никакого иного богатства."
     },
@@ -256,21 +256,21 @@
     {
       "verse_id": 21571,
       "gurmukhi": "ਅਹਿਰਖ ਵਾਦੁ ਨ ਕੀਜੈ ਰੇ ਮਨ ॥",
-      "roman": "ahirakh vād na kījai re man",
+      "roman": "ahirakh vād na kījē re man",
       "sahib_singh_pa": "(ਪਰ) ਹੇ ਮਨ! ਈਰਖਾ ਤੇ ਝਗੜਾ ਕਿਉਂ ਕਰਦਾ ਹੈਂ?",
       "translation_ru": "О ум! Не предавайся зависти и спорам."
     },
     {
       "verse_id": 21572,
       "gurmukhi": "ਸੁਕ੍ਰਿਤੁ ਕਰਿ ਕਰਿ ਲੀਜੈ ਰੇ ਮਨ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "sukrit kar kar lījai re man",
+      "roman": "sukrit kar kar lījē re man",
       "sahib_singh_pa": "ਨੇਕ ਕਮਾਈ ਕਰੀ ਜਾਹ ਤੇ ਤੂੰ ਭੀ (ਇਹ ਸੁਖ) ਹਾਸਲ ਕਰ ਲੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Совершай добрые дела и так обретёшь благо."
     },
     {
       "verse_id": 21573,
       "gurmukhi": "ਕੁਮੑਾਰੈ ਏਕ ਜੁ ਮਾਟੀ ਗੂੰਧੀ ਬਹੁ ਬਿਧਿ ਬਾਨੀ ਲਾਈ ॥",
-      "roman": "kumhārai ek ju māṭī gūndhī bahu bidh bānī lāī",
+      "roman": "kumhārē ek ju māṭī gūndhī bah bidh bānī lāī",
       "sahib_singh_pa": "ਘੁਮਿਆਰ ਨੇ ਇਕੋ ਹੀ ਮਿੱਟੀ ਗੁੰਨ੍ਹੀ ਤੇ ਉਸ ਨੂੰ ਕਈ ਕਿਸਮ ਦੇ ਰੰਗ ਲਾ ਦਿੱਤੇ (ਭਾਵ, ਕਈ ਵੰਨਗੀਆਂ ਦੇ ਭਾਂਡੇ ਬਣਾ ਦਿੱਤੇ)।",
       "translation_ru": "Гончар замесил одну и ту же глину и сделал из неё разные изделия."
     },
@@ -284,7 +284,7 @@
     {
       "verse_id": 21575,
       "gurmukhi": "ਸੂਮਹਿ ਧਨੁ ਰਾਖਨ ਕਉ ਦੀਆ ਮੁਗਧੁ ਕਹੈ ਧਨੁ ਮੇਰਾ ॥",
-      "roman": "sūmah dhan rākhan kau dīā mugadh kahai dhan merā",
+      "roman": "sūmah dhan rākhan kau dīā mugadh kahē dhan merā",
       "sahib_singh_pa": "ਸ਼ੂਮ ਨੂੰ ਧਨ ਜੋੜ ਕੇ ਰੱਖਣ ਲਈ ਜੁੜਿਆ ਹੈ, (ਅਤੇ) ਮੂਰਖ (ਸ਼ੂਮ) ਆਖਦਾ ਹੈ-ਇਹ ਧਨ ਮੇਰਾ ਹੈ।",
       "translation_ru": "Скупцу дано богатство лишь для хранения, но глупец говорит: «Это моё»."
     }

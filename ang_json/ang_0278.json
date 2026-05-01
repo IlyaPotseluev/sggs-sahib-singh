@@ -4,21 +4,21 @@
     {
       "verse_id": 12412,
       "gurmukhi": "ਨਾਨਾ ਰੂਪ ਜਿਉ ਸ੍ਵਾਗੀ ਦਿਖਾਵੈ ॥",
-      "roman": "nānā rūp jiu svāgī dikhāvai",
+      "roman": "nānā rūp jiu svāgī dikhāvē",
       "sahib_singh_pa": "ਬਹੁ-ਰੂਪੀਏ ਵਾਂਗ ਕਈ ਤਰ੍ਹਾਂ ਦੇ ਰੂਪ ਵਿਖਾ ਰਿਹਾ ਹੈ,",
       "translation_ru": "словно многообличный актёр, показывает самые разные образы,"
     },
     {
       "verse_id": 12413,
       "gurmukhi": "ਜਿਉ ਪ੍ਰਭ ਭਾਵੈ ਤਿਵੈ ਨਚਾਵੈ ॥",
-      "roman": "jiu prabh bhāvai tivai nachāvai",
+      "roman": "jiu prabh bhāvē tivē nachāvē",
       "sahib_singh_pa": "ਜਿਉਂ ਪ੍ਰਭੂ ਨੂੰ ਭਾਉਂਦਾ ਹੈ ਤਿਵੇਂ (ਜੀਵਾਂ ਨੂੰ) ਨਚਾਉਂਦਾ ਹੈ।",
       "translation_ru": "и как угодно Господу, так Он и заставляет живых существ танцевать."
     },
     {
       "verse_id": 12414,
       "gurmukhi": "ਜੋ ਤਿਸੁ ਭਾਵੈ ਸੋਈ ਹੋਇ ॥",
-      "roman": "jo tis bhāvai soe hoe",
+      "roman": "jo tis bhāvē soe hoe",
       "sahib_singh_pa": "ਉਹੀ ਹੁੰਦਾ ਹੈ ਜੋ ਉਸ (ਮਾਲਕ) ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ।",
       "translation_ru": "Происходит только то, что нравится этому Владыке."
     },
@@ -32,14 +32,14 @@
     {
       "verse_id": 12416,
       "gurmukhi": "ਕਬਹੂ ਸਾਧਸੰਗਤਿ ਇਹੁ ਪਾਵੈ ॥",
-      "roman": "kabhū sādhsangat ih pāvai",
+      "roman": "kabhū sādhsangat ih pāvē",
       "sahib_singh_pa": "(ਜਦੋਂ) ਕਦੇ (ਪ੍ਰਭੂ ਦੀ ਅੰਸ਼) ਇਹ ਜੀਵ ਸਤਸੰਗਿ ਵਿਚ ਅੱਪੜਦਾ ਹੈ,",
       "translation_ru": "Когда иногда это живое существо, частица Господа, попадает в са̄дхсангат,"
     },
     {
       "verse_id": 12417,
       "gurmukhi": "ਉਸੁ ਅਸਥਾਨ ਤੇ ਬਹੁਰਿ ਨ ਆਵੈ ॥",
-      "roman": "us asthān te bahur na āvai",
+      "roman": "us asthān te bahur na āvē",
       "sahib_singh_pa": "ਤਾਂ ਉਸ ਥਾਂ ਤੋਂ ਮੁੜ ਵਾਪਸ ਨਹੀਂ ਆਉਂਦਾ;",
       "translation_ru": "то уже не возвращается назад из того состояния;"
     },
@@ -67,14 +67,14 @@
     {
       "verse_id": 12421,
       "gurmukhi": "ਸਦਾ ਬਸਹਿ ਪਾਰਬ੍ਰਹਮ ਕੈ ਸੰਗਿ ॥",
-      "roman": "sadā basahi Pārbrahm kai saṅg",
+      "roman": "sadā basah Pārbrahm kē saṅg",
       "sahib_singh_pa": "ਉਹ ਸਦਾ ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਵੱਸਦੇ ਹਨ।",
       "translation_ru": "всегда пребывают в присутствии Господа."
     },
     {
       "verse_id": 12422,
       "gurmukhi": "ਜਿਉ ਜਲ ਮਹਿ ਜਲੁ ਆਇ ਖਟਾਨਾ ॥",
-      "roman": "jiu jal mahi jal āe khaṭānā",
+      "roman": "jiu jal mah jal āe khaṭānā",
       "sahib_singh_pa": "(ਸੋ) ਜਿਵੇਂ ਪਾਣੀ ਵਿਚ ਪਾਣੀ ਆ ਰਲਦਾ ਹੈ,",
       "translation_ru": "Как вода сливается с водой,"
     },
@@ -95,7 +95,7 @@
     {
       "verse_id": 12425,
       "gurmukhi": "ਨਾਨਕ ਪ੍ਰਭ ਕੈ ਸਦ ਕੁਰਬਾਨ ॥੮॥੧੧॥",
-      "roman": "Nānak prabh kai sad kurbān ॥8॥11॥",
+      "roman": "Nānak prabh kē sad kurbān ॥8॥11॥",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਪ੍ਰਭੂ ਤੋਂ ਸਦਕੇ ਜਾਈਏ ॥੮॥੧੧॥",
       "translation_ru": "О Нанак! Будем всегда жертвовать собой ради Господа. ॥8॥11॥"
     },
@@ -109,7 +109,7 @@
     {
       "verse_id": 12427,
       "gurmukhi": "ਸੁਖੀ ਬਸੈ ਮਸਕੀਨੀਆ ਆਪੁ ਨਿਵਾਰਿ ਤਲੇ ॥",
-      "roman": "sukhī basai maskīnīā āp nivār talē",
+      "roman": "sukhī basē maskīnīā āp nivār talē",
       "sahib_singh_pa": "ਗਰੀਬੀ ਸੁਭਾਉ ਵਾਲਾ ਬੰਦਾ ਆਪਾ-ਭਾਵ ਦੂਰ ਕਰ ਕੇ, ਤੇ ਨੀਵਾਂ ਰਹਿ ਕੇ ਸੁਖੀ ਵੱਸਦਾ ਹੈ,",
       "translation_ru": "Человек со смиренным, бедным духом нравом, устранив самоутверждение и оставаясь низким, живёт счастливо,"
     },
@@ -130,7 +130,7 @@
     {
       "verse_id": 12430,
       "gurmukhi": "ਜਿਸ ਕੈ ਅੰਤਰਿ ਰਾਜ ਅਭਿਮਾਨੁ ॥",
-      "roman": "jis kai antar rāj abhimān",
+      "roman": "jis kē antar rāj abhimān",
       "sahib_singh_pa": "ਜਿਸ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਰਾਜ ਦਾ ਮਾਣ ਹੈ,",
       "translation_ru": "У того человека, в чьём уме есть гордость царской властью,"
     },
@@ -144,7 +144,7 @@
     {
       "verse_id": 12432,
       "gurmukhi": "ਜੋ ਜਾਨੈ ਮੈ ਜੋਬਨਵੰਤੁ ॥",
-      "roman": "jo jānai mai jobanvaṅt",
+      "roman": "jo jānē mē jobanvaṅt",
       "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ ਆਪਣੇ ਆਪ ਨੂੰ ਬੜਾ ਸੋਹਣਾ ਸਮਝਦਾ ਹੈ,",
       "translation_ru": "Кто считает себя очень красивым,"
     },
@@ -158,21 +158,21 @@
     {
       "verse_id": 12434,
       "gurmukhi": "ਆਪਸ ਕਉ ਕਰਮਵੰਤੁ ਕਹਾਵੈ ॥",
-      "roman": "āpas kau karamvaṅt kahāvai",
+      "roman": "āpas kau karamvaṅt kahāvē",
       "sahib_singh_pa": "ਜੇਹੜਾ ਆਪਣੇ ਆਪ ਨੂੰ ਚੰਗੇ ਕੰਮ ਕਰਨ ਵਾਲਾ ਅਖਵਾਉਂਦਾ ਹੈ,",
       "translation_ru": "Тот, кто хочет, чтобы его называли совершающим добрые дела,"
     },
     {
       "verse_id": 12435,
       "gurmukhi": "ਜਨਮਿ ਮਰੈ ਬਹੁ ਜੋਨਿ ਭ੍ਰਮਾਵੈ ॥",
-      "roman": "janam marai bahu jon bhramāvai",
+      "roman": "janam marē bah jon bhramāvē",
       "sahib_singh_pa": "ਉਹ ਸਦਾ ਜੰਮਦਾ ਮਰਦਾ ਹੈ, ਕਈ ਜੂਨਾਂ ਵਿਚ ਭਟਕਦਾ ਫਿਰਦਾ ਹੈ।",
       "translation_ru": "вечно рождается и умирает, скитается по многим формам существования."
     },
     {
       "verse_id": 12436,
       "gurmukhi": "ਧਨ ਭੂਮਿ ਕਾ ਜੋ ਕਰੈ ਗੁਮਾਨੁ ॥",
-      "roman": "dhan bhūm kā jo karai gumān",
+      "roman": "dhan bhūm kā jo karē gumān",
       "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ ਧਨ ਤੇ ਧਰਤੀ (ਦੀ ਮਾਲਕੀ) ਦਾ ਅਹੰਕਾਰ ਕਰਦਾ ਹੈ,",
       "translation_ru": "Кто гордится богатством и землёй, своей собственностью,"
     },
@@ -186,35 +186,35 @@
     {
       "verse_id": 12438,
       "gurmukhi": "ਕਰਿ ਕਿਰਪਾ ਜਿਸ ਕੈ ਹਿਰਦੈ ਗਰੀਬੀ ਬਸਾਵੈ ॥",
-      "roman": "kar kirpā jis kai hirdai garībī basāvai",
+      "roman": "kar kirpā jis kē hirdē garībī basāvē",
       "sahib_singh_pa": "ਮੇਹਰ ਕਰ ਕੇ ਜਿਸ ਮਨੁੱਖ ਦੇ ਦਿਲ ਵਿਚ ਗਰੀਬੀ (ਸੁਭਾਉ) ਪਾਂਦਾ ਹੈ,",
       "translation_ru": "Тому, в чьё сердце по милости вселяется смирение,"
     },
     {
       "verse_id": 12439,
       "gurmukhi": "ਨਾਨਕ ਈਹਾ ਮੁਕਤੁ ਆਗੈ ਸੁਖੁ ਪਾਵੈ ॥੧॥",
-      "roman": "nānak īhā mukat āgai sukh pāvai ||1||",
+      "roman": "nānak īhā mukat āgē sukh pāvē ||1||",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਉਹ ਮਨੁੱਖ) ਇਸ ਜ਼ਿੰਦਗੀ ਵਿਚ ਵਿਕਾਰਾਂ ਤੋਂ ਬਚਿਆ ਰਹਿੰਦਾ ਹੈ ਤੇ ਪਰਲੋਕ ਵਿਚ ਸੁਖ ਪਾਂਦਾ ਹੈ ॥੧॥",
       "translation_ru": "о Нанак, тот и в этой жизни остаётся избавленным от пороков, и в ином мире обретает покой ॥1॥"
     },
     {
       "verse_id": 12440,
       "gurmukhi": "ਧਨਵੰਤਾ ਹੋਇ ਕਰਿ ਗਰਬਾਵੈ ॥",
-      "roman": "dhanvaṅtā hoi kar garbāvai",
+      "roman": "dhanvaṅtā hoi kar garbāvē",
       "sahib_singh_pa": "ਮਨੁੱਖ ਧਨ ਵਾਲਾ ਹੋ ਕੇ ਮਾਣ ਕਰਦਾ ਹੈ,",
       "translation_ru": "Человек, став богатым, начинает гордиться,"
     },
     {
       "verse_id": 12441,
       "gurmukhi": "ਤ੍ਰਿਣ ਸਮਾਨਿ ਕਛੁ ਸੰਗਿ ਨ ਜਾਵੈ ॥",
-      "roman": "triṇ samān kachh saṅg na jāvai",
+      "roman": "triṇ samān kachh saṅg na jāvē",
       "sahib_singh_pa": "(ਪਰ ਉਸ ਦੇ) ਨਾਲ (ਅੰਤ ਵੇਲੇ) ਇਕ ਤੀਲੇ ਜਿਤਨੀ ਭੀ ਕੋਈ ਚੀਜ਼ ਨਹੀਂ ਜਾਂਦੀ।",
       "translation_ru": "но с ним в конце не уходит даже вещь величиной с соломинку."
     },
     {
       "verse_id": 12442,
       "gurmukhi": "ਬਹੁ ਲਸਕਰ ਮਾਨੁਖ ਊਪਰਿ ਕਰੇ ਆਸ ॥",
-      "roman": "bahu laskar mānukh ūpar karē ās",
+      "roman": "bah laskar mānukh ūpar karē ās",
       "sahib_singh_pa": "ਬਹੁਤੇ ਲਸ਼ਕਰ ਅਤੇ ਮਨੁੱਖਾਂ ਉਤੇ ਬੰਦਾ ਆਸਾਂ ਲਾਈ ਰੱਖਦਾ ਹੈ,",
       "translation_ru": "Человек возлагает надежды на множество войск и людей,"
     },
@@ -228,7 +228,7 @@
     {
       "verse_id": 12444,
       "gurmukhi": "ਸਭ ਤੇ ਆਪ ਜਾਨੈ ਬਲਵੰਤੁ ॥",
-      "roman": "sabh te āp jānai balvaṅt",
+      "roman": "sabh te āp jānē balvaṅt",
       "sahib_singh_pa": "ਮਨੁੱਖ ਆਪਣੇ ਆਪ ਨੂੰ ਸਭ ਨਾਲੋਂ ਬਲੀ ਸਮਝਦਾ ਹੈ,",
       "translation_ru": "Человек считает себя сильнее всех,"
     },
@@ -242,7 +242,7 @@
     {
       "verse_id": 12446,
       "gurmukhi": "ਕਿਸੈ ਨ ਬਦੈ ਆਪਿ ਅਹੰਕਾਰੀ ॥",
-      "roman": "kisai na badai āp ahaṅkārī",
+      "roman": "kisē na badē āp ahaṅkārī",
       "sahib_singh_pa": "(ਜੋ ਬੰਦਾ) ਆਪ (ਇਤਨਾ) ਅਹੰਕਾਰੀ ਹੋ ਜਾਂਦਾ ਹੈ ਕਿ ਕਿਸੇ ਦੀ ਭੀ ਪਰਵਾਹ ਨਹੀਂ ਕਰਦਾ,",
       "translation_ru": "Тот, кто сам становится настолько гордым, что ни с кем не считается,"
     },
@@ -256,7 +256,7 @@
     {
       "verse_id": 12448,
       "gurmukhi": "ਗੁਰ ਪ੍ਰਸਾਦਿ ਜਾ ਕਾ ਮਿਟੈ ਅਭਿਮਾਨੁ ॥",
-      "roman": "gur prasād jā kā miṭai abhimān",
+      "roman": "gur prasād jā kā miṭē abhimān",
       "sahib_singh_pa": "ਸਤਿਗੁਰੂ ਦੀ ਦਇਆ ਨਾਲ ਜਿਸ ਦਾ ਅਹੰਕਾਰ ਮਿਟਦਾ ਹੈ,",
       "translation_ru": "Тот, чья гордыня исчезает по милости Сатгуру,"
     },
@@ -270,14 +270,14 @@
     {
       "verse_id": 12450,
       "gurmukhi": "ਕੋਟਿ ਕਰਮ ਕਰੈ ਹਉ ਧਾਰੇ ॥",
-      "roman": "koṭ karam karai hau dhārē",
+      "roman": "koṭ karam karē hau dhārē",
       "sahib_singh_pa": "(ਜੇ ਮਨੁੱਖ) ਕਰੋੜਾਂ (ਧਾਰਮਿਕ) ਕੰਮ ਕਰੇ (ਤੇ ਉਹਨਾਂ ਦਾ) ਅਹੰਕਾਰ (ਭੀ) ਕਰੇ,",
       "translation_ru": "Если человек совершает миллионы религиозных дел и ещё гордится ими,"
     },
     {
       "verse_id": 12451,
       "gurmukhi": "ਸ੍ਰਮੁ ਪਾਵੈ ਸਗਲੇ ਬਿਰਥਾਰੇ ॥",
-      "roman": "sram pāvai sagle birthāre",
+      "roman": "sram pāvē sagle birthāre",
       "sahib_singh_pa": "ਤਾਂ ਉਹ ਸਾਰੇ ਕੰਮ ਵਿਅਰਥ ਹਨ, (ਉਹਨਾਂ ਕੰਮਾਂ ਦਾ ਫਲ ਉਸ ਨੂੰ ਕੇਵਲ) ਥਕੇਵਾਂ (ਹੀ) ਮਿਲਦਾ ਹੈ।",
       "translation_ru": "то все эти дела напрасны, а плод их для него — лишь усталость."
     },
@@ -298,28 +298,28 @@
     {
       "verse_id": 12454,
       "gurmukhi": "ਅਨਿਕ ਜਤਨ ਕਰਿ ਆਤਮ ਨਹੀ ਦ੍ਰਵੈ ॥",
-      "roman": "anik jatan kar ātam nahī dravai",
+      "roman": "anik jatan kar ātam nahī dravē",
       "sahib_singh_pa": "ਅਨੇਕਾਂ ਜਤਨ ਕੀਤਿਆਂ ਜੇ ਹਿਰਦਾ ਨਰਮ ਨਹੀਂ ਹੁੰਦਾ ਤਾਂ ਦੱਸੋ,",
       "translation_ru": "Если после множества усилий сердце не становится мягким, то скажи,"
     },
     {
       "verse_id": 12455,
       "gurmukhi": "ਹਰਿ ਦਰਗਹ ਕਹੁ ਕੈਸੇ ਗਵੈ ॥",
-      "roman": "har dargeh kaho kaisē gavai",
+      "roman": "har dargeh kaho kēsē gavē",
       "sahib_singh_pa": "ਉਹ ਮਨੁੱਖ ਪ੍ਰਭੂ ਦੀ ਦਰਗਾਹ ਵਿਚ ਕਿਵੇਂ ਪਹੁੰਚ ਸਕਦਾ ਹੈ?",
       "translation_ru": "как такой человек сможет прийти в Божью даргах?"
     },
     {
       "verse_id": 12456,
       "gurmukhi": "ਆਪਸ ਕਉ ਜੋ ਭਲਾ ਕਹਾਵੈ ॥",
-      "roman": "āpas kau jo bhalā kahāvai",
+      "roman": "āpas kau jo bhalā kahāvē",
       "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ ਆਪਣੇ ਆਪ ਨੂੰ ਨੇਕ ਅਖਵਾਉਂਦਾ ਹੈ,",
       "translation_ru": "Кто хочет, чтобы его называли добродетельным,"
     },
     {
       "verse_id": 12457,
       "gurmukhi": "ਤਿਸਹਿ ਭਲਾਈ ਨਿਕਟਿ ਨ ਆਵੈ ॥",
-      "roman": "tiseh bhalāī nikaṭ na āvai",
+      "roman": "tiseh bhalāī nikaṭ na āvē",
       "sahib_singh_pa": "ਨੇਕੀ ਉਸ ਦੇ ਨੇੜੇ ਭੀ ਨਹੀਂ ਢੁੱਕਦੀ।",
       "translation_ru": "к тому и близко не подходит добродетель."
     },
@@ -340,7 +340,7 @@
     {
       "verse_id": 12460,
       "gurmukhi": "ਜਬ ਲਗੁ ਜਾਨੈ ਮੁਝ ਤੇ ਕਛੁ ਹੋਇ ॥",
-      "roman": "jab lag jānai mujh te kachh hoi",
+      "roman": "jab lag jānē mujh te kachh hoi",
       "sahib_singh_pa": "ਮਨੁੱਖ ਜਦ ਤਕ ਇਹ ਸਮਝਦਾ ਹੈ ਕਿ ਮੈਥੋਂ ਕੁਝ ਹੋ ਸਕਦਾ ਹੈ,",
       "translation_ru": "Пока человек думает, что от него самого что то может быть,"
     },
@@ -354,7 +354,7 @@
     {
       "verse_id": 12462,
       "gurmukhi": "ਜਬ ਇਹ ਜਾਨੈ ਮੈ ਕਿਛੁ ਕਰਤਾ ॥",
-      "roman": "jab ih jānai mai kichh kartā",
+      "roman": "jab ih jānē mē kichh kartā",
       "sahib_singh_pa": "ਜਦ ਤਕ ਇਹ ਸਮਝਦਾ ਹੈ ਕਿ ਮੈਂ (ਆਪਣੇ ਬਲ ਨਾਲ) ਕੁਝ ਕਰਦਾ ਹਾਂ,",
       "translation_ru": "Пока он считает, что я сам своей силой что то делаю,"
     },
@@ -368,7 +368,7 @@
     {
       "verse_id": 12464,
       "gurmukhi": "ਜਬ ਧਾਰੈ ਕੋਊ ਬੈਰੀ ਮੀਤੁ ॥",
-      "roman": "jab dhārai koū bairy mīt",
+      "roman": "jab dhārē koū bēry mīt",
       "sahib_singh_pa": "ਜਦ ਤਕ ਮਨੁੱਖ ਕਿਸੇ ਨੂੰ ਵੈਰੀ ਤੇ ਕਿਸੇ ਨੂੰ ਮਿਤ੍ਰ ਸਮਝਦਾ ਹੈ,",
       "translation_ru": "Пока человек считает одного врагом, а другого другом,"
     },
@@ -396,21 +396,21 @@
     {
       "verse_id": 12468,
       "gurmukhi": "ਪ੍ਰਭ ਕਿਰਪਾ ਤੇ ਬੰਧਨ ਤੂਟੈ ॥",
-      "roman": "prabh kirpā te bandhan tūṭai",
+      "roman": "prabh kirpā te bandhan tūṭē",
       "sahib_singh_pa": "(ਮਾਇਆ ਦੇ) ਬੰਧਨ ਪ੍ਰਭੂ ਦੀ ਮੇਹਰ ਨਾਲ ਟੁੱਟਦੇ ਹਨ,",
       "translation_ru": "Оковы майи разрываются по милости Прабху,"
     },
     {
       "verse_id": 12469,
       "gurmukhi": "ਗੁਰ ਪ੍ਰਸਾਦਿ ਨਾਨਕ ਹਉ ਛੂਟੈ ॥੪॥",
-      "roman": "gur prasād nānak hau chhūṭai ||4||",
+      "roman": "gur prasād nānak hau chhūṭē ||4||",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਮਨੁੱਖ ਦੀ ਹਉਮੈ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮੁੱਕਦੀ ਹੈ ॥੪॥",
       "translation_ru": "о Нанак, а хоумэ человека прекращается по милости Гуру ॥4॥"
     },
     {
       "verse_id": 12470,
       "gurmukhi": "ਸਹਸ ਖਟੇ ਲਖ ਕਉ ਉਠਿ ਧਾਵੈ ॥",
-      "roman": "sahas khaṭe lakh kau uṭh dhāvai",
+      "roman": "sahas khaṭe lakh kau uṭh dhāvē",
       "sahib_singh_pa": "(ਮਨੁੱਖ) ਹਜ਼ਾਰਾਂ (ਰੁਪਏ) ਕਮਾਉਂਦਾ ਹੈ ਤੇ ਲੱਖਾਂ (ਰੁਪਇਆਂ) ਦੀ ਖ਼ਾਤਰ ਉੱਠ ਦੌੜਦਾ ਹੈ;",
       "translation_ru": "Человек зарабатывает тысячи и вскакивает бежать за сотнями тысяч,"
     }

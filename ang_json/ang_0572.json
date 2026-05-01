@@ -32,21 +32,21 @@
     {
       "verse_id": 25064,
       "gurmukhi": "ਮੇਰੈ ਮਨਿ ਮੇਰੈ ਮਨਿ ਸਤਿਗੁਰਿ ਪ੍ਰੀਤਿ ਲਗਾਈ ਰਾਮ ॥",
-      "roman": "merai man merai man satgur prīt lagāī rām",
+      "roman": "merē man merē man satgur prīt lagāī rām",
       "sahib_singh_pa": "ਗੁਰੂ ਨੇ ਮੇਰੇ ਮਨ ਵਿਚ (ਆਪਣੇ ਚਰਨਾਂ ਦੀ) ਪ੍ਰੀਤ ਪੈਦਾ ਕੀਤੀ ਹੈ।",
       "translation_ru": "Гуру породил в моём уме любовь к своим стопам."
     },
     {
       "verse_id": 25065,
       "gurmukhi": "ਹਰਿ ਹਰਿ ਹਰਿ ਹਰਿ ਨਾਮੁ ਮੇਰੈ ਮੰਨਿ ਵਸਾਈ ਰਾਮ ॥",
-      "roman": "har har har har nām merai mann vasāī rām",
+      "roman": "har har har har nām merē mann vasāī rām",
       "sahib_singh_pa": "ਗੁਰੂ ਨੇ ਮੇਰੇ ਮਨ ਵਿਚ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਵਸਾ ਦਿੱਤਾ ਹੈ।",
       "translation_ru": "Гуру поселил в моём уме Имя Бога."
     },
     {
       "verse_id": 25066,
       "gurmukhi": "ਹਰਿ ਹਰਿ ਨਾਮੁ ਮੇਰੈ ਮੰਨਿ ਵਸਾਈ ਸਭਿ ਦੂਖ ਵਿਸਾਰਣਹਾਰਾ ॥",
-      "roman": "har har nām merai mann vasāī sabh dūkh visāraṇhārā",
+      "roman": "har har nām merē mann vasāī sabh dūkh visāraṇhārā",
       "sahib_singh_pa": "(ਗੁਰੂ ਨੇ) ਮੇਰੇ ਮਨ ਵਿਚ (ਉਹ) ਹਰਿ-ਨਾਮ ਵਸਾ ਦਿੱਤਾ ਹੈ ਜੋ ਸਾਰੇ ਦੁੱਖ ਦੂਰ ਕਰਨ ਦੀ ਸਮਰਥਾ ਵਾਲਾ ਹੈ।",
       "translation_ru": "Гуру поселил в моём уме то Имя Хари, которое устраняет все страдания."
     },
@@ -60,14 +60,14 @@
     {
       "verse_id": 25068,
       "gurmukhi": "ਊਠਤ ਬੈਠਤ ਸਤਿਗੁਰੁ ਸੇਵਹ ਜਿਤੁ ਸੇਵਿਐ ਸਾਂਤਿ ਪਾਈ ॥",
-      "roman": "ūṭhat baiṭhat satgur sevah jit seviā sānt pāī",
+      "roman": "ūṭhat bēṭhat satgur sevah jit seviā sānt pāī",
       "sahib_singh_pa": "ਹੁਣ ਮੈਂ ਉਠਦਾ ਬੈਠਦਾ ਹਰ ਵੇਲੇ ਗੁਰੂ ਦੀ ਦੱਸੀ ਸੇਵਾ ਕਰਦਾ ਹਾਂ ਜਿਸ ਸੇਵਾ ਦੀ ਬਰਕਤਿ ਨਾਲ ਮੈਂ ਆਤਮਕ ਸ਼ਾਂਤੀ ਹਾਸਲ ਕਰ ਲਈ ਹੈ।",
       "translation_ru": "Теперь вставая и садясь, я служу Гуру и через это обрел духовный покой."
     },
     {
       "verse_id": 25069,
       "gurmukhi": "ਮੇਰੈ ਮਨਿ ਮੇਰੈ ਮਨਿ ਸਤਿਗੁਰ ਪ੍ਰੀਤਿ ਲਗਾਈ ॥੧॥",
-      "roman": "merai man merai man satgur prīt lagāī",
+      "roman": "merē man merē man satgur prīt lagāī",
       "sahib_singh_pa": "ਮੇਰੇ ਮਨ ਵਿਚ, ਮੇਰੇ ਮਨ ਵਿਚ ਗੁਰੂ ਦਾ ਪਿਆਰ ਪੈਦਾ ਹੋ ਗਿਆ ਹੈ ॥੧॥",
       "translation_ru": "В моём уме возникла любовь к Гуру."
     },
@@ -95,7 +95,7 @@
     {
       "verse_id": 25073,
       "gurmukhi": "ਹਉਮੈ ਰੋਗੁ ਗਇਆ ਦੁਖੁ ਲਾਥਾ ਹਰਿ ਸਹਜਿ ਸਮਾਧਿ ਲਗਾਈ ॥",
-      "roman": "haumai rog giā dukh lāthā har sahaj samādh lagāī",
+      "roman": "haumē rog giā dukh lāthā har sahaj samādh lagāī",
       "sahib_singh_pa": "ਮੇਰੇ ਅੰਦਰੋਂ ਹਉਮੈ ਰੋਗ ਦੂਰ ਹੋ ਗਿਆ ਹੈ, ਮੇਰਾ ਸਾਰਾ ਦੁੱਖ ਲਹਿ ਗਿਆ ਹੈ, ਹਰਿ-ਨਾਮ ਨੇ ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਮੇਰੀ ਸੁਰਤ ਟਿਕਵੇਂ ਤੌਰ ਤੇ ਜੋੜ ਦਿੱਤੀ ਹੈ।",
       "translation_ru": "Болезнь Хоумэ исчезла, страдания ушли, и сознание утвердилось в покое."
     },
@@ -116,7 +116,7 @@
     {
       "verse_id": 25076,
       "gurmukhi": "ਕੋਈ ਆਣਿ ਕੋਈ ਆਣਿ ਮਿਲਾਵੈ ਮੇਰਾ ਸਤਿਗੁਰੁ ਪੂਰਾ ਰਾਮ ॥",
-      "roman": "koī āṇ koī āṇ milāvai merā satgur pūrā rām",
+      "roman": "koī āṇ koī āṇ milāvē merā satgur pūrā rām",
       "sahib_singh_pa": "ਜੇ ਕੋਈ ਲਿਆ ਕੇ, ਜੇ ਕੋਈ ਲਿਆ ਕੇ ਮੈਨੂੰ ਪੂਰਾ ਗੁਰੂ ਮਿਲਾ ਦੇਵੇ,",
       "translation_ru": "Если бы кто-нибудь привёл меня к совершенному Гуру,"
     },
@@ -137,35 +137,35 @@
     {
       "verse_id": 25079,
       "gurmukhi": "ਮੇਰੈ ਮਨਿ ਬੈਰਾਗੁ ਭਇਆ ਬੈਰਾਗੀ ਮਿਲਿ ਗੁਰ ਦਰਸਨਿ ਸੁਖੁ ਪਾਏ ॥",
-      "roman": "merai man bairāg bhaiā bairāgī mil gur darsan sukh pāē",
+      "roman": "merē man bērāg bhēā bērāgī mil gur darsan sukh pāē",
       "sahib_singh_pa": "ਮੇਰੇ ਉਤਾਵਲੇ ਹੋ ਰਹੇ ਮਨ ਵਿਚ ਗੁਰੂ ਦੇ ਦਰਸਨ ਦੀ ਤਾਂਘ ਪੈਦਾ ਹੋ ਰਹੀ ਹੈ। ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ, ਗੁਰੂ ਦੇ ਦਰਸਨ ਨਾਲ ਮੇਰਾ ਮਨ ਸੁਖ ਅਨੁਭਵ ਕਰਦਾ ਹੈ।",
       "translation_ru": "В моём уме возникло стремление; встретив Гуру, я обрёл радость."
     },
     {
       "verse_id": 25080,
       "gurmukhi": "ਹਰਿ ਹਰਿ ਕ੍ਰਿਪਾ ਕਰਹੁ ਸੁਖਦਾਤੇ ਦੇਹੁ ਸਤਿਗੁਰ ਚਰਨ ਹਮ ਧੂਰਾ ॥",
-      "roman": "har har kirpā karahu sukhdātē dēhu satgur charan ham dhūrā",
+      "roman": "har har kirpā karah sukhdātē dēh satgur charan ham dhūrā",
       "sahib_singh_pa": "ਹੇ ਹਰੀ! ਹੇ ਸੁਖਦਾਤੇ ਹਰੀ! ਮੇਹਰ ਕਰ, ਮੈਨੂੰ ਪੂਰੇ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਬਖ਼ਸ਼।",
       "translation_ru": "О Хари, дарующий счастье, прояви милость и дай пыль стоп Гуру."
     },
     {
       "verse_id": 25081,
       "gurmukhi": "ਕੋਈ ਆਣਿ ਕੋਈ ਆਣਿ ਮਿਲਾਵੈ ਮੇਰਾ ਸਤਿਗੁਰੁ ਪੂਰਾ ॥੩॥",
-      "roman": "koī āṇ koī āṇ milāvai merā satgur pūrā",
+      "roman": "koī āṇ koī āṇ milāvē merā satgur pūrā",
       "sahib_singh_pa": "ਕੋਈ ਲਿਆ ਕੇ, ਕੋਈ ਲਿਆ ਕੇ ਮੈਨੂੰ ਪੂਰਾ ਗੁਰੂ ਮਿਲਾ ਦੇਵੇ! ॥੩॥",
       "translation_ru": "Пусть кто-нибудь приведёт меня к совершенному Гуру."
     },
     {
       "verse_id": 25082,
       "gurmukhi": "ਗੁਰ ਜੇਵਡੁ ਗੁਰ ਜੇਵਡੁ ਦਾਤਾ ਮੈ ਅਵਰੁ ਨ ਕੋਈ ਰਾਮ ॥",
-      "roman": "gur jevaḍ gur jevaḍ dātā mai avar na koī rām",
+      "roman": "gur jevaḍ gur jevaḍ dātā mē avar na koī rām",
       "sahib_singh_pa": "ਗੁਰੂ ਦੇ ਬਰਾਬਰ ਦਾ, ਗੁਰੂ ਦੇ ਬਰਾਬਰ ਦਾ ਦਾਤਾ ਮੈਨੂੰ ਹੋਰ ਕੋਈ ਨਹੀਂ (ਦਿੱਸਦਾ)।",
       "translation_ru": "Нет другого дарителя, равного Гуру."
     },
     {
       "verse_id": 25083,
       "gurmukhi": "ਹਰਿ ਦਾਨੋ ਹਰਿ ਦਾਨੁ ਦੇਵੈ ਹਰਿ ਪੁਰਖੁ ਨਿਰੰਜਨੁ ਸੋਈ ਰਾਮ ॥",
-      "roman": "har dāno har dān dēvai har purakh niranjan soī rām",
+      "roman": "har dāno har dān dēvē har purakh niranjan soī rām",
       "sahib_singh_pa": "ਗੁਰੂ (ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ) ਦਾਨ ਬਖ਼ਸ਼ਦਾ ਹੈ ਜੋ ਸਰਬ-ਵਿਆਪਕ ਹੈ ਤੇ ਜੋ ਮਾਇਆ ਦੇ ਪ੍ਰਭਾਵ ਤੋਂ ਪਰੇ ਹੈ।",
       "translation_ru": "Гуру дарует дар Имени, Он всепроникающий и вне майи."
     },
@@ -186,14 +186,14 @@
     {
       "verse_id": 25086,
       "gurmukhi": "ਕਹੁ ਨਾਨਕ ਹਰਿ ਆਪਿ ਮਿਲਾਏ ਮਿਲਿ ਸਤਿਗੁਰ ਪੁਰਖ ਸੁਖੁ ਹੋਈ ॥",
-      "roman": "kahu nānak har āp milāē mil satgur purakh sukh hoī",
+      "roman": "kah nānak har āp milāē mil satgur purakh sukh hoī",
       "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਪਰਮਾਤਮਾ ਆਪ ਹੀ (ਜੀਵ ਨੂੰ ਆਪਣੇ ਨਾਲ) ਮਿਲਾਂਦਾ ਹੈ, ਤੇ, ਗੁਰੂ ਤੇ ਪਰਮਾਤਮਾ ਨੂੰ ਮਿਲ ਕੇ ਆਤਮਕ ਆਨੰਦ ਪੈਦਾ ਹੁੰਦਾ ਹੈ।",
       "translation_ru": "Нанак говорит: Сам Бог соединяет, и через Гуру приходит радость."
     },
     {
       "verse_id": 25087,
       "gurmukhi": "ਗੁਰ ਜੇਵਡੁ ਗੁਰ ਜੇਵਡੁ ਦਾਤਾ ਮੈ ਅਵਰੁ ਨ ਕੋਈ ॥੪॥੧॥",
-      "roman": "gur jevaḍ gur jevaḍ dātā mai avar na koī",
+      "roman": "gur jevaḍ gur jevaḍ dātā mē avar na koī",
       "sahib_singh_pa": "ਗੁਰੂ ਦੇ ਬਰਾਬਰ ਦਾ, ਗੁਰੂ ਦੇ ਬਰਾਬਰ ਦਾ ਦਾਤਾ ਮੈਨੂੰ ਹੋਰ ਕੋਈ ਨਹੀਂ ਦਿੱਸਦਾ ॥੪॥੧॥",
       "translation_ru": "Нет другого дарителя, равного Гуру."
     },

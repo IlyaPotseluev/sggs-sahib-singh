@@ -11,21 +11,21 @@
     {
       "verse_id": 37784,
       "gurmukhi": "ਡਿਗਿ ਨ ਡੋਲੈ ਕਤਹੂ ਨ ਧਾਵੈ ॥",
-      "roman": "ḍig na ḍolai katahū na dhāvai",
+      "roman": "ḍig na ḍolē katahū na dhāvē",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਉਸ ਅਵਸਥਾ ਵਿਚ ਪਹੁੰਚਿਆ ਹੋਇਆ ਮਨੁੱਖ (ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ) ਡਿੱਗ ਕੇ ਡੋਲਦਾ ਨਹੀਂ ਹੈ, (ਉਸ ਟਿਕਾਣੇ ਨੂੰ ਛੱਡ ਕੇ) ਕਿਸੇ ਹੋਰ ਪਾਸੇ ਨਹੀਂ ਭਟਕਦਾ।",
       "translation_ru": "О брат! достигший этого состояния не падает и не колеблется, не блуждает в стороны,"
     },
     {
       "verse_id": 37785,
       "gurmukhi": "ਗੁਰ ਪ੍ਰਸਾਦਿ ਕੋ ਇਹੁ ਮਹਲੁ ਪਾਵੈ ॥",
-      "roman": "gur prasād ko ihu mahal pāvai",
+      "roman": "gur prasād ko ihu mahal pāvē",
       "sahib_singh_pa": "ਪਰ ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਉਹ ਟਿਕਾਣਾ ਹਾਸਲ ਕਰਦਾ ਹੈ।",
       "translation_ru": "но лишь редкий достигает этого состояния по милости Гуру."
     },
     {
       "verse_id": 37786,
       "gurmukhi": "ਭ੍ਰਮ ਭੈ ਮੋਹ ਨ ਮਾਇਆ ਜਾਲ ॥",
-      "roman": "bhram bhai moh na māiā jāl",
+      "roman": "bhram bhē moh na māiā jāl",
       "sahib_singh_pa": "ਉਥੇ ਦੁਨੀਆ ਦੀਆਂ ਭਟਕਣਾਂ, ਦੁਨੀਆ ਦੇ ਡਰ, ਮਾਇਆ ਦਾ ਮੋਹ, ਮਾਇਆ ਦੇ ਜਾਲ-ਇਹ ਕੋਈ ਭੀ ਪੋਹ ਨਹੀਂ ਸਕਦੇ।",
       "translation_ru": "там не действуют заблуждения, страхи и сети майи,"
     },
@@ -53,7 +53,7 @@
     {
       "verse_id": 37790,
       "gurmukhi": "ਜਾ ਕੈ ਅੰਤਰਿ ਹਰਿ ਹਰਿ ਸੁਆਦੁ ॥",
-      "roman": "jā kai antar har har suād",
+      "roman": "jā kē antar har har suād",
       "sahib_singh_pa": "ਜਿਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਸੁਆਦ ਟਿਕ ਜਾਂਦਾ ਹੈ,",
       "translation_ru": "в чьём сердце поселяется вкус Имени,"
     },
@@ -102,7 +102,7 @@
     {
       "verse_id": 37797,
       "gurmukhi": "ਇਹੁ ਮਨੁ ਸੰਤਨ ਕੈ ਬਲਿਹਾਰੀ ॥",
-      "roman": "ih man santan kai balihārī",
+      "roman": "ih man santan kē balihārī",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਮੇਰਾ ਇਹ ਮਨ ਸੰਤ-ਜਨਾਂ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹੈ,",
       "translation_ru": "о брат! мой ум предан святым,"
     },
@@ -130,7 +130,7 @@
     {
       "verse_id": 37801,
       "gurmukhi": "ਸੰਤਹ ਕੀ ਮੇਰੈ ਮਨਿ ਆਸ ॥",
-      "roman": "santah kī merai man ās",
+      "roman": "santah kī merē man ās",
       "sahib_singh_pa": "ਮੇਰੇ ਮਨ ਵਿਚ ਸੰਤ ਜਨਾਂ ਦੀ ਸਹਾਇਤਾ ਦਾ ਧਰਵਾਸ ਬਣਿਆ ਰਹਿੰਦਾ ਹੈ,",
       "translation_ru": "в моём уме есть надежда на поддержку святых,"
     },
@@ -207,42 +207,42 @@
     {
       "verse_id": 37812,
       "gurmukhi": "ਤੇਰੈ ਕਾਜਿ ਨ ਗ੍ਰਿਹੁ ਰਾਜੁ ਮਾਲੁ ॥",
-      "roman": "terai kāj na grih rāj māl",
+      "roman": "terē kāj na grih rāj māl",
       "sahib_singh_pa": "ਹੇ ਮਿੱਤਰ! ਇਹ ਘਰ, ਇਹ ਹਕੂਮਤ, ਇਹ ਧਨ (ਇਹਨਾਂ ਵਿਚੋਂ ਕੋਈ ਭੀ) ਤੇਰੇ (ਆਤਮਕ ਜੀਵਨ ਦੇ) ਕੰਮ ਨਹੀਂ ਆ ਸਕਦਾ।",
       "translation_ru": "о друг! этот дом, власть и богатство не пригодятся тебе для духовной жизни."
     },
     {
       "verse_id": 37813,
       "gurmukhi": "ਤੇਰੈ ਕਾਜਿ ਨ ਬਿਖੈ ਜੰਜਾਲੁ ॥",
-      "roman": "terai kāj na bikhai janjāl",
+      "roman": "terē kāj na bikhē janjāl",
       "sahib_singh_pa": "ਮਾਇਕ ਪਦਾਰਥਾਂ ਦਾ ਝੰਬੇਲਾ ਭੀ ਤੈਨੂੰ ਆਤਮਕ ਜੀਵਨ ਵਿਚ ਲਾਭ ਨਹੀਂ ਦੇ ਸਕਦਾ।",
       "translation_ru": "и путаница мирских вещей не принесёт пользы."
     },
     {
       "verse_id": 37814,
       "gurmukhi": "ਇਸਟ ਮੀਤ ਜਾਣੁ ਸਭ ਛਲੈ ॥",
-      "roman": "iṣṭ mīt jāṇ sabh chhalai",
+      "roman": "iṣṭ mīt jāṇ sabh chhalē",
       "sahib_singh_pa": "ਚੇਤਾ ਰੱਖ ਕਿ ਇਹ ਸਾਰੇ ਪਿਆਰੇ ਮਿੱਤਰ (ਤੇਰੇ ਵਾਸਤੇ) ਛਲ-ਰੂਪ ਹੀ ਹਨ।",
       "translation_ru": "знай, что все близкие и друзья — лишь обман,"
     },
     {
       "verse_id": 37815,
       "gurmukhi": "ਹਰਿ ਹਰਿ ਨਾਮੁ ਸੰਗਿ ਤੇਰੈ ਚਲੈ ॥੧॥",
-      "roman": "har har nām sang terai chalai",
+      "roman": "har har nām sang terē chalē",
       "sahib_singh_pa": "ਸਿਰਫ਼ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹੀ ਤੇਰੇ ਨਾਲ ਸਾਥ ਕਰ ਸਕਦਾ ਹੈ ॥੧॥",
       "translation_ru": "только Имя Господа пойдёт с тобой."
     },
     {
       "verse_id": 37816,
       "gurmukhi": "ਰਾਮ ਨਾਮ ਗੁਣ ਗਾਇ ਲੇ ਮੀਤਾ ਹਰਿ ਸਿਮਰਤ ਤੇਰੀ ਲਾਜ ਰਹੈ ॥",
-      "roman": "rām nām guṇ gāi le mītā har simrat terī lāj rahai",
+      "roman": "rām nām guṇ gāi le mītā har simrat terī lāj rahē",
       "sahib_singh_pa": "ਹੇ ਮਿੱਤਰ! ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦੇ ਗੁਣ (ਇਸ ਵੇਲੇ) ਗਾ ਲੈ। ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆਂ ਹੀ (ਲੋਕ ਪਰਲੋਕ ਵਿਚ) ਤੇਰੀ ਇੱਜ਼ਤ ਰਹਿ ਸਕਦੀ ਹੈ।",
       "translation_ru": "о друг! воспой качества Имени Господа, только памятуя Его, сохранится твоя честь."
     },
     {
       "verse_id": 37817,
       "gurmukhi": "ਹਰਿ ਸਿਮਰਤ ਜਮੁ ਕਛੁ ਨ ਕਹੈ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "har simrat jam kachh na kahai",
+      "roman": "har simrat jam kachh na kahē",
       "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆਂ ਜਮਰਾਜ ਭੀ ਕੁਝ ਨਹੀਂ ਆਖਦਾ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "памятуя Господа, даже Яма ничего не скажет."
     },
@@ -291,7 +291,7 @@
     {
       "verse_id": 37824,
       "gurmukhi": "ਹਰਿ ਹਰਿ ਨਾਮੁ ਜਪੈ ਜਨੁ ਕੋਇ ॥",
-      "roman": "har har nām japai jan koī",
+      "roman": "har har nām japē jan koī",
       "sahib_singh_pa": "ਜੇਹੜਾ ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਦਾ ਹੈ,",
       "translation_ru": "редкий человек повторяет Имя Господа,"
     },
@@ -326,7 +326,7 @@
     {
       "verse_id": 37829,
       "gurmukhi": "ਨਾਨਕ ਦਾਸੁ ਤਾ ਕੈ ਕੁਰਬਾਣੁ ॥੪॥੧੧॥੨੨॥",
-      "roman": "nānak dās tā kai kurbān",
+      "roman": "nānak dās tā kē kurbān",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਆਖ-ਮੈਂ) ਦਾਸ ਉਸ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ ॥੪॥੧੧॥੨੨॥",
       "translation_ru": "о Нанак! слуга жертвует собой ради него."
     },
@@ -347,7 +347,7 @@
     {
       "verse_id": 37832,
       "gurmukhi": "ਤੇਰੈ ਕਾਜਿ ਨ ਅਵਰਾ ਜੋਗ ॥",
-      "roman": "terai kāj na avarā jog",
+      "roman": "terē kāj na avarā jog",
       "sahib_singh_pa": "(ਮੌਤ ਆਉਣ ਤੇ ਇਹ ਧਨ) ਤੇਰੇ ਕੰਮ ਨਹੀਂ ਆਵੇਗਾ, ਹੋਰਨਾਂ (ਦੇ ਵਰਤਣ) ਜੋਗਾ ਰਹਿ ਜਾਇਗਾ।",
       "translation_ru": "при смерти оно тебе не пригодится, останется другим."
     },
@@ -361,7 +361,7 @@
     {
       "verse_id": 37834,
       "gurmukhi": "ਜਮ ਕੀ ਜੇਵੜੀ ਤੂ ਆਗੈ ਬੰਧ ॥੧॥",
-      "roman": "jam kī jevṛī tū āgai bandh",
+      "roman": "jam kī jevṛī tū āgē bandh",
       "sahib_singh_pa": "(ਜਦੋਂ) ਮੌਤ ਦੀ ਫਾਹੀ (ਤੇਰੇ ਗਲ ਵਿਚ ਪਈ, ਉਸ ਫਾਹੀ ਵਿਚ) ਬੱਝੇ ਹੋਏ ਨੂੰ ਤੈਨੂੰ ਪਰਲੋਕ ਵਿਚ (ਲੈ ਜਾਣਗੇ, ਤੇ ਧਨ ਇਥੇ ਹੀ ਰਹਿ ਜਾਇਗਾ) ॥੧॥",
       "translation_ru": "когда петля смерти затянется, тебя уведут связанным."
     },
@@ -382,7 +382,7 @@
     {
       "verse_id": 37837,
       "gurmukhi": "ਮਾਇਆ ਕੇ ਮਾਤੇ ਤੈ ਉਠਿ ਚਲਨਾ ॥",
-      "roman": "māiā ke māte tai uṭh chalnā",
+      "roman": "māiā ke māte tē uṭh chalnā",
       "sahib_singh_pa": "ਮਾਇਆ ਵਿਚ ਮਸਤ ਹੋਏ ਹੇ ਮੂਰਖ! (ਇਥੋਂ ਆਖ਼ਰ) ਉੱਠ ਕੇ ਤੂੰ ਚਲੇ ਜਾਣਾ ਹੈ,",
       "translation_ru": "о глупец, опьянённый майей! ты уйдёшь отсюда,"
     },

@@ -4,7 +4,7 @@
     {
       "verse_id": 11937,
       "gurmukhi": "ਮੁਖਿ ਤਾ ਕੋ ਜਸੁ ਰਸਨ ਬਖਾਨੈ ॥",
-      "roman": "mukh tā ko jas rasan bakhānai",
+      "roman": "mukh tā ko jas rasan bakhānē",
       "sahib_singh_pa": "ਉਸ ਦੀ ਵਡਿਆਈ (ਆਪਣੇ) ਮੂੰਹੋਂ ਜੀਭ ਨਾਲ (ਸਦਾ) ਕਰ।",
       "translation_ru": "прославляй Его своим ртом и языком."
     },
@@ -25,7 +25,7 @@
     {
       "verse_id": 11940,
       "gurmukhi": "ਪ੍ਰਭ ਜੀ ਜਪਤ ਦਰਗਹ ਮਾਨੁ ਪਾਵਹਿ ॥",
-      "roman": "prabh jī japat dargah mān pāvahi",
+      "roman": "prabh jī japat dargah mān pāvah",
       "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਦਾ ਭਜਨ ਕੀਤਿਆਂ (ਉਸ ਦੀ) ਦਰਗਾਹ ਵਿਚ ਮਾਣ ਪਾਵਹਿਂਗਾ,",
       "translation_ru": "Повторяя Имя Прабху, ты обретёшь почёт в Его даргах,"
     },
@@ -46,7 +46,7 @@
     {
       "verse_id": 11943,
       "gurmukhi": "ਲਿਵ ਲਾਵਹੁ ਤਿਸੁ ਰਾਮ ਸਨੇਹੀ ॥",
-      "roman": "liv lāvahu tis rām sanehī",
+      "roman": "liv lāvah tis rām sanehī",
       "sahib_singh_pa": "ਉਸ ਪਿਆਰੇ ਰਾਮ ਨਾਲ ਲਿਵ ਜੋੜ।",
       "translation_ru": "соедини свою любовь с тем возлюбленным Рамом."
     },
@@ -60,7 +60,7 @@
     {
       "verse_id": 11945,
       "gurmukhi": "ਮਨ ਸੁਖੁ ਪਾਵਹਿ ਹਰਿ ਹਰਿ ਜਸੁ ਕਹਤ ॥",
-      "roman": "man sukh pāvahi har har jas kahat",
+      "roman": "man sukh pāvah har har jas kahat",
       "sahib_singh_pa": "ਹੇ ਮਨ! ਉਸ ਹਰੀ ਦੀ ਸਿਫ਼ਤ-ਸਲਾਹ ਕਰ ਕੇ ਸੁਖ ਪ੍ਰਾਪਤ ਕਰ।",
       "translation_ru": "о ум! обрети покой, прославляя того Хари."
     },
@@ -74,21 +74,21 @@
     {
       "verse_id": 11947,
       "gurmukhi": "ਮਨ ਸਰਨੀ ਪਰੁ ਠਾਕੁਰ ਪ੍ਰਭ ਤਾ ਕੈ ॥",
-      "roman": "man sarnī par ṭhākur prabh tā kai",
+      "roman": "man sarnī par ṭhākur prabh tā kē",
       "sahib_singh_pa": "ਹੇ ਮਨ! ਉਸ ਪ੍ਰਭੂ ਠਾਕੁਰ ਦੀ ਸਰਣ ਪਉ।",
       "translation_ru": "о ум! припади к прибежищу того Прабху, того Тхакура."
     },
     {
       "verse_id": 11948,
       "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਤੁਝੁ ਕੋ ਨ ਪਹੂਚੈ ॥",
-      "roman": "jih prasād tujhu ko na pahūchai",
+      "roman": "jih prasād tujh ko na pahūchē",
       "sahib_singh_pa": "ਜਿਸ ਦੀ ਕਿਰਪਾ ਨਾਲ ਕੋਈ ਤੇਰੀ ਬਰਾਬਰੀ ਨਹੀਂ ਕਰ ਸਕਦਾ,",
       "translation_ru": "По милости Того, благодаря Кому никто не может сравниться с тобой,"
     },
     {
       "verse_id": 11949,
       "gurmukhi": "ਮਨ ਸਾਸਿ ਸਾਸਿ ਸਿਮਰਹੁ ਪ੍ਰਭ ਊਚੇ ॥",
-      "roman": "man sās sās simrahu prabh ūche",
+      "roman": "man sās sās simrah prabh ūche",
       "sahib_singh_pa": "ਹੇ ਮਨ! ਉਸ ਉਚੇ ਪ੍ਰਭੂ ਨੂੰ ਸ੍ਵਾਸ ਸ੍ਵਾਸ ਯਾਦ ਕਰ।",
       "translation_ru": "о ум! вспоминай того высокого Прабху с каждым дыханием."
     },
@@ -109,14 +109,14 @@
     {
       "verse_id": 11952,
       "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਆਭੂਖਨ ਪਹਿਰੀਜੈ ॥",
-      "roman": "jih prasād ābhūkhan pahirījai",
+      "roman": "jih prasād ābhūkhan pahirījē",
       "sahib_singh_pa": "ਜਿਸ (ਪ੍ਰਭੂ) ਦੀ ਕਿਰਪਾ ਨਾਲ ਗਹਣੇ ਪਹਿਨੀਦੇ ਹਨ,",
       "translation_ru": "По милости Того, благодаря Кому надеваются украшения,"
     },
     {
       "verse_id": 11953,
       "gurmukhi": "ਮਨ ਤਿਸੁ ਸਿਮਰਤ ਕਿਉ ਆਲਸੁ ਕੀਜੈ ॥",
-      "roman": "man tis simrat kio ālas kījai",
+      "roman": "man tis simrat kio ālas kījē",
       "sahib_singh_pa": "ਹੇ ਮਨ! ਉਸ ਨੂੰ ਸਿਮਰਦਿਆਂ ਕਿਉਂ ਆਲਸ ਕੀਤਾ ਜਾਏ?",
       "translation_ru": "о ум! почему же, помня Его, допускают лень?"
     },
@@ -158,28 +158,28 @@
     {
       "verse_id": 11959,
       "gurmukhi": "ਊਠਤ ਬੈਠਤ ਸਦ ਤਿਸਹਿ ਧਿਆਈ ॥",
-      "roman": "ūṭhat baiṭhat sad tiseh dhiāī",
+      "roman": "ūṭhat bēṭhat sad tiseh dhiāī",
       "sahib_singh_pa": "ਉਠਦੇ ਬੈਠਦੇ (ਭਾਵ, ਹਰ ਵੇਲੇ) ਉਸੇ ਨੂੰ ਸਦਾ ਸਿਮਰ।",
       "translation_ru": "вставая и садясь, то есть всегда, помни только Его."
     },
     {
       "verse_id": 11960,
       "gurmukhi": "ਤਿਸਹਿ ਧਿਆਇ ਜੋ ਏਕ ਅਲਖੈ ॥",
-      "roman": "tiseh dhiāe jo ek alakhai",
+      "roman": "tiseh dhiāe jo ek alakhē",
       "sahib_singh_pa": "ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰ, ਜੋ ਇੱਕ ਹੈ, ਤੇ, ਬੇਅੰਤ ਹੈ।",
       "translation_ru": "Помни того Прабху, Который Един и непостижим."
     },
     {
       "verse_id": 11961,
       "gurmukhi": "ਈਹਾ ਊਹਾ ਨਾਨਕ ਤੇਰੀ ਰਖੈ ॥੪॥",
-      "roman": "īhā ūhā Nānak terī rakhai.4.",
+      "roman": "īhā ūhā Nānak terī rakhē.4.",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਲੋਕ ਤੇ ਪਰਲੋਕ ਵਿਚ (ਉਹੀ) ਤੇਰੀ ਲਾਜ ਰੱਖਣ ਵਾਲਾ ਹੈ ॥੪॥",
       "translation_ru": "О Нанак! и в этом мире, и в ином Он хранит твою честь. ॥4॥"
     },
     {
       "verse_id": 11962,
       "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਕਰਹਿ ਪੁੰਨ ਬਹੁ ਦਾਨ ॥",
-      "roman": "jih prasād karahi puṇn bahu dān",
+      "roman": "jih prasād karah puṇn bah dān",
       "sahib_singh_pa": "ਜਿਸ (ਪ੍ਰਭੂ) ਦੀ ਕ੍ਰਿਪਾ ਨਾਲ ਤੂੰ ਬਹੁਤ ਦਾਨ ਪੁੰਨ ਕਰਦਾ ਹੈਂ,",
       "translation_ru": "По милости Того, благодаря Кому ты совершаешь много подаяний и благих дел,"
     },
@@ -214,7 +214,7 @@
     {
       "verse_id": 11967,
       "gurmukhi": "ਸੋ ਪ੍ਰਭੁ ਸਿਮਰਹੁ ਸਦਾ ਅਨੂਪੁ ॥",
-      "roman": "so prabh simrahu sadā anūp",
+      "roman": "so prabh simrah sadā anūp",
       "sahib_singh_pa": "ਉਸ ਸੋਹਣੇ ਮਾਲਕ ਨੂੰ ਸਦਾ ਸਿਮਰ।",
       "translation_ru": "всегда помни того прекрасного Владыку."
     },
@@ -235,28 +235,28 @@
     {
       "verse_id": 11970,
       "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਤੇਰੀ ਪਤਿ ਰਹੈ ॥",
-      "roman": "jih prasād terī pat rahai",
+      "roman": "jih prasād terī pat rahē",
       "sahib_singh_pa": "ਜਿਸ ਦੀ ਮੇਹਰ ਨਾਲ ਤੇਰੀ ਇੱਜ਼ਤ (ਜਗਤ ਵਿਚ) ਬਣੀ ਹੋਈ ਹੈ (ਉਸ ਦਾ ਨਾਮ ਸਿਮਰ)।",
       "translation_ru": "По милости Того, благодаря Кому твоя честь в мире сохраняется."
     },
     {
       "verse_id": 11971,
       "gurmukhi": "ਗੁਰ ਪ੍ਰਸਾਦਿ ਨਾਨਕ ਜਸੁ ਕਹੈ ॥੫॥",
-      "roman": "gur prasād Nānak jas kahai.5.",
+      "roman": "gur prasād Nānak jas kahē.5.",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਗੁਰੂ ਦੀ ਬਰਕਤਿ ਲੈ ਕੇ (ਵਡਭਾਗੀ ਮਨੁੱਖ) ਉਸ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕਰਦਾ ਹੈ ॥੫॥",
       "translation_ru": "О Нанак! по милости Гуру счастливый человек воспевает Его хвалу. ॥5॥"
     },
     {
       "verse_id": 11972,
       "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਸੁਨਹਿ ਕਰਨ ਨਾਦ ॥",
-      "roman": "jih prasād sunahi karan nād",
+      "roman": "jih prasād sunah karan nād",
       "sahib_singh_pa": "ਜਿਸ ਦੀ ਕ੍ਰਿਪਾ ਨਾਲ ਤੂੰ (ਆਪਣੇ) ਕੰਨਾਂ ਨਾਲ ਆਵਾਜ਼ ਸੁਣਦਾ ਹੈਂ (ਭਾਵ, ਤੈਨੂੰ ਸੁਣਨ ਦੀ ਤਾਕਤ ਮਿਲੀ ਹੈ),",
       "translation_ru": "По милости Того, благодаря Кому ты своими ушами слышишь звук, то есть имеешь силу слышать,"
     },
     {
       "verse_id": 11973,
       "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਪੇਖਹਿ ਬਿਸਮਾਦ ॥",
-      "roman": "jih prasād pekhahi bismād",
+      "roman": "jih prasād pekhah bismād",
       "sahib_singh_pa": "ਜਿਸ ਦੀ ਮੇਹਰ ਨਾਲ ਅਚਰਜ ਨਜ਼ਾਰੇ ਵੇਖਦਾ ਹੈਂ;",
       "translation_ru": "по Его милости ты видишь удивительные зрелища;"
     },
@@ -270,7 +270,7 @@
     {
       "verse_id": 11975,
       "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਸੁਖਿ ਸਹਜੇ ਬਸਨਾ ॥",
-      "roman": "jih prasād sukhi sahje basnā",
+      "roman": "jih prasād sukh sahje basnā",
       "sahib_singh_pa": "ਜਿਸ ਦੀ ਕਿਰਪਾ ਨਾਲ ਸੁਭਾਵਕ ਹੀ ਸੁਖੀ ਵੱਸ ਰਿਹਾ ਹੈਂ;",
       "translation_ru": "по Его милости ты естественно живёшь в покое;"
     },
@@ -291,28 +291,28 @@
     {
       "verse_id": 11978,
       "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਪਰਮ ਗਤਿ ਪਾਵਹਿ ॥",
-      "roman": "jih prasād param gat pāvahi",
+      "roman": "jih prasād param gat pāvah",
       "sahib_singh_pa": "ਜਿਸ ਦੀ ਬਖ਼ਸ਼ਸ਼ ਨਾਲ ਤੈਨੂੰ ਉੱਚਾ ਦਰਜਾ ਮਿਲਦਾ ਹੈ,",
       "translation_ru": "по Его щедрому дару ты достигаешь высокого состояния,"
     },
     {
       "verse_id": 11979,
       "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਸੁਖਿ ਸਹਜਿ ਸਮਾਵਹਿ ॥",
-      "roman": "jih prasād sukhi sahaj samāvahi",
+      "roman": "jih prasād sukh sahaj samāvah",
       "sahib_singh_pa": "ਅਤੇ ਤੂੰ ਸੁਖ ਤੇ ਬੇ-ਫ਼ਿਕਰੀ ਵਿਚ ਮਸਤ ਹੈਂ;",
       "translation_ru": "и пребываешь в покое и беспечности;"
     },
     {
       "verse_id": 11980,
       "gurmukhi": "ਐਸਾ ਪ੍ਰਭੁ ਤਿਆਗਿ ਅਵਰ ਕਤ ਲਾਗਹੁ ॥",
-      "roman": "aisā prabh tiāg avar kat lāgahu",
+      "roman": "aisā prabh tiāg avar kat lāgah",
       "sahib_singh_pa": "ਅਜੇਹਾ ਪ੍ਰਭੂ ਵਿਸਾਰ ਕੇ ਤੂੰ ਹੋਰ ਕਿਸ ਪਾਸੇ ਲੱਗ ਰਿਹਾ ਹੈਂ?",
       "translation_ru": "забыв такого Прабху, к кому ещё ты прилепляешься?"
     },
     {
       "verse_id": 11981,
       "gurmukhi": "ਗੁਰ ਪ੍ਰਸਾਦਿ ਨਾਨਕ ਮਨਿ ਜਾਗਹੁ ॥੬॥",
-      "roman": "gur prasād Nānak man jāgahu.6.",
+      "roman": "gur prasād Nānak man jāgah.6.",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਗੁਰੂ ਦੀ ਬਰਕਤਿ ਲੈ ਕੇ ਮਨ ਵਿਚ ਹੁਸ਼ੀਆਰ ਹੋਹੁ ॥੬॥",
       "translation_ru": "О Нанак! по милости Гуру пробудись в уме. ॥6॥"
     },
@@ -326,7 +326,7 @@
     {
       "verse_id": 11983,
       "gurmukhi": "ਤਿਸੁ ਪ੍ਰਭ ਕਉ ਮੂਲਿ ਨ ਮਨਹੁ ਬਿਸਾਰਿ ॥",
-      "roman": "tis prabh kau mūl na manahu bisār",
+      "roman": "tis prabh kau mūl na manah bisār",
       "sahib_singh_pa": "ਉਸ ਨੂੰ ਕਦੇ ਭੀ ਮਨੋਂ ਨ ਭੁਲਾ।",
       "translation_ru": "никогда даже в мыслях не забывай Его."
     },
@@ -361,7 +361,7 @@
     {
       "verse_id": 11988,
       "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਤੂੰ ਪਾਵਹਿ ਸਾਚੁ ॥",
-      "roman": "jih prasād tūṃ pāvahi sāch",
+      "roman": "jih prasād tūṃ pāvah sāch",
       "sahib_singh_pa": "ਜਿਸ ਦੀ ਬਰਕਤਿ ਨਾਲ ਤੈਨੂੰ ਸੱਚ ਪਰਾਪਤ ਹੁੰਦਾ ਹੈ,",
       "translation_ru": "По Его благодати тебе открывается Истина,"
     },
@@ -382,14 +382,14 @@
     {
       "verse_id": 11991,
       "gurmukhi": "ਨਾਨਕ ਜਾਪੁ ਜਪੈ ਜਪੁ ਸੋਇ ॥੭॥",
-      "roman": "Nānak jāp japai jap soi.7.",
+      "roman": "Nānak jāp japē jap soi.7.",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਜਿਸ ਨੂੰ ਇਹ  ਦਾਤ ਮਿਲਦੀ ਹੈ) ਉਹ (ਹਰਿ-) ਜਾਪ ਹੀ ਜਪਦਾ ਹੈ ॥੭॥",
       "translation_ru": "О Нанак! тот и повторяет Джап, кому дарована эта милость. ॥7॥"
     },
     {
       "verse_id": 11992,
       "gurmukhi": "ਆਪਿ ਜਪਾਏ ਜਪੈ ਸੋ ਨਾਉ ॥",
-      "roman": "āp japāe japai so nāu",
+      "roman": "āp japāe japē so nāu",
       "sahib_singh_pa": "ਉਹੀ ਮਨੁੱਖ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਦਾ ਹੈ ਜਿਸ ਪਾਸੋਂ ਆਪ ਜਪਾਉਂਦਾ ਹੈ,",
       "translation_ru": "Лишь тот человек повторяет Имя Прабху, кого Сам Он побуждает к повторению,"
     },

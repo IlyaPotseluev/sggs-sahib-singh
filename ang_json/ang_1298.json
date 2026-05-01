@@ -4,7 +4,7 @@
     {
       "verse_id": 55456,
       "gurmukhi": "ਤੇਰੇ ਜਨ ਧਿਆਵਹਿ ਇਕ ਮਨਿ ਇਕ ਚਿਤਿ ਤੇ ਸਾਧੂ ਸੁਖ ਪਾਵਹਿ ਜਪਿ ਹਰਿ ਹਰਿ ਨਾਮੁ ਨਿਧਾਨ ॥",
-      "roman": "tere jan dhiāvahi ik man ik chit te sādhū sukh pāvahi jap har har nām nidhān ॥",
+      "roman": "tere jan dhiāvah ik man ik chit te sādhū sukh pāvah jap har har nām nidhān ॥",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਸੇਵਕ ਇਕ-ਮਨ ਇਕ-ਚਿੱਤ ਹੋ ਕੇ ਤੇਰਾ ਧਿਆਨ ਕਰਦੇ ਹਨ, ਸੁਖਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ ਤੇਰਾ ਨਾਮ ਜਪ ਜਪ ਕੇ ਉਹ ਗੁਰਮੁਖ ਮਨੁੱਖ ਆਤਮਕ ਆਨੰਦ ਮਾਣਦੇ ਹਨ।",
       "translation_ru": "О Господь! Твои слуги сосредоточенным умом и единым вниманием медитируют на Тебя; снова и снова повторяя Твоё Имя, сокровищницу покоя, эти гурмукхи вкушают духовный покой."
     },
@@ -18,7 +18,7 @@
     {
       "verse_id": 55458,
       "gurmukhi": "ਜਿਨ ਕੈ ਹਿਰਦੈ ਤੂ ਸੁਆਮੀ ਤੇ ਸੁਖ ਫਲ ਪਾਵਹਿ ਤੇ ਤਰੇ ਭਵ ਸਿੰਧੁ ਤੇ ਭਗਤ ਹਰਿ ਜਾਨ ॥",
-      "roman": "jin kai hirdai tū suāmī te sukh phal pāvahi te tare bhav sindh te bhagat har jān ॥",
+      "roman": "jin kē hirdē tū suāmī te sukh phal pāvah te tare bhav sindh te bhagat har jān ॥",
       "sahib_singh_pa": "ਹੇ ਮਾਲਕ! ਜਿਨ੍ਹਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਤੂੰ ਵੱਸ ਪੈਂਦਾ ਹੈਂ, ਉਹ ਆਤਮਕ ਆਨੰਦ ਦਾ ਫਲ ਹਾਸਲ ਕਰਦੇ ਹਨ, ਉਹ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘ ਜਾਂਦੇ ਹਨ। ਉਹਨਾਂ ਨੂੰ ਭੀ ਹਰੀ ਦੇ ਭਗਤ ਜਾਣੋ।",
       "translation_ru": "О Владыка! Те, в чьём сердце Ты поселяешься, получают плод духовного покоя; они переправляются через мирской океан. Знайте и их как преданных Хари."
     },
@@ -60,14 +60,14 @@
     {
       "verse_id": 55464,
       "gurmukhi": "ਸਿਮਰਤ ਨਾਮੁ ਮਨਹਿ ਸਾਧਾਰੈ ॥",
-      "roman": "simrat nām maneh sādhārai",
+      "roman": "simrat nām maneh sādhārē",
       "sahib_singh_pa": "ਨਾਮ ਸਿਮਰਿਆਂ ਨਾਮ (ਮਨੁੱਖ ਦੇ) ਮਨ ਨੂੰ (ਵਿਕਾਰਾਂ ਦੇ ਟਾਕਰੇ ਤੇ) ਸਹਾਰਾ ਦੇਂਦਾ ਹੈ।",
       "translation_ru": "При поминании Имени Имя даёт опору уму человека против пороков."
     },
     {
       "verse_id": 55465,
       "gurmukhi": "ਕੋਟਿ ਪਰਾਧੀ ਖਿਨ ਮਹਿ ਤਾਰੈ ॥੧॥",
-      "roman": "koṭ parādhī khin meh tārai. 1",
+      "roman": "koṭ parādhī khin meh tārē. 1",
       "sahib_singh_pa": "ਹਰਿ-ਨਾਮ ਕ੍ਰੋੜਾਂ ਪਾਪੀਆਂ ਨੂੰ ਇਕ ਖਿਨ ਵਿਚ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ) ਪਾਰ ਲੰਘਾ ਲੈਂਦਾ ਹੈ ॥੧॥",
       "translation_ru": "Хар-Нам в одно мгновение переправляет через мировой океан миллионы грешников. 1."
     },
@@ -88,14 +88,14 @@
     {
       "verse_id": 55468,
       "gurmukhi": "ਜਾ ਕਉ ਸਤਿਗੁਰੁ ਅਪਨਾ ਰਾਖੈ ॥",
-      "roman": "jā kau satigur apnā rākhai",
+      "roman": "jā kau satigur apnā rākhē",
       "sahib_singh_pa": "ਪਿਆਰਾ ਗੁਰੂ ਜਿਸ ਮਨੁੱਖ ਦੀ ਰੱਖਿਆ ਕਰਦਾ ਹੈ,",
       "translation_ru": "Того человека, которого защищает любимый Гуру,"
     },
     {
       "verse_id": 55469,
       "gurmukhi": "ਸੋ ਜਨੁ ਹਰਿ ਰਸੁ ਰਸਨਾ ਚਾਖੈ ॥੩॥",
-      "roman": "so jan har ras rasnā chākhai. 3",
+      "roman": "so jan har ras rasnā chākhē. 3",
       "sahib_singh_pa": "ਉਹ ਮਨੁੱਖ (ਆਪਣੀ) ਜੀਭ ਨਾਲ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਰਸ ਚੱਖਦਾ ਰਹਿੰਦਾ ਹੈ ॥੩॥",
       "translation_ru": "тот человек своим языком продолжает вкушать нектар Имени Параматмы. 3."
     },
@@ -130,14 +130,14 @@
     {
       "verse_id": 55474,
       "gurmukhi": "ਊਠਤ ਬੈਠਤ ਸੋਵਤ ਜਾਗਤ ਸਾਸਿ ਸਾਸਿ ਸਾਸਿ ਹਰਿ ਜਪਨੇ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "ūṭhat baiṭhat sovat jāgat sās sās sās har japne. 1. rahāu",
+      "roman": "ūṭhat bēṭhat sovat jāgat sās sās sās har japne. 1. rahāu",
       "sahib_singh_pa": "ਹੇ ਹਰੀ! ਉਠਦਿਆਂ, ਬੈਠਦਿਆਂ, ਸੁੱਤਿਆਂ, ਜਾਗਦਿਆਂ, ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ ਮੈਂ ਤੇਰਾ ਹੀ ਨਾਮ ਜਪਦਾ ਹਾਂ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "О Хари! Вставая, сидя, спя, бодрствуя, с каждым дыханием я повторяю только Твоё Имя. 1. Пауза."
     },
     {
       "verse_id": 55475,
       "gurmukhi": "ਤਾ ਕੈ ਹਿਰਦੈ ਬਸਿਓ ਨਾਮੁ ॥",
-      "roman": "tā kai hirdai basio nām",
+      "roman": "tā kē hirdē basio nām",
       "sahib_singh_pa": "ਉਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ (ਉਸ ਮਾਲਕ ਦਾ) ਨਾਮ ਟਿਕ ਜਾਂਦਾ ਹੈ,",
       "translation_ru": "В сердце того человека поселяется Имя этого Владыки,"
     },
@@ -151,7 +151,7 @@
     {
       "verse_id": 55477,
       "gurmukhi": "ਤਾ ਕੈ ਹਿਰਦੈ ਆਈ ਸਾਂਤਿ ॥",
-      "roman": "tā kai hirdai āī sānt",
+      "roman": "tā kē hirdē āī sānt",
       "sahib_singh_pa": "ਉਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ (ਵਿਕਾਰਾਂ ਦੀ ਅੱਗ ਵਲੋਂ) ਠੰਢ ਪੈ ਜਾਂਦੀ ਹੈ,",
       "translation_ru": "В сердце того человека наступает прохлада от огня пороков,"
     },
@@ -172,7 +172,7 @@
     {
       "verse_id": 55480,
       "gurmukhi": "ਕਹੁ ਨਾਨਕ ਤਾ ਕੈ ਬਲਿ ਜਾਉ ॥",
-      "roman": "kaho nānak tā kai bal jāu",
+      "roman": "kaho nānak tā kē bal jāu",
       "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਮੈਂ ਉਸ (ਮਨੁੱਖ) ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ,",
       "translation_ru": "Нанак говорит: я иду в жертву тому человеку,"
     },
@@ -235,14 +235,14 @@
     {
       "verse_id": 55489,
       "gurmukhi": "ਤ੍ਰਿਸਨ ਨ ਬੂਝੀ ਬਹੁ ਰੰਗ ਮਾਇਆ ॥",
-      "roman": "trisan na būjhī bahu raṅg māiā",
+      "roman": "trisan na būjhī bah raṅg māiā",
       "sahib_singh_pa": "(ਕ੍ਰੋੜਾਂ ਕਰਮ ਕਰ ਕੇ ਭੀ ਇਸ) ਬਹੁ-ਰੰਗੀ ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਨਹੀਂ ਮਿਟਦੀ।",
       "translation_ru": "Даже совершая миллионы действий, жажда этой многоцветной майи не угасает."
     },
     {
       "verse_id": 55490,
       "gurmukhi": "ਨਾਮੁ ਲੈਤ ਸਰਬ ਸੁਖ ਪਾਇਆ ॥੩॥",
-      "roman": "nām lait sarab sukh pāiā. 3",
+      "roman": "nām lēt sarab sukh pāiā. 3",
       "sahib_singh_pa": "ਪਰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਿਆਂ ਸਾਰੇ ਸੁਖ ਮਿਲ ਜਾਂਦੇ ਹਨ ॥੩॥",
       "translation_ru": "Но, поминая Имя Параматмы, обретаются все счастья. 3."
     },

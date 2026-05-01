@@ -4,14 +4,14 @@
     {
       "verse_id": 24955,
       "gurmukhi": "ਨਾਨਕ ਸਬਦਿ ਮਿਲੈ ਭਉ ਭੰਜਨੁ ਹਰਿ ਰਾਵੈ ਮਸਤਕਿ ਭਾਗੋ ॥੩॥",
-      "roman": "nānak sabad milai bhau bhanjan har rāvai mastak bhāgo",
+      "roman": "nānak sabad milē bhau bhanjan har rāvē mastak bhāgo",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਜਿਸ ਮਨੁੱਖ ਦੇ ਮੱਥੇ ਉਤੇ ਭਾਗ ਜਾਗ ਪੈਂਦਾ ਹੈ, ਉਸ ਨੂੰ ਗੁਰ-ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ਡਰ ਨਾਸ ਕਰਨ ਵਾਲਾ ਪਰਮਾਤਮਾ ਮਿਲ ਪੈਂਦਾ ਹੈ, ਉਹ ਮਨੁੱਖ ਸਦਾ ਹਰਿ-ਨਾਮ ਨੂੰ ਹਿਰਦੇ ਵਿਚ ਵਸਾਈ ਰੱਖਦਾ ਹੈ ॥੩॥",
       "translation_ru": "О Нанак! Тому, у кого пробуждается судьба, через слово Гуру встречается Бог, разрушитель страха, и он удерживает Имя в своем сердце."
     },
     {
       "verse_id": 24956,
       "gurmukhi": "ਖੇਤੀ ਵਣਜੁ ਸਭੁ ਹੁਕਮੁ ਹੈ ਹੁਕਮੇ ਮੰਨਿ ਵਡਿਆਈ ਰਾਮ ॥",
-      "roman": "kheti vaṇaj sabh hukam hai hukmey mann vadiāī rām",
+      "roman": "kheti vaṇaj sabh hukam hē hukmey mann vadiāī rām",
       "sahib_singh_pa": "ਵਾਹੀ-ਖੇਤੀ ਤੇ ਵਪਾਰ ਨੂੰ ਪ੍ਰਭੂ ਦੀ ਰਜ਼ਾ ਅਨੁਸਾਰ ਹੁੰਦੀ ਹੈ, ਰਜ਼ਾ ਨੂੰ ਮੰਨਣ ਨਾਲ ਵਡਿਆਈ ਮਿਲਦੀ ਹੈ।",
       "translation_ru": "Земледелие и торговля происходят по воле Бога; принимая эту волю, человек обретает величие."
     },
@@ -67,14 +67,14 @@
     {
       "verse_id": 24964,
       "gurmukhi": "ਆਪਣੈ ਘਰਿ ਤੂ ਸੁਖਿ ਵਸਹਿ ਪੋਹਿ ਨ ਸਕੈ ਜਮਕਾਲੁ ਜੀਉ ॥",
-      "roman": "āpnai ghar tū sukh vaseh poh na sakai jamkāl jīo",
+      "roman": "āpnē ghar tū sukh vaseh poh na sakē jamkāl jīo",
       "sahib_singh_pa": "ਇੰਜ ਤੂੰ ਆਪਣੇ ਅੰਤਰ ਆਤਮੇ ਆਨੰਦ ਨਾਲ ਟਿਕਿਆ ਰਹੇਂਗਾ ਤੇ ਆਤਮਕ ਮੌਤ ਤੇਰੇ ਉਤੇ ਆਪਣਾ ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕੇਗੀ।",
       "translation_ru": "Так ты будешь пребывать в радости внутри себя, и духовная смерть не сможет воздействовать на тебя."
     },
     {
       "verse_id": 24965,
       "gurmukhi": "ਕਾਲੁ ਜਾਲੁ ਜਮੁ ਜੋਹਿ ਨ ਸਾਕੈ ਸਾਚੈ ਸਬਦਿ ਲਿਵ ਲਾਏ ॥",
-      "roman": "kāl jāl jam joh na sākai sāchai sabad liv lāe",
+      "roman": "kāl jāl jam joh na sākē sāchē sabad liv lāe",
       "sahib_singh_pa": "ਜੇਹੜਾ ਗੁਰੂ ਦੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਵਾਲੇ ਸ਼ਬਦ ਵਿਚ ਸੁਰਤ ਜੋੜੀ ਰੱਖਦਾ ਹੈ, ਉਸ ਵਲ ਮੌਤ (ਆਤਮਕ ਮੌਤ) ਤੱਕ ਭੀ ਨਹੀਂ ਸਕਦੀ।",
       "translation_ru": "Тот, кто соединяет своё сознание со Словом истинного Бога, к нему не может приблизиться смерть."
     },
@@ -88,28 +88,28 @@
     {
       "verse_id": 24967,
       "gurmukhi": "ਦੂਜੈ ਭਾਇ ਭਰਮਿ ਵਿਗੁਤੀ ਮਨਮੁਖਿ ਮੋਹੀ ਜਮਕਾਲਿ ॥",
-      "roman": "dūjai bhāe bharam vigutī manmukh mohī jamkāl",
+      "roman": "dūjē bhāe bharam vigutī manmukh mohī jamkāl",
       "sahib_singh_pa": "ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲਾ ਮਾਇਆ ਦੇ ਪਿਆਰ ਦੀ ਭਟਕਣਾ ਵਿਚ ਖ਼ੁਆਰ ਹੁੰਦਾ ਹੈ ਤੇ ਉਸ ਨੂੰ ਆਤਮਕ ਮੌਤ ਨੇ ਆਪਣੇ ਮੋਹ ਵਿਚ ਫਸਾ ਰੱਖਿਆ ਹੁੰਦਾ ਹੈ।",
       "translation_ru": "Следующий за своим умом заблуждается в любви к майе и удерживается духовной смертью."
     },
     {
       "verse_id": 24968,
       "gurmukhi": "ਕਹੈ ਨਾਨਕੁ ਸੁਣਿ ਮਨ ਮੇਰੇ ਤੂ ਸਦਾ ਸਚੁ ਸਮਾਲਿ ॥੧॥",
-      "roman": "kahai nānak sun man mere tū sadā sach samāl",
+      "roman": "kahē nānak sun man mere tū sadā sach samāl",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ ਆਖਦਾ ਹੈ ਕਿ, ਹੇ ਮੇਰੇ ਮਨ! (ਮੇਰੀ ਗੱਲ) ਸੁਣ, ਤੂੰ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਨੂੰ ਸਦਾ ਆਪਣੇ ਅੰਦਰ ਵਸਾਈ ਰੱਖ ॥੧॥",
       "translation_ru": "Говорит Нанак: о мой ум, слушай — всегда храни внутри себя Вечного Бога."
     },
     {
       "verse_id": 24969,
       "gurmukhi": "ਮਨ ਮੇਰਿਆ ਅੰਤਰਿ ਤੇਰੈ ਨਿਧਾਨੁ ਹੈ ਬਾਹਰਿ ਵਸਤੁ ਨ ਭਾਲਿ ॥",
-      "roman": "man meriyā antar terai nidhān hai bāhar vast na bhāl",
+      "roman": "man meriyā antar terē nidhān hē bāhar vast na bhāl",
       "sahib_singh_pa": "ਹੇ ਮੇਰੇ ਮਨ! (ਸਾਰੇ ਸੁਖਾਂ ਦਾ) ਖ਼ਜ਼ਾਨਾ (ਪਰਮਾਤਮਾ) ਤੇਰੇ ਅੰਦਰ ਵੱਸ ਰਿਹਾ ਹੈ, ਤੂੰ ਇਸ ਪਦਾਰਥ ਨੂੰ ਬਾਹਰ ਨਾਹ ਢੂੰਢਦਾ ਫਿਰ।",
       "translation_ru": "О мой ум! Сокровище находится внутри тебя, не ищи его снаружи."
     },
     {
       "verse_id": 24970,
       "gurmukhi": "ਜੋ ਭਾਵੈ ਸੋ ਭੁੰਚਿ ਤੂ ਗੁਰਮੁਖਿ ਨਦਰਿ ਨਿਹਾਲਿ ॥",
-      "roman": "jo bhāvai so bhunch tū gurmukh nadar nihāl",
+      "roman": "jo bhāvē so bhunch tū gurmukh nadar nihāl",
       "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਦੀ ਰਜ਼ਾ ਨੂੰ ਆਪਣੀ ਖ਼ੁਰਾਕ ਬਣਾ ਤੇ ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਰਹਿਣ ਵਾਲੇ ਬੰਦਿਆਂ ਦੀ ਨਿਗਾਹ ਨਾਲ ਵੇਖ।",
       "translation_ru": "Прими волю Бога как пищу и смотри взглядом гурмukh."
     },
@@ -123,28 +123,28 @@
     {
       "verse_id": 24972,
       "gurmukhi": "ਮਨਮੁਖ ਅੰਧੁਲੇ ਗਿਆਨ ਵਿਹੂਣੇ ਦੂਜੈ ਭਾਇ ਖੁਆਈ ॥",
-      "roman": "manmukh andhule giān vihūṇe dūjai bhāe khuāī",
+      "roman": "manmukh andhule giān vihūṇe dūjē bhāe khuāī",
       "sahib_singh_pa": "ਆਪਣੇ ਮਨ ਪਿਛੇ ਚਲਣ ਵਾਲੇ ਮਨੁੱਖ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਅੰਨ੍ਹੇ ਹੋਏ ਅਤੇ ਆਤਮਕ ਗਿਆਨ ਤੋਂ ਵਙੇ ਹੋਏ ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ ਕਾਰਨ ਖ਼ੁਆਰ ਹੁੰਦੇ ਹਨ।",
       "translation_ru": "Следующие за своим умом слепы, лишены знания и губятся в привязанности к майе."
     },
     {
       "verse_id": 24973,
       "gurmukhi": "ਬਿਨੁ ਨਾਵੈ ਕੋ ਛੂਟੈ ਨਾਹੀ ਸਭ ਬਾਧੀ ਜਮਕਾਲਿ ॥",
-      "roman": "bin nāvai ko chhūṭai nāhī sabh bādhī jamkāl",
+      "roman": "bin nāvē ko chhūṭē nāhī sabh bādhī jamkāl",
       "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਕੋਈ ਜੀਵ ਖ਼ਲਾਸੀ ਨਹੀਂ ਪਾ ਸਕਦਾ; ਆਤਮਕ ਮੌਤ ਨੇ ਸਾਰੀ ਲੁਕਾਈ ਨੂੰ (ਆਪਣੇ ਜਾਲ ਵਿਚ) ਬੰਨ੍ਹ ਰੱਖਿਆ ਹੈ।",
       "translation_ru": "Без Имени никто не может освободиться — все связаны духовной смертью."
     },
     {
       "verse_id": 24974,
       "gurmukhi": "ਨਾਨਕ ਅੰਤਰਿ ਤੇਰੈ ਨਿਧਾਨੁ ਹੈ ਤੂ ਬਾਹਰਿ ਵਸਤੁ ਨ ਭਾਲਿ ॥੨॥",
-      "roman": "nānak antar terai nidhān hai tū bāhar vast na bhāl",
+      "roman": "nānak antar terē nidhān hē tū bāhar vast na bhāl",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਤੇਰੇ ਅੰਦਰ ਹੀ ਨਾਮ-ਖ਼ਜ਼ਾਨਾ ਮੌਜੂਦ ਹੈ, ਤੂੰ ਇਸ ਖ਼ਜ਼ਾਨੇ ਨੂੰ ਬਾਹਰ ਨਾਹ ਢੂੰਢਦਾ ਫਿਰ ॥੨॥",
       "translation_ru": "О Нанак! Сокровище находится внутри тебя, не ищи его снаружи."
     },
     {
       "verse_id": 24975,
       "gurmukhi": "ਮਨ ਮੇਰਿਆ ਜਨਮੁ ਪਦਾਰਥੁ ਪਾਇ ਕੈ ਇਕਿ ਸਚਿ ਲਗੇ ਵਾਪਾਰਾ ॥",
-      "roman": "man meriyā janam padārath pāe kai ik sach lage vāpārā",
+      "roman": "man meriyā janam padārath pāe kē ik sach lage vāpārā",
       "sahib_singh_pa": "ਹੇ ਮੇਰੇ ਮਨ! ਕਈ ਹਨ ਜੇਹੜੇ ਇਹ ਕੀਮਤੀ ਮਨੁੱਖਾ ਜਨਮ ਹਾਸਲ ਕਰ ਕੇ ਸਦਾ-ਥਿਰ ਪਰਮਾਤਮਾ ਦੇ ਸਿਮਰਨ ਦੇ ਵਪਾਰ ਵਿਚ ਲੱਗ ਪੈਂਦੇ ਹਨ।",
       "translation_ru": "О мой ум! Некоторые, получив драгоценное человеческое рождение, вступают в торговлю памятью о Боге."
     },
@@ -165,21 +165,21 @@
     {
       "verse_id": 24978,
       "gurmukhi": "ਮਨਮੁਖ ਮਾਇਆ ਮੋਹ ਵਿਆਪੇ ਦੂਖਿ ਸੰਤਾਪੇ ਦੂਜੈ ਪਤਿ ਗਵਾਈ ॥",
-      "roman": "manmukh māiā moh viāpe dūkh santāpe dūjai pat gavāī",
+      "roman": "manmukh māiā moh viāpe dūkh santāpe dūjē pat gavāī",
       "sahib_singh_pa": "ਪਰ ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਨ ਵਾਲੇ ਮਨੁੱਖ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸੇ ਰਹਿੰਦੇ ਹਨ, ਦੁੱਖ ਵਿਚ (ਗ੍ਰਸੇ ਹੋਏ) ਵਿਆਕੁਲ ਹੋਏ ਰਹਿੰਦੇ ਹਨ ਤੇ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸ ਕੇ ਉਹਨਾਂ ਨੇ ਆਪਣੀ ਇੱਜ਼ਤ ਗਵਾ ਲਈ ਹੁੰਦੀ ਹੈ।",
       "translation_ru": "Следующие за своим умом погружены в майю, страдают и теряют честь."
     },
     {
       "verse_id": 24979,
       "gurmukhi": "ਹਉਮੈ ਮਾਰਿ ਸਚਿ ਸਬਦਿ ਸਮਾਣੇ ਸਚਿ ਰਤੇ ਅਧਿਕਾਈ ॥",
-      "roman": "haumai mār sach sabad samāṇe sach rate adhikāī",
+      "roman": "haumē mār sach sabad samāṇe sach rate adhikāī",
       "sahib_singh_pa": "ਉਹ ਮਨੁੱਖ ਹਉਮੈ ਦੂਰ ਕਰ ਕੇ ਸਦਾ-ਥਿਰ ਹਰੀ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਸ਼ਬਦ ਵਿਚ ਲੀਨ ਰਹਿੰਦੇ ਹਨ ਤੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ (ਦੇ ਪ੍ਰੇਮ-ਰੰਗ ਵਿਚ) ਬਹੁਤ ਰੰਗੇ ਰਹਿੰਦੇ ਹਨ;",
       "translation_ru": "Уничтожив эго, они растворяются в Слове Истины и глубоко окрашены в неё."
     },
     {
       "verse_id": 24980,
       "gurmukhi": "ਨਾਨਕ ਮਾਣਸ ਜਨਮੁ ਦੁਲੰਭੁ ਹੈ ਸਤਿਗੁਰਿ ਬੂਝ ਬੁਝਾਈ ॥੩॥",
-      "roman": "nānak māṇas janam dulambh hai satgur būjh bujhāī",
+      "roman": "nānak māṇas janam dulambh hē satgur būjh bujhāī",
       "sahib_singh_pa": "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੂੰ ਸਤਿਗੁਰੂ ਨੇ ਇਹ ਸਮਝ ਬਖ਼ਸ਼ ਦਿੱਤੀ ਹੁੰਦੀ ਹੈ ਕਿ ਮਨੁੱਖਾ ਜਨਮ ਬੜੀ ਔਖਿਆਈ ਨਾਲ ਮਿਲਦਾ ਹੈ, ਹੇ ਨਾਨਕ!॥੩॥",
       "translation_ru": "О Нанак! Человеческое рождение редкое — это понимание даёт Гуру."
     },
@@ -193,21 +193,21 @@
     {
       "verse_id": 24982,
       "gurmukhi": "ਜੋ ਮਨੁ ਮਾਰਹਿ ਆਪਣਾ ਸੇ ਪੁਰਖ ਬੈਰਾਗੀ ਰਾਮ ॥",
-      "roman": "jo man māreh āpnā se purakh bairāgī rām",
+      "roman": "jo man māreh āpnā se purakh bērāgī rām",
       "sahib_singh_pa": "ਤੇ ਜੇਹੜੇ ਆਪਣੇ ਮਨ ਨੂੰ ਵੱਸ ਵਿਚ ਰੱਖਦੇ ਹਨ ਤੇ (ਦੁਨੀਆ ਦੀ ਕਿਰਤ-ਕਾਰ ਕਰਦੇ ਹੋਏ ਭੀ ਮਾਇਆ ਵਲੋਂ) ਨਿਰਮੋਹ ਰਹਿੰਦੇ ਹਨ।",
       "translation_ru": "Те, кто подчиняют свой ум, становятся отрешёнными."
     },
     {
       "verse_id": 24983,
       "gurmukhi": "ਸੇ ਜਨ ਬੈਰਾਗੀ ਸਚਿ ਲਿਵ ਲਾਗੀ ਆਪਣਾ ਆਪੁ ਪਛਾਣਿਆ ॥",
-      "roman": "se jan bairāgī sach liv lāgī āpnā āp pachhāṇiā",
+      "roman": "se jan bērāgī sach liv lāgī āpnā āp pachhāṇiā",
       "sahib_singh_pa": "ਉਹ ਮਨੁੱਖ ਦੁਨੀਆ ਵਲੋਂ ਵਿਰਕਤ ਰਹਿੰਦੇ ਹਨ, ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਵਿਚ ਉਹਨਾਂ ਦੀ ਸੁਰਤ ਜੁੜੀ ਰਹਿੰਦੀ ਹੈ ਅਤੇ ਉਹ ਆਪਣੇ ਆਤਮਕ ਜੀਵਨ ਨੂੰ ਪੜਤਾਲਦੇ ਰਹਿੰਦੇ ਹਨ।",
       "translation_ru": "Они отрешённые, соединены с Истиной и познают себя."
     },
     {
       "verse_id": 24984,
       "gurmukhi": "ਮਤਿ ਨਿਹਚਲ ਅਤਿ ਗੂੜੀ ਗੁਰਮੁਖਿ ਸਹਜੇ ਨਾਮੁ ਵਖਾਣਿਆ ॥",
-      "roman": "mat nihchal ati gūṛhī gurmukh sahje nām vakhāṇiā",
+      "roman": "mat nihchal at gūṛhī gurmukh sahje nām vakhāṇiā",
       "sahib_singh_pa": "ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਉਹਨਾਂ ਦੀ ਮੱਤ (ਮਾਇਆ ਵਲੋਂ) ਅਡੋਲ ਰਹਿੰਦੀ ਹੈ, ਪ੍ਰੇਮ-ਰੰਗ ਵਿਚ ਗੂੜ੍ਹੀ ਰੰਗੀ ਰਹਿੰਦੀ ਹੈ, ਆਤਮਕ ਅਡੋਲਤਾ ਵਿਚ ਟਿਕ ਕੇ ਉਹ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦੇ ਰਹਿੰਦੇ ਹਨ।",
       "translation_ru": "Их ум устойчив, глубоко окрашен, и в спокойствии они произносят Имя."
     },
@@ -242,7 +242,7 @@
     {
       "verse_id": 24989,
       "gurmukhi": "ਲਾਹਾ ਲਾਭੁ ਹਰਿ ਭਗਤਿ ਹੈ ਗੁਣ ਮਹਿ ਗੁਣੀ ਸਮਾਈ ਰਾਮ ॥",
-      "roman": "lāhā lābh har bhagat hai guṇ meh guṇī samāī rām",
+      "roman": "lāhā lābh har bhagat hē guṇ meh guṇī samāī rām",
       "sahib_singh_pa": "ਉਸ ਨੂੰ ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ ਦੀ ਖੱਟੀ ਪ੍ਰਾਪਤ ਹੁੰਦੀ ਰਹਿੰਦੀ ਹੈ, ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਵਿਚ ਜੁੜ ਕੇ ਉਸ ਦੀ ਲੀਨਤਾ ਗੁਣਾਂ ਦੇ ਮਾਲਕ-ਪ੍ਰਭੂ ਵਿਚ ਹੋ ਜਾਂਦੀ ਹੈ।",
       "translation_ru": "Его прибыль — преданность Богу, и он сливается с Господом."
     }

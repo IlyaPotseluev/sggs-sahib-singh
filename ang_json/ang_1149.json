@@ -4,7 +4,7 @@
     {
       "verse_id": 49086,
       "gurmukhi": "ਮੂਲ ਬਿਨਾ ਸਾਖਾ ਕਤ ਆਹੈ ॥੧॥",
-      "roman": "mūl binā sākhā kat āhai ||1||",
+      "roman": "mūl binā sākhā kat āhē ||1||",
       "sahib_singh_pa": "(ਉਸ ਦੀ ਇਹ ਤਾਂਘ ਵਿਅਰਥ ਹੈ, ਜਿਵੇਂ ਰੁੱਖ ਦੇ) ਮੁੱਢ ਤੋਂ ਬਿਨਾ (ਉਸ ਉਤੇ) ਕੋਈ ਟਹਣੀ ਨਹੀਂ ਉੱਗ ਸਕਦੀ ॥੧॥",
       "translation_ru": "напрасно этого желает: как может вырасти ветвь без корня? ||1||"
     },
@@ -18,21 +18,21 @@
     {
       "verse_id": 49088,
       "gurmukhi": "ਜਨਮ ਜਨਮ ਕੀ ਮੈਲੁ ਉਤਾਰੈ ਬੰਧਨ ਕਾਟਿ ਹਰਿ ਸੰਗਿ ਮਿਲਾਇ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "janam janam kī mail utārai bandhan kāṭ har saṅg milāi ||1|| rahāu ||",
+      "roman": "janam janam kī mēl utārē bandhan kāṭ har saṅg milāi ||1|| rahāu ||",
       "sahib_singh_pa": "(ਏਹ ਸਿਮਰਨ) ਅਨੇਕਾਂ ਜਨਮਾਂ ਦੀ (ਵਿਕਾਰਾਂ ਦੀ) ਮੈਲ ਦੂਰ ਕਰ ਦੇਂਦਾ ਹੈ, ਮਾਇਆ ਦੇ ਮੋਹ ਦੀਆਂ ਫਾਹੀਆਂ ਕੱਟ ਕੇ (ਮਨੁੱਖ ਨੂੰ) ਪਰਮਾਤਮਾ ਦੇ ਨਾਲ ਜੋੜ ਦੇਂਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Это памятование смывает грязь пороков многих рождений, разрезает путы привязанности к майе и соединяет человека с Господом. ||1|| Рахау ||"
     },
     {
       "verse_id": 49089,
       "gurmukhi": "ਤੀਰਥਿ ਨਾਇ ਕਹਾ ਸੁਚਿ ਸੈਲੁ ॥",
-      "roman": "tīrath nāi kahā such sail",
+      "roman": "tīrath nāi kahā such sēl",
       "sahib_singh_pa": "ਪੱਥਰ (ਪੱਥਰ-ਦਿਲ ਮਨੁੱਖ) ਤੀਰਥ ਉੱਤੇ ਇਸ਼ਨਾਨ ਕਰ ਕੇ (ਆਤਮਕ) ਪਵਿੱਤ੍ਰਤਾ ਹਾਸਲ ਨਹੀਂ ਕਰ ਸਕਦਾ,",
       "translation_ru": "Камень, каменное сердце, не может обрести духовную чистоту, омывшись на месте паломничества,"
     },
     {
       "verse_id": 49090,
       "gurmukhi": "ਮਨ ਕਉ ਵਿਆਪੈ ਹਉਮੈ ਮੈਲੁ ॥",
-      "roman": "man kau viāpai haumai mail",
+      "roman": "man kau viāpē haumē mēl",
       "sahib_singh_pa": "(ਉਸ ਦੇ) ਮਨ ਨੂੰ (ਇਹੀ) ਹਉਮੈ ਦੀ ਮੈਲ ਚੰਬੜੀ ਰਹਿੰਦੀ ਹੈ (ਕਿ ਮੈਂ ਤੀਰਥ-ਜਾਤ੍ਰਾ ਕਰ ਆਇਆ ਹਾਂ)।",
       "translation_ru": "ведь к его уму по-прежнему липнет грязь Хоумэ: ‘я совершил паломничество’."
     },
@@ -53,7 +53,7 @@
     {
       "verse_id": 49093,
       "gurmukhi": "ਬਿਨੁ ਖਾਏ ਬੂਝੈ ਨਹੀ ਭੂਖ ॥",
-      "roman": "bin khāē būjhai nahī bhūkh",
+      "roman": "bin khāē būjhē nahī bhūkh",
       "sahib_singh_pa": "(ਭੋਜਨ) ਖਾਣ ਤੋਂ ਬਿਨਾ (ਪੇਟ ਦੀ) ਭੁੱਖ (ਦੀ ਅੱਗ) ਨਹੀਂ ਬੁੱਝਦੀ।",
       "translation_ru": "Без еды огонь голода не угасает."
     },
@@ -95,7 +95,7 @@
     {
       "verse_id": 49099,
       "gurmukhi": "ਧਨੁ ਹਰਿ ਭਗਤਿ ਧਨੁ ਕਰਣੈਹਾਰ ॥",
-      "roman": "dhan har bhagat dhan karṇaihār",
+      "roman": "dhan har bhagat dhan karṇēhār",
       "sahib_singh_pa": "ਉਹਨਾਂ ਦੇ ਪਾਸ ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ ਦਾ ਧਨ ਸਿਰਜਣਹਾਰ ਦੇ ਨਾਮ ਦਾ ਧਨ (ਸਦਾ ਮੌਜੂਦ) ਹੈ,",
       "translation_ru": "У них всегда есть богатство преданности Господу и богатство Имени Творца,"
     },
@@ -109,7 +109,7 @@
     {
       "verse_id": 49101,
       "gurmukhi": "ਭੈਰਉ ਮਹਲਾ ੫ ॥",
-      "roman": "bhairau mehlā 5",
+      "roman": "bhērau mehlā 5",
       "sahib_singh_pa": "None",
       "translation_ru": ""
     },
@@ -151,7 +151,7 @@
     {
       "verse_id": 49107,
       "gurmukhi": "ਸਾਧਸੰਗਿ ਮਿਟੇ ਭੈ ਭਰਮਾ ਅੰਮ੍ਰਿਤੁ ਹਰਿ ਹਰਿ ਰਸਨ ਭਨੇ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "sādhasaṅg miṭe bhai bharamā aṃmrit har har rasan bhane",
+      "roman": "sādhasaṅg miṭe bhē bharamā aṃmrit har har rasan bhane",
       "sahib_singh_pa": "ਸਾਧ ਸੰਗਤ ਵਿਚ ਰਹਿ ਕੇ ਉਸ ਦੇ ਸਾਰੇ ਡਰ ਵਹਿਮ ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ, ਜਿਹੜਾ ਮਨੁੱਖ ਆਪਣੀ ਜੀਭ ਨਾਲ ਆਮਤਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਹਰਿ-ਨਾਮ ਉਚਾਰਦਾ ਰਹਿੰਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "живя в Садх Сангат, он избавляется от всех страхов и заблуждений, если своей речью постоянно произносит дающее бессмертную жизнь Имя Хари. ॥1॥ Рахау ॥"
     },
@@ -186,14 +186,14 @@
     {
       "verse_id": 49112,
       "gurmukhi": "ਅਪਨੇ ਸੇਵਕ ਕਉ ਸਦਾ ਪ੍ਰਤਿਪਾਰੈ ॥",
-      "roman": "apne sevak kau sadā pratipārai",
+      "roman": "apne sevak kau sadā pratipārē",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਆਪਣੇ ਸੇਵਕ ਦੀ ਆਪ ਰੱਖਿਆ ਕਰਦਾ ਹੈ,",
       "translation_ru": "Господь сам всегда хранит своего слугу,"
     },
     {
       "verse_id": 49113,
       "gurmukhi": "ਭਗਤ ਜਨਾ ਕੇ ਸਾਸ ਨਿਹਾਰੈ ॥",
-      "roman": "bhagat janā ke sās nihārai",
+      "roman": "bhagat janā ke sās nihārē",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਆਪਣੇ ਭਗਤਾਂ ਦੇ ਸੁਆਸਾਂ ਨੂੰ ਗਹੁ ਨਾਲ ਤੱਕਦਾ ਰਹਿੰਦਾ ਹੈ (ਭਾਵ, ਬੜੇ ਧਿਆਨ ਨਾਲ ਭਗਤ ਜਨਾਂ ਦੀ ਰਾਖੀ ਕਰਦਾ ਹੈ)।",
       "translation_ru": "Он внимательно следит за дыханием своих бхагатов, то есть бережёт преданных с великой заботой."
     },
@@ -207,7 +207,7 @@
     {
       "verse_id": 49115,
       "gurmukhi": "ਜਮ ਤੇ ਰਾਖੈ ਦੇ ਕਰਿ ਹਾਥ ॥੩॥",
-      "roman": "jam te rākhai de kar hāth",
+      "roman": "jam te rākhē de kar hāth",
       "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਤਾਂ ਉਹਨਾਂ ਨੂੰ ਹੱਥ ਦੇ ਕੇ ਜਮਾਂ ਤੋਂ ਭੀ ਬਚਾ ਲੈਂਦਾ ਹੈ ॥੩॥",
       "translation_ru": "Ведь Параматма, подав им руку, спасает их даже от ямов. ॥3॥"
     },
@@ -242,7 +242,7 @@
     {
       "verse_id": 49120,
       "gurmukhi": "ਭੈਰਉ ਮਹਲਾ ੫ ॥",
-      "roman": "bhairau mehlā 5",
+      "roman": "bhērau mehlā 5",
       "sahib_singh_pa": "None",
       "translation_ru": ""
     },
@@ -263,7 +263,7 @@
     {
       "verse_id": 49123,
       "gurmukhi": "ਭੈ ਭੰਜਨ ਅਬਿਨਾਸੀ ਰਾਇ ॥",
-      "roman": "bhai bhanjan abināsī rāi",
+      "roman": "bhē bhanjan abināsī rāi",
       "sahib_singh_pa": "ਉਹ ਪਾਤਿਸ਼ਾਹ (ਜੀਵਾਂ ਦੇ ਸਾਰੇ) ਡਰ ਦੂਰ ਕਰਨ ਵਾਲਾ ਹੈ, ਉਹ ਆਪ ਨਾਸ-ਰਹਿਤ ਹੈ,",
       "translation_ru": "Этот Царь устраняет все страхи существ, сам же Он неуничтожим,"
     },
@@ -326,14 +326,14 @@
     {
       "verse_id": 49132,
       "gurmukhi": "ਦੂਖੁ ਦਰਦੁ ਨਹ ਬਿਆਪੈ ਰੋਗੁ ॥",
-      "roman": "dūkh dard neh biāpai rog",
+      "roman": "dūkh dard neh biāpē rog",
       "sahib_singh_pa": "ਕੋਈ ਦੁੱਖ ਕੋਈ ਦਰਦ ਕੋਈ ਰੋਗ ਉਸ ਉਤੇ ਆਪਣਾ ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕਦਾ।",
       "translation_ru": "Ни страдание, ни боль, ни болезнь не могут взять над ним верх."
     },
     {
       "verse_id": 49133,
       "gurmukhi": "ਸਭੁ ਕਿਛੁ ਤੇਰਾ ਤੂ ਕਰਣੈਹਾਰੁ ॥",
-      "roman": "sabh kichh terā tū karṇaihār",
+      "roman": "sabh kichh terā tū karṇēhār",
       "sahib_singh_pa": "(ਜੋ ਕੁਝ ਦਿੱਸ ਰਿਹਾ ਹੈ, ਇਹ) ਸਭ ਕੁਝ ਤੇਰਾ ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ ਹੈ, ਤੂੰ ਹੀ ਸਭ ਕੁਝ ਪੈਦਾ ਕਰਨ ਦੀ ਸਮਰਥਾ ਵਾਲਾ ਹੈਂ।",
       "translation_ru": "Всё, что видно, создано Тобой; Ты один обладаешь силой всё творить."
     },
@@ -375,7 +375,7 @@
     {
       "verse_id": 49139,
       "gurmukhi": "ਭੈਰਉ ਮਹਲਾ ੫ ॥",
-      "roman": "bhairau mehlā 5",
+      "roman": "bhērau mehlā 5",
       "sahib_singh_pa": "None",
       "translation_ru": ""
     },

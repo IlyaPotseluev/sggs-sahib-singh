@@ -4,7 +4,7 @@
     {
       "verse_id": 35721,
       "gurmukhi": "ਤੂ ਸੁਖਦਾਤਾ ਲੈਹਿ ਮਿਲਾਇ ॥",
-      "roman": "tū sukhdātā laih milāe",
+      "roman": "tū sukhdātā lēh milāe",
       "sahib_singh_pa": "ਸਾਰੇ ਸੁਖ ਦੇਣ ਵਾਲਾ ਤੂੰ (ਆਪ ਹੀ ਉਹਨਾਂ ਨੂੰ ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ) ਮਿਲਾ ਲੈਂਦਾ ਹੈਂ।",
       "translation_ru": "Ты сам соединяешь их с собой."
     },
@@ -18,14 +18,14 @@
     {
       "verse_id": 35723,
       "gurmukhi": "ਗੁਰਮੁਖਿ ਬੂਝੈ ਸੋਝੀ ਹੋਇ ॥੯॥",
-      "roman": "gurmukh būjhai sojhī hoī",
+      "roman": "gurmukh būjhē sojhī hoī",
       "sahib_singh_pa": "ਜਿਹੜਾ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਂਦਾ ਹੈ, ਉਹ (ਇਸ ਗੱਲ ਨੂੰ) ਸਮਝ ਲੈਂਦਾ ਹੈ, (ਉਸ ਨੂੰ ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ ਆ ਜਾਂਦੀ ਹੈ) ॥੯॥",
       "translation_ru": "Гурмукх понимает это и обретает знание."
     },
     {
       "verse_id": 35724,
       "gurmukhi": "ਪੰਦ੍ਰਹ ਥਿਤਂੀ ਤੈ ਸਤ ਵਾਰ ॥",
-      "roman": "pandraḥ thitīṅ tai sat vār",
+      "roman": "pandraḥ thitīṅ tē sat vār",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! (ਜਿਵੇਂ) ਪੰਦ੍ਰਾਂ ਥਿੱਤਾਂ ਅਤੇ ਸੱਤ ਵਾਰ,",
       "translation_ru": "Как пятнадцать фаз и семь дней,"
     },
@@ -39,7 +39,7 @@
     {
       "verse_id": 35726,
       "gurmukhi": "ਦਿਨਸੁ ਰੈਣਿ ਤਿਵੈ ਸੰਸਾਰੁ ॥",
-      "roman": "dinas rain tivai sansār",
+      "roman": "dinas rēn tivē sansār",
       "sahib_singh_pa": "ਰਾਤ, ਦਿਨ (ਦੀ ਗਤੀ ਵਾਂਗ) ਤਿਵੇਂ ਇਹ ਜਗਤ ਹੈ (ਭਾਵ, ਜਗਤ ਦੇ ਜੀਵ ਜੰਮਦੇ ਮਰਦੇ ਰਹਿੰਦੇ ਹਨ।",
       "translation_ru": "так же и мир подобен дню и ночи."
     },
@@ -60,7 +60,7 @@
     {
       "verse_id": 35729,
       "gurmukhi": "ਨਾਨਕ ਗੁਰਮੁਖਿ ਬੂਝੈ ਕੋ ਸਬਦੁ ਵੀਚਾਰਿ ॥੧੦॥੧॥",
-      "roman": "nānak gurmukh būjhai ko sabad vīchār",
+      "roman": "nānak gurmukh būjhē ko sabad vīchār",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਰਹਿਣ ਵਾਲਾ ਕੋਈ (ਭਾਗਾਂ ਵਾਲਾ) ਮਨੁੱਖ (ਗੁਰੂ ਦੇ) ਸ਼ਬਦ ਨੂੰ (ਆਪਣੇ) ਮਨ ਵਿਚ ਵਸਾ ਕੇ (ਇਸ ਗੱਲ ਨੂੰ) ਸਮਝ ਲੈਂਦਾ ਹੈ ॥੧੦॥੧॥",
       "translation_ru": "Нанак: лишь гурмукх, размышляя над словом, понимает это."
     },
@@ -88,7 +88,7 @@
     {
       "verse_id": 35733,
       "gurmukhi": "ਦੂਜੈ ਭਾਇ ਪਰਪੰਚਿ ਲਾਗੇ ॥",
-      "roman": "dūjai bhāe parpanch lāge",
+      "roman": "dūjē bhāe parpanch lāge",
       "sahib_singh_pa": "(ਜੀਵ ਪਰਮਾਤਮਾ ਨੂੰ ਭੁਲਾ ਕੇ) ਹੋਰ ਪਿਆਰ ਵਿਚ ਦਿੱਸਦੇ ਜਗਤ ਦੇ ਮੋਹ ਵਿਚ ਫਸੇ ਰਹਿੰਦੇ ਹਨ।",
       "translation_ru": "Забыв Бога, люди увлечены ложной привязанностью к видимому миру."
     },
@@ -109,63 +109,63 @@
     {
       "verse_id": 35736,
       "gurmukhi": "ਪਰਪੰਚੁ ਚੂਕੈ ਸਚਿ ਸਮਾਇ ॥੧॥",
-      "roman": "parpanch chūkai sach samāe",
+      "roman": "parpanch chūkē sach samāe",
       "sahib_singh_pa": "(ਉਸ ਦੇ ਅੰਦਰੋਂ) ਜਗਤ ਦਾ ਮੋਹ ਮੁੱਕ ਜਾਂਦਾ ਹੈ, (ਉਹ ਮਨੁੱਖ) ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ (ਦੀ ਯਾਦ) ਵਿਚ ਲੀਨ ਰਹਿੰਦਾ ਹੈ ॥੧॥",
       "translation_ru": "Тогда исчезает привязанность к миру, и человек пребывает в Истине."
     },
     {
       "verse_id": 35737,
       "gurmukhi": "ਜਾ ਕੈ ਮਸਤਕਿ ਲਿਖਿਆ ਲੇਖੁ ॥",
-      "roman": "jā kai mastak likhiā lekh",
+      "roman": "jā kē mastak likhiā lekh",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਦੇ ਮੱਥੇ ਉੱਤੇ (ਮਨੁੱਖ ਦੇ ਕੀਤੇ ਕਰਮਾਂ ਅਨੁਸਾਰ ਪਰਮਾਤਮਾ ਵਲੋਂ) ਲੇਖ ਲਿਖਿਆ ਹੁੰਦਾ ਹੈ,",
       "translation_ru": "О брат! У кого на челе записано предначертание,"
     },
     {
       "verse_id": 35738,
       "gurmukhi": "ਤਾ ਕੈ ਮਨਿ ਵਸਿਆ ਪ੍ਰਭੁ ਏਕੁ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "tā kai man vasiā prabh ek",
+      "roman": "tā kē man vasiā prabh ek",
       "sahib_singh_pa": "ਉਸ (ਮਨੁੱਖ) ਦੇ ਮਨ ਵਿਚ ਇਕ ਪਰਮਾਤਮਾ (ਹੀ) ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "в сердце того пребывает один Бог."
     },
     {
       "verse_id": 35739,
       "gurmukhi": "ਸ੍ਰਿਸਟਿ ਉਪਾਇ ਆਪੇ ਸਭੁ ਵੇਖੈ ॥",
-      "roman": "srisht upāe āpe sabh vekhai",
+      "roman": "srisht upāe āpe sabh vekhē",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜਗਤ ਪੈਦਾ ਕਰ ਕੇ (ਪਰਮਾਤਮਾ) ਆਪ ਹੀ ਹਰੇਕ ਦੀ ਸੰਭਾਲ ਕਰਦਾ ਹੈ।",
       "translation_ru": "Создав мир, Он Сам заботится обо всех."
     },
     {
       "verse_id": 35740,
       "gurmukhi": "ਕੋਇ ਨ ਮੇਟੈ ਤੇਰੈ ਲੇਖੈ ॥",
-      "roman": "koe na metai terai lekhai",
+      "roman": "koe na metē terē lekhē",
       "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ! ਜੀਵ ਦੇ ਕੀਤੇ ਕਰਮਾਂ ਅਨੁਸਾਰ ਉਸ ਦੇ ਮੱਥੇ ਉੱਤੇ ਜਿਹੜਾ ਲੇਖ ਤੂੰ ਲਿਖਦਾ ਹੈਂ) ਤੇਰੇ (ਉਸ ਲਿਖੇ) ਲੇਖ ਨੂੰ ਕੋਈ ਜੀਵ (ਆਪਣੇ ਉੱਦਮ ਨਾਲ) ਮਿਟਾ ਨਹੀਂ ਸਕਦਾ।",
       "translation_ru": "Никто не может стереть написанное Тобой предначертание."
     },
     {
       "verse_id": 35741,
       "gurmukhi": "ਸਿਧ ਸਾਧਿਕ ਜੇ ਕੋ ਕਹੈ ਕਹਾਏ ॥",
-      "roman": "sidh sādhik je ko kahai kahāe",
+      "roman": "sidh sādhik je ko kahē kahāe",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! (ਆਪਣੀ ਹਉਮੈ ਦੇ ਆਸਰੇ) ਜੇ ਕੋਈ ਮਨੁੱਖ (ਆਪਣੇ ਆਪ ਨੂੰ) ਸਿੱਧ ਆਖਦਾ ਅਖਵਾਂਦਾ ਹੈ, ਸਾਧਿਕ ਆਖਦਾ ਅਖਵਾਂਦਾ ਹੈ,",
       "translation_ru": "Если кто-то по эго называет себя сидхом или подвижником,"
     },
     {
       "verse_id": 35742,
       "gurmukhi": "ਭਰਮੇ ਭੂਲਾ ਆਵੈ ਜਾਏ ॥",
-      "roman": "bharme bhūlā āvai jāe",
+      "roman": "bharme bhūlā āvē jāe",
       "sahib_singh_pa": "ਉਹ ਮਨੁੱਖ (ਹਉਮੈ ਦੀ) ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ ਕੁਰਾਹੇ ਪਿਆ ਰਹਿੰਦਾ ਹੈ, ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਪਿਆ ਰਹਿੰਦਾ ਹੈ।",
       "translation_ru": "он заблуждается и остается в круге рождения и смерти."
     },
     {
       "verse_id": 35743,
       "gurmukhi": "ਸਤਿਗੁਰੁ ਸੇਵੈ ਸੋ ਜਨੁ ਬੂਝੈ ॥",
-      "roman": "satgur sevai so jan būjhai",
+      "roman": "satgur sevē so jan būjhē",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜਿਹੜਾ ਮਨੁੱਖ (ਆਪਣੀ ਹਉਮੈ ਦੀ ਟੇਕ ਛੱਡ ਕੇ) ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਂਦਾ ਹੈ, ਉਹ ਮਨੁੱਖ (ਜੀਵਨ ਦਾ ਸਹੀ ਰਸਤਾ ਸਮਝ ਪੈਂਦਾ ਹੈ।",
       "translation_ru": "Тот, кто служит Гуру, понимает истинный путь жизни."
     },
     {
       "verse_id": 35744,
       "gurmukhi": "ਹਉਮੈ ਮਾਰੇ ਤਾ ਦਰੁ ਸੂਝੈ ॥੨॥",
-      "roman": "haumai māre tā dar sūjhai",
+      "roman": "haumē māre tā dar sūjhē",
       "sahib_singh_pa": "ਜਦੋਂ ਮਨੁੱਖ (ਆਪਣੇ ਅੰਦਰੋਂ) ਹਉਮੈ ਮੁਕਾਂਦਾ ਹੈ, ਤਦੋਂ (ਉਸ ਨੂੰ ਪਰਮਾਤਮਾ ਦਾ) ਦਰ ਦਿੱਸ ਪੈਂਦਾ ਹੈ ॥੨॥",
       "translation_ru": "Когда он побеждает эго, ему открывается Божественный двор."
     },
@@ -179,21 +179,21 @@
     {
       "verse_id": 35746,
       "gurmukhi": "ਏਕੋ ਵਰਤੈ ਅਵਰੁ ਨ ਬੀਆ ॥",
-      "roman": "eko vartai avar na bīā",
+      "roman": "eko vartē avar na bīā",
       "sahib_singh_pa": "(ਸਾਰੇ ਜਗਤ ਵਿਚ) ਇਕ ਪ੍ਰਭੂ ਹੀ ਮੌਜੂਦ ਹੈ, (ਉਸ ਤੋਂ ਬਿਨਾ) ਕੋਈ ਹੋਰ ਦੂਜਾ ਨਹੀਂ ਹੈ।",
       "translation_ru": "Везде присутствует только один Бог, кроме Него нет другого."
     },
     {
       "verse_id": 35747,
       "gurmukhi": "ਦੂਜੇ ਤੇ ਜੇ ਏਕੋ ਜਾਣੈ ॥",
-      "roman": "dūje te je eko jāṇai",
+      "roman": "dūje te je eko jāṇē",
       "sahib_singh_pa": "ਜੇ (ਮਨੁੱਖ) ਇਸ ਵੱਖਰੇ ਦਿੱਸ ਰਹੇ ਜਗਤ (ਦੇ ਮੋਹ) ਤੋਂ (ਉੱਚਾ ਹੋ ਕੇ) ਇਕ ਪਰਮਾਤਮਾ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਪਾਈ ਰੱਖੇ,",
       "translation_ru": "Если человек, поднявшись над привязанностью к миру, соединяется с Единым,"
     },
     {
       "verse_id": 35748,
       "gurmukhi": "ਗੁਰ ਕੈ ਸਬਦਿ ਹਰਿ ਦਰਿ ਨੀਸਾਣੈ ॥",
-      "roman": "gur kai sabad har dar nīsāṇai",
+      "roman": "gur kē sabad har dar nīsāṇē",
       "sahib_singh_pa": "ਤਾਂ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਬਰਕਤਿ ਨਾਲ ਰਾਹਦਾਰੀ ਸਮੇਤ (ਬਿਨਾ ਰੋਕ-ਟੋਕ) ਪ੍ਰਭੂ ਦੇ ਦਰ ਤੇ (ਪਹੁੰਚ ਜਾਂਦਾ ਹੈ)।",
       "translation_ru": "то через Слово Гуру он достигает Божьего двора без препятствий."
     },
@@ -207,7 +207,7 @@
     {
       "verse_id": 35750,
       "gurmukhi": "ਵਿਚਹੁ ਦੂਜਾ ਠਾਕਿ ਰਹਾਏ ॥੩॥",
-      "roman": "vichahu dūjā ṭhāk rahāe",
+      "roman": "vichah dūjā ṭhāk rahāe",
       "sahib_singh_pa": "ਅਤੇ (ਆਪਣੇ) ਅੰਦਰੋਂ ਵੱਖਰੇ ਦਿੱਸ ਰਹੇ ਜਗਤ ਦਾ ਮੋਹ ਰੋਕ ਰੱਖਦਾ ਹੈ ॥੩॥",
       "translation_ru": "и устраняет изнутри привязанность к двойственности."
     },
@@ -221,14 +221,14 @@
     {
       "verse_id": 35752,
       "gurmukhi": "ਤਿਸ ਨੋ ਮਾਰਿ ਨ ਸਾਕੈ ਕੋਇ ॥",
-      "roman": "tis no mār na sākai koi",
+      "roman": "tis no mār na sākē koi",
       "sahib_singh_pa": "ਉਸ ਨੂੰ ਕੋਈ (ਕਾਮਾਦਿਕ ਵੈਰੀ) ਢਾਹ ਨਹੀਂ ਸਕਦਾ।",
       "translation_ru": "никто не может повредить ему."
     },
     {
       "verse_id": 35753,
       "gurmukhi": "ਸਾਹਿਬ ਕੀ ਸੇਵਕੁ ਰਹੈ ਸਰਣਾਈ ॥",
-      "roman": "sāhib kī sevak rahai saraṇāī",
+      "roman": "sāhib kī sevak rahē saraṇāī",
       "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਸੇਵਕ (ਆਪਣੇ) ਮਾਲਕ-ਪ੍ਰਭੂ ਦੀ ਸਰਨ ਪਿਆ ਰਹਿੰਦਾ ਹੈ,",
       "translation_ru": "Потому что слуга пребывает в прибежище Господа,"
     },
@@ -249,28 +249,28 @@
     {
       "verse_id": 35756,
       "gurmukhi": "ਕਉਣੁ ਡਰੈ ਡਰੁ ਕਿਸ ਕਾ ਹੋਇ ॥੪॥",
-      "roman": "kaun ḍarai ḍar kis kā hoi",
+      "roman": "kaun ḍarē ḍar kis kā hoi",
       "sahib_singh_pa": "(ਸੇਵਕ ਨੂੰ ਇਹ ਨਿਸ਼ਚਾ ਬਣ ਜਾਂਦਾ ਹੈ, ਇਸ ਵਾਸਤੇ) ਕਿਸੇ ਤੋਂ ਨਹੀਂ ਡਰਦਾ, ਉਸ ਨੂੰ ਕਿਸੇ (ਕਾਮਾਦਿਕ ਵੈਰੀ) ਦਾ ਡਰ-ਦਬਾਉ ਨਹੀਂ ਹੁੰਦਾ ॥੪॥",
       "translation_ru": "Тогда человек никого не боится и не испытывает страха."
     },
     {
       "verse_id": 35757,
       "gurmukhi": "ਗੁਰਮਤੀ ਸਾਂਤਿ ਵਸੈ ਸਰੀਰ ॥",
-      "roman": "gurmatī sānt vasai sarīr",
+      "roman": "gurmatī sānt vasē sarīr",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਗੁਰੂ ਦੀ ਮਤਿ ਉੱਤੇ ਤੁਰ ਕੇ (ਵਡਭਾਗੀ ਮਨੁੱਖ ਦੇ) ਹਿਰਦੇ ਵਿਚ ਸ਼ਾਂਤੀ ਪੈਦਾ ਹੋ ਜਾਂਦੀ ਹੈ,",
       "translation_ru": "Следуя наставлению Гуру, в сердце поселяется покой."
     },
     {
       "verse_id": 35758,
       "gurmukhi": "ਸਬਦੁ ਚੀਨਿੑ ਫਿਰਿ ਲਗੈ ਨ ਪੀਰ ॥",
-      "roman": "sabad chīnh phir lagai na pīr",
+      "roman": "sabad chīnh phir lagē na pīr",
       "sahib_singh_pa": "ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਪਾ ਕੇ ਉਸ ਨੂੰ (ਕਾਮਾਦਿਕ ਵੈਰੀ ਤੋਂ ਕੋਈ) ਕਲੇਸ਼ ਨਹੀਂ ਪੋਹ ਸਕਦਾ।",
       "translation_ru": "Соединяясь со Словом Гуру, человек освобождается от страдания."
     },
     {
       "verse_id": 35759,
       "gurmukhi": "ਆਵੈ ਨ ਜਾਇ ਨਾ ਦੁਖੁ ਪਾਏ ॥",
-      "roman": "āvai na jāi na dukh pāe",
+      "roman": "āvē na jāi na dukh pāe",
       "sahib_singh_pa": "ਉਹ ਮਨੁੱਖ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਨਹੀਂ ਪੈਂਦਾ, ਉਹ (ਇਸ ਗੇੜ ਦਾ) ਦੁੱਖ ਨਹੀਂ ਸਹਾਰਦਾ।",
       "translation_ru": "Он не попадает в круг рождения и смерти и не испытывает боли."
     },
@@ -284,7 +284,7 @@
     {
       "verse_id": 35761,
       "gurmukhi": "ਨਾਨਕ ਗੁਰਮੁਖਿ ਵੇਖੈ ਹਦੂਰਿ ॥",
-      "roman": "nānak gurmukh vekhai hadūr",
+      "roman": "nānak gurmukh vekhē hadūr",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਰਹਿਣ ਵਾਲਾ ਮਨੁੱਖ (ਪਰਮਾਤਮਾ ਨੂੰ ਆਪਣੇ) ਅੰਗ-ਸੰਗ ਵੱਸਦਾ ਵੇਖਦਾ ਹੈ,",
       "translation_ru": "О Нанак! Гурмукх видит Бога рядом с собой."
     },
@@ -312,14 +312,14 @@
     {
       "verse_id": 35765,
       "gurmukhi": "ਏਕੋ ਵਰਤੈ ਅਵਰੁ ਨ ਕੋਇ ॥",
-      "roman": "eko vartai avar na koi",
+      "roman": "eko vartē avar na koi",
       "sahib_singh_pa": "(ਹਰ ਥਾਂ) ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਮੌਜੂਦ ਹੈ, (ਉਸ ਤੋਂ ਬਿਨਾ) ਹੋਰ ਕੋਈ ਨਹੀਂ ਹੈ।",
       "translation_ru": "Везде есть только Он, кроме Него никого нет."
     },
     {
       "verse_id": 35766,
       "gurmukhi": "ਮਨਿ ਰੋਸੁ ਕੀਜੈ ਜੇ ਦੂਜਾ ਹੋਇ ॥",
-      "roman": "man ros kījai je dūjā hoi",
+      "roman": "man ros kījē je dūjā hoi",
       "sahib_singh_pa": "(ਕਿਸੇ ਨੂੰ ਗੁਰਮੁਖ ਅਤੇ ਕਿਸੇ ਨੂੰ ਮਨਮੁਖ ਵੇਖ ਕੇ) ਮਨ ਵਿਚ ਗਿਲਾ ਤਾਂ ਹੀ ਕੀਤਾ ਜਾਏ ਜੇ (ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਕਿਤੇ) ਕੋਈ ਹੋਰ ਹੋਵੇ।",
       "translation_ru": "Жаловаться можно было бы, если бы существовал кто-то другой."
     },
@@ -333,7 +333,7 @@
     {
       "verse_id": 35768,
       "gurmukhi": "ਦਰਿ ਸਾਚੈ ਸਾਚੇ ਵੀਚਾਰੀ ॥੬॥",
-      "roman": "dar sāchai sāche vīchārī",
+      "roman": "dar sāchē sāche vīchārī",
       "sahib_singh_pa": "ਜਿਹੜੇ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਸਰਨ ਪਏ ਰਹਿੰਦੇ ਹਨ, ਉਹ ਮਨੁੱਖ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ ਦਰ ਤੇ ਸੁਰਖ਼ਰੂ ਹੁੰਦੇ ਹਨ, ਵਿਚਾਰਵਾਨ (ਮੰਨੇ ਜਾਂਦੇ) ਹਨ ॥੬॥",
       "translation_ru": "Такие люди становятся почитаемыми у истинного Господа."
     },
@@ -375,7 +375,7 @@
     {
       "verse_id": 35774,
       "gurmukhi": "ਬਿਨੁ ਨਾਵੈ ਸਭਿ ਭਰਮਹਿ ਕਾਚੇ ॥੭॥",
-      "roman": "bin nāvai sabh bharmeh kāche",
+      "roman": "bin nāvē sabh bharmeh kāche",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਖੁੰਝੇ ਹੋਏ ਸਾਰੇ ਜੀਵ ਕਮਜ਼ੋਰ ਆਤਮਕ ਜੀਵਨ ਵਾਲੇ (ਹੋਣ ਕਰ ਕੇ) ਭਟਕਦੇ ਰਹਿੰਦੇ ਹਨ ॥੭॥",
       "translation_ru": "Без Имени все люди остаются духовно слабыми и блуждают."
     },
@@ -389,7 +389,7 @@
     {
       "verse_id": 35776,
       "gurmukhi": "ਏਕੁ ਨ ਚੇਤਹਿ ਦੂਜੈ ਲੋਭਾਹਿ ॥",
-      "roman": "ek na cheteh dūjai lobhāh",
+      "roman": "ek na cheteh dūjē lobhāh",
       "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਉਹ (ਕਦੇ) ਪਰਮਾਤਮਾ ਦਾ ਸਿਮਰਨ ਨਹੀਂ ਕਰਦੇ; ਅਤੇ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਹੀ ਫਸੇ ਰਹਿੰਦੇ ਹਨ।",
       "translation_ru": "Они не помнят Бога и погружены в привязанность к майе."
     },
@@ -403,7 +403,7 @@
     {
       "verse_id": 35778,
       "gurmukhi": "ਬਿਨੁ ਸਬਦੈ ਕਿਉ ਪਾਏ ਪਾਰੁ ॥",
-      "roman": "bin sabdai kio pāe pār",
+      "roman": "bin sabdē kio pāe pār",
       "sahib_singh_pa": "(ਵਿਕਾਰਾਂ-ਭਰੇ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਦਾ) ਪਾਰਲਾ ਬੰਨਾ ਨਹੀਂ ਲੱਭ ਸਕਦਾ (ਉਹ ਸਦਾ ਵਿਕਾਰਾਂ ਵਿਚ ਹੀ ਡੁੱਬਾ ਰਹਿੰਦਾ ਹੈ)।",
       "translation_ru": "Без Слова Гуру он не может пересечь океан мира."
     },
@@ -438,7 +438,7 @@
     {
       "verse_id": 35783,
       "gurmukhi": "ਐਥੈ ਸੁਖੁ ਨ ਆਗੈ ਹੋਇ ॥",
-      "roman": "aithai sukh na āgai hoi",
+      "roman": "ēthē sukh na āgē hoi",
       "sahib_singh_pa": "ਉਹਨਾਂ ਨੂੰ ਆਤਮਕ ਆਨੰਦ ਨਾਹ ਇਸ ਲੋਕ ਵਿਚ ਮਿਲਦਾ ਹੈ ਨਾਹ ਪਰਲੋਕ ਵਿਚ ਮਿਲਦਾ ਹੈ।",
       "translation_ru": "Они не находят покоя ни здесь, ни в будущем."
     }

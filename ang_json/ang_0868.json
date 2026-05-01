@@ -4,7 +4,7 @@
     {
       "verse_id": 36787,
       "gurmukhi": "ਨਾਰਾਇਣ ਸਭ ਮਾਹਿ ਨਿਵਾਸ ॥",
-      "roman": "narāyaṇ sabh māhi nivās",
+      "roman": "narāyaṇ sabh māh nivās",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਸਭ ਜੀਵਾਂ ਵਿਚ ਨਾਰਾਇਣ ਦਾ ਨਿਵਾਸ ਹੈ,",
       "translation_ru": "Нараян пребывает во всех существах."
     },
@@ -18,7 +18,7 @@
     {
       "verse_id": 36789,
       "gurmukhi": "ਨਾਰਾਇਣ ਕਹਤੇ ਨਰਕਿ ਨ ਜਾਹਿ ॥",
-      "roman": "narāyaṇ kahte narak na jāhi",
+      "roman": "narāyaṇ kahte narak na jāh",
       "sahib_singh_pa": "ਨਾਰਾਇਣ (ਦਾ ਨਾਮ) ਜਪਣ ਵਾਲੇ ਜੀਵ ਨਰਕ ਵਿਚ ਨਹੀਂ ਪੈਂਦੇ।",
       "translation_ru": "Те, кто повторяют Имя Нараяна, не попадают в ад."
     },
@@ -32,7 +32,7 @@
     {
       "verse_id": 36791,
       "gurmukhi": "ਨਾਰਾਇਣ ਮਨ ਮਾਹਿ ਅਧਾਰ ॥",
-      "roman": "narāyaṇ man māhi adhār",
+      "roman": "narāyaṇ man māh adhār",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਨਾਰਾਇਣ (ਦੇ ਨਾਮ) ਨੂੰ (ਆਪਣੇ) ਮਨ ਵਿਚ ਆਸਰਾ ਬਣਾ ਲੈ,",
       "translation_ru": "Сделай Имя Нараяна опорой в сердце."
     },
@@ -123,7 +123,7 @@
     {
       "verse_id": 36804,
       "gurmukhi": "ਜਾ ਕਉ ਰਾਖੈ ਰਾਖਣਹਾਰੁ ॥",
-      "roman": "jā kau rākhai rākhanhār",
+      "roman": "jā kau rākhē rākhanhār",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਰੱਖਣ-ਜੋਗ ਪ੍ਰਭੂ (ਕਾਮਾਦਿਕ ਵਿਕਾਰਾਂ ਤੋਂ) ਬਚਾਣਾ ਚਾਹੁੰਦਾ ਹੈ,",
       "translation_ru": "О брат! Того человека, которого Господь, достойный защищать, хочет уберечь от пороков,"
     },
@@ -137,28 +137,28 @@
     {
       "verse_id": 36806,
       "gurmukhi": "ਮਾਤ ਗਰਭ ਮਹਿ ਅਗਨਿ ਨ ਜੋਹੈ ॥",
-      "roman": "māt garabh meh agan na johai",
+      "roman": "māt garabh meh agan na johē",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! (ਜਿਵੇਂ ਜੀਵ ਨੂੰ) ਮਾਂ ਦੇ ਪੇਟ ਵਿਚ ਅੱਗ ਦੁੱਖ ਨਹੀਂ ਦੇਂਦੀ,",
       "translation_ru": "О брат! Как в утробе матери огонь не причиняет страдания,"
     },
     {
       "verse_id": 36807,
       "gurmukhi": "ਕਾਮੁ ਕ੍ਰੋਧੁ ਲੋਭੁ ਮੋਹੁ ਨ ਪੋਹੈ ॥",
-      "roman": "kām krodh lobh moh na pohai",
+      "roman": "kām krodh lobh moh na pohē",
       "sahib_singh_pa": "(ਤਿਵੇਂ ਪ੍ਰਭੂ ਜਿਸ ਮਨੁੱਖ ਦਾ ਪੱਖ ਕਰਦਾ ਹੈ, ਉਸ ਨੂੰ) ਕਾਮ, ਕ੍ਰੋਧ, ਲੋਭ, ਮੋਹ (ਕੋਈ ਭੀ) ਆਪਣੇ ਦਬਾਉ ਵਿਚ ਨਹੀਂ ਲਿਆ ਸਕਦਾ।",
       "translation_ru": "так и того, кому Господь помогает, не могут подчинить себе похоть, гнев, жадность и привязанность"
     },
     {
       "verse_id": 36808,
       "gurmukhi": "ਸਾਧਸੰਗਿ ਜਪੈ ਨਿਰੰਕਾਰੁ ॥",
-      "roman": "sādh sangat japai nirankār",
+      "roman": "sādh sangat japē nirankār",
       "sahib_singh_pa": "ਉਹ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਟਿਕ ਕੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਦਾ ਹੈ,",
       "translation_ru": "Такой человек пребывает в обществе Гуру и повторяет Имя Бога"
     },
     {
       "verse_id": 36809,
       "gurmukhi": "ਨਿੰਦਕ ਕੈ ਮੁਹਿ ਲਾਗੈ ਛਾਰੁ ॥੧॥",
-      "roman": "nindak kai muh lāgai chhār",
+      "roman": "nindak kē muh lāgē chhār",
       "sahib_singh_pa": "(ਪਰ ਉਸ) ਦੀ ਨਿੰਦਾ ਕਰਨ ਵਾਲੇ ਮਨੁੱਖ ਦੇ ਸਿਰ ਉਤੇ ਸੁਆਹ ਪੈਂਦੀ ਹੈ (ਨਿੰਦਕ ਬਦਨਾਮੀ ਹੀ ਖੱਟਦਾ ਹੈ) ॥੧॥",
       "translation_ru": "А на голову клеветника падает пепел, он лишь приобретает позор"
     },
@@ -172,7 +172,7 @@
     {
       "verse_id": 36811,
       "gurmukhi": "ਦੂਤ ਦੁਸਟ ਤਿਸੁ ਪੋਹਤ ਨਾਹਿ ॥",
-      "roman": "dūt dusat tis pohat nāhi",
+      "roman": "dūt dusat tis pohat nāh",
       "sahib_singh_pa": "(ਜਿਸ ਮਨੁੱਖ ਦੇ ਪਾਸ ਰਾਮ-ਨਾਮ ਦਾ ਕਵਚ ਹੈ ਸੰਜੋਅ ਹੈ) ਉਸ ਨੂੰ (ਕਾਮਾਦਿਕ) ਚੰਦਰੇ ਵੈਰੀ ਪੋਹ ਨਹੀਂ ਸਕਦੇ।",
       "translation_ru": "Имеющего эту защиту не могут коснуться злые враги"
     },
@@ -200,7 +200,7 @@
     {
       "verse_id": 36815,
       "gurmukhi": "ਸੋ ਦਾਸੁ ਰਖਿਆ ਅਪਣੈ ਕੰਠਿ ਲਾਇ ॥",
-      "roman": "so dās rakhia apṇai kanth lāi",
+      "roman": "so dās rakhia apṇē kanth lāi",
       "sahib_singh_pa": "ਉਸ ਸੇਵਕ ਨੂੰ ਪ੍ਰਭੂ ਆਪਣੇ ਗਲ ਨਾਲ ਲਾ ਕੇ (ਦੁਸਟ ਦੂਤਾਂ ਤੋਂ) ਬਚਾ ਲੈਂਦਾ ਹੈ।",
       "translation_ru": "того Господь обнимает и защищает от злых сил"
     },
@@ -221,7 +221,7 @@
     {
       "verse_id": 36818,
       "gurmukhi": "ਹੈ ਭੀ ਸਾਚਾ ਹੋਵਣਹਾਰੁ ॥",
-      "roman": "hai bhī sāchā hovanhār",
+      "roman": "hē bhī sāchā hovanhār",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਪ੍ਰਭੂ ਹੁਣ ਭੀ ਮੌਜੂਦ ਹੈ, ਸਦਾ ਲਈ ਮੌਜੂਦ ਰਹੇਗਾ।",
       "translation_ru": "О брат! Истинный Господь существует сейчас и будет существовать всегда"
     },
@@ -277,7 +277,7 @@
     {
       "verse_id": 36826,
       "gurmukhi": "ਨਾ ਇਹੁ ਬਿਨਸੈ ਨਾ ਇਹੁ ਜਾਇ ॥",
-      "roman": "nā ih binsai nā ih jāi",
+      "roman": "nā ih binsē nā ih jāi",
       "sahib_singh_pa": "(ਪਰਮਾਤਮਾ ਐਸਾ ਹੈ ਕਿ) ਨਾਹ ਇਹ ਕਦੇ ਮਰਦਾ ਹੈ ਨਾਹ ਜੰਮਦਾ ਹੈ,",
       "translation_ru": "Он не умирает и не рождается"
     },
@@ -312,7 +312,7 @@
     {
       "verse_id": 36831,
       "gurmukhi": "ਸਭੁ ਕਿਛੁ ਇਸ ਕਾ ਇਹੁ ਕਰਨੈ ਜੋਗੁ ॥੨॥",
-      "roman": "sabh kichh is kā ih karnai jog",
+      "roman": "sabh kichh is kā ih karnē jog",
       "sahib_singh_pa": "(ਜਗਤ ਦੀ) ਹਰੇਕ ਸ਼ੈ ਇਸੇ ਦੀ ਹੀ ਪੈਦਾ ਕੀਤੀ ਹੋਈ ਹੈ, ਇਹ ਸਭ ਕੁਝ ਕਰਨ ਦੇ ਸਮਰੱਥ ਹੈ ॥੨॥",
       "translation_ru": "Всё создано Им, и Он способен на всё"
     },
@@ -333,14 +333,14 @@
     {
       "verse_id": 36834,
       "gurmukhi": "ਪਾਪ ਪੁੰਨ ਕਾ ਇਸੁ ਲੇਪੁ ਨ ਲਾਗੈ ॥",
-      "roman": "pāp punn kā is lep na lāgai",
+      "roman": "pāp punn kā is lep na lāgē",
       "sahib_singh_pa": "ਪਾਪਾਂ ਅਤੇ ਪੁੰਨਾਂ ਦਾ ਭੀ ਇਸ ਉਤੇ ਕੋਈ ਅਸਰ ਨਹੀਂ ਪੈਂਦਾ।",
       "translation_ru": "Ни грех, ни заслуга не прилипают к Нему"
     },
     {
       "verse_id": 36835,
       "gurmukhi": "ਘਟ ਘਟ ਅੰਤਰਿ ਸਦ ਹੀ ਜਾਗੈ ॥੩॥",
-      "roman": "ghaṭ ghaṭ antar sad hī jāgai",
+      "roman": "ghaṭ ghaṭ antar sad hī jāgē",
       "sahib_singh_pa": "ਇਹ ਪ੍ਰਭੂ ਹਰੇਕ ਸਰੀਰ ਦੇ ਅੰਦਰ ਮੌਜੂਦ ਹੈ, ਅਤੇ ਸਦਾ ਹੀ ਸੁਚੇਤ ਰਹਿੰਦਾ ਹੈ ॥੩॥",
       "translation_ru": "Он пребывает внутри каждого и всегда бодрствует"
     },
@@ -354,7 +354,7 @@
     {
       "verse_id": 36837,
       "gurmukhi": "ਮਹਾ ਮਾਇਆ ਤਾ ਕੀ ਹੈ ਛਾਇਆ ॥",
-      "roman": "mahā māiā tā kī hai chhāiā",
+      "roman": "mahā māiā tā kī hē chhāiā",
       "sahib_singh_pa": "ਇਹ ਤਿੰਨਾਂ ਗੁਣਾਂ ਵਾਲੀ ਮਾਇਆ ਉਸੇ ਨੇ ਹੀ ਪੈਦਾ ਕੀਤੀ ਹੈ।",
       "translation_ru": "Эту трёхгунную майю создал Он Сам"
     },
@@ -382,7 +382,7 @@
     {
       "verse_id": 36841,
       "gurmukhi": "ਨਾਨਕ ਤਾ ਕੈ ਬਲਿ ਬਲਿ ਜਾਇ ॥੪॥੧੯॥੨੧॥",
-      "roman": "nānak tā kai bal bal jāi",
+      "roman": "nānak tā kē bal bal jāi",
       "sahib_singh_pa": "ਨਾਨਕ ਉਸ ਪ੍ਰਭੂ ਤੋਂ ਸਦਾ ਸਦਕੇ ਜਾਂਦਾ ਹੈ ॥੪॥੧੯॥੨੧॥",
       "translation_ru": "Нанак всегда жертвует собой ради Него"
     }

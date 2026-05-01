@@ -18,14 +18,14 @@
     {
       "verse_id": 11882,
       "gurmukhi": "ਮਿਥਿਆ ਚਰਨ ਪਰ ਬਿਕਾਰ ਕਉ ਧਾਵਹਿ ॥",
-      "roman": "mithiā charan par bikār kau dhāvahi",
+      "roman": "mithiā charan par bikār kau dhāvah",
       "sahib_singh_pa": "ਪੈਰ ਵਿਅਰਥ ਹਨ (ਜੇ ਇਹ) ਪਰਾਏ ਨੁਕਸਾਨ ਵਾਸਤੇ ਦੌੜ-ਭੱਜ ਰਹੇ ਹਨ।",
       "translation_ru": "Ноги тщетны, если они бегут причинять вред другому."
     },
     {
       "verse_id": 11883,
       "gurmukhi": "ਮਿਥਿਆ ਮਨ ਪਰ ਲੋਭ ਲੁਭਾਵਹਿ ॥",
-      "roman": "mithiā man par lobh lubhāvahi",
+      "roman": "mithiā man par lobh lubhāvah",
       "sahib_singh_pa": "ਹੇ ਮਨ! ਤੂੰ ਭੀ ਵਿਅਰਥ ਹੈਂ (ਜੇ ਤੂੰ) ਪਰਾਏ ਧਨ ਦਾ ਲੋਭ ਕਰ ਰਿਹਾ ਹੈਂ।",
       "translation_ru": "О ум, и ты тщетен, если соблазняешься чужим богатством."
     },
@@ -81,14 +81,14 @@
     {
       "verse_id": 11891,
       "gurmukhi": "ਮੁਖਿ ਆਵਤ ਤਾ ਕੈ ਦੁਰਗੰਧ ॥",
-      "roman": "mukh āvat tā kai durgandh",
+      "roman": "mukh āvat tā kē durgandh",
       "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਉਸ ਦੇ ਮੂੰਹ ਵਿਚੋਂ (ਨਿੰਦਾ ਆਦਿਕ) ਬਦ-ਬੂ ਆਉਂਦੀ ਹੈ।",
       "translation_ru": "Потому что из его уст исходит зловоние, вроде клеветы и прочего."
     },
     {
       "verse_id": 11892,
       "gurmukhi": "ਬਿਨੁ ਸਿਮਰਨ ਦਿਨੁ ਰੈਨਿ ਬ੍ਰਿਥਾ ਬਿਹਾਇ ॥",
-      "roman": "bin simran din rain brithā bihāe",
+      "roman": "bin simran din rēn brithā bihāe",
       "sahib_singh_pa": "ਜਿਵੇਂ ਵਰਖਾ ਤੋਂ ਬਿਨਾ ਪੈਲੀ ਨਿਸਫਲ ਜਾਂਦੀ ਹੈ,",
       "translation_ru": "Без симрана дни и ночи проходят бесплодно,"
     },
@@ -123,7 +123,7 @@
     {
       "verse_id": 11897,
       "gurmukhi": "ਨਾਨਕ ਤਾ ਕੈ ਬਲਿ ਬਲਿ ਜਾਉ ॥੬॥",
-      "roman": "Nānak tā kai bal bal jāu",
+      "roman": "Nānak tā kē bal bal jāu",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਆਖ ਕਿ) ਮੈਂ ਉਹਨਾਂ (ਗੁਰਮੁਖਾਂ) ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ ॥੬॥",
       "translation_ru": "О Нанак, я снова и снова жертвую собой ради них. ॥6॥"
     },
@@ -137,7 +137,7 @@
     {
       "verse_id": 11899,
       "gurmukhi": "ਮਨਿ ਨਹੀ ਪ੍ਰੀਤਿ ਮੁਖਹੁ ਗੰਢ ਲਾਵਤ ॥",
-      "roman": "man nahī prīt mukhahu gaṇḍh lāvat",
+      "roman": "man nahī prīt mukhah gaṇḍh lāvat",
       "sahib_singh_pa": "ਮਨ ਵਿਚ (ਤਾਂ) ਪ੍ਰਭੂ ਨਾਲ ਪਿਆਰ ਨਹੀਂ, ਮੂੰਹ ਦੀਆਂ ਗੱਲਾਂ ਨਾਲ ਘਰ ਪੂਰਾ ਕਰਦਾ ਹੈ।",
       "translation_ru": "В сердце нет любви к Богу, а словами он лишь создаёт видимость завершённости."
     },
@@ -158,28 +158,28 @@
     {
       "verse_id": 11902,
       "gurmukhi": "ਅਵਰ ਉਪਦੇਸੈ ਆਪਿ ਨ ਕਰੈ ॥",
-      "roman": "avar updesai āp na karai",
+      "roman": "avar updesē āp na karē",
       "sahib_singh_pa": "(ਜੋ ਮਨੁੱਖ) ਹੋਰਨਾਂ ਨੂੰ ਮੱਤਾਂ ਦੇਂਦਾ ਹੈ (ਪਰ) ਆਪ ਨਹੀਂ ਕਮਾਉਂਦਾ,",
       "translation_ru": "Кто поучает других, но сам не живёт так,"
     },
     {
       "verse_id": 11903,
       "gurmukhi": "ਆਵਤ ਜਾਵਤ ਜਨਮੈ ਮਰੈ ॥",
-      "roman": "āvat jāvat janmai marai",
+      "roman": "āvat jāvat janmē marē",
       "sahib_singh_pa": "ਉਹ ਸਦਾ ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਪਿਆ ਰਹਿੰਦਾ ਹੈ।",
       "translation_ru": "тот остаётся в круге рождений и смертей."
     },
     {
       "verse_id": 11904,
       "gurmukhi": "ਜਿਸ ਕੈ ਅੰਤਰਿ ਬਸੈ ਨਿਰੰਕਾਰੁ ॥",
-      "roman": "jis kai antar basai Nirankār",
+      "roman": "jis kē antar basē Nirankār",
       "sahib_singh_pa": "ਜਿਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ ਨਿਰੰਕਾਰ ਵੱਸਦਾ ਹੈ,",
       "translation_ru": "А в чьём сердце обитает Ниранкар,"
     },
     {
       "verse_id": 11905,
       "gurmukhi": "ਤਿਸ ਕੀ ਸੀਖ ਤਰੈ ਸੰਸਾਰੁ ॥",
-      "roman": "tis kī sīkh tarai sansār",
+      "roman": "tis kī sīkh tarē sansār",
       "sahib_singh_pa": "ਉਸ ਦੀ ਸਿੱਖਿਆ ਨਾਲ ਜਗਤ (ਵਿਕਾਰਾਂ ਤੋਂ) ਬਚਦਾ ਹੈ।",
       "translation_ru": "через его наставление мир спасается от пороков."
     },
@@ -200,28 +200,28 @@
     {
       "verse_id": 11908,
       "gurmukhi": "ਕਰਉ ਬੇਨਤੀ ਪਾਰਬ੍ਰਹਮੁ ਸਭੁ ਜਾਨੈ ॥",
-      "roman": "karau benatī Pārbrahm sabh jānai",
+      "roman": "karau benatī Pārbrahm sabh jānē",
       "sahib_singh_pa": "(ਜੋ ਜੋ) ਬੇਨਤੀ ਮੈਂ ਕਰਦਾ ਹਾਂ, ਪ੍ਰਭੂ ਸਭ ਜਾਣਦਾ ਹੈ,",
       "translation_ru": "Какую бы молитву я ни возносил, Парбрахм всё знает."
     },
     {
       "verse_id": 11909,
       "gurmukhi": "ਅਪਨਾ ਕੀਆ ਆਪਹਿ ਮਾਨੈ ॥",
-      "roman": "apnā kīā āpahi mānai",
+      "roman": "apnā kīā āpah mānē",
       "sahib_singh_pa": "ਆਪਣੇ ਪੈਦਾ ਕੀਤੇ ਜੀਵ ਨੂੰ ਉਹ ਆਪ ਹੀ ਮਾਣ ਬਖ਼ਸ਼ਦਾ ਹੈ।",
       "translation_ru": "Своему же созданному существу Он Сам дарует честь."
     },
     {
       "verse_id": 11910,
       "gurmukhi": "ਆਪਹਿ ਆਪ ਆਪਿ ਕਰਤ ਨਿਬੇਰਾ ॥",
-      "roman": "āpahi āp āp karat niberā",
+      "roman": "āpah āp āp karat niberā",
       "sahib_singh_pa": "(ਜੀਵਾਂ ਦੇ ਕੀਤੇ ਕਰਮਾਂ ਅਨੁਸਾਰ) ਪ੍ਰਭੂ ਆਪ ਹੀ ਨਿਖੇੜਾ ਕਰਦਾ ਹੈ,",
       "translation_ru": "Сообразно делам существ Бог Сам и производит различение."
     },
     {
       "verse_id": 11911,
       "gurmukhi": "ਕਿਸੈ ਦੂਰਿ ਜਨਾਵਤ ਕਿਸੈ ਬੁਝਾਵਤ ਨੇਰਾ ॥",
-      "roman": "kisai dūr janāvat kisai bujhāvat nerā",
+      "roman": "kisē dūr janāvat kisē bujhāvat nerā",
       "sahib_singh_pa": "(ਭਾਵ) ਕਿਸੇ ਨੂੰ ਇਹ ਬੁਧਿ ਬਖ਼ਸ਼ਦਾ ਹੈ ਕਿ ਪ੍ਰਭੂ ਸਾਡੇ ਨੇੜੇ ਹੈ ਤੇ ਕਿਸੇ ਨੂੰ ਜਣਾਉਂਦਾ ਹੈ ਕਿ ਪ੍ਰਭੂ ਕਿਤੇ ਦੂਰ ਹੈ।",
       "translation_ru": "Кому-то Он внушает, что Бог далёк, а кому-то даёт понимание, что Он близко."
     },
@@ -235,14 +235,14 @@
     {
       "verse_id": 11913,
       "gurmukhi": "ਸਭੁ ਕਛੁ ਜਾਨੈ ਆਤਮ ਕੀ ਰਹਤ ॥",
-      "roman": "sabh kachh jānai ātam kī rahat",
+      "roman": "sabh kachh jānē ātam kī rahat",
       "sahib_singh_pa": "(ਕਿਉਂਕਿ ਉਹ ਜੀਵ ਦੀ) ਆਤਮਕ ਰਹਿਣੀ ਦੀ ਹਰੇਕ ਗੱਲ ਜਾਣਦਾ ਹੈ।",
       "translation_ru": "Потому что Он знает всё о внутреннем состоянии души."
     },
     {
       "verse_id": 11914,
       "gurmukhi": "ਜਿਸੁ ਭਾਵੈ ਤਿਸੁ ਲਏ ਲੜਿ ਲਾਇ ॥",
-      "roman": "jis bhāvai tis lae laṛ lāe",
+      "roman": "jis bhāvē tis lae laṛ lāe",
       "sahib_singh_pa": "ਜੋ (ਜੀਵ) ਉਸ ਨੂੰ ਭਾਉਂਦਾ ਹੈ ਉਸ ਨੂੰ ਆਪਣੇ ਲੜ ਲਾਉਂਦਾ ਹੈ,",
       "translation_ru": "Того, кто Ему по душе, Он привязывает к Своему подолу."
     },
@@ -305,28 +305,28 @@
     {
       "verse_id": 11923,
       "gurmukhi": "ਤਿਸੁ ਠਾਕੁਰ ਕਉ ਰਖੁ ਮਨ ਮਾਹਿ ॥",
-      "roman": "tis ṭhākur kau rakh man māhi",
+      "roman": "tis ṭhākur kau rakh man māh",
       "sahib_singh_pa": "ਉਸ ਨੂੰ ਮਨ ਵਿਚ (ਚੇਤੇ) ਰੱਖ।",
       "translation_ru": "держи Его в своём уме."
     },
     {
       "verse_id": 11924,
       "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਸੁਗੰਧਤ ਤਨਿ ਲਾਵਹਿ ॥",
-      "roman": "jih prasād sugaṅdhat tan lāvahi",
+      "roman": "jih prasād sugaṅdhat tan lāvah",
       "sahib_singh_pa": "ਜਿਸ ਦੀ ਮਿਹਰ ਨਾਲ ਆਪਣੇ ਸਰੀਰ ਉਤੇ ਤੂੰ ਸੁਗੰਧੀਆਂ ਲਾਉਂਦਾ ਹੈਂ,",
       "translation_ru": "По милости Того, благодаря Кому ты умащаешь своё тело благовониями,"
     },
     {
       "verse_id": 11925,
       "gurmukhi": "ਤਿਸ ਕਉ ਸਿਮਰਤ ਪਰਮ ਗਤਿ ਪਾਵਹਿ ॥",
-      "roman": "tis kau simrat param gat pāvahi",
+      "roman": "tis kau simrat param gat pāvah",
       "sahib_singh_pa": "ਉਸ ਨੂੰ ਯਾਦ ਕੀਤਿਆਂ ਤੂੰ ਉੱਚਾ ਦਰਜਾ ਹਾਸਲ ਕਰ ਲਏਂਗਾ।",
       "translation_ru": "помня Его, ты обретёшь высшее состояние."
     },
     {
       "verse_id": 11926,
       "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਬਸਹਿ ਸੁਖ ਮੰਦਰਿ ॥",
-      "roman": "jih prasād basahi sukh mandar",
+      "roman": "jih prasād basah sukh mandar",
       "sahib_singh_pa": "ਜਿਸ ਦੀ ਦਇਆ ਨਾਲ ਤੂੰ ਸੁਖ-ਮਹਲਾਂ ਵਿਚ ਵੱਸਦਾ ਹੈਂ,",
       "translation_ru": "По милости Того, благодаря Кому ты живёшь в дворцах наслаждения,"
     },
@@ -347,7 +347,7 @@
     {
       "verse_id": 11929,
       "gurmukhi": "ਆਠ ਪਹਰ ਸਿਮਰਹੁ ਤਿਸੁ ਰਸਨਾ ॥",
-      "roman": "āṭh pahar simrahu tis rasnā",
+      "roman": "āṭh pahar simrah tis rasnā",
       "sahib_singh_pa": "ਉਸ ਨੂੰ ਜੀਭ ਨਾਲ ਅੱਠੇ ਪਹਰ ਯਾਦ ਕਰ।",
       "translation_ru": "вспоминай Его языком все восемь страж."
     },
@@ -368,35 +368,35 @@
     {
       "verse_id": 11932,
       "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਪਾਟ ਪਟੰਬਰ ਹਢਾਵਹਿ ॥",
-      "roman": "jih prasād pāṭ paṭambar haḍhāvahi",
+      "roman": "jih prasād pāṭ paṭambar haḍhāvah",
       "sahib_singh_pa": "(ਹੇ ਮਨ!) ਜਿਸ (ਪ੍ਰਭੂ) ਦੀ ਕ੍ਰਿਪਾ ਨਾਲ ਤੂੰ ਰੇਸ਼ਮੀ ਕੱਪੜੇ ਹੰਢਾਉਂਦਾ ਹੈਂ,",
       "translation_ru": "О ум! По милости Того, благодаря Кому ты носишь шёлковые одежды,"
     },
     {
       "verse_id": 11933,
       "gurmukhi": "ਤਿਸਹਿ ਤਿਆਗਿ ਕਤ ਅਵਰ ਲੁਭਾਵਹਿ ॥",
-      "roman": "tiseh tiāg kat avar lubhāvahi",
+      "roman": "tiseh tiāg kat avar lubhāvah",
       "sahib_singh_pa": "ਉਸ ਨੂੰ ਵਿਸਾਰ ਕੇ ਹੋਰ ਕਿੱਥੇ ਲੋਭ ਕਰ ਰਿਹਾ ਹੈਂ?",
       "translation_ru": "забыв Его, где ещё ты ищешь приманку для жадности?"
     },
     {
       "verse_id": 11934,
       "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਸੁਖਿ ਸੇਜ ਸੋਈਜੈ ॥",
-      "roman": "jih prasād sukh sej soījai",
+      "roman": "jih prasād sukh sej soījē",
       "sahib_singh_pa": "ਜਿਸ ਦੀ ਮਿਹਰ ਨਾਲ ਸੇਜ ਉੱਤੇ ਸੁਖੀ ਸਵੀਂਦਾ ਹੈ,",
       "translation_ru": "По милости Того, благодаря Кому сладко спится на ложе,"
     },
     {
       "verse_id": 11935,
       "gurmukhi": "ਮਨ ਆਠ ਪਹਰ ਤਾ ਕਾ ਜਸੁ ਗਾਵੀਜੈ ॥",
-      "roman": "man āṭh pahar tā kā jas gāvījai",
+      "roman": "man āṭh pahar tā kā jas gāvījē",
       "sahib_singh_pa": "ਹੇ ਮਨ! ਉਸ ਪ੍ਰਭੂ ਦਾ ਜਸ ਅੱਠੇ ਪਹਰ ਗਾਉਣਾ ਚਾਹੀਦਾ ਹੈ।",
       "translation_ru": "о ум! славу Того Прабху следует петь все восемь страж."
     },
     {
       "verse_id": 11936,
       "gurmukhi": "ਜਿਹ ਪ੍ਰਸਾਦਿ ਤੁਝੁ ਸਭੁ ਕੋਊ ਮਾਨੈ ॥",
-      "roman": "jih prasād tujh sabh koū mānai",
+      "roman": "jih prasād tujh sabh koū mānē",
       "sahib_singh_pa": "ਜਿਸ ਦੀ ਮੇਹਰ ਨਾਲ ਹਰੇਕ ਮਨੁੱਖ ਤੇਰਾ ਆਦਰ ਕਰਦਾ ਹੈ,",
       "translation_ru": "По милости Того, благодаря Кому каждый человек почитает тебя,"
     }

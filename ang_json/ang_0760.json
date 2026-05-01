@@ -46,7 +46,7 @@
     {
       "verse_id": 32452,
       "gurmukhi": "ਅਨਾਥਾ ਨਾਥ ਭਗਤ ਭੈ ਮੇਟਨ ॥",
-      "roman": "anāthā nāth bhagat bhai meṭan",
+      "roman": "anāthā nāth bhagat bhē meṭan",
       "sahib_singh_pa": "ਹੇ ਨਿਆਸਰਿਆਂ ਦੇ ਆਸਰੇ! ਹੇ ਭਗਤਾਂ ਦੇ ਸਾਰੇ ਡਰ ਦੂਰ ਕਰਨ ਵਾਲੇ! (ਮੈਨੂੰ ਗੁਰੂ ਦੀ ਸੰਗਤਿ ਬਖ਼ਸ਼)",
       "translation_ru": "О опора беззащитных, уничтожающий страхи преданных,"
     },
@@ -74,14 +74,14 @@
     {
       "verse_id": 32456,
       "gurmukhi": "ਅੰਮ੍ਰਿਤ ਨਾਮੁ ਰਸਨ ਨਿਤ ਜਾਪੈ ॥",
-      "roman": "amrit nām rasan nit jāpai",
+      "roman": "amrit nām rasan nit jāpē",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜੇਹੜਾ ਮਨੁੱਖ ਆਪਣੀ ਜੀਭ ਨਾਲ ਸਦਾ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਹਰਿ-ਨਾਮ ਜਪਦਾ ਹੈ,",
       "translation_ru": "Тот, кто всегда произносит языком животворящее Имя,"
     },
     {
       "verse_id": 32457,
       "gurmukhi": "ਰੋਗ ਰੂਪ ਮਾਇਆ ਨ ਬਿਆਪੈ ॥੪॥",
-      "roman": "rog rūp māyā na byāpai",
+      "roman": "rog rūp māyā na byāpē",
       "sahib_singh_pa": "ਉਸ ਉਤੇ ਇਹ ਮਾਇਆ ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕਦੀ, ਜੇਹੜੀ ਸਾਰੇ ਰੋਗਾਂ ਦਾ ਮੂਲ ਹੈ ॥੪॥",
       "translation_ru": "того майя, источник болезней, не может поразить."
     },
@@ -172,7 +172,7 @@
     {
       "verse_id": 32470,
       "gurmukhi": "ਤਿਨੑ ਸਿਉ ਪ੍ਰੀਤਿ ਨ ਤੁਟਈ ਕਬਹੁ ਨ ਹੋਵੈ ਭੰਗੁ ਜੀਉ ॥੧॥",
-      "roman": "tinh sio prīt na tuṭaī kabhu na hovai bhang jīo",
+      "roman": "tinh sio prīt na tuṭaī kabhu na hovē bhang jīo",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! (ਮੇਹਰ ਕਰ) ਉਹਨਾਂ ਨਾਲੋਂ ਮੇਰਾ ਪਿਆਰ ਨਾਹ ਟੁੱਟੇ, ਉਹਨਾਂ ਨਾਲ ਮੇਰਾ ਕਦੇ ਅਜੋੜ ਨਾਹ ਹੋਵੇ ॥੧॥",
       "translation_ru": "Пусть эта любовь никогда не прервётся."
     },
@@ -186,21 +186,21 @@
     {
       "verse_id": 32472,
       "gurmukhi": "ਆਇ ਮਿਲਹੁ ਸੰਤ ਸਜਣਾ ਨਾਮੁ ਜਪਹ ਮਨ ਮਿਤ ਜੀਉ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "āe milahu sant sajṇā nām japah man mit jīo",
+      "roman": "āe milah sant sajṇā nām japah man mit jīo",
       "sahib_singh_pa": "ਹੇ ਸੰਤ ਜਨੋ! ਹੇ ਸੱਜਣੋ! ਹੇ ਮੇਰੇ ਮਨ ਦੇ ਮੇਲੀਓ! ਆ ਕੇ ਮਿਲੋ (ਇਕੱਠੇ ਬੈਠੀਏ, ਤੇ,) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪੀਏ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "О святые друзья, придите, будем вместе повторять Имя."
     },
     {
       "verse_id": 32473,
       "gurmukhi": "ਦੇਖੈ ਸੁਣੇ ਨ ਜਾਣਈ ਮਾਇਆ ਮੋਹਿਆ ਅੰਧੁ ਜੀਉ ॥",
-      "roman": "dekhai suṇe na jāṇī māyā mohiā andh jīo",
+      "roman": "dekhē suṇe na jāṇī māyā mohiā andh jīo",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸਿਆ ਹੋਇਆ ਮਨੁੱਖ (ਆਤਮਕ ਜੀਵਨ ਵਲੋਂ) ਅੰਨ੍ਹਾ ਹੋ ਜਾਂਦਾ ਹੈ, ਉਹ (ਅਸਲੀਅਤ ਨੂੰ) ਨਾਹ ਵੇਖ ਸਕਦਾ ਹੈ, ਨਾਹ ਸੁਣ ਸਕਦਾ ਹੈ, ਨਾਹ ਸਮਝ ਸਕਦਾ ਹੈ।",
       "translation_ru": "Человек, ослеплённый майей, не видит, не слышит и не понимает."
     },
     {
       "verse_id": 32474,
       "gurmukhi": "ਕਾਚੀ ਦੇਹਾ ਵਿਣਸਣੀ ਕੂੜੁ ਕਮਾਵੈ ਧੰਧੁ ਜੀਉ ॥",
-      "roman": "kāchī dehā viṇsaṇī kūṛ kamāvai dhandh jīo",
+      "roman": "kāchī dehā viṇsaṇī kūṛ kamāvē dhandh jīo",
       "sahib_singh_pa": "(ਉਸ ਨੂੰ ਇਹ ਨਹੀਂ ਸੁੱਝਦਾ ਕਿ) ਕੱਚੇ ਘੜੇ ਵਰਗਾ ਇਹ ਸਰੀਰ ਨਾਸ ਹੋਣ ਵਾਲਾ ਹੈ, ਉਹ ਹਰ ਵੇਲੇ ਨਾਸਵੰਤ ਪਦਾਰਥਾਂ ਦੀ ਖ਼ਾਤਰ ਹੀ ਦੌੜ-ਭੱਜ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ।",
       "translation_ru": "Тело подобно непрочному сосуду, но человек занят тленным."
     },
@@ -228,21 +228,21 @@
     {
       "verse_id": 32478,
       "gurmukhi": "ਜਿਸ ਨੋ ਕਰਤਾ ਵਿਸਰੈ ਤਿਸਹਿ ਵਿਛੋੜਾ ਸੋਗੁ ਜੀਉ ॥੩॥",
-      "roman": "jis no kartā visrai tiseh vichhoṛā sog jīo",
+      "roman": "jis no kartā visrē tiseh vichhoṛā sog jīo",
       "sahib_singh_pa": "(ਇਹਨਾਂ ਰਸਾਂ ਵਿਚ ਫਸ ਕੇ) ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਕਰਤਾਰ ਭੁੱਲ ਜਾਂਦਾ ਹੈ, ਇਹ ਵਿਛੋੜਾ ਉਸ ਦੇ ਅੰਦਰ ਚਿੰਤਾ-ਫ਼ਿਕਰ ਪਾਈ ਰੱਖਦਾ ਹੈ ॥੩॥",
       "translation_ru": "Тот, кто забывает Творца, страдает от разлуки."
     },
     {
       "verse_id": 32479,
       "gurmukhi": "ਆਪਨੜੇ ਪ੍ਰਭ ਭਾਣਿਆ ਦਰਗਹ ਪੈਧਾ ਜਾਇ ਜੀਉ ॥",
-      "roman": "āpaṇaṛe prabh bhāṇiā dargeh paiḍhā jāe jīo",
+      "roman": "āpaṇaṛe prabh bhāṇiā dargeh pēḍhā jāe jīo",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜੇਹੜਾ ਮਨੁੱਖ ਆਪਣੇ ਪ੍ਰਭੂ ਨੂੰ ਚੰਗਾ ਲੱਗਣ ਲੱਗ ਪੈਂਦਾ ਹੈ, ਉਹ ਪ੍ਰਭੂ ਦੀ ਦਰਗਾਹ ਵਿਚ ਇੱਜ਼ਤ ਨਾਲ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "Тот, кто угоден Богу, идёт в Его двор с честью."
     },
     {
       "verse_id": 32480,
       "gurmukhi": "ਐਥੈ ਸੁਖੁ ਮੁਖੁ ਉਜਲਾ ਇਕੋ ਨਾਮੁ ਧਿਆਇ ਜੀਉ ॥",
-      "roman": "aithai sukh mukh ujlā iko nām dhiāe jīo",
+      "roman": "ēthē sukh mukh ujlā iko nām dhiāe jīo",
       "sahib_singh_pa": "ਉਸ ਨੂੰ ਇਸ ਲੋਕ ਵਿਚ ਸੁਖ ਮਿਲਿਆ ਰਹਿੰਦਾ ਹੈ, ਪਰਲੋਕ ਵਿਚ ਉਹ ਸੁਰਖ਼-ਰੂ ਹੁੰਦਾ ਹੈ (ਕਿਉਂਕਿ ਉਹ) ਪਰਮਾਤਮਾ ਦਾ ਹੀ ਨਾਮ ਸਿਮਰਦਾ ਰਹਿੰਦਾ ਹੈ।",
       "translation_ru": "Он получает счастье здесь и славу там, медитируя на Имя."
     },
@@ -270,7 +270,7 @@
     {
       "verse_id": 32484,
       "gurmukhi": "ਮਨ ਤੇ ਕਬਹੁ ਨ ਵੀਸਰੈ ਜਾ ਆਪੇ ਹੋਇ ਦਇਆਲ ਜੀਉ ॥੫॥",
-      "roman": "man te kabahu na vīsrai jā āpe hoe dayāl jīo",
+      "roman": "man te kabah na vīsrē jā āpe hoe dayāl jīo",
       "sahib_singh_pa": "ਜਦੋਂ ਉਹ ਆਪ ਹੀ ਜਿਸ ਜੀਵ ਉਤੇ ਦਇਆਵਾਨ ਹੁੰਦਾ ਹੈ ਉਸ ਦੇ ਮਨ ਤੋਂ ਉਹ ਕਦੇ ਭੀ ਨਹੀਂ ਭੁੱਲਦਾ ॥੫॥",
       "translation_ru": "Когда Он милостив, Он никогда не забывается сердцем."
     }

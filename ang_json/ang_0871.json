@@ -11,7 +11,7 @@
     {
       "verse_id": 36946,
       "gurmukhi": "ਕਹਿ ਕਬੀਰ ਹਮਰਾ ਗੋਬਿੰਦੁ ॥",
-      "roman": "kahi kabīr hamrā gobind",
+      "roman": "kah kabīr hamrā gobind",
       "sahib_singh_pa": "ਕਬੀਰ ਆਖਦਾ ਹੈ-(ਕਾਜ਼ੀ ਨੂੰ ਇਹ ਸਮਝ ਨਾਹ ਆਈ ਕਿ) ਸਾਡਾ (ਪ੍ਰਭੂ ਦੇ ਸੇਵਕਾਂ ਦਾ ਰਾਖਾ) ਪਰਮਾਤਮਾ ਹੈ,",
       "translation_ru": "Кабир говорит: наш защитник — Господь,"
     },
@@ -39,7 +39,7 @@
     {
       "verse_id": 36950,
       "gurmukhi": "ਨਾ ਇਹੁ ਜਤੀ ਕਹਾਵੈ ਸੇਉ ॥",
-      "roman": "nā ih jatī kahāvai seo",
+      "roman": "nā ih jatī kahāvē seo",
       "sahib_singh_pa": "ਨਾਹ ਜਤੀ ਹੈ ਨਾਹ ਸ਼ਿਵ-ਉਪਾਸ਼ਕ,",
       "translation_ru": "ни аскет, ни поклонник Шивы,"
     },
@@ -102,35 +102,35 @@
     {
       "verse_id": 36959,
       "gurmukhi": "ਨਾ ਇਹੁ ਤਪਾ ਕਹਾਵੈ ਸੇਖੁ ॥",
-      "roman": "nā ih tapā kahāvai sekh",
+      "roman": "nā ih tapā kahāvē sekh",
       "sahib_singh_pa": "(ਤਪੇ, ਸ਼ੇਖ਼, ਸਭ ਵਿਚ ਇਹੀ ਹੈ; ਸਭ ਸਰੀਰਾਂ ਵਿਚ ਆ ਕੇ ਜੰਮਦਾ ਮਰਦਾ ਭੀ ਜਾਪਦਾ ਹੈ, ਫਿਰ ਭੀ ਸਦਾ ਲਈ) ਨਾਹ ਇਹ ਕੋਈ ਤਪਸ੍ਵੀ ਹੈ ਨਾਹ ਕੋਈ ਸ਼ੇਖ਼ ਹੈ;",
       "translation_ru": "ни подвижник, ни шейх;"
     },
     {
       "verse_id": 36960,
       "gurmukhi": "ਨਾ ਇਹੁ ਜੀਵੈ ਨ ਮਰਤਾ ਦੇਖੁ ॥",
-      "roman": "nā ih jīvai na martā dekh",
+      "roman": "nā ih jīvē na martā dekh",
       "sahib_singh_pa": "ਨਾਹ ਇਹ ਜੰਮਦਾ ਹੈ ਨਾਹ ਮਰਦਾ ਹੈ।",
       "translation_ru": "он не рождается и не умирает."
     },
     {
       "verse_id": 36961,
       "gurmukhi": "ਇਸੁ ਮਰਤੇ ਕਉ ਜੇ ਕੋਊ ਰੋਵੈ ॥",
-      "roman": "is marte kau je koū rovai",
+      "roman": "is marte kau je koū rovē",
       "sahib_singh_pa": "ਜਿਹੜਾ ਕੋਈ ਜੀਵ ਇਸ (ਅੰਦਰ-ਵੱਸਦੇ) ਨੂੰ ਮਰਦਾ ਸਮਝ ਕੇ ਰੋਂਦਾ ਹੈ,",
       "translation_ru": "тот, кто считает это умирающим и плачет,"
     },
     {
       "verse_id": 36962,
       "gurmukhi": "ਜੋ ਰੋਵੈ ਸੋਈ ਪਤਿ ਖੋਵੈ ॥੩॥",
-      "roman": "jo rovai soī pat khovai",
+      "roman": "jo rovē soī pat khovē",
       "sahib_singh_pa": "ਉਹ (ਜੋ ਰੋਂਦਾ ਹੈ) ਖ਼ੁਆਰ ਹੀ ਹੁੰਦਾ ਹੈ ॥੩॥",
       "translation_ru": "тот сам теряет достоинство ॥੩॥"
     },
     {
       "verse_id": 36963,
       "gurmukhi": "ਗੁਰ ਪ੍ਰਸਾਦਿ ਮੈ ਡਗਰੋ ਪਾਇਆ ॥",
-      "roman": "gur prasād mai ḍagro pāiā",
+      "roman": "gur prasād mē ḍagro pāiā",
       "sahib_singh_pa": "(ਜਦੋਂ ਦਾ) ਮੈਂ ਆਪਣੇ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ (ਜ਼ਿੰਦਗੀ ਦਾ ਸਹੀ) ਰਸਤਾ ਲੱਭਾ ਹੈ,",
       "translation_ru": "по милости Гуру я нашёл путь,"
     },
@@ -151,7 +151,7 @@
     {
       "verse_id": 36966,
       "gurmukhi": "ਜਸ ਕਾਗਦ ਪਰ ਮਿਟੈ ਨ ਮੰਸੁ ॥੪॥੨॥੫॥",
-      "roman": "jas kāgad par miṭai na maṅs",
+      "roman": "jas kāgad par miṭē na maṅs",
       "sahib_singh_pa": "ਤੇ ਇਹ ਦੋਵੇਂ ਆਪੋ ਵਿਚ ਇਉਂ ਜੁੜੇ ਹੋਏ ਹਨ ਜਿਵੇਂ ਕਾਗ਼ਜ਼ ਅਤੇ (ਕਾਗ਼ਜ਼ ਉੱਤੇ ਲਿਖੇ ਅੱਖਰਾਂ ਦੀ) ਸਿਆਹੀ ॥੪॥੨॥੫॥",
       "translation_ru": "и они связаны как бумага и чернила ॥੪॥੨॥੫॥"
     },
@@ -172,7 +172,7 @@
     {
       "verse_id": 36969,
       "gurmukhi": "ਦੁਆਰ ਊਪਰਿ ਝਿਲਕਾਵਹਿ ਕਾਨ ॥",
-      "roman": "duār ūpar jhilkāvahi kān",
+      "roman": "duār ūpar jhilkāvah kān",
       "sahib_singh_pa": "ਬੂਹੇ ਤੇ (ਸੱਖਣੇ) ਕਾਨੇ ਪਏ ਲਿਸ਼ਕਦੇ ਹਨ (ਵਰਤਣ ਖੁਣੋਂ ਪਏ ਹਨ);",
       "translation_ru": "на пороге лежат пустые сосуды и блестят без дела"
     },
@@ -221,7 +221,7 @@
     {
       "verse_id": 36976,
       "gurmukhi": "ਲਰਿਕੀ ਲਰਿਕਨ ਖੈਬੋ ਨਾਹਿ ॥",
-      "roman": "larikī larikan khaibo nāhi",
+      "roman": "larikī larikan khēbo nāh",
       "sahib_singh_pa": "(ਘਰ ਵਿਚ) ਕੁੜੀ ਮੁੰਡਿਆਂ ਦੇ ਖਾਣ ਜੋਗਾ ਕੁਝ ਨਹੀਂ (ਰਹਿੰਦਾ)",
       "translation_ru": "детям нечего есть"
     },
@@ -298,14 +298,14 @@
     {
       "verse_id": 36987,
       "gurmukhi": "ਖਸਮੁ ਮਰੈ ਤਉ ਨਾਰਿ ਨ ਰੋਵੈ ॥",
-      "roman": "khasam marai tau nār na rovai",
+      "roman": "khasam marē tau nār na rovē",
       "sahib_singh_pa": "(ਪਰ ਇਸ ਮਾਇਆ ਨੂੰ ਇਸਤ੍ਰੀ ਬਣਾ ਕੇ ਰੱਖਣ ਵਾਲਾ) ਮਨੁੱਖ (ਆਖ਼ਰ) ਮਰ ਜਾਂਦਾ ਹੈ, ਇਹ (ਮਾਇਆ) ਵਹੁਟੀ (ਉਸ ਦੇ ਮਰਨ ਤੇ) ਰੋਂਦੀ ਭੀ ਨਹੀਂ,",
       "translation_ru": "когда хозяин умирает, жена не плачет"
     },
     {
       "verse_id": 36988,
       "gurmukhi": "ਉਸੁ ਰਖਵਾਰਾ ਅਉਰੋ ਹੋਵੈ ॥",
-      "roman": "us rakhvārā auro hovai",
+      "roman": "us rakhvārā auro hovē",
       "sahib_singh_pa": "ਕਿਉਂਕਿ ਇਸ ਦਾ ਰਾਖਾ (ਖਸਮ) ਕੋਈ ਧਿਰ ਹੋਰ ਬਣ ਜਾਂਦਾ ਹੈ (ਸੋ, ਇਹ ਕਦੇ ਭੀ ਰੰਡੀ ਨਹੀਂ ਹੁੰਦੀ)।",
       "translation_ru": "потому что появляется другой защитник"
     },
@@ -319,7 +319,7 @@
     {
       "verse_id": 36990,
       "gurmukhi": "ਆਗੈ ਨਰਕੁ ਈਹਾ ਭੋਗ ਬਿਲਾਸ ॥੧॥",
-      "roman": "āgai narak īhā bhog bilās",
+      "roman": "āgē narak īhā bhog bilās",
       "sahib_singh_pa": "ਮਨੁੱਖ ਇੱਥੇ ਇਸ ਮਾਇਆ ਦੇ ਭੋਗਾਂ (ਵਿਚ ਮਸਤ ਰਹਿਣ) ਕਰਕੇ ਅਗਾਂਹ (ਆਪਣੇ ਲਈ) ਨਰਕ ਸਹੇੜਦਾ ਹੈ ॥੧॥",
       "translation_ru": "наслаждения здесь ведут к аду впереди ॥੧॥"
     },
@@ -340,42 +340,42 @@
     {
       "verse_id": 36993,
       "gurmukhi": "ਸੋਹਾਗਨਿ ਗਲਿ ਸੋਹੈ ਹਾਰੁ ॥",
-      "roman": "sohāgan gal sohai hār",
+      "roman": "sohāgan gal sohē hār",
       "sahib_singh_pa": "ਇਸ ਸੋਹਾਗਣ ਨਾਰ ਦੇ ਗਲ ਵਿਚ ਹਾਰ ਸੋਭਦਾ ਹੈ, (ਭਾਵ, ਜੀਵਾਂ ਦੇ ਮਨ ਮੋਹਣ ਨੂੰ ਸਦਾ ਸੁਹਣੀ ਬਣੀ ਰਹਿੰਦੀ ਹੈ)।",
       "translation_ru": "она украшена и привлекательна"
     },
     {
       "verse_id": 36994,
       "gurmukhi": "ਸੰਤ ਕਉ ਬਿਖੁ ਬਿਗਸੈ ਸੰਸਾਰੁ ॥",
-      "roman": "sant kau bikh bigsai sansār",
+      "roman": "sant kau bikh bigsē sansār",
       "sahib_singh_pa": "(ਇਸ ਨੂੰ ਵੇਖ ਵੇਖ ਕੇ) ਜਗਤ ਖ਼ੁਸ਼ ਹੁੰਦਾ ਹੈ, ਪਰ ਸੰਤਾਂ ਨੂੰ ਇਹ ਜ਼ਹਿਰ (ਵਾਂਗ) ਦਿੱਸਦੀ ਹੈ।",
       "translation_ru": "мир радуется ей, но для святых она как яд"
     },
     {
       "verse_id": 36995,
       "gurmukhi": "ਕਰਿ ਸੀਗਾਰੁ ਬਹੈ ਪਖਿਆਰੀ ॥",
-      "roman": "kar sīgār bahai pakhiyārī",
+      "roman": "kar sīgār bahē pakhiyārī",
       "sahib_singh_pa": "ਵੇਸਵਾ (ਵਾਂਗ) ਸਦਾ ਸ਼ਿੰਗਾਰ ਕਰੀ ਰੱਖਦੀ ਹੈ,",
       "translation_ru": "она украшает себя как блудница"
     },
     {
       "verse_id": 36996,
       "gurmukhi": "ਸੰਤ ਕੀ ਠਿਠਕੀ ਫਿਰੈ ਬਿਚਾਰੀ ॥੨॥",
-      "roman": "sant kī ṭhiṭhkī phirai bichārī",
+      "roman": "sant kī ṭhiṭhkī phirē bichārī",
       "sahib_singh_pa": "ਪਰ ਸੰਤਾਂ ਦੀ ਫਿਟਕਾਰੀ ਹੋਈ ਵਿਚਾਰੀ (ਸੰਤਾਂ ਤੋਂ) ਪਰੇ ਪਰੇ ਹੀ ਫਿਰਦੀ ਹੈ ॥੨॥",
       "translation_ru": "но держится вдали от святых ॥੨॥"
     },
     {
       "verse_id": 36997,
       "gurmukhi": "ਸੰਤ ਭਾਗਿ ਓਹ ਪਾਛੈ ਪਰੈ ॥",
-      "roman": "sant bhāg oh pāchhai parai",
+      "roman": "sant bhāg oh pāchhē parē",
       "sahib_singh_pa": "(ਇਹ ਮਾਇਆ) ਭੱਜ ਕੇ ਸੰਤਾਂ ਦੇ ਲੜ ਲੱਗਣ ਦੀ ਕੋਸ਼ਸ਼ ਕਰਦੀ ਹੈ,",
       "translation_ru": "она стремится следовать за святыми"
     },
     {
       "verse_id": 36998,
       "gurmukhi": "ਗੁਰ ਪਰਸਾਦੀ ਮਾਰਹੁ ਡਰੈ ॥",
-      "roman": "gur parsādī mārahu ḍarai",
+      "roman": "gur parsādī mārah ḍarē",
       "sahib_singh_pa": "ਪਰ (ਸੰਤਾਂ ਉੱਤੇ) ਗੁਰੂ ਦੀ ਮਿਹਰ ਹੋਣ ਕਰ ਕੇ (ਇਹ ਸੰਤਾਂ ਦੀ) ਮਾਰ ਤੋਂ ਭੀ ਡਰਦੀ ਹੈ (ਇਸ ਵਾਸਤੇ ਨੇੜੇ ਨਹੀਂ ਢੁੱਕਦੀ)।",
       "translation_ru": "но боится их силы по милости Гуру"
     },
@@ -389,14 +389,14 @@
     {
       "verse_id": 37000,
       "gurmukhi": "ਹਮ ਕਉ ਦ੍ਰਿਸਟਿ ਪਰੈ ਤ੍ਰਖਿ ਡਾਇਣਿ ॥੩॥",
-      "roman": "ham kau driṣṭ parai trakh ḍāiṇ",
+      "roman": "ham kau driṣṭ parē trakh ḍāiṇ",
       "sahib_singh_pa": "ਪਰ ਮੈਨੂੰ ਤਾਂ ਇਹ ਭਿਆਨਕ ਡੈਣ ਦਿੱਸਦੀ ਹੈ ॥੩॥",
       "translation_ru": "но мне она кажется страшной ведьмой ॥੩॥"
     },
     {
       "verse_id": 37001,
       "gurmukhi": "ਹਮ ਤਿਸ ਕਾ ਬਹੁ ਜਾਨਿਆ ਭੇਉ ॥",
-      "roman": "ham tis kā bahu jāniā bheo",
+      "roman": "ham tis kā bah jāniā bheo",
       "sahib_singh_pa": "ਤਦੋਂ ਤੋਂ ਮੈਂ ਇਸ ਮਾਇਆ ਦਾ ਭੇਤ ਪਾ ਲਿਆ ਹੈ,",
       "translation_ru": "я узнал её тайну"
     },
@@ -417,7 +417,7 @@
     {
       "verse_id": 37004,
       "gurmukhi": "ਸੰਸਾਰੈ ਕੈ ਅੰਚਲਿ ਲਰੀ ॥੪॥੪॥੭॥",
-      "roman": "sansārai kai añchal larī",
+      "roman": "sansārē kē añchal larī",
       "sahib_singh_pa": "ਤੇ ਸੰਸਾਰੀ ਜੀਵਾਂ ਦੇ ਪੱਲੇ ਜਾ ਲੱਗੀ ਹੈ ॥੪॥੪॥੭॥",
       "translation_ru": "и пристала к миру ॥੪॥੪॥੭॥"
     }

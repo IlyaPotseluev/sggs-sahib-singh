@@ -4,14 +4,14 @@
     {
       "verse_id": 31095,
       "gurmukhi": "ਜੀਵਤ ਲਉ ਬਿਉਹਾਰੁ ਹੈ ਜਗ ਕਉ ਤੁਮ ਜਾਨਉ ॥",
-      "roman": "jīvat lau biuhār hai jag kau tum jānau",
+      "roman": "jīvat lau biuhār hē jag kau tum jānau",
       "sahib_singh_pa": "(ਹੇ ਮਨ!) ਜਗਤ ਨੂੰ ਤੂੰ ਇਉਂ ਹੀ ਸਮਝ (ਕਿ ਇਥੇ) ਜ਼ਿੰਦਗੀ ਤਕ ਹੀ ਵਰਤਣ-ਵਿਹਾਰ ਰਹਿੰਦਾ ਹੈ।",
       "translation_ru": "Знай: в этом мире отношения существуют лишь пока есть жизнь."
     },
     {
       "verse_id": 31096,
       "gurmukhi": "ਨਾਨਕ ਹਰਿ ਗੁਨ ਗਾਇ ਲੈ ਸਭ ਸੁਫਨ ਸਮਾਨਉ ॥੨॥੨॥",
-      "roman": "nānak har gun gāi lai sabh sufan samānau ॥2॥2॥",
+      "roman": "nānak har gun gāi lē sabh sufan samānau ॥2॥2॥",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਆਖ-) ਉਂਞ, ਇਹ ਸਾਰਾ ਸੁਪਨੇ ਵਾਂਗ ਹੀ ਹੈ। (ਇਸ ਵਾਸਤੇ ਜਦ ਤਕ ਜੀਊਂਦਾ ਹੈਂ) ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਂਦਾ ਰਹੁ ॥੨॥੨॥",
       "translation_ru": "О Нанак! Всё это подобно сну, поэтому пока живёшь — воспевай качества Бога ॥2॥2॥"
     },
@@ -25,21 +25,21 @@
     {
       "verse_id": 31098,
       "gurmukhi": "ਹਰਿ ਜਸੁ ਰੇ ਮਨਾ ਗਾਇ ਲੈ ਜੋ ਸੰਗੀ ਹੈ ਤੇਰੋ ॥",
-      "roman": "har jas re manā gāy lay jo saṅgī hai tero",
+      "roman": "har jas re manā gāy lay jo saṅgī hē tero",
       "sahib_singh_pa": "ਹੇ ਮਨ! ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦਾ ਗੀਤ ਗਾਇਆ ਕਰ, ਇਹ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਹੀ ਤੇਰਾ ਅਸਲੀ ਸਾਥੀ ਹੈ।",
       "translation_ru": "О ум! Пой хвалу Бога, именно эта хвала и есть твой истинный спутник."
     },
     {
       "verse_id": 31099,
       "gurmukhi": "ਅਉਸਰੁ ਬੀਤਿਓ ਜਾਤੁ ਹੈ ਕਹਿਓ ਮਾਨ ਲੈ ਮੇਰੋ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "ausar bītio jāt hai kahio mān lay mero",
+      "roman": "ausar bītio jāt hē kahio mān lay mero",
       "sahib_singh_pa": "ਮੇਰਾ ਬਚਨ ਮੰਨ ਲੈ। ਉਮਰ ਦਾ ਸਮਾ ਲੰਘਦਾ ਜਾ ਰਿਹਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Прими моё слово. Время жизни проходит."
     },
     {
       "verse_id": 31100,
       "gurmukhi": "ਸੰਪਤਿ ਰਥ ਧਨ ਰਾਜ ਸਿਉ ਅਤਿ ਨੇਹੁ ਲਗਾਇਓ ॥",
-      "roman": "sampat rath dhan rāj siu ati neh lagāio",
+      "roman": "sampat rath dhan rāj siu at neh lagāio",
       "sahib_singh_pa": "ਹੇ ਮਨ! ਮਨੁੱਖ ਧਨ-ਪਦਾਰਥ, ਰਥ, ਮਾਲ, ਰਾਜ ਨਾਲ ਬੜਾ ਮੋਹ ਕਰਦਾ ਹੈ।",
       "translation_ru": "О ум! Человек сильно привязывается к богатству, вещам, колесницам, власти."
     },
@@ -53,7 +53,7 @@
     {
       "verse_id": 31102,
       "gurmukhi": "ਜਾਨਿ ਬੂਝ ਕੈ ਬਾਵਰੇ ਤੈ ਕਾਜੁ ਬਿਗਾਰਿਓ ॥",
-      "roman": "jān būjh kai bāvre tai kāj bigārio",
+      "roman": "jān būjh kē bāvre tē kāj bigārio",
       "sahib_singh_pa": "ਹੇ ਝੱਲੇ ਮਨੁੱਖ! ਇਹ ਸਭ ਕੁਝ ਜਾਣਦਾ ਹੋਇਆ ਸਮਝਦਾ ਹੋਇਆ ਭੀ ਤੂੰ ਆਪਣਾ ਕੰਮ ਵਿਗਾੜ ਰਿਹਾ ਹੈਂ।",
       "translation_ru": "О безумный человек! Зная и понимая всё это, ты всё равно портишь своё дело."
     },
@@ -74,7 +74,7 @@
     {
       "verse_id": 31105,
       "gurmukhi": "ਨਾਨਕ ਕਹਤ ਪੁਕਾਰਿ ਕੈ ਗਹੁ ਪ੍ਰਭ ਸਰਨਾਈ ॥੩॥੩॥",
-      "roman": "nānak kahat pukār kai gahu prabh sarnāī",
+      "roman": "nānak kahat pukār kē gah prabh sarnāī",
       "sahib_singh_pa": "ਨਾਨਕ (ਤੈਨੂੰ) ਪੁਕਾਰ ਕੇ ਆਖਦਾ ਹੈ-(ਕਿ) ਪ੍ਰਭੂ ਦੀ ਸਰਨ ਪਿਆ ਰਹੁ (ਸਦਾ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰ) ॥੩॥੩॥",
       "translation_ru": "Нанак взывает и говорит: держись прибежища Господа."
     },
@@ -102,7 +102,7 @@
     {
       "verse_id": 31109,
       "gurmukhi": "ਟੁਕੁ ਦਮੁ ਕਰਾਰੀ ਜਉ ਕਰਹੁ ਹਾਜਿਰ ਹਜੂਰਿ ਖੁਦਾਇ ॥੧॥",
-      "roman": "ṭuk dam karārī jau karahu hāzir hajūr khudāe",
+      "roman": "ṭuk dam karārī jau karah hāzir hajūr khudāe",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ!) ਜੇ ਤੁਸੀ ਆਪਣੇ ਮਨ ਨੂੰ ਪਲਕ ਭਰ ਹੀ ਟਿਕਾਓ, ਤਾਂ ਤੁਹਾਨੂੰ ਸਭਨਾਂ ਵਿਚ ਹੀ ਵੱਸਦਾ ਰੱਬ ਦਿੱਸੇਗਾ (ਕਿਸੇ ਦੇ ਵਿਰੁੱਧ ਤਰਕ ਕਰਨ ਦੀ ਲੋੜ ਨਹੀਂ ਪਏਗੀ) ॥੧॥",
       "translation_ru": "Если ты хотя бы на мгновение удержишь ум, то увидишь Бога присутствующим везде."
     },
@@ -151,14 +151,14 @@
     {
       "verse_id": 31116,
       "gurmukhi": "ਅਲਾਹ ਪਾਕੰ ਪਾਕ ਹੈ ਸਕ ਕਰਉ ਜੇ ਦੂਸਰ ਹੋਇ ॥",
-      "roman": "alāh pākaṅ pāk hai sak karau je dūsar hoi",
+      "roman": "alāh pākaṅ pāk hē sak karau je dūsar hoi",
       "sahib_singh_pa": "ਰੱਬ ਸਭ ਤੋਂ ਪਵਿੱਤਰ (ਹਸਤੀ) ਹੈ (ਉਸ ਤੋਂ ਪਵਿੱਤਰ ਕੋਈ ਹੋਰ ਨਹੀਂ ਹੈ), ਇਸ ਗੱਲ ਵਿਚ ਮੈਂ ਤਾਂ ਹੀ ਸ਼ੱਕ ਕਰਾਂ, ਜੇ ਉਸ ਰੱਬ ਵਰਗਾ ਕੋਈ ਹੋਰ ਦੂਜਾ ਹੋਵੇ।",
       "translation_ru": "Бог чистейший, и я усомнился бы в этом только если бы существовал другой подобный Ему."
     },
     {
       "verse_id": 31117,
       "gurmukhi": "ਕਬੀਰ ਕਰਮੁ ਕਰੀਮ ਕਾ ਉਹੁ ਕਰੈ ਜਾਨੈ ਸੋਇ ॥੪॥੧॥",
-      "roman": "kabīr karam karīm kā uh karai jānai soi",
+      "roman": "kabīr karam karīm kā uh karē jānē soi",
       "sahib_singh_pa": "ਹੇ ਕਬੀਰ! (ਇਸ ਭੇਤ ਨੂੰ) ਉਹ ਮਨੁੱਖ ਹੀ ਸਮਝ ਸਕਦਾ ਹੈ ਜਿਸ ਨੂੰ ਉਹ ਸਮਝਣ-ਜੋਗ ਬਣਾਏ। ਤੇ, ਇਹ ਬਖ਼ਸ਼ਸ਼ ਉਸ ਬਖ਼ਸ਼ਸ਼ ਕਰਨ ਵਾਲੇ ਦੇ ਆਪਣੇ ਹੱਥ ਹੈ ॥੪॥੧॥",
       "translation_ru": "О Кабир! Лишь тот понимает это, кого Он Сам делает способным понять."
     },
@@ -172,14 +172,14 @@
     {
       "verse_id": 31119,
       "gurmukhi": "ਮੈ ਅੰਧੁਲੇ ਕੀ ਟੇਕ ਤੇਰਾ ਨਾਮੁ ਖੁੰਦਕਾਰਾ ॥",
-      "roman": "mai aṅdhule kī ṭek terā nām khundkārā",
+      "roman": "mē aṅdhule kī ṭek terā nām khundkārā",
       "sahib_singh_pa": "ਹੇ ਮੇਰੇ ਪਾਤਿਸ਼ਾਹ! ਤੇਰਾ ਨਾਮ ਮੈਂ ਅੰਨ੍ਹੇ ਦੀ ਡੰਗੋਰੀ ਹੈ, ਸਹਾਰਾ ਹੈ;",
       "translation_ru": "О мой Господь! Твоё Имя для меня как трость слепого, как опора."
     },
     {
       "verse_id": 31120,
       "gurmukhi": "ਮੈ ਗਰੀਬ ਮੈ ਮਸਕੀਨ ਤੇਰਾ ਨਾਮੁ ਹੈ ਅਧਾਰਾ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "mai garīb mai maskīn terā nām hai adhārā",
+      "roman": "mē garīb mē maskīn terā nām hē adhārā",
       "sahib_singh_pa": "ਮੈਂ ਕੰਗਾਲ ਹਾਂ, ਮੈਂ ਆਜਿਜ਼ ਹਾਂ, ਤੇਰਾ ਨਾਮ (ਹੀ) ਮੇਰਾ ਆਸਰਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Я беден, я ничтожен, Твоё Имя — моя опора."
     },
@@ -214,7 +214,7 @@
     {
       "verse_id": 31125,
       "gurmukhi": "ਤੂੰ ਦਾਨਾਂ ਤੂੰ ਬੀਨਾਂ ਮੈ ਬੀਚਾਰੁ ਕਿਆ ਕਰੀ ॥",
-      "roman": "tū dānā tū bīnā mai bīchār kiā karī",
+      "roman": "tū dānā tū bīnā mē bīchār kiā karī",
       "sahib_singh_pa": "(ਹੇ ਮਾਲਕ!) ਤੂੰ (ਸਭ ਦੇ ਦਿਲ ਦੀ) ਜਾਣਨ ਵਾਲਾ ਹੈਂ ਤੇ (ਸਭ ਦੇ ਕੰਮ) ਵੇਖਣ ਵਾਲਾ ਹੈਂ; ਹੇ ਹਰੀ! ਮੈਂ ਤੇਰਾ ਕਿਹੜਾ ਕਿਹੜਾ ਗੁਣ ਬਿਆਨ ਕਰਾਂ?",
       "translation_ru": "Ты знающий и видящий, как мне описать Твои качества?"
     },

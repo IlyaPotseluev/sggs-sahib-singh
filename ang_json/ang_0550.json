@@ -4,7 +4,7 @@
     {
       "verse_id": 24197,
       "gurmukhi": "ਅਨਦਿਨੁ ਸਹਸਾ ਕਦੇ ਨ ਚੂਕੈ ਬਿਨੁ ਸਬਦੈ ਦੁਖੁ ਪਾਏ ॥",
-      "roman": "anadin sahsā kadē na chūkai bin sabdai dukh pāē",
+      "roman": "anadin sahsā kadē na chūkē bin sabdē dukh pāē",
       "sahib_singh_pa": "ਹਰ ਰੋਜ਼ ਕਿਸੇ ਵੇਲੇ ਭੀ ਉਸਦੀ ਚਿੰਤਾ ਦੂਰ ਨਹੀਂ ਹੁੰਦੀ, ਸ਼ਬਦ (ਦਾ ਆਸਰਾ ਲੈਣ ਤੋਂ) ਬਿਨਾ ਦੁੱਖ ਪਾਉਂਦਾ ਹੈ।",
       "translation_ru": "то его тревога никогда не прекращается ни в один день, и без опоры на Шабд он испытывает страдание."
     },
@@ -18,7 +18,7 @@
     {
       "verse_id": 24199,
       "gurmukhi": "ਚਰਣ ਕਰ ਦੇਖਤ ਸੁਣਿ ਥਕੇ ਦਿਹ ਮੁਕੇ ਨੇੜੈ ਆਏ ॥",
-      "roman": "charaṇ kar dēkhat suṇ thakē dih mukē neṛai āē",
+      "roman": "charaṇ kar dēkhat suṇ thakē dih mukē neṛē āē",
       "sahib_singh_pa": "ਪੈਰ, ਹੱਥ, (ਅੱਖੀਆਂ) ਵੇਖ ਵੇਖ ਕੇ ਤੇ (ਕੰਨ) ਸੁਣ ਸੁਣ ਕੇ ਥੱਕ ਗਏ ਹਨ, (ਉਮਰ ਦੇ) ਦਿਨ ਮੁੱਕ ਗਏ ਹਨ (ਮਰਨ ਵੇਲਾ ਨੇੜੇ ਆ ਜਾਂਦਾ ਹੈ)।",
       "translation_ru": "Ноги, руки, глаза, глядя, и уши, слушая, устали; дни жизни подошли к концу, и время смерти приблизилось."
     },
@@ -32,7 +32,7 @@
     {
       "verse_id": 24201,
       "gurmukhi": "ਜੀਵਤੁ ਮਰੈ ਮਰੈ ਫੁਨਿ ਜੀਵੈ ਤਾਂ ਮੋਖੰਤਰੁ ਪਾਏ ॥",
-      "roman": "jīvat marai marai phun jīvai tā mōkhaṅtar pāē",
+      "roman": "jīvat marē marē phun jīvē tā mōkhaṅtar pāē",
       "sahib_singh_pa": "ਜੇ ਜਿਉਂਦਾ ਹੋਇਆ (ਸੰਸਾਰ ਵਲੋਂ) ਮੁਰਦਾ ਹੋ ਜਾਵੇ (ਇਸ ਤਰ੍ਹਾਂ) ਮਰ ਕੇ ਫੇਰ (ਹਰੀ ਦੀ ਯਾਦ ਵਿਚ) ਸੁਰਜੀਤ ਹੋਵੇ, ਤਾਂ ਹੀ ਮੁਕਤੀ ਦਾ ਭੇਤ ਲੱਭਦਾ ਹੈ।",
       "translation_ru": "Если ещё при жизни человек умрёт для мира и, умерев так, снова оживёт в памяти о Господе, тогда только он находит тайну освобождения."
     },
@@ -53,7 +53,7 @@
     {
       "verse_id": 24204,
       "gurmukhi": "ਨਾਨਕ ਸਤਿਗੁਰੁ ਤਦ ਹੀ ਪਾਏ ਜਾਂ ਵਿਚਹੁ ਆਪੁ ਗਵਾਏ ॥੨॥",
-      "roman": "Nānak satigur tad hī pāē jāṅ vichahu āp gavāē",
+      "roman": "Nānak satigur tad hī pāē jāṅ vichah āp gavāē",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਸਤਿਗੁਰੂ ਭੀ ਤਦੋਂ ਹੀ ਮਿਲਦਾ ਹੈ ਜਦੋਂ ਮਨੁੱਖ ਹਿਰਦੇ ਵਿਚੋਂ ਅਹੰਕਾਰ ਦੂਰ ਕਰਦਾ ਹੈ ॥੨॥",
       "translation_ru": "О Нанак, Сатгуру обретается лишь тогда, когда человек изгоняет из сердца эго."
     },
@@ -67,7 +67,7 @@
     {
       "verse_id": 24206,
       "gurmukhi": "ਜਿਸ ਦੈ ਚਿਤਿ ਵਸਿਆ ਮੇਰਾ ਸੁਆਮੀ ਤਿਸ ਨੋ ਕਿਉ ਅੰਦੇਸਾ ਕਿਸੈ ਗਲੈ ਦਾ ਲੋੜੀਐ ॥",
-      "roman": "jis dai chit vasiā mērā suāmī tis no kiō andesā kisai gallai dā loṛīai",
+      "roman": "jis dē chit vasiā mērā suāmī tis no kiō andesā kisē gallē dā loṛīē",
       "sahib_singh_pa": "ਜਿਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ ਪਿਆਰਾ ਪ੍ਰਭੂ ਨਿਵਾਸ ਕਰੇ, ਉਸ ਨੂੰ ਕਿਸੇ ਗੱਲ ਦੀ ਚਿੰਤਾ ਨਹੀਂ ਰਹਿ ਜਾਂਦੀ।",
       "translation_ru": "Тот человек, в чьём сердце обитает мой Господь, уже не имеет тревоги ни о чём."
     },
@@ -95,7 +95,7 @@
     {
       "verse_id": 24210,
       "gurmukhi": "ਹਰਿ ਕਿਰਪਾ ਤੇ ਹੋਆ ਹਰਿ ਭਗਤੁ ਹਰਿ ਭਗਤ ਜਨਾ ਕੈ ਮੁਹਿ ਡਿਠੈ ਜਗਤੁ ਤਰਿਆ ਸਭੁ ਲੋੜੀਐ ॥੪॥",
-      "roman": "har kirpā tē hōā har bhagat har bhagat janā kai muh diṭhai jagat tariā sabh loṛīai",
+      "roman": "har kirpā tē hōā har bhagat har bhagat janā kē muh diṭhē jagat tariā sabh loṛīē",
       "sahib_singh_pa": "ਹਰੀ ਦਾ ਭਗਤ ਹਰੀ ਦੀ ਆਪਣੀ ਕਿਰਪਾ ਨਾਲ ਬਣਦਾ ਹੈ ਤੇ ਹਰੀ ਦੇ ਭਗਤਾਂ ਦਾ ਦਰਸ਼ਨ ਕਰ ਕੇ (ਭਾਵ, ਉਹਨਾਂ ਦੀ ਸੰਗਤ ਵਿਚ ਰਹਿ ਕੇ) ਸਾਰਾ ਸੰਸਾਰ ਤਰ ਸਕਦਾ ਹੈ ॥੪॥",
       "translation_ru": "Преданным Господа человек становится по милости Самого Господа, и, увидев лицо преданных Господа, то есть пребывая в их обществе, весь мир может переправиться."
     },
@@ -137,7 +137,7 @@
     {
       "verse_id": 24216,
       "gurmukhi": "ਨਾਨਕ ਗੁਰਮੁਖਿ ਰਸਨਾ ਹਰਿ ਜਪੈ ਹਰਿ ਕੈ ਨਾਇ ਪਿਆਰਿਆ ॥੨॥",
-      "roman": "nānak gurmukh rasnā har japai har kai nāe piāriā",
+      "roman": "nānak gurmukh rasnā har japē har kē nāe piāriā",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਸਤਿਗੁਰੂ ਦੇ ਸਨਮੁਖ ਰਹਿਣ ਵਾਲੇ ਮਨੁੱਖ ਦੀ ਜੀਭ ਹਰੀ ਦਾ ਨਾਮ ਜਪਦੀ ਹੈ ਹਰੀ ਦੇ ਨਾਮ ਵਿਚ ਪਿਆਰ ਕਰਦੀ ਹੈ ॥੨॥",
       "translation_ru": "О Нанак, у гурмукха язык повторяет Имя Хари и любит Имя Хари."
     },
@@ -158,7 +158,7 @@
     {
       "verse_id": 24219,
       "gurmukhi": "ਹਰਿ ਆਪੇ ਵੇਖੈ ਵਿਗਸੈ ਆਪੇ ਜਿਤੁ ਭਾਵੈ ਤਿਤੁ ਲਾਏ ॥",
-      "roman": "har āpe vekhai vigasai āpe jit bhāvai tit lāe",
+      "roman": "har āpe vekhē vigasē āpe jit bhāvē tit lāe",
       "sahib_singh_pa": "ਆਪ ਹੀ ਵੇਖਦਾ ਹੈ, ਆਪ ਹੀ ਪ੍ਰਸੰਨ ਹੁੰਦਾ ਹੈ, ਜਿਧਰ ਚਾਹੁੰਦਾ ਹੈ ਓਧਰ (ਜੀਵਾਂ ਨੂੰ) ਲਾਉਂਦਾ ਹੈ।",
       "translation_ru": "Сам наблюдает, Сам радуется, и куда пожелает, туда направляет."
     },
@@ -172,14 +172,14 @@
     {
       "verse_id": 24221,
       "gurmukhi": "ਹਰਿ ਸਚਾ ਸਾਹਿਬੁ ਸਚੁ ਤਪਾਵਸੁ ਕਰਿ ਵੇਖੈ ਚਲਤ ਸਬਾਏ ॥",
-      "roman": "har sachā sāhib sach tapāvas kar vekhai chalat sabhāe",
+      "roman": "har sachā sāhib sach tapāvas kar vekhē chalat sabhāe",
       "sahib_singh_pa": "ਹਰੀ ਸੱਚਾ ਮਾਲਕ ਹੈ, ਉਸ ਦਾ ਨਿਆਂ ਭੀ ਅਭੁੱਲ ਹੈ, ਉਹ ਆਪ ਹੀ ਸਾਰੇ ਤਮਾਸ਼ੇ ਕਰ ਕੇ ਵੇਖ ਰਿਹਾ ਹੈ।",
       "translation_ru": "Хари — истинный Господь, Его суд безошибочен, Он Сам устраивает и наблюдает всё происходящее."
     },
     {
       "verse_id": 24222,
       "gurmukhi": "ਗੁਰ ਪਰਸਾਦਿ ਕਹੈ ਜਨੁ ਨਾਨਕੁ ਹਰਿ ਸਚੇ ਕੇ ਗੁਣ ਗਾਏ ॥੫॥",
-      "roman": "gur parsād kahai jan nānak har sache ke guṇ gāe",
+      "roman": "gur parsād kahē jan nānak har sache ke guṇ gāe",
       "sahib_singh_pa": "ਦਾਸ ਨਾਨਕ ਆਖਦਾ ਹੈ ਕਿ ਸਤਿਗੁਰੂ ਦੀ ਮੇਹਰ ਨਾਲ (ਹੀ ਮਨੁੱਖ ਐਸੇ) ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਉਂਦਾ ਹੈ ॥੫॥",
       "translation_ru": "Слуга Нанак говорит: по милости Гуру человек воспевает качества Вечного Господа."
     },
@@ -200,21 +200,21 @@
     {
       "verse_id": 24225,
       "gurmukhi": "ਜੇ ਘਰਿ ਘਰਿ ਹੰਢੈ ਮੰਗਦਾ ਧਿਗੁ ਜੀਵਣੁ ਧਿਗੁ ਵੇਸੁ ॥",
-      "roman": "je ghar ghar haṇḍhai mangdā dhig jīvan dhig ves",
+      "roman": "je ghar ghar haṇḍhē mangdā dhig jīvan dhig ves",
       "sahib_singh_pa": "(ਫ਼ਕੀਰ ਹੋ ਕੇ) ਜੇ ਘਰ ਘਰ ਮੰਗਦਾ ਫਿਰੇ, ਤਾਂ ਉਹਦੇ ਜੀਊਣ ਨੂੰ ਫਿਟਕਾਰ ਹੈ ਤੇ ਉਸ ਦੇ (ਫ਼ਕੀਰੀ-) ਜਾਮੇ ਨੂੰ ਫਿਟਕਾਰ ਹੈ।",
       "translation_ru": "Если он ходит по домам, прося подаяние, его жизнь и его одеяние достойны порицания."
     },
     {
       "verse_id": 24226,
       "gurmukhi": "ਜੇ ਆਸਾ ਅੰਦੇਸਾ ਤਜਿ ਰਹੈ ਗੁਰਮੁਖਿ ਭਿਖਿਆ ਨਾਉ ॥",
-      "roman": "je āsā andesā taj rahai gurmukh bhikhiā nāo",
+      "roman": "je āsā andesā taj rahē gurmukh bhikhiā nāo",
       "sahib_singh_pa": "ਜੇ (ਦਰਵੇਸ਼ ਹੋ ਕੇ) ਆਸਾ ਤੇ ਚਿੰਤਾ ਨੂੰ ਛੱਡ ਦੇਵੇ ਤੇ ਸਤਿਗੁਰੂ ਦੇ ਸਨਮੁਖ ਰਹਿ ਕੇ ਨਾਮ ਦੀ ਭਿਖਿਆ ਮੰਗੇ,",
       "translation_ru": "Если он откажется от надежд и тревог и, будучи гурмукхом, просит подаяние Имени,"
     },
     {
       "verse_id": 24227,
       "gurmukhi": "ਤਿਸ ਕੇ ਚਰਨ ਪਖਾਲੀਅਹਿ ਨਾਨਕ ਹਉ ਬਲਿਹਾਰੈ ਜਾਉ ॥੧॥",
-      "roman": "tis ke charan pakhālīah nānak hau balihārai jāo",
+      "roman": "tis ke charan pakhālīah nānak hau balihārē jāo",
       "sahib_singh_pa": "ਤਾਂ, ਹੇ ਨਾਨਕ! ਮੈਂ ਉਸ ਤੋਂ ਸਦਕੇ ਹਾਂ, ਉਸ ਦੇ ਚਰਨ ਧੋਣੇ ਚਾਹੀਦੇ ਹਨ ॥੧॥",
       "translation_ru": "то, о Нанак, я предан ему и готов омывать его стопы."
     },
@@ -242,7 +242,7 @@
     {
       "verse_id": 24231,
       "gurmukhi": "ਬਹੁ ਰੰਗੀ ਰਸ ਭੋਗਿਆ ਸਬਦਿ ਰਹੈ ਨਿਰਬਾਣੁ ॥",
-      "roman": "bahu raṅgī ras bhogiā sabad rahai nirbān",
+      "roman": "bah raṅgī ras bhogiā sabad rahē nirbān",
       "sahib_singh_pa": "ਬਹੁਤੇ ਰੰਗਾਂ (ਵਿਚ ਸੁਆਦ ਲੈਣ) ਵਾਲੇ ਨੇ ਰਸਾਂ ਨੂੰ ਚੱਖਿਆ ਹੈ ਤੇ ਨਿਰ-ਚਾਹ (ਪੰਛੀ) ਸ਼ਬਦ ਵਿਚ (ਲੀਨ) ਰਹਿੰਦਾ ਹੈ।",
       "translation_ru": "Одна наслаждается множеством вкусов, другая пребывает в Шабде в состоянии безжеланности."
     },
@@ -263,14 +263,14 @@
     {
       "verse_id": 24234,
       "gurmukhi": "ਆਪੇ ਧਰਤੀ ਆਪੇ ਹੈ ਰਾਹਕੁ ਆਪਿ ਜੰਮਾਇ ਪੀਸਾਵੈ ॥",
-      "roman": "āpe dhartī āpe hai rāhak āp jamāe pīsāvai",
+      "roman": "āpe dhartī āpe hē rāhak āp jamāe pīsāvē",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਆਪ ਹੀ ਭੁਇਂ ਹੈ ਆਪ ਹੀ ਉਸ ਦਾ ਵਾਹੁਣ ਵਾਲਾ ਹੈ, ਆਪ ਹੀ (ਅੰਨ) ਉਗਾਉਂਦਾ ਹੈ ਤੇ ਆਪ ਹੀ ਪਿਹਾਉਂਦਾ ਹੈ,",
       "translation_ru": "Сам Господь — земля, Сам пахарь, Сам выращивает и измельчает зерно."
     },
     {
       "verse_id": 24235,
       "gurmukhi": "ਆਪਿ ਪਕਾਵੈ ਆਪਿ ਭਾਂਡੇ ਦੇਇ ਪਰੋਸੈ ਆਪੇ ਹੀ ਬਹਿ ਖਾਵੈ ॥",
-      "roman": "āp pakāvai āp bhāṇḍe de parosai āpe hī bah khāvai",
+      "roman": "āp pakāvē āp bhāṇḍe de parosē āpe hī bah khāvē",
       "sahib_singh_pa": "ਆਪੇ ਹੀ ਪਕਾਉਂਦਾ ਹੈ ਤੇ ਆਪ ਹੀ ਭਾਂਡੇ ਦੇ ਕੇ ਵਰਤਾਉਂਦਾ ਹੈ ਤੇ ਆਪ ਹੀ ਬਹਿ ਕੇ ਖਾਂਦਾ ਹੈ।",
       "translation_ru": "Сам готовит, Сам подаёт в сосудах и Сам садится есть."
     }

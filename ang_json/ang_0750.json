@@ -4,21 +4,21 @@
     {
       "verse_id": 32079,
       "gurmukhi": "ਤੇਰੇ ਸੇਵਕ ਕਉ ਭਉ ਕਿਛੁ ਨਾਹੀ ਜਮੁ ਨਹੀ ਆਵੈ ਨੇਰੇ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "tere sevak kau bhau kichh nāhī jam nahī āvai nere",
+      "roman": "tere sevak kau bhau kichh nāhī jam nahī āvē nere",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਤੇਰੇ ਸੇਵਕ ਨੂੰ ਕੋਈ ਡਰ ਪੋਹ ਨਹੀਂ ਸਕਦਾ, ਮੌਤ ਦਾ ਡਰ ਉਸ ਦੇ ਨੇੜੇ ਨਹੀਂ ਢੁਕਦਾ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "О Господь! Твоего слугу не касается страх, и смерть не приближается к нему."
     },
     {
       "verse_id": 32080,
       "gurmukhi": "ਜੋ ਤੇਰੈ ਰੰਗਿ ਰਾਤੇ ਸੁਆਮੀ ਤਿਨੑ ਕਾ ਜਨਮ ਮਰਣ ਦੁਖੁ ਨਾਸਾ ॥",
-      "roman": "jo terai rang rātē suāmī tinh kā janam maran dukh nāsā",
+      "roman": "jo terē rang rātē suāmī tinh kā janam maran dukh nāsā",
       "sahib_singh_pa": "ਹੇ ਮੇਰੇ ਮਾਲਕ! ਜੇਹੜੇ ਮਨੁੱਖ ਤੇਰੇ ਪ੍ਰੇਮ-ਰੰਗ ਵਿਚ ਰੰਗੇ ਰਹਿੰਦੇ ਹਨ, ਉਹਨਾਂ ਦਾ ਜੰਮਣ ਮਰਨ (ਦੇ ਗੇੜ) ਦਾ ਦੁੱਖ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "О Господь! Те, кто окрашены в Твою любовь, освобождаются от страдания рождения и смерти."
     },
     {
       "verse_id": 32081,
       "gurmukhi": "ਤੇਰੀ ਬਖਸ ਨ ਮੇਟੈ ਕੋਈ ਸਤਿਗੁਰ ਕਾ ਦਿਲਾਸਾ ॥੨॥",
-      "roman": "terī bakhas na meṭai koī satgur kā dilāsā",
+      "roman": "terī bakhas na meṭē koī satgur kā dilāsā",
       "sahib_singh_pa": "ਉਹਨਾਂ ਨੂੰ ਗੁਰੂ ਦਾ (ਦਿੱਤਾ ਹੋਇਆ ਇਹ) ਭਰੋਸਾ (ਚੇਤੇ ਰਹਿੰਦਾ ਹੈ ਕਿ ਉਹਨਾਂ ਉਤੇ ਹੋਈ) ਤੇਰੀ ਬਖ਼ਸ਼ਸ਼ ਨੂੰ ਕੋਈ ਮਿਟਾ ਨਹੀਂ ਸਕਦਾ ॥੨॥",
       "translation_ru": "Никто не может стереть Твою милость; это утешение, данное Гуру."
     },
@@ -32,7 +32,7 @@
     {
       "verse_id": 32083,
       "gurmukhi": "ਤੇਰੀ ਸਰਣਿ ਤੇਰੈ ਭਰਵਾਸੈ ਪੰਚ ਦੁਸਟ ਲੈ ਸਾਧਹਿ ॥੩॥",
-      "roman": "terī saraṇ terai bharvāsai panch dusṭ lai sādhah",
+      "roman": "terī saraṇ terē bharvāsē panch dusṭ lē sādhah",
       "sahib_singh_pa": "ਤੇਰੀ ਸਰਨ ਵਿਚ ਆ ਕੇ, ਤੇਰੇ ਆਸਰੇ ਰਹਿ ਕੇ ਉਹ (ਕਾਮਾਦਿਕ) ਪੰਜੇ ਵੈਰੀਆਂ ਨੂੰ ਫੜ ਕੇ ਵੱਸ ਵਿਚ ਕਰ ਲੈਂਦੇ ਹਨ ॥੩॥",
       "translation_ru": "В Твоём прибежище и опираясь на Тебя, они покоряют пять врагов."
     },
@@ -123,7 +123,7 @@
     {
       "verse_id": 32096,
       "gurmukhi": "ਕਰਿ ਕਿਰਪਾ ਅਪਨਾ ਨਾਮੁ ਦੀਜੈ ਨਾਨਕ ਸਾਧ ਰਵਾਲਾ ॥੪॥੧੧॥੫੮॥",
-      "roman": "kar kirpā apnā nām dījai nānak sādh ravālā",
+      "roman": "kar kirpā apnā nām dījē nānak sādh ravālā",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਆਖ-) ਮੇਹਰ ਕਰ, ਮੈਨੂੰ ਆਪਣਾ ਨਾਮ ਬਖ਼ਸ਼, ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਦੇਹ ॥੪॥੧੧॥੫੮॥",
       "translation_ru": "Нанак говорит: прояви милость, даруй мне Своё Имя, дай мне пыль у стоп Гуру."
     },
@@ -144,7 +144,7 @@
     {
       "verse_id": 32099,
       "gurmukhi": "ਸਭਿ ਅਵਗਣ ਮੈ ਗੁਣੁ ਨਹੀ ਕੋਈ ॥",
-      "roman": "sabh avgaṇ mai guṇ nahī koī",
+      "roman": "sabh avgaṇ mē guṇ nahī koī",
       "sahib_singh_pa": "ਮੇਰੇ ਅੰਦਰ ਸਾਰੇ ਔਗੁਣ ਹੀ ਹਨ, ਗੁਣ ਇੱਕ ਭੀ ਨਹੀਂ।",
       "translation_ru": "Во мне только недостатки, ни одного достоинства нет."
     },
@@ -158,28 +158,28 @@
     {
       "verse_id": 32101,
       "gurmukhi": "ਨਾ ਮੈ ਰੂਪੁ ਨ ਬੰਕੇ ਨੈਣਾ ॥",
-      "roman": "nā mai rūp na baṅke nainā",
+      "roman": "nā mē rūp na baṅke nēnā",
       "sahib_singh_pa": "ਨਾਹ ਮੇਰੀ (ਸੋਹਣੀ) ਸ਼ਕਲ ਹੈ, ਨਾਹ ਮੇਰੀਆਂ ਸੋਹਣੀਆਂ ਅੱਖਾਂ ਹਨ,",
       "translation_ru": "У меня нет красивого облика, нет прекрасных глаз."
     },
     {
       "verse_id": 32102,
       "gurmukhi": "ਨਾ ਕੁਲ ਢੰਗੁ ਨ ਮੀਠੇ ਬੈਣਾ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "nā kul ḍhaṅg na mīṭhe bainā rahāo",
+      "roman": "nā kul ḍhaṅg na mīṭhe bēnā rahāo",
       "sahib_singh_pa": "ਨਾਹ ਹੀ ਚੰਗੀ ਕੁਲ ਵਾਲਿਆਂ ਵਾਲਾ ਮੇਰਾ ਚੱਜ-ਆਚਾਰ ਹੈ, ਨਾਹ ਹੀ ਮੇਰੀ ਬੋਲੀ ਮਿੱਠੀ ਹੈ (ਮੈਂ ਫਿਰ ਕਿਵੇਂ ਪਤੀ-ਪ੍ਰਭੂ ਨੂੰ ਖ਼ੁਸ਼ ਕਰ ਸਕਾਂਗੀ?) ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Нет у меня благородных манер, нет сладкой речи — как же мне угодить Господу?"
     },
     {
       "verse_id": 32103,
       "gurmukhi": "ਸਹਜਿ ਸੀਗਾਰ ਕਾਮਣਿ ਕਰਿ ਆਵੈ ॥",
-      "roman": "sahaj sīgār kāmaṇ kar āvai",
+      "roman": "sahaj sīgār kāmaṇ kar āvē",
       "sahib_singh_pa": "ਜੇਹੜੀ ਜੀਵ-ਇਸਤ੍ਰੀ ਅਡੋਲ ਆਤਮਕ ਅਵਸਥਾ ਵਿਚ (ਟਿਕਦੀ ਹੈ, ਤੇ ਇਹ) ਹਾਰ ਸਿੰਗਾਰ ਕਰ ਕੇ (ਪ੍ਰਭੂ-ਪਤੀ ਦੇ ਦਰ ਤੇ) ਆਉਂਦੀ ਹੈ (ਉਹ ਪਤੀ-ਪ੍ਰਭੂ ਨੂੰ ਚੰਗੀ ਲੱਗਦੀ ਹੈ, ਤੇ)",
       "translation_ru": "Та душа-жена, которая пребывает в устойчивом духовном состоянии и украшенная приходит к Господу,"
     },
     {
       "verse_id": 32104,
       "gurmukhi": "ਤਾ ਸੋਹਾਗਣਿ ਜਾ ਕੰਤੈ ਭਾਵੈ ॥੨॥",
-      "roman": "tā sohāgaṇ jā kantai bhāvai",
+      "roman": "tā sohāgaṇ jā kantē bhāvē",
       "sahib_singh_pa": "ਤਦੋਂ ਹੀ ਜੀਵ-ਇਸਤ੍ਰੀ ਭਾਗਾਂ ਵਾਲੀ ਹੈ ਜਦੋਂ ਉਹ ਕੰਤ-ਪ੍ਰਭੂ ਨੂੰ ਪਸੰਦ ਆਉਂਦੀ ਹੈ ॥੨॥",
       "translation_ru": "становится благословенной, если она нравится Господу-супругу."
     },
@@ -207,7 +207,7 @@
     {
       "verse_id": 32108,
       "gurmukhi": "ਕਰਿ ਕਿਰਪਾ ਪ੍ਰਭ ਲਾਵਹੁ ਪਾਈ ॥੪॥",
-      "roman": "kar kirpā prabh lāvahu pāī",
+      "roman": "kar kirpā prabh lāvah pāī",
       "sahib_singh_pa": "(ਤੂੰ ਆਪ ਹੀ) ਮੇਹਰ ਕਰ ਕੇ ਮੈਨੂੰ ਆਪਣੀ ਚਰਨੀਂ ਲਾ ਲੈ ॥੪॥",
       "translation_ru": "Прояви милость и приведи меня к Своим стопам."
     },
@@ -228,7 +228,7 @@
     {
       "verse_id": 32111,
       "gurmukhi": "ਹਉਮੈ ਜਾਈ ਤਾ ਕੰਤ ਸਮਾਈ ॥",
-      "roman": "haumai jāī tā kant samāī",
+      "roman": "haumē jāī tā kant samāī",
       "sahib_singh_pa": "ਹੇ ਕੰਤ ਪ੍ਰਭੂ! ਜਦੋਂ ਹਉਮੈ ਦੂਰ ਹੋਵੇ ਤਦੋਂ ਹੀ (ਤੇਰੇ ਚਰਨਾਂ ਵਿਚ) ਲੀਨਤਾ ਹੋ ਸਕਦੀ ਹੈ।",
       "translation_ru": "О Господь, лишь когда исчезает эго, происходит соединение с Тобой."
     },
@@ -249,21 +249,21 @@
     {
       "verse_id": 32114,
       "gurmukhi": "ਕਰੁ ਗਹਿ ਲੇਹੁ ਪ੍ਰੀਤਮ ਪ੍ਰਭ ਰਾਇਆ ॥੭॥",
-      "roman": "kar gah lehu prītam prabh rāiā",
+      "roman": "kar gah leh prītam prabh rāiā",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ ਰਾਇ! ਹੇ ਪ੍ਰੀਤਮ! ਹੁਣ ਤੂੰ ਮੇਰਾ ਹੱਥ ਫੜ ਲੈ ॥੭॥",
       "translation_ru": "О Господь-царь, о Возлюбленный, возьми меня за руку."
     },
     {
       "verse_id": 32115,
       "gurmukhi": "ਭਣਤਿ ਨਾਨਕੁ ਸਹੁ ਹੈ ਭੀ ਹੋਸੀ ॥",
-      "roman": "bhaṇat nānak sah hai bhī hosī",
+      "roman": "bhaṇat nānak sah hē bhī hosī",
       "sahib_singh_pa": "ਨਾਨਕ ਬੇਨਤੀ ਕਰਦਾ ਹੈ-ਖਸਮ-ਪ੍ਰਭੂ (ਸਚ-ਮੁਚ ਮੌਜੂਦ) ਹੈ, ਸਦਾ ਹੀ ਰਹੇਗਾ।",
       "translation_ru": "Нанак говорит: Господь есть и всегда будет."
     },
     {
       "verse_id": 32116,
       "gurmukhi": "ਜੈ ਭਾਵੈ ਪਿਆਰਾ ਤੈ ਰਾਵੇਸੀ ॥੮॥੧॥",
-      "roman": "jai bhāvai piārā tai rāvesī",
+      "roman": "jē bhāvē piārā tē rāvesī",
       "sahib_singh_pa": "ਜੇਹੜੀ ਜੀਵ-ਇਸਤ੍ਰੀ ਉਸ ਨੂੰ ਭਾਉਂਦੀ ਹੈ ਉਸ ਨੂੰ ਆਪਣੇ ਨਾਲ ਮਿਲਾ ਲੈਂਦਾ ਹੈ ॥੮॥੧॥",
       "translation_ru": "Ту душу, которая Ему угодна, Он соединяет с Собой."
     }

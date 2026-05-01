@@ -39,7 +39,7 @@
     {
       "verse_id": 24718,
       "gurmukhi": "ਮੋਹਿ ਨਿਰਗੁਣ ਗੁਣੁ ਕਿਛੂ ਨ ਜਾਤਾ ॥",
-      "roman": "mohi nirguṇ guṇ kichhū na jātā",
+      "roman": "moh nirguṇ guṇ kichhū na jātā",
       "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ!) ਮੈਂ ਗੁਣ-ਹੀਣ ਹਾਂ, ਮੈਂ ਤੇਰੇ ਗੁਣ (ਉਪਕਾਰ) ਕੁਝ ਭੀ ਨਹੀਂ ਸੀ ਸਮਝ ਸਕਿਆ।",
       "translation_ru": "О Господь! Я лишён достоинств и совсем не мог понять Твои качества и благодеяния."
     },
@@ -95,7 +95,7 @@
     {
       "verse_id": 24726,
       "gurmukhi": "ਨਿਕਟਿ ਵਸੈ ਨਾਹੀ ਪ੍ਰਭੁ ਦੂਰੇ ॥੨॥",
-      "roman": "nikat vasai nāhī prabh dūre",
+      "roman": "nikat vasē nāhī prabh dūre",
       "sahib_singh_pa": "ਉਹ (ਹਰੇਕ ਜੀਵ ਦੇ) ਨੇੜੇ ਵੱਸਦਾ ਹੈ, ਕਿਸੇ ਤੋਂ ਦੂਰ ਨਹੀਂ ਹੈ ॥੨॥",
       "translation_ru": "Он обитает рядом со всеми, ни от кого не далёк."
     },
@@ -179,7 +179,7 @@
     {
       "verse_id": 24738,
       "gurmukhi": "ਚਰਨ ਕਮਲ ਹਿਰਦੈ ਉਰਿ ਧਾਰੇ ॥",
-      "roman": "charan kamal hirdai ur dhāre",
+      "roman": "charan kamal hirdē ur dhāre",
       "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ!) ਤੇਰੇ ਸੋਹਣੇ ਕੋਮਲ ਚਰਨ ਮੈਂ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਟਿਕਾਏ ਹੋਏ ਹਨ,",
       "translation_ru": "О Господь! Твои прекрасные лотосные стопы я утвердил в своём сердце,"
     },
@@ -214,14 +214,14 @@
     {
       "verse_id": 24743,
       "gurmukhi": "ਸਾਧਸੰਗਿ ਹਰਿ ਅੰਮ੍ਰਿਤੁ ਪੀਜੈ ॥",
-      "roman": "sādhsang har amrit pījai",
+      "roman": "sādhsang har amrit pījē",
       "sahib_singh_pa": "ਗੁਰੂ ਦੀ ਸੰਗਤ ਵਿਚ ਹੀ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਹਰਿ-ਨਾਮ ਜਲ ਪੀਣਾ ਚਾਹੀਦਾ ਹੈ,",
       "translation_ru": "В обществе Гуру следует пить нектар Имени, дающего духовную жизнь,"
     },
     {
       "verse_id": 24744,
       "gurmukhi": "ਨਾ ਜੀਉ ਮਰੈ ਨ ਕਬਹੂ ਛੀਜੈ ॥੧॥",
-      "roman": "nā jīu marai na kabhū chhījai",
+      "roman": "nā jīu marē na kabhū chhījē",
       "sahib_singh_pa": "ਜਿਸ ਨਾਲ ਜਿੰਦ ਨਾਂ ਆਤਮਕ ਮੌਤੇ ਮਰਦੀ ਹੈ ਤੇ ਨਾਂ ਕਦੇ ਆਤਮਕ ਜੀਵਨ ਵਿੱਚ ਕਮਜ਼ੋਰੀ ਹੁੰਦੀ ਹੈ ॥੧॥",
       "translation_ru": "тогда душа не умирает духовной смертью и никогда не ослабевает."
     },
@@ -312,7 +312,7 @@
     {
       "verse_id": 24757,
       "gurmukhi": "ਜਿਤੁ ਵੇਲਾ ਵਿਸਰਹਿ ਤਾ ਲਾਗੈ ਹਾਵਾ ॥੧॥",
-      "roman": "jit velā visrah tā lāgai hāvā",
+      "roman": "jit velā visrah tā lāgē hāvā",
       "sahib_singh_pa": "ਜਿਸ ਵੇਲੇ ਤੂੰ (ਮੈਨੂੰ) ਭੁੱਲ ਜਾਂਦਾ ਹੈ ਤਦੋਂ (ਮੈਨੂੰ) ਹਉਕਾ ਲੱਗਦਾ ਹੈ ॥੧॥",
       "translation_ru": "Когда Ты забываешься, возникает страдание."
     },
@@ -354,7 +354,7 @@
     {
       "verse_id": 24763,
       "gurmukhi": "ਬਿਨਉ ਕਰੈ ਨਾਨਕੁ ਕਰ ਜੋਰਿ ॥੪॥੭॥",
-      "roman": "binau karai nānak kar jor",
+      "roman": "binau karē nānak kar jor",
       "sahib_singh_pa": "ਨਾਨਕ (ਤੇਰੇ ਅੱਗੇ) ਹੱਥ ਜੋੜ ਕੇ ਬੇਨਤੀ ਕਰਦਾ ਹੈ ॥੪॥੭॥",
       "translation_ru": "Нанак складывает руки и обращается с просьбой."
     },
@@ -368,14 +368,14 @@
     {
       "verse_id": 24765,
       "gurmukhi": "ਤੂ ਜਾਣਾਇਹਿ ਤਾ ਕੋਈ ਜਾਣੈ ॥",
-      "roman": "tū jāṇāih tā koī jāṇai",
+      "roman": "tū jāṇāih tā koī jāṇē",
       "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ!) ਜਦੋਂ ਕਿਸੇ ਮਨੁੱਖ ਨੂੰ ਤੂੰ ਸੂਝ ਬਖ਼ਸ਼ਦਾ ਹੈਂ, ਤਦੋਂ ਹੀ ਕੋਈ ਤੇਰੇ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਪਾਂਦਾ ਹੈ,",
       "translation_ru": "О Господь! Когда Ты даруешь понимание, тогда человек обретает глубокую связь с Тобой,"
     },
     {
       "verse_id": 24766,
       "gurmukhi": "ਤੇਰਾ ਦੀਆ ਨਾਮੁ ਵਖਾਣੈ ॥੧॥",
-      "roman": "terā dīā nām vakhāṇai",
+      "roman": "terā dīā nām vakhāṇē",
       "sahib_singh_pa": "ਤੇ ਤੇਰਾ ਬਖ਼ਸ਼ਿਆ ਹੋਇਆ ਤੇਰਾ ਨਾਮ ਉਚਾਰਦਾ ਹੈ ॥੧॥",
       "translation_ru": "и произносит Твоё дарованное Имя."
     },

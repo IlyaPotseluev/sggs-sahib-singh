@@ -18,7 +18,7 @@
     {
       "verse_id": 22802,
       "gurmukhi": "ਭਗਤ ਸਚੈ ਦਰਿ ਸੋਹਦੇ ਸਚੈ ਸਬਦਿ ਰਹਾਏ ॥",
-      "roman": "bhagat sachai dar sohadē sachai sabad rahāe",
+      "roman": "bhagat sachē dar sohadē sachē sabad rahāe",
       "sahib_singh_pa": "ਬੰਦਗੀ ਕਰਨ ਵਾਲੇ ਸੱਚੇ ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਸੋਭਦੇ ਹਨ, (ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਉਹ) ਸੱਚੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ਟਿਕੇ ਰਹਿੰਦੇ ਹਨ,",
       "translation_ru": "Преданные сияют в присутствии истинного Бога, пребывая через истинное Слово,"
     },
@@ -39,14 +39,14 @@
     {
       "verse_id": 22805,
       "gurmukhi": "ਸਫਲੁ ਜਨਮੁ ਜਿਨੑੀ ਗੁਰਮੁਖਿ ਜਾਤਾ ਹਰਿ ਜੀਉ ਰਿਦੈ ਵਸਾਏ ॥",
-      "roman": "safal janam jinhī gurmukh jātā har jīu ridai vasāe",
+      "roman": "safal janam jinhī gurmukh jātā har jīu ridē vasāe",
       "sahib_singh_pa": "ਜਿਨ੍ਹਾਂ ਨੇ ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਹੋ ਕੇ ਰੱਬ ਨੂੰ ਪਛਾਣਿਆ ਹੈ ਤੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾਇਆ ਹੈ ਉਹਨਾਂ ਦਾ ਜੰਮਣਾ ਮੁਬਾਰਿਕ ਹੈ।",
       "translation_ru": "Те, кто, став гурмукхами, познали Бога и поселили Его в сердце, их рождение благословенно."
     },
     {
       "verse_id": 22806,
       "gurmukhi": "ਬਾਝੁ ਗੁਰੂ ਫਿਰੈ ਬਿਲਲਾਦੀ ਦੂਜੈ ਭਾਇ ਖੁਆਏ ॥੧੧॥",
-      "roman": "bājh gurū firai billādī dūjai bhāe khuāe",
+      "roman": "bājh gurū firē billādī dūjē bhāe khuāe",
       "sahib_singh_pa": "ਗੁਰੂ ਤੋਂ ਬਿਨਾ ਸ੍ਰਿਸ਼ਟੀ ਹੋਰ ਹੋਰ ਪਿਆਰ ਵਿਚ ਖੁੰਝੀ ਹੋਈ ਵਿਲਕਦੀ ਫਿਰਦੀ ਹੈ ॥੧੧॥",
       "translation_ru": "Без Гуру люди блуждают в страдании, потерянные в двойственности."
     },
@@ -74,7 +74,7 @@
     {
       "verse_id": 22810,
       "gurmukhi": "ਵਿਚੇ ਗ੍ਰਿਹ ਗੁਰ ਬਚਨਿ ਉਦਾਸੀ ਹਉਮੈ ਮੋਹੁ ਜਲਾਇਆ ॥",
-      "roman": "viche grih gur bachan udāsī haumai moh jalāiā",
+      "roman": "viche grih gur bachan udāsī haumē moh jalāiā",
       "sahib_singh_pa": "ਸਤਿਗੁਰੂ ਦੇ ਬਚਨ ਵਿਚ (ਤੁਰ ਕੇ) ਉਹ ਗ੍ਰਿਹਸਤ ਵਿਚ ਹੀ ਉਦਾਸੀ ਹੈ (ਕਿਉਂਕਿ) ਉਸ ਨੇ ਹਉਮੈ ਤੇ ਮੋਹ ਸਾੜ ਦਿੱਤਾ ਹੈ,",
       "translation_ru": "следуя слову Сатгуру, он остаётся отрешённым, живя в доме, ибо сжёг эго и привязанность,"
     },
@@ -109,21 +109,21 @@
     {
       "verse_id": 22815,
       "gurmukhi": "ਤ੍ਰੈ ਗੁਣ ਮਾਇਆ ਵੇਖਿ ਭੁਲੇ ਜਿਉ ਦੇਖਿ ਦੀਪਕਿ ਪਤੰਗ ਪਚਾਇਆ ॥",
-      "roman": "trai guṇ māiā vekh bhule jio dekh dīpak patang pachāiā",
+      "roman": "trē guṇ māiā vekh bhule jio dekh dīpak patang pachāiā",
       "sahib_singh_pa": "ਸਾਰੇ ਜੀਵ ਤ੍ਰੈਗੁਣੀ ਮਾਇਆ ਨੂੰ ਵੇਖ ਕੇ (ਜੀਵਨ ਦੇ ਸਹੀ ਰਸਤੇ ਤੋਂ) ਖੁੰਝ ਰਹੇ ਹਨ ਜਿਵੇਂ ਭੰਬਟ (ਦੀਵੇ ਨੂੰ) ਵੇਖ ਕੇ ਦੀਵੇ ਉਤੇ ਸੜਦੇ ਹਨ;",
       "translation_ru": "Все существа, видя трёхгунную майю, сбиваются с пути, как мотыльки, которые, увидев лампу, сгорают в ней;"
     },
     {
       "verse_id": 22816,
       "gurmukhi": "ਪੰਡਿਤ ਭੁਲਿ ਭੁਲਿ ਮਾਇਆ ਵੇਖਹਿ ਦਿਖਾ ਕਿਨੈ ਕਿਹੁ ਆਣਿ ਚੜਾਇਆ ॥",
-      "roman": "pandit bhul bhul māiā vekhe dikhā kinai kih ān chaṛāiā",
+      "roman": "pandit bhul bhul māiā vekhe dikhā kinē kih ān chaṛāiā",
       "sahib_singh_pa": "ਪੰਡਤ (ਕਥਾ ਸੁਣਾਂਦੇ) ਮੁੜ ਮੁੜ ਖੁੰਝ ਕੇ ਮਾਇਆ ਵਲ ਹੀ ਤੱਕਦੇ ਹਨ ਕਿ ਵੇਖੀਏ ਕਿਸੇ ਨੇ ਕੁਝ ਲਿਆ ਕੇ ਭੇਟਾ ਰੱਖੀ ਹੈ (ਜਾਂ ਨਹੀਂ),",
       "translation_ru": "пандиты, снова и снова сбиваясь, смотрят лишь на майю, наблюдая, принёс ли кто-либо подношение или нет,"
     },
     {
       "verse_id": 22817,
       "gurmukhi": "ਦੂਜੈ ਭਾਇ ਪੜਹਿ ਨਿਤ ਬਿਖਿਆ ਨਾਵਹੁ ਦਯਿ ਖੁਆਇਆ ॥",
-      "roman": "dūjai bhāe paṛeh nit bikhīā nāvahu dai khuāiā",
+      "roman": "dūjē bhāe paṛeh nit bikhīā nāvah dē khuāiā",
       "sahib_singh_pa": "ਸੋ ਮਾਇਆ ਦੇ ਪਿਆਰ ਵਿਚ ਉਹ (ਅਸਲ ਵਿਚ) ਸਦਾ ਮਾਇਆ (ਦੀ ਸੰਥਾ ਹੀ) ਪੜ੍ਹਦੇ ਹਨ, ਪਰਮਾਤਮਾ ਨੇ ਉਹਨਾਂ ਨੂੰ (ਆਪਣੇ) ਨਾਮ ਵਲੋਂ ਖੁੰਝਾ ਦਿੱਤਾ ਹੈ।",
       "translation_ru": "в любви к майе они на самом деле постоянно изучают лишь её, и Бог лишил их связи со Своим Именем."
     },
@@ -137,14 +137,14 @@
     {
       "verse_id": 22819,
       "gurmukhi": "ਛਾਦਨੁ ਭੋਜਨੁ ਨ ਲੈਹੀ ਸਤ ਭਿਖਿਆ ਮਨਹਠਿ ਜਨਮੁ ਗਵਾਇਆ ॥",
-      "roman": "chhādan bhojan na laih sat bhikhīā manhaṭh janam gavāiā",
+      "roman": "chhādan bhojan na lēh sat bhikhīā manhaṭh janam gavāiā",
       "sahib_singh_pa": "(ਗ੍ਰਿਹਸਤੀਆਂ ਪਾਸੋਂ) ਆਦਰ ਸਰਧਾ ਨਾਲ ਮਿਲਿਆ ਕੱਪੜਾ ਤੇ ਭੋਜਨ-ਰੂਪ ਭਿੱਛਿਆ ਨਹੀਂ ਲੈਂਦੇ (ਭਾਵ, ਥੋੜੀ ਚੀਜ਼ ਮਿਲਣ ਤੇ ਉਹਨਾਂ ਨੂੰ ਘੂਰਦੇ ਹਨ) ਤੇ ਇਸ ਤਰ੍ਹਾਂ ਮਨ ਦੇ ਹਠ ਨਾਲ ਆਪਣੀ ਜ਼ਿੰਦਗੀ ਅਜਾਈਂ ਗਵਾ ਲੈਂਦੇ ਹਨ।",
       "translation_ru": "они не принимают с уважением одежду и пищу, полученные как милостыню, и таким образом, из-за упрямства ума, растрачивают свою жизнь впустую."
     },
     {
       "verse_id": 22820,
       "gurmukhi": "ਏਤੜਿਆ ਵਿਚਹੁ ਸੋ ਜਨੁ ਸਮਧਾ ਜਿਨਿ ਗੁਰਮੁਖਿ ਨਾਮੁ ਧਿਆਇਆ ॥",
-      "roman": "etṛiā vichahu so jan samadhā jin gurmukh nām dhiāiā",
+      "roman": "etṛiā vichah so jan samadhā jin gurmukh nām dhiāiā",
       "sahib_singh_pa": "ਇਹਨਾਂ ਸਾਰਿਆਂ ਵਿਚੋਂ ਉਹ ਮਨੁੱਖ ਪੂਰਨ ਅਵਸਥਾ ਵਾਲਾ ਹੈ ਜਿਸ ਨੇ ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਹੋ ਕੇ ਨਾਮ ਸਿਮਰਿਆ ਹੈ।",
       "translation_ru": "из всех этих лишь тот человек совершенен, кто, став лицом к Гуру, размышляет над Именем."
     },
@@ -165,14 +165,14 @@
     {
       "verse_id": 22823,
       "gurmukhi": "ਮਾਇਆ ਮੋਹੁ ਪਰੇਤੁ ਹੈ ਕਾਮੁ ਕ੍ਰੋਧੁ ਅਹੰਕਾਰਾ ॥",
-      "roman": "māiā moh paret hai kām krodh ahankārā",
+      "roman": "māiā moh paret hē kām krodh ahankārā",
       "sahib_singh_pa": "ਮਾਇਆ ਦਾ ਮੋਹ, ਕਾਮ, ਕ੍ਰੋਧ ਤੇ ਅਹੰਕਾਰ ਸਭ ਇਕ ਤਰ੍ਹਾਂ ਦੇ ਭੂਤ ਹਨ;",
       "translation_ru": "Привязанность к майе, похоть, гнев и эго — всё это подобно духам;"
     },
     {
       "verse_id": 22824,
       "gurmukhi": "ਏਹ ਜਮ ਕੀ ਸਿਰਕਾਰ ਹੈ ਏਨੑਾ ਉਪਰਿ ਜਮ ਕਾ ਡੰਡੁ ਕਰਾਰਾ ॥",
-      "roman": "eh jam kī sarkār hai enhā upar jam kā dand karārā",
+      "roman": "eh jam kī sarkār hē enhā upar jam kā dand karārā",
       "sahib_singh_pa": "ਇਹ ਸਾਰੇ ਜਮਰਾਜ ਦੀ ਰਈਅਤ ਹਨ, ਇਹਨਾਂ ਉੱਤੇ ਜਮਰਾਜ ਦਾ ਜ਼ੋਰ ਚੱਲਦਾ ਹੈ।",
       "translation_ru": "всё это — подданные Ямы, и над ними действует его суровое наказание."
     },
@@ -186,14 +186,14 @@
     {
       "verse_id": 22826,
       "gurmukhi": "ਜਮ ਪੁਰਿ ਬਧੇ ਮਾਰੀਅਨਿ ਕੋ ਸੁਣੈ ਨ ਪੂਕਾਰਾ ॥",
-      "roman": "jam pur badhe mārīan ko suṇai na pūkārā",
+      "roman": "jam pur badhe mārīan ko suṇē na pūkārā",
       "sahib_singh_pa": "ਉਹ ਮਨਮੁਖ ਜਮ-ਪੁਰੀ ਵਿਚ ਬੱਝੇ ਹੋਏ ਮਾਰੀਦੇ ਹਨ ਤੇ ਕੋਈ ਉਹਨਾਂ ਦੀ ਪੁਕਾਰ ਨਹੀਂ ਸੁਣਦਾ (ਭਾਵ, ਇਹਨਾਂ ਕਾਮਾਦਿਕਾਂ ਦੇ ਪੰਜੇ ਤੋਂ ਕੋਈ ਉਹਨਾਂ ਨੂੰ ਛੁਡਾ ਨਹੀਂ ਸਕਦਾ)।",
       "translation_ru": "они связаны и страдают в мире Ямы, и никто не слышит их крика."
     },
     {
       "verse_id": 22827,
       "gurmukhi": "ਜਿਸ ਨੋ ਕ੍ਰਿਪਾ ਕਰੇ ਤਿਸੁ ਗੁਰੁ ਮਿਲੈ ਗੁਰਮੁਖਿ ਨਿਸਤਾਰਾ ॥੧੨॥",
-      "roman": "jis no kirpā kare tis gur milai gurmukh nistārā",
+      "roman": "jis no kirpā kare tis gur milē gurmukh nistārā",
       "sahib_singh_pa": "ਜਿਸ ਮਨੁੱਖ ਤੇ ਪ੍ਰਭੂ ਆਪ ਮਿਹਰ ਕਰੇ ਉਸ ਨੂੰ ਗੁਰੂ ਮਿਲਦਾ ਹੈ, ਗੁਰੂ ਦੀ ਰਾਹੀਂ (ਇਹਨਾਂ ਭੂਤਾਂ ਤੋਂ) ਛੁਟਕਾਰਾ ਹੁੰਦਾ ਹੈ ॥੧੨॥",
       "translation_ru": "кому Бог проявляет милость, тот встречает Гуру и через него освобождается."
     },
@@ -207,35 +207,35 @@
     {
       "verse_id": 22829,
       "gurmukhi": "ਹਉਮੈ ਮਮਤਾ ਮੋਹਣੀ ਮਨਮੁਖਾ ਨੋ ਗਈ ਖਾਇ ॥",
-      "roman": "haumai mamtā mohaṇī manmukhā no gaī khāi",
+      "roman": "haumē mamtā mohaṇī manmukhā no gaī khāi",
       "sahib_singh_pa": "ਹਉਮੈ ਤੇ ਅਪਣੱਤ (ਸਰੂਪ ਵਾਲੀ ਮਾਇਆ, ਮਾਨੋ) ਚੁੜੇਲ ਹੈ ਜੋ ਆਪ-ਹੁਦਰਿਆਂ ਨੂੰ ਹੜੱਪ ਕਰ ਜਾਂਦੀ ਹੈ,",
       "translation_ru": "Эго и привязанность, словно ведьма, поглощают тех, кто следует своему уму,"
     },
     {
       "verse_id": 22830,
       "gurmukhi": "ਜੋ ਮੋਹਿ ਦੂਜੈ ਚਿਤੁ ਲਾਇਦੇ ਤਿਨਾ ਵਿਆਪਿ ਰਹੀ ਲਪਟਾਇ ॥",
-      "roman": "jo moh dūjai chit lāide tinā viāp rahī lapaṭāi",
+      "roman": "jo moh dūjē chit lāide tinā viāp rahī lapaṭāi",
       "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ (ਰੱਬ ਨੂੰ ਛੱਡ ਕਿਸੇ) ਹੋਰ ਦੇ ਮੋਹ ਵਿਚ ਚਿੱਤ ਜੋੜਦੇ ਹਨ ਉਹਨਾਂ ਨੂੰ ਚੰਬੜ ਕੇ ਆਪਣੇ ਵੱਸ ਵਿਚ ਕਰ ਲੈਂਦੀ ਹੈ।",
       "translation_ru": "те, кто привязывают сознание к иному, она охватывает и подчиняет их себе."
     },
     {
       "verse_id": 22831,
       "gurmukhi": "ਗੁਰ ਕੈ ਸਬਦਿ ਪਰਜਾਲੀਐ ਤਾ ਏਹ ਵਿਚਹੁ ਜਾਇ ॥",
-      "roman": "gur kai sabad parjālīai tā eh vichahu jāi",
+      "roman": "gur kē sabad parjālīē tā eh vichah jāi",
       "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਨਾਲ ਇਸ ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸਾੜੀਏ ਤਾਂ ਇਹ ਅੰਦਰੋਂ ਨਿਕਲਦੀ ਹੈ;",
       "translation_ru": "если сжечь её словом Гуру, она уходит изнутри;"
     },
     {
       "verse_id": 22832,
       "gurmukhi": "ਤਨੁ ਮਨੁ ਹੋਵੈ ਉਜਲਾ ਨਾਮੁ ਵਸੈ ਮਨਿ ਆਇ ॥",
-      "roman": "tan man hovai ujlā nām vasai man āi",
+      "roman": "tan man hovē ujlā nām vasē man āi",
       "sahib_singh_pa": "ਤਾਂ ਸਰੀਰ ਤੇ ਮਨ ਸੁਅੱਛ ਹੋ ਜਾਂਦਾ ਹੈ; ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਮਨ ਵਿਚ ਆ ਵੱਸਦਾ ਹੈ।",
       "translation_ru": "тогда тело и ум становятся чистыми, и Имя поселяется в сердце."
     },
     {
       "verse_id": 22833,
       "gurmukhi": "ਨਾਨਕ ਮਾਇਆ ਕਾ ਮਾਰਣੁ ਹਰਿ ਨਾਮੁ ਹੈ ਗੁਰਮੁਖਿ ਪਾਇਆ ਜਾਇ ॥੧॥",
-      "roman": "nānak māiā kā māraṇ har nām hai gurmukh pāiā jāi",
+      "roman": "nānak māiā kā māraṇ har nām hē gurmukh pāiā jāi",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਇਸ ਮਾਇਆ (ਸੰਖੀਏ ਨੂੰ ਕੁਸ਼ਤਾ ਕਰਨ) ਦੀ ਬੂਟੀ ਇੱਕ ਹਰਿ-ਨਾਮ ਹੀ ਹੈ ਜੋ ਗੁਰੂ ਤੋਂ ਹੀ ਮਿਲ ਸਕਦਾ ਹੈ ॥੧॥",
       "translation_ru": "О Нанак! Единственное средство уничтожить майю — это Имя Господа, которое обретается через Гуру."
     },
@@ -249,7 +249,7 @@
     {
       "verse_id": 22835,
       "gurmukhi": "ਇਹੁ ਮਨੁ ਕੇਤੜਿਆ ਜੁਗ ਭਰਮਿਆ ਥਿਰੁ ਰਹੈ ਨ ਆਵੈ ਜਾਇ ॥",
-      "roman": "ihu man ketṛiā jug bharmiā thir rahai na āvai jāi",
+      "roman": "ihu man ketṛiā jug bharmiā thir rahē na āvē jāi",
       "sahib_singh_pa": "(ਮਨੁੱਖ ਦਾ) ਇਹ ਮਨ ਕਈ ਜੁਗ ਭਟਕਦਾ ਰਹਿੰਦਾ ਹੈ (ਪਰਮਾਤਮਾ ਵਿਚ) ਟਿਕਦਾ ਨਹੀਂ ਤੇ ਜੰਮਦਾ ਮਰਦਾ ਰਹਿੰਦਾ ਹੈ;",
       "translation_ru": "Этот ум блуждает многие эпохи, не остаётся устойчивым и проходит через рождение и смерть,"
     },
@@ -263,7 +263,7 @@
     {
       "verse_id": 22837,
       "gurmukhi": "ਜਾ ਹਰਿ ਬਖਸੇ ਤਾ ਗੁਰ ਮਿਲੈ ਅਸਥਿਰੁ ਰਹੈ ਸਮਾਇ ॥",
-      "roman": "jā har bakhse tā gur milai asthir rahai samāi",
+      "roman": "jā har bakhse tā gur milē asthir rahē samāi",
       "sahib_singh_pa": "ਜਦੋਂ ਪ੍ਰਭੂ (ਆਪ) ਮਿਹਰ ਕਰਦਾ ਹੈ ਤਾਂ (ਜੀਵ ਨੂੰ) ਗੁਰੂ ਮਿਲਦਾ ਹੈ, (ਫਿਰ) ਇਹ (ਪ੍ਰਭੂ ਵਿਚ) ਜੁੜ ਕੇ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ;",
       "translation_ru": "когда Бог дарует милость, человек встречает Гуру и, соединяясь с Ним, становится устойчивым,"
     }

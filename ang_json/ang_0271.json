@@ -18,7 +18,7 @@
     {
       "verse_id": 11996,
       "gurmukhi": "ਪ੍ਰਭ ਸੁਪ੍ਰਸੰਨ ਬਸੈ ਮਨਿ ਸੋਇ ॥",
-      "roman": "prabh suprasaṃn basai man soi",
+      "roman": "prabh suprasaṃn basē man soi",
       "sahib_singh_pa": "ਉਹ ਪ੍ਰਭੂ (ਉਸ ਮਨੁੱਖ ਦੇ) ਮਨ ਵਿਚ ਵੱਸਦਾ ਹੈ ਜਿਸ ਉਤੇ ਉਹ ਤ੍ਰੁੱਠਦਾ ਹੈ,",
       "translation_ru": "Тот Прабху обитает в уме того человека, кем Он доволен,"
     },
@@ -39,21 +39,21 @@
     {
       "verse_id": 11999,
       "gurmukhi": "ਆਪਹੁ ਕਛੂ ਨ ਕਿਨਹੂ ਲਇਆ ॥",
-      "roman": "āpahu kachhū na kinhū laiā",
+      "roman": "āpah kachhū na kinhū laiā",
       "sahib_singh_pa": "ਆਪਣੇ ਜਤਨ ਨਾਲ ਕਿਸੇ ਨੇ ਭੀ ਕੁਝ ਨਹੀਂ ਲੱਭਾ (ਭਾਵ, ਜੀਵ ਦਾ ਉੱਦਮ ਤਦੋਂ ਹੀ ਸਫਲ ਹੁੰਦਾ ਹੈ ਜਦੋਂ ਤੂੰ ਸਵੱਲੀ ਨਜ਼ਰ ਕਰਦਾ ਹੈਂ)।",
       "translation_ru": "сам по себе никто ничего не обрёл; усилие живого становится успешным лишь тогда, когда Ты смотришь благосклонно."
     },
     {
       "verse_id": 12000,
       "gurmukhi": "ਜਿਤੁ ਜਿਤੁ ਲਾਵਹੁ ਤਿਤੁ ਲਗਹਿ ਹਰਿ ਨਾਥ ॥",
-      "roman": "jit jit lāvahu tit lagahi har nāth",
+      "roman": "jit jit lāvah tit lagah har nāth",
       "sahib_singh_pa": "ਹੇ ਹਰੀ! ਹੇ ਨਾਥ! ਜਿਧਰ ਤੂੰ ਲਾਉਂਦਾ ਹੈਂ ਉਧਰ ਇਹ ਜੀਵ ਲੱਗਦੇ ਹਨ।",
       "translation_ru": "О Хари! о Натх! куда Ты направляешь, туда эти существа и обращаются."
     },
     {
       "verse_id": 12001,
       "gurmukhi": "ਨਾਨਕ ਇਨ ਕੈ ਕਛੂ ਨ ਹਾਥ ॥੮॥੬॥",
-      "roman": "Nānak in kai kachhū na hāth.8.6.",
+      "roman": "Nānak in kē kachhū na hāth.8.6.",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਇਹਨਾਂ ਜੀਵਾਂ ਦੇ ਵੱਸ ਕੁਝ ਨਹੀਂ ॥੮॥੬॥",
       "translation_ru": "О Нанак! в руках этих существ ничего нет. ॥8॥6॥"
     },
@@ -74,7 +74,7 @@
     {
       "verse_id": 12004,
       "gurmukhi": "ਜੋ ਜੋ ਕਹੈ ਸੁ ਮੁਕਤਾ ਹੋਇ ॥",
-      "roman": "jo jo kahai su muktā hoi",
+      "roman": "jo jo kahē su muktā hoi",
       "sahib_singh_pa": "ਜੋ ਜੋ (ਮਨੁੱਖ ਉਸ ਨੂੰ) ਸਿਮਰਦਾ ਹੈ ਉਹ (ਵਿਕਾਰਾਂ ਦੇ ਜਾਲ ਤੋਂ) ਖ਼ਲਾਸੀ ਪਾ ਲੈਂਦਾ ਹੈ।",
       "translation_ru": "Кто бы ни помнил Его, тот освобождается."
     },
@@ -95,7 +95,7 @@
     {
       "verse_id": 12007,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਮੁਖ ਊਜਲ ਹੋਤ ॥",
-      "roman": "sādh kai sang mukh ūjal hot",
+      "roman": "sādh kē sang mukh ūjal hot",
       "sahib_singh_pa": "ਗੁਰਮੁਖਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਿਹਾਂ ਮੂੰਹ ਉਜਲੇ ਹੁੰਦੇ ਹਨ (ਭਾਵ, ਇੱਜ਼ਤ ਬਣ ਆਉਂਦੀ ਹੈ)",
       "translation_ru": "В общении с гурмукхами лицо становится светлым, то есть приходит честь."
     },
@@ -109,21 +109,21 @@
     {
       "verse_id": 12009,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਮਿਟੈ ਅਭਿਮਾਨੁ ॥",
-      "roman": "sādh kai sang miṭai abhimān",
+      "roman": "sādh kē sang miṭē abhimān",
       "sahib_singh_pa": "ਸਾਧੂਆਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਅਹੰਕਾਰ ਦੂਰ ਹੁੰਦਾ ਹੈ,",
       "translation_ru": "В обществе святых уходит гордыня,"
     },
     {
       "verse_id": 12010,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਪ੍ਰਗਟੈ ਸੁਗਿਆਨੁ ॥",
-      "roman": "sādh kai sang pragaṭai sugiān",
+      "roman": "sādh kē sang pragaṭē sugiān",
       "sahib_singh_pa": "ਅਤੇ ਸ੍ਰੇਸ਼ਟ ਗਿਆਨ ਪਰਗਟ ਹੁੰਦਾ ਹੈ (ਭਾਵ, ਚੰਗੀ ਮਤਿ ਆਉਂਦੀ ਹੈ)।",
       "translation_ru": "и раскрывается высшее знание, то есть приходит добрая мудрость."
     },
     {
       "verse_id": 12011,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਬੁਝੈ ਪ੍ਰਭੁ ਨੇਰਾ ॥",
-      "roman": "sādh kai sang bujhai prabh nerā",
+      "roman": "sādh kē sang bujhē prabh nerā",
       "sahib_singh_pa": "ਸੰਤਾਂ ਦੀ ਸੰਗਤ ਵਿਚ ਪ੍ਰਭੂ ਅੰਗ-ਸੰਗ ਵੱਸਦਾ ਜਾਪਦਾ ਹੈ,",
       "translation_ru": "В обществе святых Господь ощущается как пребывающий рядом,"
     },
@@ -137,21 +137,21 @@
     {
       "verse_id": 12013,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਪਾਏ ਨਾਮ ਰਤਨੁ ॥",
-      "roman": "sādh kai sang pāe nām ratan",
+      "roman": "sādh kē sang pāe nām ratan",
       "sahib_singh_pa": "ਗੁਰਮੁਖਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਮਨੁੱਖ ਨਾਮ-ਰੂਪ ਰਤਨ ਲੱਭ ਲੈਂਦਾ ਹੈ,",
       "translation_ru": "В обществе гурмукхов человек обретает драгоценность Имени,"
     },
     {
       "verse_id": 12014,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਏਕ ਊਪਰਿ ਜਤਨੁ ॥",
-      "roman": "sādh kai sang ek ūpar jatan",
+      "roman": "sādh kē sang ek ūpar jatan",
       "sahib_singh_pa": "ਤੇ, ਇੱਕ ਪ੍ਰਭੂ ਨੂੰ ਮਿਲਣ ਦਾ ਜਤਨ ਕਰਦਾ ਹੈ।",
       "translation_ru": "и старается встретиться с Единым Господом."
     },
     {
       "verse_id": 12015,
       "gurmukhi": "ਸਾਧ ਕੀ ਮਹਿਮਾ ਬਰਨੈ ਕਉਨੁ ਪ੍ਰਾਨੀ ॥",
-      "roman": "sādh kī mahimā barnai kaun prānī",
+      "roman": "sādh kī mahimā barnē kaun prānī",
       "sahib_singh_pa": "ਸਾਧੂਆਂ ਦੀ ਵਡਿਆਈ ਕਿਹੜਾ ਮਨੁੱਖ ਬਿਆਨ ਕਰ ਸਕਦਾ ਹੈ?",
       "translation_ru": "Какой человек способен описать величие святых?"
     },
@@ -165,21 +165,21 @@
     {
       "verse_id": 12017,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਅਗੋਚਰੁ ਮਿਲੈ ॥",
-      "roman": "sādh kai sang agochar milai",
+      "roman": "sādh kē sang agochar milē",
       "sahib_singh_pa": "ਗੁਰਮੁਖਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ (ਮਨੁੱਖ ਨੂੰ) ਉਹ ਪ੍ਰਭੂ ਮਿਲ ਪੈਂਦਾ ਹੈ ਜੋ ਸਰੀਰਕ ਇੰਦ੍ਰਿਆਂ ਦੀ ਪਹੁੰਚ ਤੋਂ ਪਰੇ ਹੈ;",
       "translation_ru": "В обществе гурмукхов обретается тот Господь, Который вне досягаемости телесных чувств,"
     },
     {
       "verse_id": 12018,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਸਦਾ ਪਰਫੁਲੈ ॥",
-      "roman": "sādh kai sang sadā parfulai",
+      "roman": "sādh kē sang sadā parfulē",
       "sahib_singh_pa": "ਅਤੇ ਮਨੁੱਖ ਸਦਾ ਖਿੜੇ ਮੱਥੇ ਰਹਿੰਦਾ ਹੈ।",
       "translation_ru": "и человек всегда остаётся с цветущим сердцем."
     },
     {
       "verse_id": 12019,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਆਵਹਿ ਬਸਿ ਪੰਚਾ ॥",
-      "roman": "sādh kai sang āvahi bas panchā",
+      "roman": "sādh kē sang āvah bas panchā",
       "sahib_singh_pa": "ਸਾਧ ਜਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਿਹਾਂ ਕਾਮਾਦਿਕ ਪੰਜ ਵਿਕਾਰ ਕਾਬੂ ਵਿਚ ਆ ਜਾਂਦੇ ਹਨ,",
       "translation_ru": "В обществе святых пять пороков, начиная с похоти, приходят под контроль,"
     },
@@ -200,28 +200,28 @@
     {
       "verse_id": 12022,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਮਨੋਹਰ ਬੈਨ ॥",
-      "roman": "sādh kai sang manohar bain",
+      "roman": "sādh kē sang manohar bēn",
       "sahib_singh_pa": "ਅਤੇ (ਸਭ ਨਾਲ) ਮਿੱਠੇ ਬਚਨ ਬੋਲਦਾ ਹੈ।",
       "translation_ru": "и говорит со всеми сладостные слова."
     },
     {
       "verse_id": 12023,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਨ ਕਤਹੂੰ ਧਾਵੈ ॥",
-      "roman": "sādh kai sang na katahū̃ dhāvai",
+      "roman": "sādh kē sang na katahū̃ dhāvē",
       "sahib_singh_pa": "ਸੰਤ ਜਨਾਂ ਦੇ ਸੰਗ ਰਿਹਾਂ (ਮਨੁੱਖ ਦਾ) ਮਨ ਕਿਸੇ ਪਾਸੇ ਨਹੀਂ ਦੌੜਦਾ ਹੈ,",
       "translation_ru": "Живя рядом со святыми, ум никуда не мечется,"
     },
     {
       "verse_id": 12024,
       "gurmukhi": "ਸਾਧਸੰਗਿ ਅਸਥਿਤਿ ਮਨੁ ਪਾਵੈ ॥",
-      "roman": "sādhsang asthit man pāvai",
+      "roman": "sādhsang asthit man pāvē",
       "sahib_singh_pa": "ਅਤੇ (ਪ੍ਰਭੂ ਦੇ ਚਰਨਾਂ ਵਿਚ) ਟਿਕਾਉ ਹਾਸਲ ਕਰ ਲੈਂਦਾ ਹੈ।",
       "translation_ru": "и достигает устойчивости в стопах Господа."
     },
     {
       "verse_id": 12025,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਮਾਇਆ ਤੇ ਭਿੰਨ ॥",
-      "roman": "sādh kai sang māiā te bhinn",
+      "roman": "sādh kē sang māiā te bhinn",
       "sahib_singh_pa": "ਗੁਰਮੁਖਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਟਿਕਿਆਂ (ਮਨੁੱਖ) ਮਾਇਆ (ਦੇ ਅਸਰ) ਤੋਂ ਬੇ-ਦਾਗ਼ ਰਹਿੰਦਾ ਹੈ",
       "translation_ru": "Утвердившись в обществе гурмукхов, человек остаётся незапятнанным влиянием майи,"
     },
@@ -242,28 +242,28 @@
     {
       "verse_id": 12028,
       "gurmukhi": "ਸਾਧੂ ਕੈ ਸੰਗਿ ਮਹਾ ਪੁਨੀਤ ॥",
-      "roman": "sādhū kai sang mahā punīt",
+      "roman": "sādhū kē sang mahā punīt",
       "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਸਾਧ ਜਨਾਂ ਦੀ ਸੰਗਤ ਵਿਚ (ਮਨੁੱਖ ਦਾ ਆਪਣਾ ਹਿਰਦਾ) ਬਹੁਤ ਸਾਫ਼ ਹੋ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "потому что в обществе святых собственное сердце человека становится очень чистым."
     },
     {
       "verse_id": 12029,
       "gurmukhi": "ਸਾਧਸੰਗਿ ਕਿਸ ਸਿਉ ਨਹੀ ਬੈਰੁ ॥",
-      "roman": "sādhsang kis siu nahī bair",
+      "roman": "sādhsang kis siu nahī bēr",
       "sahib_singh_pa": "ਸੰਤਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਬੈਠਿਆਂ ਕਿਸੇ ਨਾਲ ਵੈਰ ਨਹੀਂ ਰਹਿ ਜਾਂਦਾ,",
       "translation_ru": "Сидя в обществе святых, человек уже ни с кем не враждует,"
     },
     {
       "verse_id": 12030,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਨ ਬੀਗਾ ਪੈਰੁ ॥",
-      "roman": "sādh kai sang na bīgā pair",
+      "roman": "sādh kē sang na bīgā pēr",
       "sahib_singh_pa": "ਅਤੇ ਕਿਸੇ ਮੰਦੇ ਪਾਸੇ ਪੈਰ ਨਹੀਂ ਪੁੱਟੀਦਾ।",
       "translation_ru": "и не ступает на дурной путь."
     },
     {
       "verse_id": 12031,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਨਾਹੀ ਕੋ ਮੰਦਾ ॥",
-      "roman": "sādh kai sang nāhī ko mandā",
+      "roman": "sādh kē sang nāhī ko mandā",
       "sahib_singh_pa": "ਭਲਿਆਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਕੋਈ ਮਨੁੱਖ ਭੈੜਾ ਨਹੀਂ ਦਿੱਸਦਾ,",
       "translation_ru": "В обществе благих никто не кажется дурным,"
     },
@@ -277,21 +277,21 @@
     {
       "verse_id": 12033,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਨਾਹੀ ਹਉ ਤਾਪੁ ॥",
-      "roman": "sādh kai sang nāhī hau tāp",
+      "roman": "sādh kē sang nāhī hau tāp",
       "sahib_singh_pa": "ਸਾਧੂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਮਨੁੱਖ ਸਾਰੀ ਅਪਣੱਤ ਛੱਡ ਦੇਂਦਾ ਹੈ।",
       "translation_ru": "В обществе святого человек избавляется от жара Хоумэ."
     },
     {
       "verse_id": 12034,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਤਜੈ ਸਭੁ ਆਪੁ ॥",
-      "roman": "sādh kai sang tajai sabh āp",
+      "roman": "sādh kē sang tajē sabh āp",
       "sahib_singh_pa": "ਗੁਰਮੁਖ ਦੀ ਸੰਗਤਿ ਕੀਤਿਆਂ ਹਉਮੈ ਰੂਪ ਤਾਪ ਨਹੀਂ ਰਹਿ ਜਾਂਦਾ।",
       "translation_ru": "В общении с гурмукхом он оставляет всё самоутверждение."
     },
     {
       "verse_id": 12035,
       "gurmukhi": "ਆਪੇ ਜਾਨੈ ਸਾਧ ਬਡਾਈ ॥",
-      "roman": "āpe jānai sādh baḍāī",
+      "roman": "āpe jānē sādh baḍāī",
       "sahib_singh_pa": "ਸਾਧ ਦੀ ਵਡਿਆਈ ਪ੍ਰਭੂ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈ,",
       "translation_ru": "Величие святого знает только Сам Господь,"
     },
@@ -305,98 +305,98 @@
     {
       "verse_id": 12037,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਨ ਕਬਹੂ ਧਾਵੈ ॥",
-      "roman": "sādh kai sang na kabahū dhāvai",
+      "roman": "sādh kē sang na kabahū dhāvē",
       "sahib_singh_pa": "ਗੁਰਮੁਖਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਿਹਾਂ ਮਨੁੱਖ ਦਾ ਮਨ ਕਦੇ ਭਟਕਦਾ ਨਹੀਂ,",
       "translation_ru": "В обществе гурмукхов ум человека никогда не блуждает,"
     },
     {
       "verse_id": 12038,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਸਦਾ ਸੁਖੁ ਪਾਵੈ ॥",
-      "roman": "sādh kai sang sadā sukh pāvai",
+      "roman": "sādh kē sang sadā sukh pāvē",
       "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਸਾਧ ਜਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ (ਮਨੁੱਖ) ਸਦਾ ਸੁਖ ਮਾਣਦਾ ਹੈ।",
       "translation_ru": "потому что в обществе святых он всегда наслаждается покоем."
     },
     {
       "verse_id": 12039,
       "gurmukhi": "ਸਾਧਸੰਗਿ ਬਸਤੁ ਅਗੋਚਰ ਲਹੈ ॥",
-      "roman": "sādhsang bast agochar lahai",
+      "roman": "sādhsang bast agochar lahē",
       "sahib_singh_pa": "ਸੰਤ ਜਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ (ਪ੍ਰਭੂ ਦਾ) ਨਾਮ ਰੂਪ ਅਗੋਚਰ ਵਸਤ ਮਿਲ ਜਾਂਦੀ ਹੈ,",
       "translation_ru": "В обществе святых обретается незримое сокровище — Имя Господа,"
     },
     {
       "verse_id": 12040,
       "gurmukhi": "ਸਾਧੂ ਕੈ ਸੰਗਿ ਅਜਰੁ ਸਹੈ ॥",
-      "roman": "sādhū kai sang ajar sahai",
+      "roman": "sādhū kē sang ajar sahē",
       "sahib_singh_pa": "(ਅਤੇ ਮਨੁੱਖ) ਇਹ ਨਾਹ ਜਰਿਆ ਜਾਣ ਵਾਲਾ ਮਰਤਬਾ ਜਰ ਲੈਂਦਾ ਹੈ।",
       "translation_ru": "и человек выносит это неистощимое достоинство."
     },
     {
       "verse_id": 12041,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਬਸੈ ਥਾਨਿ ਊਚੈ ॥",
-      "roman": "sādh kai sang basai thān ūchai",
+      "roman": "sādh kē sang basē thān ūchē",
       "sahib_singh_pa": "ਗੁਰਮੁਖਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਹਿ ਕੇ ਮਨੁੱਖ ਉਚੇ (ਆਤਮਕ) ਟਿਕਾਣੇ ਤੇ ਵੱਸਦਾ ਹੈ,",
       "translation_ru": "Живя в обществе гурмукхов, человек обитает на высоком духовном месте,"
     },
     {
       "verse_id": 12042,
       "gurmukhi": "ਸਾਧੂ ਕੈ ਸੰਗਿ ਮਹਲਿ ਪਹੂਚੈ ॥",
-      "roman": "sādhū kai sang mahal pahūchai",
+      "roman": "sādhū kē sang mahal pahūchē",
       "sahib_singh_pa": "ਅਤੇ ਅਕਾਲ ਪੁਰਖ ਦੇ ਚਰਨਾਂ ਵਿਚ ਜੁੜਿਆ ਰਹਿੰਦਾ ਹੈ।",
       "translation_ru": "и пребывает соединённым со стопами Вечного Пурукха."
     },
     {
       "verse_id": 12043,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਦ੍ਰਿੜੈ ਸਭਿ ਧਰਮ ॥",
-      "roman": "sādh kai sang driṛhai sabh dharam",
+      "roman": "sādh kē sang driṛhē sabh dharam",
       "sahib_singh_pa": "ਸੰਤਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਹਿ ਕੇ (ਮਨੁੱਖ) ਸਾਰੇ ਧਰਮਾਂ (ਫ਼ਰਜ਼ਾਂ) ਨੂੰ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸਮਝ ਲੈਂਦਾ ਹੈ,",
       "translation_ru": "Живя в обществе святых, человек хорошо понимает все дхармы, все обязанности,"
     },
     {
       "verse_id": 12044,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਕੇਵਲ ਪਾਰਬ੍ਰਹਮ ॥",
-      "roman": "sādh kai sang keval pārbrahm",
+      "roman": "sādh kē sang keval pārbrahm",
       "sahib_singh_pa": "ਅਤੇ ਸਿਰਫ਼ ਅਕਾਲ ਪੁਰਖ ਨੂੰ (ਹਰ ਥਾਂ ਵੇਖਦਾ ਹੈ)।",
       "translation_ru": "и видит повсюду только одного Парабрахма."
     },
     {
       "verse_id": 12045,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਪਾਏ ਨਾਮ ਨਿਧਾਨ ॥",
-      "roman": "sādh kai sang pāe nām nidhān",
+      "roman": "sādh kē sang pāe nām nidhān",
       "sahib_singh_pa": "ਸਾਧ ਜਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ (ਮਨੁੱਖ) ਨਾਮ ਖ਼ਜ਼ਾਨਾ ਲੱਭ ਲੈਂਦਾ ਹੈ;",
       "translation_ru": "В обществе святых человек находит сокровище Имени,"
     },
     {
       "verse_id": 12046,
       "gurmukhi": "ਨਾਨਕ ਸਾਧੂ ਕੈ ਕੁਰਬਾਨ ॥੪॥",
-      "roman": "Nānak sādhū kai kurbān. 4.",
+      "roman": "Nānak sādhū kē kurbān. 4.",
       "sahib_singh_pa": "(ਤਾਂ ਤੇ) ਹੇ ਨਾਨਕ! (ਆਖ-) ਮੈਂ ਸਾਧ ਜਨਾਂ ਤੋਂ ਸਦਕੇ ਹਾਂ ॥੪॥",
       "translation_ru": "потому, о Нанак, я жертвую собой ради святых. 4."
     },
     {
       "verse_id": 12047,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਸਭ ਕੁਲ ਉਧਾਰੈ ॥",
-      "roman": "sādh kai sang sabh kul udhārai",
+      "roman": "sādh kē sang sabh kul udhārē",
       "sahib_singh_pa": "ਗੁਰਮੁਖਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਹਿ ਕੇ (ਮਨੁੱਖ ਆਪਣੀਆਂ) ਸਾਰੀਆਂ ਕੁਲਾਂ (ਵਿਕਾਰਾਂ ਤੋਂ) ਬਚਾ ਲੈਂਦਾ ਹੈ,",
       "translation_ru": "Живя в обществе гурмукхов, человек спасает все свои роды от пороков,"
     },
     {
       "verse_id": 12048,
       "gurmukhi": "ਸਾਧਸੰਗਿ ਸਾਜਨ ਮੀਤ ਕੁਟੰਬ ਨਿਸਤਾਰੈ ॥",
-      "roman": "sādhsang sājan mīt kuṭamb nistārai",
+      "roman": "sādhsang sājan mīt kuṭamb nistārē",
       "sahib_singh_pa": "ਤੇ (ਆਪਣੇ) ਸੱਜਣਾਂ ਮਿੱਤ੍ਰਾਂ ਤੇ ਪਰਵਾਰ ਨੂੰ ਤਾਰ ਲੈਂਦਾ ਹੈ।",
       "translation_ru": "и переправляет своих близких, друзей и семью."
     },
     {
       "verse_id": 12049,
       "gurmukhi": "ਸਾਧੂ ਕੈ ਸੰਗਿ ਸੋ ਧਨੁ ਪਾਵੈ ॥",
-      "roman": "sādhū kai sang so dhan pāvai",
+      "roman": "sādhū kē sang so dhan pāvē",
       "sahib_singh_pa": "ਸੰਤਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਮਨੁੱਖ ਨੂੰ ਉਹ ਧਨ ਲੱਭ ਪੈਂਦਾ ਹੈ,",
       "translation_ru": "В обществе святых человек находит то богатство,"
     },
     {
       "verse_id": 12050,
       "gurmukhi": "ਜਿਸੁ ਧਨ ਤੇ ਸਭੁ ਕੋ ਵਰਸਾਵੈ ॥",
-      "roman": "jis dhan te sabh ko varsāvai",
+      "roman": "jis dhan te sabh ko varsāvē",
       "sahib_singh_pa": "ਜਿਸ ਧਨ ਦੇ ਮਿਲਣ ਨਾਲ ਹਰੇਕ ਮਨੁੱਖ ਨਾਮਣੇ ਵਾਲਾ ਹੋ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "обретя которое, всякий становится достойным почёта."
     },
@@ -410,14 +410,14 @@
     {
       "verse_id": 12052,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਸੋਭਾ ਸੁਰਦੇਵਾ ॥",
-      "roman": "sādh kai sang sobhā surdevā",
+      "roman": "sādh kē sang sobhā surdevā",
       "sahib_singh_pa": "ਅਤੇ (ਦੇਵਤੇ ਭੀ) ਸੋਭਾ ਕਰਦੇ ਹਨ।",
       "translation_ru": "и боги тоже воздают славу."
     },
     {
       "verse_id": 12053,
       "gurmukhi": "ਸਾਧੂ ਕੈ ਸੰਗਿ ਪਾਪ ਪਲਾਇਨ ॥",
-      "roman": "sādhū kai sang pāp palāin",
+      "roman": "sādhū kē sang pāp palāin",
       "sahib_singh_pa": "ਗੁਰਮੁਖਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਪਾਪ ਦੂਰ ਹੋ ਜਾਂਦੇ ਹਨ,",
       "translation_ru": "В обществе гурмукхов грехи уходят прочь,"
     },
@@ -431,7 +431,7 @@
     {
       "verse_id": 12055,
       "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਸ੍ਰਬ ਥਾਨ ਗੰਮਿ ॥",
-      "roman": "sādh kai sang srab thān gamm",
+      "roman": "sādh kē sang srab thān gamm",
       "sahib_singh_pa": "ਸੰਤਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਹਿ ਕੇ ਸਭ ਥਾਈਂ ਪਹੁੰਚ ਹੋ ਜਾਂਦੀ ਹੈ (ਭਾਵ, ਉੱਚੀ ਆਤਮਕ ਸਮਰੱਥਾ ਆ ਜਾਂਦੀ ਹੈ);",
       "translation_ru": "Живя в обществе святых, человек обретает достижимость всех мест, то есть высокую духовную силу,"
     }

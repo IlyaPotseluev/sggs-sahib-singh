@@ -18,7 +18,7 @@
     {
       "verse_id": 2845,
       "gurmukhi": "ਮਿਰਤੁ ਨ ਆਵੀ ਚਿਤਿ ਤਿਸੁ ਅਹਿਨਿਸਿ ਭੋਗੈ ਭੋਗੁ ॥",
-      "roman": "mirat na āvī chit tis ahinis bhogai bhog",
+      "roman": "mirat na āvī chit tis ahinis bhogē bhog",
       "sahib_singh_pa": "ਜੇ ਉਸ ਨੂੰ ਕਦੇ ਮੌਤ (ਦਾ ਫ਼ਿਕਰ) ਚੇਤੇ ਨਾਹ ਆਇਆ ਹੋਵੇ, ਜੇ ਉਹ ਦਿਨ ਰਾਤ ਦੁਨੀਆ ਦੇ ਭੋਗ ਭੋਗਦਾ ਰਹਿੰਦਾ ਹੋਵੇ,",
       "translation_ru": "если он никогда не задумывался о смерти и день и ночь предаётся удовольствиям,"
     },
@@ -39,7 +39,7 @@
     {
       "verse_id": 2848,
       "gurmukhi": "ਕਿਰਪਾ ਕਰੇ ਜਿਸੁ ਪਾਰਬ੍ਰਹਮੁ ਹੋਵੈ ਸਾਧੂ ਸੰਗੁ ॥",
-      "roman": "kirpā kare jis pārbrahm hovai sādhū sang",
+      "roman": "kirpā kare jis pārbrahm hovē sādhū sang",
       "sahib_singh_pa": "ਜਿਸ (ਵਡ-ਭਾਗੀ) ਮਨੁੱਖ ਉਤੇ ਪਰਮਾਤਮਾ ਮਿਹਰ ਕਰਦਾ ਹੈ, ਉਸ ਨੂੰ ਸਤ ਸੰਗ ਪ੍ਰਪਤ ਹੁੰਦਾ ਹੈ।",
       "translation_ru": "Тот, на кого Бог проливает милость, обретает общество святых"
     },
@@ -60,7 +60,7 @@
     {
       "verse_id": 2851,
       "gurmukhi": "ਸਤਿਗੁਰ ਤੁਠੈ ਪਾਇਆ ਨਾਨਕ ਸਚਾ ਨਾਉ ॥੯॥੧॥੨੬॥",
-      "roman": "satgur tuṭhai pāiā nānak sachā nāu",
+      "roman": "satgur tuṭhē pāiā nānak sachā nāu",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਜਦੋਂ ਪ੍ਰਭੂ ਦੀ ਮਿਹਰ ਹੋਵੇ, ਤਾਂ ਉਹ ਗੁਰੂ ਮਿਲਾਂਦਾ ਹੈ, ਤੇ) ਗੁਰੂ ਦੇ ਪ੍ਰਸੰਨ ਹੋਇਆਂ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਪ੍ਰਾਪਤ ਹੋ ਜਾਂਦਾ ਹੈ ॥੯॥੧॥੨੬॥{70-71}",
       "translation_ru": "О Нанак! Когда Бог милостив, Он даёт встретить Гуру, и по милости Гуру обретается истинное Имя"
     },
@@ -74,7 +74,7 @@
     {
       "verse_id": 2853,
       "gurmukhi": "ਜਾਨਉ ਨਹੀ ਭਾਵੈ ਕਵਨ ਬਾਤਾ ॥",
-      "roman": "jānau nahī bhāvai kavan bātā.",
+      "roman": "jānau nahī bhāvē kavan bātā.",
       "sahib_singh_pa": "ਮੈਨੂੰ ਸਮਝ ਨਹੀਂ ਕਿ ਪਰਮਾਤਮਾ ਨੂੰ ਕੇਹੜੀ ਗੱਲ ਚੰਗੀ ਲੱਗਦੀ ਹੈ।",
       "translation_ru": "Я не понимаю, какая именно вещь приятна Параматме."
     },
@@ -88,14 +88,14 @@
     {
       "verse_id": 2855,
       "gurmukhi": "ਧਿਆਨੀ ਧਿਆਨੁ ਲਾਵਹਿ ॥",
-      "roman": "dhiānī dhiān lāvahi.",
+      "roman": "dhiānī dhiān lāvah.",
       "sahib_singh_pa": "ਸਮਾਧੀਆਂ ਲਾਣ ਵਾਲੇ ਲੋਕ ਸਮਾਧੀਆਂ ਲਾਂਦੇ ਹਨ,",
       "translation_ru": "Люди, погружённые в медитацию, предаются медитации,"
     },
     {
       "verse_id": 2856,
       "gurmukhi": "ਗਿਆਨੀ ਗਿਆਨੁ ਕਮਾਵਹਿ ॥",
-      "roman": "giānī giān kamāvahi.",
+      "roman": "giānī giān kamāvah.",
       "sahib_singh_pa": "ਵਿਦਵਾਨ ਲੋਕ ਧਰਮ-ਚਰਚਾ ਕਰਦੇ ਹਨ,",
       "translation_ru": "учёные люди ведут религиозные рассуждения,"
     },
@@ -151,7 +151,7 @@
     {
       "verse_id": 2864,
       "gurmukhi": "ਭਗਤਿ ਨਵੈ ਪਰਕਾਰਾ ॥",
-      "roman": "bhagat navai parkārā.",
+      "roman": "bhagat navē parkārā.",
       "sahib_singh_pa": "(ਕੋਈ ਆਖਦਾ ਹੈ ਕਿ) ਭਗਤੀ ਨੌਂ ਕਿਸਮਾਂ ਦੀ ਹੈ।",
       "translation_ru": "Кто-то говорит, что видов бхакти девять."
     },
@@ -172,7 +172,7 @@
     {
       "verse_id": 2867,
       "gurmukhi": "ਇਕ ਸਬਦੀ ਬਹੁ ਰੂਪਿ ਅਵਧੂਤਾ ॥",
-      "roman": "ik sabdī bahu rūp avadhūtā.",
+      "roman": "ik sabdī bah rūp avadhūtā.",
       "sahib_singh_pa": "ਅਨੇਕਾਂ ਐਸੇ ਹਨ ਜੋ 'ਅਲੱਖ ਅਲੱਖ' ਪੁਕਾਰਦੇ ਹਨ, ਕੋਈ ਬਹੂ-ਰੂਪੀਏ ਹਨ, ਕੋਈ ਨਾਂਗੇ ਹਨ।",
       "translation_ru": "Есть многие, кто восклицает «алакх, алакх»; кто-то — многоликий аскет, кто-то — нагой."
     },
@@ -200,7 +200,7 @@
     {
       "verse_id": 2871,
       "gurmukhi": "ਇਕਿ ਲੂਕਿ ਨ ਦੇਵਹਿ ਦਰਸਾ ॥",
-      "roman": "ik lūk na dēvahi darsā.",
+      "roman": "ik lūk na dēvah darsā.",
       "sahib_singh_pa": "ਅਨੇਕਾਂ ਐਸੇ ਹਨ ਜੋ (ਗੁਫ਼ਾ ਆਦਿ ਵਿਚ) ਲੁਕ ਕੇ (ਰਹਿੰਦੇ ਹਨ ਤੇ ਕਿਸੇ ਨੂੰ) ਦਰਸ਼ਨ ਨਹੀਂ ਦੇਂਦੇ।",
       "translation_ru": "Многие прячутся в пещерах и тому подобном и никому не показываются."
     },
@@ -221,7 +221,7 @@
     {
       "verse_id": 2874,
       "gurmukhi": "ਸਭ ਕਹਤੇ ਹੈ ਪਾਇਆ ॥",
-      "roman": "sabh kahte hai pāiā.",
+      "roman": "sabh kahte hē pāiā.",
       "sahib_singh_pa": "ਸਭ ਇਹੀ ਆਖਦੇ ਹਨ ਕਿ ਅਸਾਂ ਪਰਮਾਤਮਾ ਨੂੰ ਲੱਭ ਲਿਆ ਹੈ।",
       "translation_ru": "Все утверждают одно и то же: мы нашли Бога."
     },
@@ -284,7 +284,7 @@
     {
       "verse_id": 2883,
       "gurmukhi": "ਹਉ ਵਾਰੀ ਹਉ ਵਾਰਣੈ ਕੁਰਬਾਣੁ ਤੇਰੇ ਨਾਵ ਨੋ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "hau vārī hau vāraṇai kurbāṇ tērē nāv no. ||1|| rahāu ||",
+      "roman": "hau vārī hau vāraṇē kurbāṇ tērē nāv no. ||1|| rahāu ||",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਸਦਕੇ ਹਾਂ ਤੇਰੇ ਨਾਮ ਤੋਂ, ਵਾਰਨੇ ਜਾਂਦਾ ਹਾਂ ਤੇਰੇ ਨਾਮ ਤੋਂ, ਕੁਰਬਾਨ ਹਾਂ ਤੇਰੇ ਨਾਮ ਤੋਂ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "О Господь! Я жертвую собой ради Твоего Имени, отдаю себя ради Твоего Имени, предан Твоему Имени. ||1|| Пауза ||"
     },
@@ -312,14 +312,14 @@
     {
       "verse_id": 2887,
       "gurmukhi": "ਪਰਗਟਿ ਪਾਹਾਰੈ ਜਾਪਦਾ ॥",
-      "roman": "pargaṭ pāhārai jāpda.",
+      "roman": "pargaṭ pāhārē jāpda.",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਇਸ ਦਿੱਸਦੇ ਜਗਤ-ਪਸਾਰੇ ਵਿਚ (ਵੱਸਦਾ) ਦਿੱਸ ਰਿਹਾ ਹੈ।",
       "translation_ru": "О брат! Бог виден в этом явленном, видимом развёрнутом мире."
     },
     {
       "verse_id": 2888,
       "gurmukhi": "ਸਭੁ ਨਾਵੈ ਨੋ ਪਰਤਾਪਦਾ ॥",
-      "roman": "sabh nāvai no partāpda.",
+      "roman": "sabh nāvē no partāpda.",
       "sahib_singh_pa": "ਹਰੇਕ ਜੀਵ ਉਸ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਲਈ ਤਾਂਘਦਾ ਹੈ।",
       "translation_ru": "Каждое существо жаждет Имени этого Господа."
     },

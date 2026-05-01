@@ -4,7 +4,7 @@
     {
       "verse_id": 11482,
       "gurmukhi": "ਨਾਨਕ ਦੀਜੈ ਨਾਮ ਦਾਨੁ ਰਾਖਉ ਹੀਐ ਪਰੋਇ ॥੫੫॥",
-      "roman": "Nānak dījai nām dān rākhau hīai paroi ||55||",
+      "roman": "Nānak dījē nām dān rākhau hīē paroi ||55||",
       "sahib_singh_pa": "ਮੈਨੂੰ ਆਪਣੇ ਨਾਮ ਦਾ ਦਾਨ ਬਖ਼ਸ਼, (ਇਹ ਦਾਨ) ਮੈਂ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਪ੍ਰੋ ਕੇ ਰੱਖਾਂ ॥੫੫॥",
       "translation_ru": "Даруй мне подаяние Своего Имени, и я сохраню этот дар, нанизав его в своём сердце. ||55||"
     },
@@ -32,7 +32,7 @@
     {
       "verse_id": 11486,
       "gurmukhi": "ਗੁਰਦੇਵ ਦਾਤਾ ਹਰਿ ਨਾਮੁ ਉਪਦੇਸੈ ਗੁਰਦੇਵ ਮੰਤੁ ਨਿਰੋਧਰਾ ॥",
-      "roman": "gurdev dātā har nām updesai gurdev mant nirodharā",
+      "roman": "gurdev dātā har nām updesē gurdev mant nirodharā",
       "sahib_singh_pa": "ਗੁਰੂ (ਅਸਲੀ) ਦਾਤਾ ਹੈ ਜੋ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਉਪਦੇਸ਼ਦਾ ਹੈ, ਗੁਰੂ ਦਾ ਉਪਦੇਸ਼ ਐਸਾ ਹੈ ਜਿਸ ਦਾ ਅਸਰ (ਕੋਈ ਵਿਕਾਰ ਆਦਿਕ) ਗਵਾ ਨਹੀਂ ਸਕਦਾ।",
       "translation_ru": "Гуру — истинный даритель, который наставляет в Имени Хари; наставление Гуру таково, что никакой порок не может лишить его силы."
     },
@@ -158,14 +158,14 @@
     {
       "verse_id": 11504,
       "gurmukhi": "ਸਿਮਰਉ ਜਾਸੁ ਬਿਸੁੰਭਰ ਏਕੈ ॥",
-      "roman": "simrau jās bisumbhar ekai",
+      "roman": "simrau jās bisumbhar ekē",
       "sahib_singh_pa": "ਜਿਸ ਇਕ ਜਗਤ ਪਾਲਕ (ਹਰੀ) ਦਾ ਨਾਮ-",
       "translation_ru": "Того Единого Хари, Хранителя мира, чьё Имя"
     },
     {
       "verse_id": 11505,
       "gurmukhi": "ਨਾਮੁ ਜਪਤ ਅਗਨਤ ਅਨੇਕੈ ॥",
-      "roman": "nām japat aganat anekai",
+      "roman": "nām japat aganat anekē",
       "sahib_singh_pa": "ਅਨੇਕਾਂ ਤੇ ਅਣਗਿਣਤ (ਜੀਵ) ਜਪਦੇ ਹਨ, ਮੈਂ (ਭੀ ਉਸ ਨੂੰ) ਸਿਮਰਾਂ।",
       "translation_ru": "повторяют многие и бесчисленные существа, — Его и я буду созерцать."
     },
@@ -186,21 +186,21 @@
     {
       "verse_id": 11508,
       "gurmukhi": "ਕਿਨਕਾ ਏਕ ਜਿਸੁ ਜੀਅ ਬਸਾਵੈ ॥",
-      "roman": "kinkā ek jis jīa basāvai",
+      "roman": "kinkā ek jis jīa basāvē",
       "sahib_singh_pa": "ਜਿਸ (ਮਨੁੱਖ) ਦੇ ਜੀ ਵਿਚ (ਅਕਾਲ ਪੁਰਖ ਅਪਨਾ ਨਾਮ) ਥੋੜਾ ਜਿਹਾ ਭੀ ਵਸਾਉਂਦਾ ਹੈ,",
       "translation_ru": "Тому человеку, в чьё сердце Он вселяет хотя бы немного Своего Имени,"
     },
     {
       "verse_id": 11509,
       "gurmukhi": "ਤਾ ਕੀ ਮਹਿਮਾ ਗਨੀ ਨ ਆਵੈ ॥",
-      "roman": "tā kī mahimā ganī na āvai",
+      "roman": "tā kī mahimā ganī na āvē",
       "sahib_singh_pa": "ਉਸ ਦੀ ਵਡਿਆਈ ਬਿਆਨ ਨਹੀਂ ਹੋ ਸਕਦੀ।",
       "translation_ru": "невозможно исчислить величие."
     },
     {
       "verse_id": 11510,
       "gurmukhi": "ਕਾਂਖੀ ਏਕੈ ਦਰਸ ਤੁਹਾਰੋ ॥",
-      "roman": "kāṅkhī ekai daras tuhāro",
+      "roman": "kāṅkhī ekē daras tuhāro",
       "sahib_singh_pa": "(ਹੇ ਅਕਾਲ ਪੁਰਖ!) ਜੋ ਮਨੁੱਖ ਤੇਰੇ ਦੀਦਾਰ ਦੇ ਚਾਹਵਾਨ ਹਨ,",
       "translation_ru": "О Вечный Пурукх, те, кто жаждет Твоего даршана,"
     },
@@ -221,70 +221,70 @@
     {
       "verse_id": 11513,
       "gurmukhi": "ਭਗਤ ਜਨਾ ਕੈ ਮਨਿ ਬਿਸ੍ਰਾਮ ॥ ਰਹਾਉ ॥",
-      "roman": "bhagat janā kai man bisrām rahāu",
+      "roman": "bhagat janā kē man bisrām rahāu",
       "sahib_singh_pa": "ਇਸ ਦਾ ਟਿਕਾਣਾ ਭਗਤਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਹੈ।ਰਹਾਉ।",
       "translation_ru": "и пребывает оно в сердцах бхагатов. Пауза."
     },
     {
       "verse_id": 11514,
       "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਗਰਭਿ ਨ ਬਸੈ ॥",
-      "roman": "prabh kai simran garabh na basai",
+      "roman": "prabh kē simran garabh na basē",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰਨ ਨਾਲ (ਜੀਵ) ਜਨਮ ਵਿਚ ਨਹੀਂ ਆਉਂਦਾ,",
       "translation_ru": "Благодаря памятованию о Боге существо больше не входит в рождение,"
     },
     {
       "verse_id": 11515,
       "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਦੂਖੁ ਜਮੁ ਨਸੈ ॥",
-      "roman": "prabh kai simran dūkh jam nasai",
+      "roman": "prabh kē simran dūkh jam nasē",
       "sahib_singh_pa": "(ਜੀਵ ਦਾ) ਦੁਖ ਤੇ ਜਮ (ਦਾ ਡਰ) ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "страдание и страх перед Ямой исчезают."
     },
     {
       "verse_id": 11516,
       "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਕਾਲੁ ਪਰਹਰੈ ॥",
-      "roman": "prabh kai simran kāl parharai",
+      "roman": "prabh kē simran kāl parharē",
       "sahib_singh_pa": "ਮੌਤ (ਦਾ ਭਉ) ਪਰੇ ਹਟ ਜਾਂਦਾ ਹੈ,",
       "translation_ru": "Страх смерти отступает,"
     },
     {
       "verse_id": 11517,
       "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਦੁਸਮਨੁ ਟਰੈ ॥",
-      "roman": "prabh kai simran dusman ṭarai",
+      "roman": "prabh kē simran dusman ṭarē",
       "sahib_singh_pa": "(ਵਿਕਾਰ ਰੂਪੀ) ਦੁਸ਼ਮਨ ਟਲ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "и враг в виде пороков удаляется."
     },
     {
       "verse_id": 11518,
       "gurmukhi": "ਪ੍ਰਭ ਸਿਮਰਤ ਕਛੁ ਬਿਘਨੁ ਨ ਲਾਗੈ ॥",
-      "roman": "prabh simrat kachh bighan na lāgai",
+      "roman": "prabh simrat kachh bighan na lāgē",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਿਆਂ (ਜ਼ਿੰਦਗੀ ਦੇ ਰਾਹ ਵਿਚ) ਕੋਈ ਰੁਕਾਵਟ ਨਹੀਂ ਪੈਂਦੀ,",
       "translation_ru": "Когда помнят Бога, на жизненном пути не встречается преград,"
     },
     {
       "verse_id": 11519,
       "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਅਨਦਿਨੁ ਜਾਗੈ ॥",
-      "roman": "prabh kai simran andin jāgai",
+      "roman": "prabh kē simran andin jāgē",
       "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰਨ ਨਾਲ (ਮਨੁੱਖ) ਹਰ ਵੇਲੇ (ਵਿਕਾਰਾਂ ਵਲੋਂ) ਸੁਚੇਤ ਰਹਿੰਦਾ ਹੈ।",
       "translation_ru": "потому что памятование о Боге делает человека всегда бодрствующим против пороков."
     },
     {
       "verse_id": 11520,
       "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਭਉ ਨ ਬਿਆਪੈ ॥",
-      "roman": "prabh kai simran bhau na biāpai",
+      "roman": "prabh kē simran bhau na biāpē",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰਨ ਨਾਲ (ਕੋਈ) ਡਰ (ਜੀਵ ਉਤੇ) ਦਬਾਉ ਨਹੀਂ ਪਾ ਸਕਦਾ,",
       "translation_ru": "Памятование о Боге не даёт никакому страху подавить существо,"
     },
     {
       "verse_id": 11521,
       "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਦੁਖੁ ਨ ਸੰਤਾਪੈ ॥",
-      "roman": "prabh kai simran dukh na santāpai",
+      "roman": "prabh kē simran dukh na santāpē",
       "sahib_singh_pa": "ਤੇ (ਕੋਈ) ਦੁੱਖ ਵਿਆਕੁਲ ਨਹੀਂ ਕਰ ਸਕਦਾ।",
       "translation_ru": "и никакое страдание не может его измучить."
     },
     {
       "verse_id": 11522,
       "gurmukhi": "ਪ੍ਰਭ ਕਾ ਸਿਮਰਨੁ ਸਾਧ ਕੈ ਸੰਗਿ ॥",
-      "roman": "prabh kā simran sādh kai saṅg",
+      "roman": "prabh kā simran sādh kē saṅg",
       "sahib_singh_pa": "ਅਕਾਲ ਪੁਰਖ ਦਾ ਸਿਮਰਨ ਗੁਰਮਖਿ ਦੀ ਸੰਗਤਿ ਵਿਚ (ਮਿਲਦਾ ਹੈ);",
       "translation_ru": "Памятование об Вечном Пурукхе обретается в общении с гурмукхом;"
     },
@@ -298,63 +298,63 @@
     {
       "verse_id": 11524,
       "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਰਿਧਿ ਸਿਧਿ ਨਉ ਨਿਧਿ ॥",
-      "roman": "prabh kai simran ridh sidh nau nidh",
+      "roman": "prabh kē simran ridh sidh nau nidh",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਦੇ ਸਿਮਰਨ ਵਿਚ (ਹੀ) ਸਾਰੀਆਂ ਰਿੱਧੀਆਂ ਸਿੱਧੀਆਂ ਤੇ ਨੌ ਖ਼ਜ਼ਾਨੇ ਹਨ,",
       "translation_ru": "В памятовании о Боге заключены все риддхи, сиддхи и девять сокровищ,"
     },
     {
       "verse_id": 11525,
       "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਗਿਆਨੁ ਧਿਆਨੁ ਤਤੁ ਬੁਧਿ ॥",
-      "roman": "prabh kai simran giān dhiān tat budh",
+      "roman": "prabh kē simran giān dhiān tat budh",
       "sahib_singh_pa": "ਪ੍ਰਭ-ਸਿਮਰਨ ਵਿਚ ਹੀ ਗਿਆਨ, ਸੁਰਤ ਦਾ ਟਿਕਾਉ ਤੇ ਜਗਤ ਦੇ ਮੂਲ (ਹਰੀ) ਦੀ ਸਮਝ ਵਾਲੀ ਬੁੱਧੀ ਹੈ।",
       "translation_ru": "в памятовании о Боге — знание, устойчивость сознания и мудрость, постигающая корень мира, Хари."
     },
     {
       "verse_id": 11526,
       "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਜਪ ਤਪ ਪੂਜਾ ॥",
-      "roman": "prabh kai simran jap tap pūjā",
+      "roman": "prabh kē simran jap tap pūjā",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਦੇ ਸਿਮਰਨ ਵਿਚ ਹੀ (ਸਾਰੇ) ਜਾਪ ਤਾਪ ਤੇ (ਦੇਵ-) ਪੂਜਾ ਹਨ,",
       "translation_ru": "В памятовании о Боге — все джапы, тапы и поклонения божествам,"
     },
     {
       "verse_id": 11527,
       "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਬਿਨਸੈ ਦੂਜਾ ॥",
-      "roman": "prabh kai simran binsai dūjā",
+      "roman": "prabh kē simran binsē dūjā",
       "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਸਿਮਰਨ ਕਰਨ ਨਾਲ ਪ੍ਰਭੂ ਤੋਂ ਬਿਨਾ ਕਿਸੇ ਹੋਰ ਉਸ ਵਰਗੀ ਹਸਤੀ ਦੀ ਹੋਂਦ ਦਾ ਖ਼ਿਆਲ ਹੀ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "потому что через памятование исчезает сама мысль о существовании кого-то иного, равного Богу."
     },
     {
       "verse_id": 11528,
       "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਤੀਰਥ ਇਸਨਾਨੀ ॥",
-      "roman": "prabh kai simran tīrath isnānī",
+      "roman": "prabh kē simran tīrath isnānī",
       "sahib_singh_pa": "ਸਿਮਰਨ ਕਰਨ ਵਾਲਾ (ਆਤਮ-) ਤੀਰਥ ਦਾ ਇਸ਼ਨਾਨ ਕਰਨ ਵਾਲਾ ਹੋ ਜਾਈਦਾ ਹੈ, ਤੇ,",
       "translation_ru": "Тот, кто помнит, словно совершает омовение на внутренней тиртхе,"
     },
     {
       "verse_id": 11529,
       "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਦਰਗਹ ਮਾਨੀ ॥",
-      "roman": "prabh kai simran dargah mānī",
+      "roman": "prabh kē simran dargah mānī",
       "sahib_singh_pa": "ਦਰਗਾਹ ਵਿਚ ਇੱਜ਼ਤ ਮਿਲਦੀ ਹੈ;",
       "translation_ru": "и в Божественном дворе получает честь."
     },
     {
       "verse_id": 11530,
       "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਹੋਇ ਸੁ ਭਲਾ ॥",
-      "roman": "prabh kai simran hoi su bhalā",
+      "roman": "prabh kē simran hoi su bhalā",
       "sahib_singh_pa": "ਜਗਤ ਵਿਚ ਜੋ ਹੋ ਰਿਹਾ ਹੈ ਭਲਾ ਪ੍ਰਤੀਤ ਹੁੰਦਾ ਹੈ,",
       "translation_ru": "То, что происходит в мире, видится благим,"
     },
     {
       "verse_id": 11531,
       "gurmukhi": "ਪ੍ਰਭ ਕੈ ਸਿਮਰਨਿ ਸੁਫਲ ਫਲਾ ॥",
-      "roman": "prabh kai simran suphal falā",
+      "roman": "prabh kē simran suphal falā",
       "sahib_singh_pa": "ਤੇ ਮਨੁੱਖ-ਜਨਮ ਦਾ ਉੱਚਾ ਮਨੋਰਥ ਸਿੱਧ ਹੋ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "и высокая цель человеческой жизни осуществляется."
     },
     {
       "verse_id": 11532,
       "gurmukhi": "ਸੇ ਸਿਮਰਹਿ ਜਿਨ ਆਪਿ ਸਿਮਰਾਏ ॥",
-      "roman": "se simrahi jin āp simrāe",
+      "roman": "se simrah jin āp simrāe",
       "sahib_singh_pa": "(ਨਾਮ) ਉਹੀ ਸਿਮਰਦੇ ਹਨ, ਜਿਨ੍ਹਾਂ ਨੂੰ ਪ੍ਰਭੂ ਆਪਿ ਪ੍ਰੇਰਦਾ ਹੈ,",
       "translation_ru": "Лишь те помнят Имя, кого Сам Бог к этому побуждает,"
     }

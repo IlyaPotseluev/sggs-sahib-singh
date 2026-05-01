@@ -4,7 +4,7 @@
     {
       "verse_id": 31555,
       "gurmukhi": "ਕਰਿ ਕਿਰਪਾ ਮੋਹਿ ਸਾਧਸੰਗੁ ਦੀਜੈ ॥੪॥",
-      "roman": "kar kirpā moh sādhsaṅg dījai",
+      "roman": "kar kirpā moh sādhsaṅg dījē",
       "sahib_singh_pa": "ਕਿਰਪਾ ਕਰ ਕੇ ਮੈਨੂੰ ਗੁਰਮੁਖਾਂ ਦੀ ਸੰਗਤਿ ਬਖ਼ਸ਼ ॥੪॥",
       "translation_ru": "По милости даруй мне общество гурсикхов."
     },
@@ -18,7 +18,7 @@
     {
       "verse_id": 31557,
       "gurmukhi": "ਜਿਸਹਿ ਬੁਝਾਏ ਤਿਸੁ ਨਾਮੁ ਲੈਨਾ ॥੧॥ ਰਹਾਉ ॥੨॥੮॥",
-      "roman": "jisah bujhāe tis nām lainā",
+      "roman": "jisah bujhāe tis nām lēnā",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਪਰਮਾਤਮਾ (ਚਰਨ-ਧੂੜ ਹੋਣ ਦੀ) ਸੂਝ ਬਖ਼ਸ਼ਦਾ ਹੈ, ਓਹ (ਸਾਧ ਸੰਗਤਿ ਵਿਚ ਟਿਕ ਕੇ ਓਸ ਦਾ) ਨਾਮ ਸਿਮਰਦਾ ਹੈ।੧।ਰਹਾਉ ॥੧॥ ਰਹਾਉ ॥੨॥੮॥",
       "translation_ru": "Кому Господь даёт понимание, тот пребывает в Его Имени."
     },
@@ -39,7 +39,7 @@
     {
       "verse_id": 31560,
       "gurmukhi": "ਗਲ ਮਹਿ ਪਾਹਣੁ ਲੈ ਲਟਕਾਵੈ ॥੧॥",
-      "roman": "gal meh pāhaṇ lai laṭkāvē",
+      "roman": "gal meh pāhaṇ lē laṭkāvē",
       "sahib_singh_pa": "ਪੱਥਰ (ਦੀ ਮੂਰਤੀ) ਲੈ ਕੇ ਆਪਣੇ ਗਲ ਵਿਚ ਲਟਕਾਈ ਫਿਰਦਾ ਹੈ ॥੧॥",
       "translation_ru": "берёт камень (идола) и носит его, повесив на шею."
     },
@@ -53,7 +53,7 @@
     {
       "verse_id": 31562,
       "gurmukhi": "ਨੀਰੁ ਬਿਰੋਲੈ ਖਪਿ ਖਪਿ ਮਰਤਾ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "nīr birolai khap khap marta",
+      "roman": "nīr birolē khap khap marta",
       "sahib_singh_pa": "(ਮੂਰਤੀ ਪੂਜਾ ਕਰ ਕੇ) ਪਾਣੀ (ਹੀ) ਰਿੜਕਦਾ ਹੈ, ਇਹ ਵਿਅਰਥ ਮੇਹਨਤ ਕਰ ਕੇ ਆਤਮਕ ਮੌਤ ਸਹੇੜਦਾ ਰਹਿੰਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "(поклоняясь идолу) он лишь взбалтывает воду, и, напрасно трудясь, обрекает себя на духовную смерть."
     },
@@ -67,7 +67,7 @@
     {
       "verse_id": 31564,
       "gurmukhi": "ਓਹੁ ਪਾਹਣੁ ਲੈ ਉਸ ਕਉ ਡੁਬਤਾ ॥੨॥",
-      "roman": "oh pāhaṇ lai us kau ḍubtā",
+      "roman": "oh pāhaṇ lē us kau ḍubtā",
       "sahib_singh_pa": "ਉਹ ਪੱਥਰ (ਆਪਣੇ) ਉਸ (ਪੁਜਾਰੀ) ਨੂੰ ਭੀ ਲੈ ਕੇ (ਪਾਣੀ ਵਿਚ) ਡੁੱਬ ਜਾਂਦਾ ਹੈ ॥੨॥",
       "translation_ru": "тот камень и его самого уводит ко дну (в воде)."
     },
@@ -116,28 +116,28 @@
     {
       "verse_id": 31571,
       "gurmukhi": "ਸਖੀ ਬਤਾਵਹੁ ਮੁਝਹਿ ਮਤੀ ਰੀ ॥੧॥",
-      "roman": "sakhī batāvahu mujhahi matī rī",
+      "roman": "sakhī batāvah mujhahi matī rī",
       "sahib_singh_pa": "ਹੇ ਸਖੀ! ਮੈਨੂੰ ਭੀ ਉਹ ਅਕਲ ਦੱਸ ॥੧॥",
       "translation_ru": "О подруга! скажи и мне эту мудрость."
     },
     {
       "verse_id": 31572,
       "gurmukhi": "ਸੂਹਬ ਸੂਹਬ ਸੂਹਵੀ ॥ ਅਪਨੇ ਪ੍ਰੀਤਮ ਕੈ ਰੰਗਿ ਰਤੀ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "sūhab sūhab sūhavī apne prītam kai raṅg ratī",
+      "roman": "sūhab sūhab sūhavī apne prītam kē raṅg ratī",
       "sahib_singh_pa": "ਹੇ ਸਖੀ! ਤੇਰੇ ਮੂੰਹ ਉਤੇ ਲਾਲੀ ਭਖ ਰਹੀ ਹੈ, ਤੂੰ ਆਪਣੇ ਪਿਆਰੇ ਦੇ ਪ੍ਰੇਮ-ਰੰਗ ਵਿਚ ਰੰਗੀ ਹੋਈ ਹੈਂ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "О подруга! твоё лицо сияет румянцем, ты окрашена в цвет любви своего Возлюбленного."
     },
     {
       "verse_id": 31573,
       "gurmukhi": "ਪਾਵ ਮਲੋਵਉ ਸੰਗਿ ਨੈਨ ਭਤੀਰੀ ॥",
-      "roman": "pāv malovau saṅg nain bhatīrī",
+      "roman": "pāv malovau saṅg nēn bhatīrī",
       "sahib_singh_pa": "ਹੇ ਸਖੀ! (ਮੈਨੂੰ ਭੀ ਦੱਸ) ਮੈਂ ਤੇਰੇ ਪੈਰ ਆਪਣੀਆਂ ਅੱਖਾਂ ਦੀਆਂ ਪੁਤਲੀਆਂ ਨਾਲ ਮਲਾਂਗੀ,",
       "translation_ru": "О подруга! (скажи мне тоже) я буду растирать твои стопы зрачками своих глаз,"
     },
     {
       "verse_id": 31574,
       "gurmukhi": "ਜਹਾ ਪਠਾਵਹੁ ਜਾਂਉ ਤਤੀ ਰੀ ॥੨॥",
-      "roman": "jahā paṭhāvahu jāu tatī rī",
+      "roman": "jahā paṭhāvah jāu tatī rī",
       "sahib_singh_pa": "ਤੂੰ ਮੈਨੂੰ ਜਿਥੇ ਭੀ (ਕਿਸੇ ਕੰਮ) ਭੇਜੇਂਗੀ ਮੈਂ ਉਥੇ ਹੀ (ਖ਼ੁਸ਼ੀ ਨਾਲ) ਜਾਵਾਂਗੀ ॥੨॥",
       "translation_ru": "куда бы ты ни послала меня, я с радостью пойду туда."
     },
@@ -151,7 +151,7 @@
     {
       "verse_id": 31576,
       "gurmukhi": "ਇਕ ਨਿਮਖ ਮਿਲਾਵਹੁ ਮੋਹਿ ਪ੍ਰਾਨਪਤੀ ਰੀ ॥੩॥",
-      "roman": "ik nimakh milāvahu moh prānpati rī",
+      "roman": "ik nimakh milāvah moh prānpati rī",
       "sahib_singh_pa": "ਅੱਖ ਝਮਕਣ ਜਿਤਨੇ ਸਮੇ ਵਾਸਤੇ ਹੀ ਤੂੰ ਮੈਨੂੰ ਜਿੰਦ ਦਾ ਮਾਲਕ ਪ੍ਰਭੂ ਮਿਲਾ ਦੇ ॥੩॥",
       "translation_ru": "соедини меня с Господом моей жизни хотя бы на мгновение."
     },
@@ -207,7 +207,7 @@
     {
       "verse_id": 31584,
       "gurmukhi": "ਬੈ ਖਰੀਦੁ ਹਉ ਦਾਸਰੋ ਤੇਰਾ ॥",
-      "roman": "bai kharīd hau dāsro terā",
+      "roman": "bē kharīd hau dāsro terā",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਮੁੱਲ ਖ਼ਰੀਦਿਆ ਹੋਇਆ ਤੇਰਾ ਨਿਮਾਣਾ ਜਿਹਾ ਸੇਵਕ ਹਾਂ,",
       "translation_ru": "О Господь! я купленный слуга Твой,"
     },
@@ -221,14 +221,14 @@
     {
       "verse_id": 31586,
       "gurmukhi": "ਕੋਟਿ ਦਾਸ ਜਾ ਕੈ ਦਰਬਾਰੇ ॥",
-      "roman": "koṭ dās jā kai darbāre",
+      "roman": "koṭ dās jā kē darbāre",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਉਹ ਪ੍ਰਭੂ ਐਸਾ ਹੈ ਕਿ ਕ੍ਰੋੜਾਂ ਸੇਵਕ ਉਸ ਦੇ ਦਰ ਤੇ (ਡਿੱਗੇ ਰਹਿੰਦੇ ਹਨ)",
       "translation_ru": "О брат! у Него миллионы слуг пребывают у Его двора,"
     },
     {
       "verse_id": 31587,
       "gurmukhi": "ਨਿਮਖ ਨਿਮਖ ਵਸੈ ਤਿਨੑ ਨਾਲੇ ॥੩॥",
-      "roman": "nimakh nimakh vasai tinh nāle",
+      "roman": "nimakh nimakh vasē tinh nāle",
       "sahib_singh_pa": "ਉਹ ਹਰ ਵੇਲੇ ਉਹਨਾਂ ਦੇ ਨਾਲ ਵੱਸਦਾ ਹੈ ॥੩॥",
       "translation_ru": "Он постоянно пребывает с ними."
     },
@@ -277,7 +277,7 @@
     {
       "verse_id": 31594,
       "gurmukhi": "ਵਿਰਲੈ ਕਾਹੂ ਨੇਤ੍ਰਹੁ ਡੀਠੀ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "virlai kāhū netrah ḍīṭhī",
+      "roman": "virlē kāhū netrah ḍīṭhī",
       "sahib_singh_pa": "ਪਰ ਕਿਸੇ ਵਿਰਲੇ ਹੀ ਮਨੁੱਖ ਨੇ ਉਸ ਨੂੰ ਅੱਖੀਂ ਵੇਖਿਆ ਹੈ (ਮਾਣਿਆ ਹੈ) ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "но лишь редкий человек увидел и испытал её."
     },
@@ -319,7 +319,7 @@
     {
       "verse_id": 31600,
       "gurmukhi": "ਨਾਨਕੁ ਬੋਲੈ ਹਰਿ ਹਰਿ ਬਾਣੀ ॥੪॥੬॥੧੨॥",
-      "roman": "nānak bolai har har bāṇī",
+      "roman": "nānak bolē har har bāṇī",
       "sahib_singh_pa": "(ਤਾਹੀਏਂ) ਨਾਨਕ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਉਚਾਰਦਾ ਰਹਿੰਦਾ ਹੈ ॥੪॥੬॥੧੨॥",
       "translation_ru": "поэтому Нанак произносит речь хвалы Господу."
     },
@@ -333,7 +333,7 @@
     {
       "verse_id": 31602,
       "gurmukhi": "ਜਾ ਕੈ ਦਰਸਿ ਪਾਪ ਕੋਟਿ ਉਤਾਰੇ ॥",
-      "roman": "jā kai daras pāp koṭ utāre",
+      "roman": "jā kē daras pāp koṭ utāre",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! (ਉਹ ਸੰਤ ਜਨ ਹੀ ਮੇਰੇ ਪਿਆਰੇ ਮਿੱਤਰ ਹਨ) ਜਿਨ੍ਹਾਂ ਦੇ ਦਰਸਨ ਨਾਲ ਕ੍ਰੋੜਾਂ ਪਾਪ ਲਹਿ ਜਾਂਦੇ ਹਨ,",
       "translation_ru": "О брат! те святые — мои друзья, при виде которых снимаются миллионы грехов,"
     },
@@ -382,7 +382,7 @@
     {
       "verse_id": 31609,
       "gurmukhi": "ਜਾ ਕੈ ਸਿਮਰਣਿ ਮੁਖ ਉਜਲਾਰੇ ॥੩॥",
-      "roman": "jā kai simran mukh ujlāre",
+      "roman": "jā kē simran mukh ujlāre",
       "sahib_singh_pa": "ਜਿਨ੍ਹਾਂ (ਦੇ ਦਿੱਤੇ ਹੋਏ ਹਰਿ-ਨਾਮ) ਦੇ ਸਿਮਰਨ ਨਾਲ (ਲੋਕ ਪਰਲੋਕ ਵਿਚ) ਮੂੰਹ ਉਜਲਾ ਹੁੰਦਾ ਹੈ ॥੩॥",
       "translation_ru": "памятование Имени, данное ими, делает лицо светлым в этом и ином мире."
     },

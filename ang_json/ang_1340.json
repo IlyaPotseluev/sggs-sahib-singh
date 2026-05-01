@@ -11,7 +11,7 @@
     {
       "verse_id": 57020,
       "gurmukhi": "ਗੁਰ ਕੀ ਬਾਣੀ ਜਿਸੁ ਮਨਿ ਵਸੈ ॥ ਦੂਖੁ ਦਰਦੁ ਸਭੁ ਤਾ ਕਾ ਨਸੈ ॥੧॥",
-      "roman": "gur kī bāṇī jis man vasai ॥ dūkh darad sabh tā kā nasai ॥1॥",
+      "roman": "gur kī bāṇī jis man vasē ॥ dūkh darad sabh tā kā nasē ॥1॥",
       "sahib_singh_pa": "ਜਿਸ (ਮਨੁੱਖ) ਦੇ ਮਨ ਵਿਚ ਸਤਿਗੁਰੂ ਦੀ ਬਾਣੀ ਟਿਕੀ ਰਹਿੰਦੀ ਹੈ, ਉਸ (ਮਨੁੱਖ) ਦਾ ਹਰੇਕ ਦਰਦ ਨਾਸ ਹੋ ਜਾਂਦਾ ਹੈ ॥੧॥",
       "translation_ru": "У того человека, в чьём уме пребывает Бани Сатгуру, всякая боль исчезает ॥1॥"
     },
@@ -53,7 +53,7 @@
     {
       "verse_id": 57026,
       "gurmukhi": "ਨਿਰਭੈ ਸਾਧ ਪਰੇ ਹਰਿ ਸਰਨਾ ॥੨॥",
-      "roman": "nirbhai sādh pare har sarnā ॥2॥",
+      "roman": "nirbhē sādh pare har sarnā ॥2॥",
       "sahib_singh_pa": "ਉਹਨਾਂ ਸੰਤ ਜਨਾਂ ਨੂੰ ਕੋਈ ਡਰ ਪੋਹ ਨਹੀਂ ਸਕਦਾ, ਉਹ ਸਦਾ ਪਰਮਾਤਮਾ ਦੀ ਸਰਨ ਪਏ ਰਹਿੰਦੇ ਹਨ ॥੨॥",
       "translation_ru": "Этих святых людей не может коснуться никакой страх; они всегда остаются в прибежище Бога ॥2॥"
     },
@@ -74,7 +74,7 @@
     {
       "verse_id": 57029,
       "gurmukhi": "ਗੁਰਿ ਪੂਰੈ ਅਪੁਨੇ ਕਰਿ ਰਾਖੇ ॥",
-      "roman": "gur pūrai apune kar rākhe ॥",
+      "roman": "gur pūrē apune kar rākhe ॥",
       "sahib_singh_pa": "ਪੂਰੇ ਗੁਰੂ ਨੇ ਜਿਨ੍ਹਾਂ ਨੂੰ ਆਪਣੇ ਬਣਾ ਕੇ (ਉਹਨਾਂ ਦੀ) ਰੱਖਿਆ ਕੀਤੀ,",
       "translation_ru": "Тех, кого полный Гуру сделал своими и защитил,"
     },
@@ -95,7 +95,7 @@
     {
       "verse_id": 57032,
       "gurmukhi": "ਗੁਰਿ ਪੂਰੈ ਪ੍ਰਭ ਸਿਉ ਲੈ ਮੇਲੇ ॥",
-      "roman": "gur pūrai prabh siu lai mele ॥",
+      "roman": "gur pūrē prabh siu lē mele ॥",
       "sahib_singh_pa": "ਜਿਨ੍ਹਾਂ ਨੂੰ ਪੂਰੇ ਗੁਰੂ ਨੇ ਪਰਮਾਤਮਾ ਨਾਲ ਲਿਆ ਜੋੜਿਆ।",
       "translation_ru": "тех полный Гуру соединил с Богом."
     },
@@ -109,7 +109,7 @@
     {
       "verse_id": 57034,
       "gurmukhi": "ਕਹੁ ਨਾਨਕ ਗੁਰਿ ਪੜਦਾ ਢਾਕਿਆ ॥੪॥੮॥",
-      "roman": "kahu nānak gur paṛdā ḍhākiā ॥4॥8॥",
+      "roman": "kah nānak gur paṛdā ḍhākiā ॥4॥8॥",
       "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਗੁਰੂ ਨੇ ਉਹਨਾਂ ਦੀ ਇੱਜ਼ਤ ਰੱਖ ਲਈ ॥੪॥੮॥",
       "translation_ru": "Говорит Нанак: Гуру сохранил их честь ॥4॥8॥"
     },
@@ -151,7 +151,7 @@
     {
       "verse_id": 57040,
       "gurmukhi": "ਨਿਤ ਉਠਿ ਗਾਵਹੁ ਪ੍ਰਭ ਕੀ ਬਾਣੀ ॥",
-      "roman": "nit uṭh gāvahu prabh kī bāṇī",
+      "roman": "nit uṭh gāvah prabh kī bāṇī",
       "sahib_singh_pa": "ਸਦਾ ਉੱਠ ਕੇ (ਨਿੱਤ ਆਹਰ ਨਾਲ) ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਗਾਵਿਆ ਕਰੋ।",
       "translation_ru": "Всегда вставая, с постоянным усердием, пойте Бани восхваления Бога."
     },
@@ -312,7 +312,7 @@
     {
       "verse_id": 57063,
       "gurmukhi": "ਜਲਿ ਥਲਿ ਮਹੀਅਲਿ ਪੇਖੈ ਭਰਪੂਰਿ ॥",
-      "roman": "jal thal mahīal pēkhai bharpūr",
+      "roman": "jal thal mahīal pēkhē bharpūr",
       "sahib_singh_pa": "(ਫਿਰ, ਉਹ ਮਨੁੱਖ) ਪਾਣੀ ਵਿਚ ਧਰਤੀ ਵਿਚ ਆਕਾਸ਼ ਵਿਚ (ਹਰ ਥਾਂ) ਪਰਮਾਤਮਾ ਨੂੰ ਵੱਸਦਾ ਵੇਖਦਾ ਹੈ।",
       "translation_ru": "Затем тот человек видит Бога пребывающим повсюду — в воде, на земле и в небе."
     },

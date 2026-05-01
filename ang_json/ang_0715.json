@@ -109,7 +109,7 @@
     {
       "verse_id": 30682,
       "gurmukhi": "ਹਮਾਰੈ ਏਕੈ ਹਰੀ ਹਰੀ ॥",
-      "roman": "hamārai ekai harī harī",
+      "roman": "hamārē ekē harī harī",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਮੈਂ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਇਕ ਪਰਮਾਤਮਾ ਦਾ ਹੀ ਆਸਰਾ ਰੱਖਿਆ ਹੋਇਆ ਹੈ।",
       "translation_ru": "О брат! Я держу в сердце опору только на одного Бога."
     },
@@ -123,7 +123,7 @@
     {
       "verse_id": 30684,
       "gurmukhi": "ਵਡੈ ਭਾਗਿ ਗੁਰੁ ਅਪੁਨਾ ਪਾਇਓ ॥",
-      "roman": "vaḍai bhāg gur apunā pāio",
+      "roman": "vaḍē bhāg gur apunā pāio",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਬੜੀ ਕਿਸਮਤਿ ਨਾਲ ਮੈਂ ਆਪਣਾ ਗੁਰੂ ਲੱਭਾ।",
       "translation_ru": "О брат! По великой удаче я нашёл своего Гуру."
     },
@@ -186,14 +186,14 @@
     {
       "verse_id": 30693,
       "gurmukhi": "ਰੂੜੋ ਮਨੁ ਹਰਿ ਰੰਗੋ ਲੋੜੈ ॥",
-      "roman": "rūṛo man har rango loṛai",
+      "roman": "rūṛo man har rango loṛē",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ! ਉਂਞ ਤਾਂ ਇਹ) ਮਨ ਪਰਮਾਤਮਾ ਦਾ ਸੋਹਣਾ ਪ੍ਰੇਮ-ਰੰਗ (ਪ੍ਰਾਪਤ ਕਰਨਾ) ਚਾਹੁੰਦਾ ਰਹਿੰਦਾ ਹੈ,",
       "translation_ru": "О брат! Этот ум желает обрести прекрасный цвет любви к Богу."
     },
     {
       "verse_id": 30694,
       "gurmukhi": "ਗਾਲੀ ਹਰਿ ਨੀਹੁ ਨ ਹੋਇ ॥ ਰਹਾਉ ॥",
-      "roman": "gālī har nīhu na hoi rahāu",
+      "roman": "gālī har nīh na hoi rahāu",
       "sahib_singh_pa": "ਪਰ ਨਿਰੀਆਂ ਗੱਲਾਂ ਨਾਲ ਪ੍ਰੇਮ ਨਹੀਂ ਮਿਲਦਾ ਰਹਾਉ॥",
       "translation_ru": "Но одними разговорами любовь не достигается. Пауза."
     },
@@ -214,14 +214,14 @@
     {
       "verse_id": 30697,
       "gurmukhi": "ਇਹ ਬੁਧਿ ਪਾਈ ਮੈ ਸਾਧੂ ਕੰਨਹੁ ਲੇਖੁ ਲਿਖਿਓ ਧੁਰਿ ਮਾਥੈ ॥",
-      "roman": "ih budh pāī mai sādhū kannahu lekh likhio dhur māthai",
+      "roman": "ih budh pāī mē sādhū kannah lekh likhio dhur māthē",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ! ਮਨ ਦੀ ਭਟਕਣਾ ਦੂਰ ਕਰਨ ਦੀ) ਇਹ ਅਕਲ ਮੈਂ ਗੁਰੂ ਪਾਸੋਂ ਹਾਸਲ ਕੀਤੀ, ਮੇਰੇ ਮੱਥੇ ਉਤੇ (ਗੁਰੂ ਦੇ ਮਿਲਾਪ ਦਾ) ਲੇਖ ਧੁਰ ਦਰਗਾਹ ਤੋਂ ਲਿਖਿਆ ਹੋਇਆ ਸੀ।",
       "translation_ru": "Это понимание я получила от Гуру, и оно было предначертано мне свыше."
     },
     {
       "verse_id": 30698,
       "gurmukhi": "ਇਹ ਬਿਧਿ ਨਾਨਕ ਹਰਿ ਨੈਣ ਅਲੋਇ ॥੨॥੧॥੧੮॥",
-      "roman": "ih bidh nānak har nain aloi",
+      "roman": "ih bidh nānak har nēn aloi",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਆਖ-) ਇਸ ਤਰ੍ਹਾਂ ਮੈਂ ਪਰਮਾਤਮਾ ਨੂੰ (ਹਰ ਥਾਂ ਵੱਸਦਾ) ਆਪਣੀਆਂ ਅੱਖਾਂ ਨਾਲ ਵੇਖ ਲਿਆ ॥੨॥੧॥੧੮॥",
       "translation_ru": "Так, говорит Нанак, я увидел Бога своими глазами повсюду."
     },
@@ -249,7 +249,7 @@
     {
       "verse_id": 30702,
       "gurmukhi": "ਘਣੋ ਘਣੋ ਘਣੋ ਸਦ ਲੋੜੈ ਬਿਨੁ ਲਹਣੇ ਕੈਠੈ ਪਾਇਓ ਰੇ ॥",
-      "roman": "ghaṇo ghaṇo ghaṇo sad loṛai bin lahṇe kaiṭhai pāio re",
+      "roman": "ghaṇo ghaṇo ghaṇo sad loṛē bin lahṇe kēṭhē pāio re",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! (ਮੋਹ ਵਿਚ ਫਸਿਆ ਹੋਇਆ ਹਿਰਦਾ) ਸਦਾ ਬਹੁਤ ਬਹੁਤ (ਮਾਇਆ) ਮੰਗਦਾ ਰਹਿੰਦਾ ਹੈ, ਪਰ ਭਾਗਾਂ ਤੋਂ ਬਿਨਾ ਕਿਥੋਂ ਪ੍ਰਾਪਤ ਕਰੇ?",
       "translation_ru": "Сердце постоянно желает всё больше и больше, но без удачи откуда получить?"
     },

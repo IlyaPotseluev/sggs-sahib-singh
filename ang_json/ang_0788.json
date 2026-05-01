@@ -53,14 +53,14 @@
     {
       "verse_id": 33454,
       "gurmukhi": "ਤੁਰਦੇ ਕਉ ਤੁਰਦਾ ਮਿਲੈ ਉਡਤੇ ਕਉ ਉਡਤਾ ॥",
-      "roman": "turde kau turdā milai uḍte kau uḍtā",
+      "roman": "turde kau turdā milē uḍte kau uḍtā",
       "sahib_singh_pa": "(ਕੀੜੀ ਤੋਂ ਲੈ ਕੇ ਹਾਥੀ ਤੇ ਮਨੁੱਖ ਤਕ) ਤੁਰਨ ਵਾਲੇ ਨਾਲ ਤੁਰਨ ਵਾਲਾ ਸਾਥ ਕਰਦਾ ਹੈ ਤੇ ਉੱਡਣ ਵਾਲੇ (ਭਾਵ, ਪੰਛੀ) ਨਾਲ ਉੱਡਣ ਵਾਲਾ।",
       "translation_ru": "К идущему присоединяется идущий, а к летающему — летающий."
     },
     {
       "verse_id": 33455,
       "gurmukhi": "ਜੀਵਤੇ ਕਉ ਜੀਵਤਾ ਮਿਲੈ ਮੂਏ ਕਉ ਮੂਆ ॥",
-      "roman": "jīvte kau jīvtā milai mūe kau mūā",
+      "roman": "jīvte kau jīvtā milē mūe kau mūā",
       "sahib_singh_pa": "ਜ਼ਿੰਦਾ-ਦਿਲ ਨੂੰ ਜ਼ਿੰਦਾ-ਦਿਲ ਮਨੁੱਖ ਆ ਮਿਲਦਾ ਹੈ ਤੇ ਮੁਰਦਾ-ਦਿਲ ਨੂੰ ਮੁਰਦਾ-ਦਿਲ, (ਭਾਵ, ਹਰੇਕ ਜੀਵ ਆਪੋ ਆਪਣੇ ਸੁਭਾਵ ਵਾਲੇ ਨਾਲ ਹੀ ਸੰਗ ਕਰਨਾ ਪਸੰਦ ਕਰਦਾ ਹੈ)।",
       "translation_ru": "К живому духом приходит живой духом, а к мёртвому духом — мёртвый."
     },
@@ -88,7 +88,7 @@
     {
       "verse_id": 33459,
       "gurmukhi": "ਹਉਮੈ ਮਾਰਿ ਮਨੁ ਨਿਰਮਲਾ ਹਰਿ ਨਾਮੁ ਉਰਿ ਧਾਰੀ ॥",
-      "roman": "haumai mār man nirmalā har nām ur dhārī",
+      "roman": "haumē mār man nirmalā har nām ur dhārī",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਹਿਰਦੇ ਵਿਚ ਰੱਖ ਕੇ ਤੇ ਹਉਮੈ ਮਾਰ ਕੇ ਉਹਨਾਂ ਦਾ ਮਨ ਪਵਿਤ੍ਰ ਹੋ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "Уничтожив Хоумэ и удерживая Имя Бога в сердце, их ум становится чистым."
     },
@@ -130,7 +130,7 @@
     {
       "verse_id": 33465,
       "gurmukhi": "ਮਤੁ ਸੇਜੈ ਕੰਤੁ ਨ ਆਵਈ ਏਵੈ ਬਿਰਥਾ ਜਾਇ ॥",
-      "roman": "mat sejai kant na āvai evai birthā jāi",
+      "roman": "mat sejē kant na āvē evē birthā jāi",
       "sahib_singh_pa": "(ਨਹੀਂ ਤਾਂ) ਮਤਾਂ ਖਸਮ ਸੇਜ ਤੇ ਆਵੇ ਹੀ ਨਾਹ ਤੇ ਸਿੰਗਾਰ ਐਵੇਂ ਵਿਅਰਥ ਹੀ ਚਲਾ ਜਾਏ।",
       "translation_ru": "Иначе может случиться, что муж не придёт к ложу, и украшение окажется напрасным."
     },
@@ -144,7 +144,7 @@
     {
       "verse_id": 33467,
       "gurmukhi": "ਕੀਆ ਤਉ ਪਰਵਾਣੁ ਹੈ ਜਾ ਸਹੁ ਧਰੇ ਪਿਆਰੁ ॥",
-      "roman": "kīā tau parvāṇ hai jā sahu dhare piār",
+      "roman": "kīā tau parvāṇ hē jā sah dhare piār",
       "sahib_singh_pa": "ਇਸਤ੍ਰੀ ਦਾ ਸਿੰਗਾਰ ਕੀਤਾ ਹੋਇਆ ਤਾਂ ਹੀ ਕਬੂਲ ਹੈ ਜੇ ਖਸਮ ਉਸ ਨੂੰ ਪਿਆਰ ਕਰੇ।",
       "translation_ru": "Украшение принимается лишь тогда, когда супруг проявляет любовь."
     },
@@ -179,7 +179,7 @@
     {
       "verse_id": 33472,
       "gurmukhi": "ਸੇਜੈ ਕੰਤੁ ਨ ਆਇਓ ਏਵੈ ਭਇਆ ਵਿਕਾਰੁ ॥੨॥",
-      "roman": "sejai kant na āio evai bhaiā vikār",
+      "roman": "sejē kant na āio evē bhēā vikār",
       "sahib_singh_pa": "(ਪਰ ਜੇ) ਖਸਮ ਸੇਜ ਤੇ ਨਾਹ ਆਇਆ ਤਾਂ ਇਹ ਸਿੰਗਾਰ ਸਗੋਂ ਵਿਕਾਰ ਬਣ ਗਿਆ (ਕਿਉਂਕਿ ਵਿਛੋੜੇ ਦੇ ਕਾਰਣ ਇਹ ਦੁਖਦਾਈ ਹੋ ਗਿਆ) ॥੨॥",
       "translation_ru": "Но если муж не пришёл, украшение становится бесполезным и превращается в порок."
     },
@@ -214,35 +214,35 @@
     {
       "verse_id": 33477,
       "gurmukhi": "ਭੈ ਬਿਨੁ ਭਗਤਿ ਨ ਹੋਵਈ ਨਾਮਿ ਨ ਲਗੈ ਪਿਆਰੁ ॥",
-      "roman": "bhai bin bhagat na hovai nām na lagai piār",
+      "roman": "bhē bin bhagat na hovē nām na lagē piār",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਦੇ ਡਰ (ਵਿਚ ਰਹਿਣ) ਤੋਂ ਬਿਨਾ ਉਸ ਦੀ ਭਗਤੀ ਨਹੀਂ ਹੋ ਸਕਦੀ ਤੇ ਉਸ ਦੇ ਨਾਮ ਵਿਚ ਪਿਆਰ ਨਹੀਂ ਬਣ ਸਕਦਾ (ਭਾਵ, ਉਸ ਦਾ ਨਾਮ ਪਿਆਰਾ ਨਹੀਂ ਲੱਗ ਸਕਦਾ)।",
       "translation_ru": "Без страха Божьего нет преданности и не возникает любовь к Имени."
     },
     {
       "verse_id": 33478,
       "gurmukhi": "ਸਤਿਗੁਰਿ ਮਿਲਿਐ ਭਉ ਊਪਜੈ ਭੈ ਭਾਇ ਰੰਗੁ ਸਵਾਰਿ ॥",
-      "roman": "satigur miliāi bhau ūpajai bhai bhāi rang savār",
+      "roman": "satigur miliāi bhau ūpajē bhē bhāi rang savār",
       "sahib_singh_pa": "ਇਹ ਡਰ ਤਾਂ ਹੀ ਪੈਦਾ ਹੁੰਦਾ ਹੈ ਜੇ ਗੁਰੂ ਮਿਲੇ, (ਇਸ ਤਰ੍ਹਾਂ) ਡਰ ਦੀ ਰਾਹੀਂ ਤੇ ਪਿਆਰ ਦੀ ਰਾਹੀਂ (ਭਗਤੀ ਦਾ) ਰੰਗ ਸੋਹਣਾ ਚੜ੍ਹਦਾ ਹੈ।",
       "translation_ru": "Этот страх возникает при встрече с Гуру, и через страх и любовь совершенствуется духовный цвет."
     },
     {
       "verse_id": 33479,
       "gurmukhi": "ਤਨੁ ਮਨੁ ਰਤਾ ਰੰਗ ਸਿਉ ਹਉਮੈ ਤ੍ਰਿਸਨਾ ਮਾਰਿ ॥",
-      "roman": "tan man ratā rang siu haumai trisnā mār",
+      "roman": "tan man ratā rang siu haumē trisnā mār",
       "sahib_singh_pa": "(ਪ੍ਰਭੂ ਦੇ ਡਰ ਤੇ ਪਿਆਰ ਦੀ ਸਹੈਤਾ ਨਾਲ) ਹਉਮੈ ਤੇ ਤ੍ਰਿਸ਼ਨਾ ਨੂੰ ਮਾਰ ਕੇ ਮਨੁੱਖ ਦਾ ਮਨ ਤੇ ਸਰੀਰ (ਪ੍ਰਭੂ ਦੀ ਭਗਤੀ ਦੇ) ਰੰਗ ਨਾਲ ਰੰਗੇ ਜਾਂਦੇ ਹਨ।",
       "translation_ru": "Убив Хоумэ и жажду, тело и ум окрашиваются в этот цвет."
     },
     {
       "verse_id": 33480,
       "gurmukhi": "ਮਨੁ ਤਨੁ ਨਿਰਮਲੁ ਅਤਿ ਸੋਹਣਾ ਭੇਟਿਆ ਕ੍ਰਿਸਨ ਮੁਰਾਰਿ ॥",
-      "roman": "man tan nirmal ati sohnā bheṭiā krisan murār",
+      "roman": "man tan nirmal at sohnā bheṭiā krisan murār",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਨੂੰ ਮਿਲਿਆਂ ਮਨ ਤੇ ਸਰੀਰ ਪਵਿਤ੍ਰ ਤੇ ਸੁੰਦਰ ਹੋ ਜਾਂਦੇ ਹਨ।",
       "translation_ru": "Встретив Бога, ум и тело становятся чистыми и прекрасными."
     },
     {
       "verse_id": 33481,
       "gurmukhi": "ਭਉ ਭਾਉ ਸਭੁ ਤਿਸ ਦਾ ਸੋ ਸਚੁ ਵਰਤੈ ਸੰਸਾਰਿ ॥੯॥",
-      "roman": "bhau bhāu sabh tis dā so sach vartai sansār",
+      "roman": "bhau bhāu sabh tis dā so sach vartē sansār",
       "sahib_singh_pa": "ਇਹ ਡਰ ਤੇ ਪ੍ਰੇਮ ਸਭ ਕੁਝ ਜਿਸ ਪ੍ਰਭੂ ਦਾ (ਬਖ਼ਸ਼ਿਆ ਮਿਲਦਾ) ਹੈ ਉਹ ਆਪ ਜਗਤ ਵਿਚ (ਹਰ ਥਾਂ) ਮੌਜੂਦ ਹੈ ॥੯॥",
       "translation_ru": "И страх, и любовь — всё от Него; этот Истинный присутствует во всём мире."
     },
@@ -256,7 +256,7 @@
     {
       "verse_id": 33483,
       "gurmukhi": "ਵਾਹੁ ਖਸਮ ਤੂ ਵਾਹੁ ਜਿਨਿ ਰਚਿ ਰਚਨਾ ਹਮ ਕੀਏ ॥",
-      "roman": "vāhu khasam tū vāhu jin rach rachnā ham kīe",
+      "roman": "vāh khasam tū vāh jin rach rachnā ham kīe",
       "sahib_singh_pa": "ਹੇ ਖਸਮ! ਤੂੰ ਧੰਨ ਹੈਂ! ਤੂੰ ਧੰਨ ਹੈਂ! ਜਿਸ ਜਗਤ-ਰਚਨਾ ਰਚ ਕੇ ਅਸਾਨੂੰ (ਜੀਵਾਂ ਨੂੰ) ਪੈਦਾ ਕੀਤਾ।",
       "translation_ru": "О Господь! Ты достоин восхваления, Ты создал это творение и нас."
     },
@@ -270,21 +270,21 @@
     {
       "verse_id": 33485,
       "gurmukhi": "ਆਪਿ ਖੜੋਵਹਿ ਆਪਿ ਕਰਿ ਆਪੀਣੈ ਆਪਾਹੁ ॥",
-      "roman": "āp khaṛovah āp kar āpīṇai āpāh",
+      "roman": "āp khaṛovah āp kar āpīṇē āpāh",
       "sahib_singh_pa": "ਤੂੰ ਆਪ ਹੀ ਸਭ ਨੂੰ ਪੈਦਾ ਕਰਕੇ ਸਭ ਵਿਚ ਆਪ ਵਿਆਪਕ ਹੈਂ ਤੇ (ਨਿਰਲੇਪ ਭੀ ਹੈਂ)।",
       "translation_ru": "Ты Сам создаёшь всё и Сам пребываешь во всём."
     },
     {
       "verse_id": 33486,
       "gurmukhi": "ਗੁਰਮੁਖਿ ਸੇਵਾ ਥਾਇ ਪਵੈ ਉਨਮਨਿ ਤਤੁ ਕਮਾਹੁ ॥",
-      "roman": "gurmukh sevā thāi pavai unman tat kamāh",
+      "roman": "gurmukh sevā thāi pavē unman tat kamāh",
       "sahib_singh_pa": "ਉਤਸ਼ਾਹ ਨਾਲ ਤੇਰੇ ਨਾਮ ਦੀ ਕਮਾਈ ਕਰ ਕੇ ਗੁਰਮੁਖਾਂ ਦੀ ਮਿਹਨਤ (ਤੇਰੇ ਦਰ ਤੇ) ਕਬੂਲ ਪੈਂਦੀ ਹੈ।",
       "translation_ru": "Служение гурмухов принимается, когда они с усердием практикуют истину."
     },
     {
       "verse_id": 33487,
       "gurmukhi": "ਮਸਕਤਿ ਲਹਹੁ ਮਜੂਰੀਆ ਮੰਗਿ ਮੰਗਿ ਖਸਮ ਦਰਾਹੁ ॥",
-      "roman": "maskat lahahu majūrīā mang mang khasam darāh",
+      "roman": "maskat lahah majūrīā mang mang khasam darāh",
       "sahib_singh_pa": "ਉਹ ਬੰਦਗੀ ਦੀ ਘਾਲ ਘਾਲ ਕੇ, ਹੇ ਖਸਮ! ਤੇਰੇ ਦਰ ਤੋਂ ਮੰਗ ਮੰਗ ਕੇ ਮਜੂਰੀ ਲੈਂਦੇ ਹਨ।",
       "translation_ru": "Они трудятся в служении и получают вознаграждение, прося у Господа."
     },
@@ -312,7 +312,7 @@
     {
       "verse_id": 33491,
       "gurmukhi": "ਤਿਨ ਜਰੁ ਵੈਰੀ ਨਾਨਕਾ ਜਿ ਬੁਢੇ ਥੀਇ ਮਰੰਨਿ ॥੨॥",
-      "roman": "tin jar vairī nānakā ji buḍhe thī marann",
+      "roman": "tin jar vērī nānakā ji buḍhe thī marann",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਬੁਢੇਪਾ ਇਹਨਾਂ ਦਾ ਵੈਰੀ ਹੈ, ਕਿਉਂਕਿ ਬੁੱਢੇ ਹੋ ਕੇ ਇਹ ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ ॥੨॥",
       "translation_ru": "О Нанак! Старость — их враг, ведь состарившись, они погибают."
     }

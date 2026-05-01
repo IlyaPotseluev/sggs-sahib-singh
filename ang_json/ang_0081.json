@@ -4,7 +4,7 @@
     {
       "verse_id": 3222,
       "gurmukhi": "ਅੰਮ੍ਰਿਤੁ ਹਰਿ ਪੀਵਤੇ ਸਦਾ ਥਿਰੁ ਥੀਵਤੇ ਬਿਖੈ ਬਨੁ ਫੀਕਾ ਜਾਨਿਆ ॥",
-      "roman": "amrit har pīvte sadā thir thīvte bikhai ban fīkā jāniā",
+      "roman": "amrit har pīvte sadā thir thīvte bikhē ban fīkā jāniā",
       "sahib_singh_pa": "ਭਗਤ-ਜਨ ਨਾਮ-ਅੰਮ੍ਰਿਤ ਸਦਾ ਪੀਂਦੇ ਹਨ ਤੇ (ਵਿਸ਼ਿਆਂ ਵਲੋਂ) ਸਦਾ ਅਡੋਲ-ਚਿੱਤ ਟਿਕੇ ਰਹਿੰਦੇ ਹਨ। (ਸਿਮਰਨ ਦੀ ਬਰਕਤਿ ਨਾਲ ਉਹਨਾਂ ਨੇ) ਵਿਸ਼ਿਆਂ ਦੇ ਪਾਣੀ ਨੂੰ ਬੇ-ਸੁਆਦ ਜਾਣ ਲਿਆ ਹੈ।",
       "translation_ru": "Они постоянно пьют нектар Имени и остаются устойчивыми к мирским желаниям, считая их безвкусными."
     },
@@ -25,7 +25,7 @@
     {
       "verse_id": 3225,
       "gurmukhi": "ਇਕੁ ਤਿਲੁ ਨਹੀ ਵਿਸਰੈ ਪ੍ਰਾਨ ਆਧਾਰਾ ਜਪਿ ਜਪਿ ਨਾਨਕ ਜੀਵਤੇ ॥੩॥",
-      "roman": "ik til nahī visrai prān adhārā jap jap nānak jīvte",
+      "roman": "ik til nahī visrē prān adhārā jap jap nānak jīvte",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਭਗਤ ਜਨਾਂ ਨੂੰ ਪ੍ਰਾਣਾਂ ਦਾ ਆਸਰਾ ਪ੍ਰਭੂ-ਨਾਮ ਰਤਾ ਜਿਤਨਾ ਸਮਾ ਭੀ ਨਹੀਂ ਭੁੱਲਦਾ। ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ (ਹਰ ਵੇਲੇ) ਜਪ ਜਪ ਕੇ ਉਹ ਆਤਮਕ ਜੀਵਨ ਹਾਸਲ ਕਰਦੇ ਹਨ ॥੩॥",
       "translation_ru": "О Нанак! Опора жизни — Имя — не забывается ими ни на мгновение; постоянно поминая его, они обретают духовную жизнь."
     },
@@ -53,7 +53,7 @@
     {
       "verse_id": 3229,
       "gurmukhi": "ਛੰਤੁ ॥",
-      "roman": "chhantu",
+      "roman": "chhant",
       "sahib_singh_pa": "None",
       "translation_ru": ""
     },
@@ -67,7 +67,7 @@
     {
       "verse_id": 3231,
       "gurmukhi": "ਸੰਤਨ ਕੈ ਪਰਸਾਦਿ ਅਗਾਧਿ ਕੰਠੇ ਲਗਿ ਸੋਹਿਆ ਜੀਉ ॥",
-      "roman": "santan kai parsād agādh kaṇṭhe lag sohiā jīo",
+      "roman": "santan kē parsād agādh kaṇṭhe lag sohiā jīo",
       "sahib_singh_pa": "ਭਗਤ ਜਨਾਂ ਦੀ ਹੀ ਕਿਰਪਾ ਨਾਲ (ਕੋਈ ਵਡ-ਭਾਗੀ ਮਨੁੱਖ) ਅਥਾਹ ਪ੍ਰਭੂ ਦੇ ਗਲ ਲੱਗ ਕੇ ਸੋਹਣੇ ਜੀਵਨ ਵਾਲਾ ਬਣਦਾ ਹੈ।",
       "translation_ru": "По милости святых (кто-то удачливый) прижимается к Бесконечному Господу и становится прекрасным жизнью."
     },
@@ -123,7 +123,7 @@
     {
       "verse_id": 3239,
       "gurmukhi": "ਛੰਤੁ ॥",
-      "roman": "chhantu",
+      "roman": "chhant",
       "sahib_singh_pa": "None",
       "translation_ru": ""
     },
@@ -151,7 +151,7 @@
     {
       "verse_id": 3243,
       "gurmukhi": "ਕਰੁ ਗਹਿ ਲੀਨੇ ਹਰਿ ਜਸੋ ਦੀਨੇ ਜੋਨਿ ਨਾ ਧਾਵੈ ਨਹ ਮਰੀ ॥",
-      "roman": "kar gah līne har jaso dīne jon na dhāvai nah marī",
+      "roman": "kar gah līne har jaso dīne jon na dhāvē nah marī",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਨੇ ਜਿਸ (ਵਡਭਾਗੀ ਮਨੁੱਖ) ਦਾ ਹੱਥ ਫੜ ਲਿਆ, ਉਸ ਨੂੰ ਉਸ ਨੇ ਆਪਣੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ (ਦੀ ਦਾਤਿ) ਦਿੱਤੀ, ਉਹ ਮਨੁੱਖ ਫਿਰ ਜੂਨਾਂ ਵਿਚ ਨਹੀਂ ਦੌੜਿਆ ਫਿਰਦਾ, ਉਸ ਨੂੰ ਆਤਮਕ ਮੌਤ ਨਹੀਂ ਆਉਂਦੀ।",
       "translation_ru": "Того, чью руку держит Господь, Он наделяет хвалой; тот не блуждает в рождениях и не испытывает духовной смерти."
     },
@@ -165,7 +165,7 @@
     {
       "verse_id": 3245,
       "gurmukhi": "ਕਥਨੁ ਨ ਜਾਇ ਅਕਥੁ ਸੁਆਮੀ ਸਦਕੈ ਜਾਇ ਨਾਨਕੁ ਵਾਰਿਆ ॥੫॥੧॥੩॥",
-      "roman": "kathan na jāi akath suāmī sadkai jāi nānak vāriā",
+      "roman": "kathan na jāi akath suāmī sadkē jāi nānak vāriā",
       "sahib_singh_pa": "ਖਸਮ-ਪ੍ਰਭੂ ਅਕੱਥ ਹੈ (ਉਸ ਦਾ ਰੂਪ) ਬਿਆਨ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ। ਨਾਨਕ ਉਸ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹੈ ਕੁਰਬਾਨ ਜਾਂਦਾ ਹੈ ॥੫॥੧॥੩॥",
       "translation_ru": "Господь непостижим, Его невозможно описать; Нанак жертвует собой ради Него."
     },
@@ -186,7 +186,7 @@
     {
       "verse_id": 3248,
       "gurmukhi": "ਹਰਿ ਹਰਿ ਉਤਮੁ ਨਾਮੁ ਹੈ ਜਿਨਿ ਸਿਰਿਆ ਸਭੁ ਕੋਇ ਜੀਉ ॥",
-      "roman": "har har utam nām hai jin siriā sabh koi jīo",
+      "roman": "har har utam nām hē jin siriā sabh koi jīo",
       "sahib_singh_pa": "ਜਿਸ ਹਰੀ ਨੇ (ਜਗਤ ਵਿਚ) ਹਰੇਕ ਜੀਵ ਨੂੰ ਪੈਦਾ ਕੀਤਾ ਹੈ, ਉਸ ਹਰੀ ਦਾ ਨਾਮ ਸ੍ਰੇਸ਼ਟ ਹੈ।",
       "translation_ru": "Имя Хари — высшее; Он создал всех существ."
     },
@@ -221,7 +221,7 @@
     {
       "verse_id": 3253,
       "gurmukhi": "ਮੈ ਹਰਿ ਬਿਨੁ ਅਵਰੁ ਨ ਕੋਇ ॥",
-      "roman": "mai har bin avar na koi",
+      "roman": "mē har bin avar na koi",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ!) ਮੇਰਾ ਤਾਂ ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਕੋਈ ਹੋਰ (ਆਸਰਾ) ਨਹੀਂ ਹੈ।",
       "translation_ru": "У меня нет иной опоры, кроме Бога."
     },

@@ -18,28 +18,28 @@
     {
       "verse_id": 33546,
       "gurmukhi": "ਸਿਫਤੀ ਸਾਰ ਨ ਜਾਣਨੀ ਸਦਾ ਵਸੈ ਸੈਤਾਨੁ ॥",
-      "roman": "siftī sār na jāṇnī sadā vasai saitān",
+      "roman": "siftī sār na jāṇnī sadā vasē sētān",
       "sahib_singh_pa": "ਰੱਬ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਕਰਨ ਦੀ ਇਹਨਾਂ ਨੂੰ ਸੂਝ ਨਹੀਂ ਹੁੰਦੀ, (ਇਹਨਾਂ ਦੇ ਮਨ ਵਿਚ, ਮਾਨੋ) ਸਦਾ ਸ਼ੈਤਾਨ ਵੱਸਦਾ ਹੈ।",
       "translation_ru": "Они не понимают, как прославлять Бога; в их уме, словно, постоянно обитает шайтан."
     },
     {
       "verse_id": 33547,
       "gurmukhi": "ਗਦਹੁ ਚੰਦਨਿ ਖਉਲੀਐ ਭੀ ਸਾਹੂ ਸਿਉ ਪਾਣੁ ॥",
-      "roman": "gadhū chandan kholīai bhī sāhū siu pāṇ",
+      "roman": "gadh chandan kholīai bhī sāhū siu pāṇ",
       "sahib_singh_pa": "(ਸਮਝਾਇਆਂ ਭੀ ਸਮਝਦੇ ਨਹੀਂ, ਜਿਵੇਂ) ਖੋਤੇ ਨੂੰ ਜੇ ਚੰਦਨ ਨਾਲ ਮਲੀਏ ਤਾਂ ਭੀ ਉਸ ਦੀ ਵਰਤੋਂ ਵਿਹਾਰ ਸੁਆਹ ਨਾਲ ਹੀ ਹੁੰਦੀ ਹੈ (ਪਿਛਲੇ ਕੀਤੇ ਕਰਮਾਂ ਦਾ ਗੇੜ ਇਸ ਮੰਦੇ ਰਾਹ ਤੋਂ ਹਟਣ ਨਹੀਂ ਦੇਂਦਾ)।",
       "translation_ru": "Даже если осла натереть сандалом, он всё равно ведёт себя по-прежнему; круг прежних поступков не даёт оставить дурной путь."
     },
     {
       "verse_id": 33548,
       "gurmukhi": "ਨਾਨਕ ਕੂੜੈ ਕਤਿਐ ਕੂੜਾ ਤਣੀਐ ਤਾਣੁ ॥",
-      "roman": "nānak kūṛai katiā kūṛā taṇīai tāṇ",
+      "roman": "nānak kūṛē katiā kūṛā taṇīē tāṇ",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! 'ਕੂੜ' (ਦਾ ਸੂਤਰ) ਕੱਤਣ ਨਾਲ 'ਕੂੜ' ਦਾ ਹੀ ਤਾਣਾ ਚਾਹੀਦਾ ਹੈ,",
       "translation_ru": "О Нанак! Если прясть нить лжи, то и основа будет ложной."
     },
     {
       "verse_id": 33549,
       "gurmukhi": "ਕੂੜਾ ਕਪੜੁ ਕਛੀਐ ਕੂੜਾ ਪੈਨਣੁ ਮਾਣੁ ॥੧॥",
-      "roman": "kūṛā kapṛu kachhīai kūṛā painaṇ māṇ",
+      "roman": "kūṛā kapṛu kachhīē kūṛā pēnaṇ māṇ",
       "sahib_singh_pa": "ਕੂੜ ਦਾ ਹੀ ਕੱਪੜਾ ਕੱਛੀਦਾ ਹੈ ਤੇ ਪਹਿਨੀਦਾ ਹੈ (ਇਸ 'ਕੂੜ'-ਰੂਪ ਪੁਸ਼ਾਕ ਦੇ ਕਾਰਨ 'ਕੂੜ' ਹੀ ਵਡਿਆਈ ਮਿਲਦੀ ਹੈ (ਭਾਵ, 'ਖਤਿਅਹੁ ਜੰਮੇ ਖਤੇ ਕਰਨਿ ਤ ਖਤਿਆ ਵਿਚਿ ਪਾਹਿ'); ॥੧॥",
       "translation_ru": "Из лжи ткут одежду и её носят; и из-за этой ложной одежды получают лишь ложную славу."
     },
@@ -67,7 +67,7 @@
     {
       "verse_id": 33553,
       "gurmukhi": "ਨਾਨਕ ਜਿਨੑੀ ਸੁਣਿ ਕੈ ਮੰਨਿਆ ਹਉ ਤਿਨਾ ਵਿਟਹੁ ਕੁਰਬਾਣੁ ॥੨॥",
-      "roman": "nānak jinī suṇ kai manniā hau tinā vitahu kurbāṇ",
+      "roman": "nānak jinī suṇ kē manniā hau tinā vitahu kurbāṇ",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਜਿਨ੍ਹਾਂ ਬੰਦਿਆਂ ਨੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸੁਣ ਕੇ ਉਸ ਵਿਚ ਮਨ ਨੂੰ ਜੋੜ ਲਿਆ ਹੈ, ਮੈਂ ਉਹਨਾਂ ਤੋਂ ਸਦਕੇ ਹਾਂ ॥੨॥",
       "translation_ru": "О Нанак! Я жертвую собой ради тех, кто, услышав Имя Бога, принял его сердцем."
     },
@@ -81,14 +81,14 @@
     {
       "verse_id": 33555,
       "gurmukhi": "ਮਾਇਆ ਮੋਹੁ ਸਭੁ ਕੂੜੁ ਹੈ ਕੂੜੋ ਹੋਇ ਗਇਆ ॥",
-      "roman": "māiā moh sabh kūṛ hai kūṛo hoi gaiā",
+      "roman": "māiā moh sabh kūṛ hē kūṛo hoi gēā",
       "sahib_singh_pa": "ਮਾਇਆ ਦਾ ਮੋਹ ਨਿਰੋਲ ਇਕ ਛਲ ਹੈ, (ਆਖ਼ਰ) ਛਲ ਹੀ (ਸਾਬਤ) ਹੁੰਦਾ ਹੈ,",
       "translation_ru": "Привязанность к майе — это лишь обман, и в конце оказывается ложью."
     },
     {
       "verse_id": 33556,
       "gurmukhi": "ਹਉਮੈ ਝਗੜਾ ਪਾਇਓਨੁ ਝਗੜੈ ਜਗੁ ਮੁਇਆ ॥",
-      "roman": "haumai jhagaṛā pāiōn jhagaṛai jag muiā",
+      "roman": "haumē jhagaṛā pāiōn jhagaṛē jag muiā",
       "sahib_singh_pa": "ਪਰ ਪ੍ਰਭੂ ਨੇ (ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਜੀਵ ਫਸਾ ਕੇ) 'ਹਉਮੈ' ਦਾ ਗੇੜ ਪੈਦਾ ਕਰ ਦਿੱਤਾ ਹੈ ਇਸ ਗੇੜ ਵਿਚ (ਪੈ ਕੇ) ਜਗਤ ਦੁਖੀ ਹੋ ਰਿਹਾ ਹੈ।",
       "translation_ru": "Господь допустил возникновение эго, и в этом круге мир страдает."
     },
@@ -123,28 +123,28 @@
     {
       "verse_id": 33561,
       "gurmukhi": "ਸਤਿਗੁਰ ਭੀਖਿਆ ਦੇਹਿ ਮੈ ਤੂੰ ਸੰਮ੍ਰਥੁ ਦਾਤਾਰੁ ॥",
-      "roman": "satgur bhīkhiā deh mai tū samrath dātār",
+      "roman": "satgur bhīkhiā deh mē tū samrath dātār",
       "sahib_singh_pa": "ਹੇ ਗੁਰੂ! ਤੂੰ ਬਖ਼ਸ਼ਸ਼ ਕਰਨ ਜੋਗਾ ਹੈਂ, ਮੈਨੂੰ ਖ਼ੈਰ ਪਾ ('ਨਾਮ' ਦਾ),",
       "translation_ru": "О Гуру! Ты щедрый даритель, дай мне милостыню Имени."
     },
     {
       "verse_id": 33562,
       "gurmukhi": "ਹਉਮੈ ਗਰਬੁ ਨਿਵਾਰੀਐ ਕਾਮੁ ਕ੍ਰੋਧੁ ਅਹੰਕਾਰੁ ॥",
-      "roman": "haumai garab nivārīai kām krodh ahaṅkār",
+      "roman": "haumē garab nivārīē kām krodh ahaṅkār",
       "sahib_singh_pa": "(ਤਾਂ ਜੋ) ਮੇਰੀ ਹਉਮੈ ਮੇਰਾ ਅਹੰਕਾਰ ਕਾਮ ਤੇ ਕ੍ਰੋਧ ਦੂਰ ਹੋ ਜਾਏ।",
       "translation_ru": "Чтобы исчезли моё эго, гордость, похоть и гнев."
     },
     {
       "verse_id": 33563,
       "gurmukhi": "ਲਬੁ ਲੋਭੁ ਪਰਜਾਲੀਐ ਨਾਮੁ ਮਿਲੈ ਆਧਾਰੁ ॥",
-      "roman": "lab lobh parajālīai nām milai ādhār",
+      "roman": "lab lobh parajālīē nām milē ādhār",
       "sahib_singh_pa": "(ਹੇ ਗੁਰੂ! ਤੇਰੇ ਦਰ ਤੋਂ ਮੈਨੂੰ) ਪ੍ਰਭੂ ਦਾ ਨਾਮ (ਜ਼ਿੰਦਗੀ ਲਈ) ਸਹਾਰਾ ਮਿਲ ਜਾਏ ਤੇ ਮੇਰਾ ਚਸਕਾ ਤੇ ਲੋਭ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸੜ ਜਾਏ।",
       "translation_ru": "Пусть жадность и алчность сгорят, и я получу опору в Имени."
     },
     {
       "verse_id": 33564,
       "gurmukhi": "ਅਹਿਨਿਸਿ ਨਵਤਨ ਨਿਰਮਲਾ ਮੈਲਾ ਕਬਹੂੰ ਨ ਹੋਇ ॥",
-      "roman": "ahinisi navtan nirmalā mailā kabahū na hoi",
+      "roman": "ahinis navtan nirmalā mēlā kabahū na hoi",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਦਿਨ ਰਾਤ ਨਵੇਂ ਤੋਂ ਨਵਾਂ ਹੁੰਦਾ ਹੈ (ਭਾਵ, ਜਿਉਂ ਜਿਉਂ ਜਪੀਏ, ਇਸ ਨਾਲ ਪਿਆਰ ਵਧਦਾ ਹੈ) 'ਨਾਮ' ਪਵਿਤ੍ਰ ਹੈ, ਇਹ ਕਦੇ ਮੈਲਾ ਨਹੀਂ ਹੁੰਦਾ।",
       "translation_ru": "Имя Бога всегда свежее и чистое, оно никогда не становится грязным."
     },
@@ -172,7 +172,7 @@
     {
       "verse_id": 33568,
       "gurmukhi": "ਨਾਨਕ ਕੰਤੈ ਰਤੀਆ ਪੁਛਹਿ ਬਾਤੜੀਆਹ ॥੨॥",
-      "roman": "nānak kantai ratīā puchhah bāṭṛīāh",
+      "roman": "nānak kantē ratīā puchhah bāṭṛīāh",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਖਸਮ-ਪ੍ਰਭੂ ਦੇ ਪਿਆਰ ਰੰਗ ਵਿਚ ਰੰਗੀਆਂ ਹੋਈਆਂ ਪ੍ਰਭੂ ਦੀਆਂ ਹੀ ਮੋਹਣੀਆਂ ਗੱਲਾਂ (ਇਕ ਦੂਜੀ ਪਾਸੋਂ) ਪੁੱਛਦੀਆਂ ਹਨ ॥੨॥",
       "translation_ru": "О Нанак! Те, кто окрашен в любовь к Господу, говорят лишь о Нём."
     },
@@ -186,14 +186,14 @@
     {
       "verse_id": 33570,
       "gurmukhi": "ਸਭੇ ਕੰਤੈ ਰਤੀਆ ਮੈ ਦੋਹਾਗਣਿ ਕਿਤੁ ॥",
-      "roman": "sabhe kantai ratīā mai dohāgaṇ kit",
+      "roman": "sabhe kantē ratīā mē dohāgaṇ kit",
       "sahib_singh_pa": "ਸਾਰੀਆਂ ਜੀਵ-ਇਸਤ੍ਰੀਆਂ ਖਸਮ-ਪ੍ਰਭੂ ਦੇ ਪਿਆਰ ਵਿਚ ਰੰਗੀਆਂ ਹੋਈਆਂ ਹਨ, (ਉਹਨਾਂ ਸੋਹਾਗਣਾਂ ਦੇ ਸਾਮ੍ਹਣੇ) ਮੈਂ ਮੰਦੇ ਭਾਗਾਂ ਵਾਲੀ ਕਿਸ ਗਿਣਤੀ ਵਿਚ ਹਾਂ?",
       "translation_ru": "Все души окрашены любовью к Господу — а я, несчастная, где нахожусь среди них?"
     },
     {
       "verse_id": 33571,
       "gurmukhi": "ਮੈ ਤਨਿ ਅਵਗਣ ਏਤੜੇ ਖਸਮੁ ਨ ਫੇਰੇ ਚਿਤੁ ॥੩॥",
-      "roman": "mai tan avgaṇ etṛe khasam na phere chit",
+      "roman": "mē tan avgaṇ etṛe khasam na phere chit",
       "sahib_singh_pa": "ਮੇਰੇ ਸਰੀਰ ਵਿਚ ਇਤਨੇ ਔਗੁਣ ਹਨ ਕਿ ਖਸਮ ਮੇਰੇ ਵਲ ਧਿਆਨ ਭੀ ਨਹੀਂ ਕਰਦਾ ॥੩॥",
       "translation_ru": "Во мне столько недостатков, что Господь даже не обращает на меня внимания."
     },
@@ -207,14 +207,14 @@
     {
       "verse_id": 33573,
       "gurmukhi": "ਹਉ ਬਲਿਹਾਰੀ ਤਿਨ ਕਉ ਸਿਫਤਿ ਜਿਨਾ ਦੈ ਵਾਤਿ ॥",
-      "roman": "hau balihārī tin kau sift jinā dai vāt",
+      "roman": "hau balihārī tin kau sift jinā dē vāt",
       "sahib_singh_pa": "ਮੈਂ ਸਦਕੇ ਹਾਂ ਉਹਨਾਂ ਤੋਂ ਜਿਨ੍ਹਾਂ ਦੇ ਮੂੰਹ ਵਿਚ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਹੈ।",
       "translation_ru": "Я жертвую собой ради тех, в чьих устах хвала Бога."
     },
     {
       "verse_id": 33574,
       "gurmukhi": "ਸਭਿ ਰਾਤੀ ਸੋਹਾਗਣੀ ਇਕ ਮੈ ਦੋਹਾਗਣਿ ਰਾਤਿ ॥੪॥",
-      "roman": "sabh rātī sohāgaṇī ik mai dohāgaṇ rāt",
+      "roman": "sabh rātī sohāgaṇī ik mē dohāgaṇ rāt",
       "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ!) ਤੂੰ ਸਾਰੀਆਂ ਰਾਤਾਂ ਸੁਹਾਗਣਾਂ ਨੂੰ ਦੇ ਰਿਹਾ ਹੈਂ, ਇਕ ਰਾਤ ਮੈਨੂੰ ਛੁੱਟੜ ਨੂੰ ਭੀ ਦੇਹ ॥੪॥",
       "translation_ru": "Ты даруешь ночи благословенным, дай хотя бы одну ночь и мне, лишённой."
     },
@@ -228,14 +228,14 @@
     {
       "verse_id": 33576,
       "gurmukhi": "ਦਰਿ ਮੰਗਤੁ ਜਾਚੈ ਦਾਨੁ ਹਰਿ ਦੀਜੈ ਕ੍ਰਿਪਾ ਕਰਿ ॥",
-      "roman": "dar maṅgat jāchai dān har dījai kirpā kar",
+      "roman": "dar maṅgat jāchē dān har dījē kirpā kar",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਮੰਗਤਾ ਤੇਰੇ ਬੂਹੇ ਤੇ (ਆ ਕੇ) ਖ਼ੈਰ ਮੰਗਦਾ ਹਾਂ, ਮਿਹਰ ਕਰ ਕੇ ਮੈਨੂੰ ਖ਼ੈਰ ਪਾ।",
       "translation_ru": "О Господь! Я нищий у Твоей двери, прошу милостыню — даруй по милости."
     },
     {
       "verse_id": 33577,
       "gurmukhi": "ਗੁਰਮੁਖਿ ਲੇਹੁ ਮਿਲਾਇ ਜਨੁ ਪਾਵੈ ਨਾਮੁ ਹਰਿ ॥",
-      "roman": "gurmukh lehu milāi jan pāvai nām har",
+      "roman": "gurmukh leh milāi jan pāvē nām har",
       "sahib_singh_pa": "ਮੈਨੂੰ ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਕਰ ਕੇ (ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ) ਜੋੜ ਲੈ, ਮੈਂ ਤੇਰਾ ਸੇਵਕ ਤੇਰਾ ਨਾਮ ਪ੍ਰਾਪਤ ਕਰ ਲਵਾਂ,",
       "translation_ru": "Сделай меня обращённым к Гуру и соедини с Собой, чтобы я получил Имя."
     },
@@ -249,14 +249,14 @@
     {
       "verse_id": 33579,
       "gurmukhi": "ਹਿਰਦੈ ਹਰਿ ਗੁਣ ਗਾਇ ਜੈ ਜੈ ਸਬਦੁ ਹਰਿ ॥",
-      "roman": "hirdai har guṇ gāi jai jai sabad har",
+      "roman": "hirdē har guṇ gāi jē jē sabad har",
       "sahib_singh_pa": "ਤੇਰੀ ਜੈ ਜੈਕਾਰ ਦੀ ਬਾਣੀ ਤੇ ਗੁਣ ਮੈਂ ਹਿਰਦੇ ਵਿਚ ਗਾਵਾਂ,",
       "translation_ru": "В сердце я буду воспевать Твои качества и славу."
     },
     {
       "verse_id": 33580,
       "gurmukhi": "ਜਗ ਮਹਿ ਵਰਤੈ ਆਪਿ ਹਰਿ ਸੇਤੀ ਪ੍ਰੀਤਿ ਕਰਿ ॥੧੫॥",
-      "roman": "jag mahi vartai āp har setī prīt kar",
+      "roman": "jag mahi vartē āp har setī prīt kar",
       "sahib_singh_pa": "ਮੈਂ ਤੇਰੇ ਨਾਲ ਪਿਆਰ ਕਰਾਂ (ਤੇ ਇਸ ਤਰ੍ਹਾਂ ਮੈਨੂੰ ਯਕੀਨ ਬਣੇ ਕਿ) ਜਗਤ ਵਿਚ ਪ੍ਰਭੂ ਆਪ ਹਰ ਥਾਂ ਮੌਜੂਦ ਹੈ ॥੧੫॥",
       "translation_ru": "Любя Тебя, я узнаю, что Ты Сам присутствуешь во всём мире."
     },
@@ -291,14 +291,14 @@
     {
       "verse_id": 33585,
       "gurmukhi": "ਸਉ ਓਲਾਮੑੇ ਦਿਨੈ ਕੇ ਰਾਤੀ ਮਿਲਨਿੑ ਸਹੰਸ ॥",
-      "roman": "sau olāmhe dinai ke rātī milanh sahans",
+      "roman": "sau olāmhe dinē ke rātī milanh sahans",
       "sahib_singh_pa": "(ਇਸ ਜੀਵ ਨੂੰ) ਦਿਨ ਦੇ ਵੇਲੇ (ਕੀਤੇ ਮੰਦ ਕਰਮਾਂ ਦੇ) ਸੌ ਉਲਾਮੇ ਮਿਲਦੇ ਹਨ ਤੇ ਰਾਤ ਵੇਲੇ (ਕੀਤਿਆਂ) ਦੇ ਹਜ਼ਾਰਾਂ;",
       "translation_ru": "Днём получают сотни упрёков за свои дела, а ночью — тысячи."
     },
     {
       "verse_id": 33586,
       "gurmukhi": "ਸਿਫਤਿ ਸਲਾਹਣੁ ਛਡਿ ਕੈ ਕਰੰਗੀ ਲਗਾ ਹੰਸੁ ॥",
-      "roman": "sift salāhaṇ chhaḍ kai karaṅgī lagā haṅs",
+      "roman": "sift salāhaṇ chhaḍ kē karaṅgī lagā haṅs",
       "sahib_singh_pa": "(ਕਿਉਂਕਿ ਜੀਵ-) ਹੰਸ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ (ਰੂਪ ਮੋਤੀ) ਛੱਡ ਕੇ (ਵਿਕਾਰ ਰੂਪ) ਮੁਰਦਾਰਾਂ (ਦੇ ਖਾਣ) ਵਿਚ ਲੱਗਾ ਹੋਇਆ ਹੈ (ਦਿਨੇ ਰਾਤ ਮੰਦ ਕਰਮ ਕਰਦਾ ਰਿਹਾ ਹੈ।",
       "translation_ru": "Потому что душа оставила хвалу Богу и увлеклась нечистым."
     },
@@ -326,7 +326,7 @@
     {
       "verse_id": 33590,
       "gurmukhi": "ਢਾਢੀ ਗੁਣ ਗਾਵੈ ਨਿਤ ਜਨਮੁ ਸਵਾਰਿਆ ॥",
-      "roman": "ḍhāḍhī guṇ gāvai nit janam savāriā",
+      "roman": "ḍhāḍhī guṇ gāvē nit janam savāriā",
       "sahib_singh_pa": "ਢਾਢੀ ਸਦਾ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਉਂਦਾ ਹੈ ਤੇ ਆਪਣਾ ਜੀਵਨ ਸੋਹਣਾ ਬਣਾਂਦਾ ਹੈ;",
       "translation_ru": "Певец воспевает качества Бога и украшает свою жизнь."
     },

@@ -11,14 +11,14 @@
     {
       "verse_id": 38010,
       "gurmukhi": "ਮਾਇਆ ਕਾਰਣਿ ਸਦ ਹੀ ਝੂਰੈ ॥",
-      "roman": "māiā kāraṇ sad hī jhūrai",
+      "roman": "māiā kāraṇ sad hī jhūrē",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ! ਸਾਕਤ ਮਨੁੱਖ) ਸਦਾ ਹੀ ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਚਿੰਤਾ-ਫ਼ਿਕਰ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ,",
       "translation_ru": "Он постоянно беспокоится из-за майи."
     },
     {
       "verse_id": 38011,
       "gurmukhi": "ਮਨਿ ਮੁਖਿ ਕਬਹਿ ਨ ਉਸਤਤਿ ਕਰੈ ॥",
-      "roman": "man mukh kabah na ustat karai",
+      "roman": "man mukh kabah na ustat karē",
       "sahib_singh_pa": "ਇਹ ਕਦੇ ਭੀ ਆਪਣੇ ਮਨ ਵਿਚ ਆਪਣੇ ਮੂੰਹ ਨਾਲ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤਿ-ਸਾਲਾਹ ਨਹੀਂ ਕਰਦਾ।",
       "translation_ru": "Никогда не восхваляет Бога ни в уме, ни устами."
     },
@@ -32,7 +32,7 @@
     {
       "verse_id": 38013,
       "gurmukhi": "ਤਿਸੁ ਸਿਉ ਪ੍ਰੀਤਿ ਨ ਕਰੈ ਗਵਾਰੁ ॥੩॥",
-      "roman": "tis siu prīt na karai gavār",
+      "roman": "tis siu prīt na karē gavār",
       "sahib_singh_pa": "ਉਸ ਨਾਲ ਇਹ ਮੂਰਖ ਸਾਕਤ ਕਦੇ ਪਿਆਰ ਨਹੀਂ ਪਾਂਦਾ ॥੩॥",
       "translation_ru": "Но глупец не любит Его."
     },
@@ -74,14 +74,14 @@
     {
       "verse_id": 38019,
       "gurmukhi": "ਰੈਣਿ ਦਿਨਸੁ ਜਪਉ ਹਰਿ ਨਾਉ ॥",
-      "roman": "raiṇ dinas japau har nāu",
+      "roman": "rēṇ dinas japau har nāu",
       "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ! ਕਿਰਪਾ ਕਰ) ਮੈਂ ਦਿਨ ਰਾਤ ਹਰਿ-ਨਾਮ ਜਪਦਾ ਰਹਾਂ,",
       "translation_ru": "О Господь! по милости Твоей я днём и ночью повторял бы Имя Хари,"
     },
     {
       "verse_id": 38020,
       "gurmukhi": "ਆਗੈ ਦਰਗਹ ਪਾਵਉ ਥਾਉ ॥",
-      "roman": "āgai dargeh pāvau thāu",
+      "roman": "āgē dargeh pāvau thāu",
       "sahib_singh_pa": "(ਤੇ ਇਸ ਤਰ੍ਹਾਂ) ਪਰਲੋਕ ਵਿਚ ਤੇਰੀ ਹਜ਼ੂਰੀ ਵਿਚ ਥਾਂ ਪ੍ਰਾਪਤ ਕਰ ਲਵਾਂ।",
       "translation_ru": "и таким образом в мире ином получил бы место в Твоём присутствии."
     },
@@ -95,14 +95,14 @@
     {
       "verse_id": 38022,
       "gurmukhi": "ਕਬਹੂ ਨ ਬਿਆਪੈ ਹਉਮੈ ਰੋਗੁ ॥੧॥",
-      "roman": "kabahū na biāpai haumai rog",
+      "roman": "kabahū na biāpē haumē rog",
       "sahib_singh_pa": "ਹਉਮੈ ਦਾ ਰੋਗ ਕਦੇ ਉਸ ਉਤੇ ਆਪਣਾ ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕਦਾ ॥੧॥",
       "translation_ru": "болезнь эго никогда не может одолеть его."
     },
     {
       "verse_id": 38023,
       "gurmukhi": "ਖੋਜਹੁ ਸੰਤਹੁ ਹਰਿ ਬ੍ਰਹਮ ਗਿਆਨੀ ॥",
-      "roman": "khojahu santahu har brahm giānī",
+      "roman": "khojah santah har brahm giānī",
       "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਨਾਲ ਡੂੰਘੀ ਸਾਂਝ ਰੱਖਣ ਵਾਲੇ ਹੇ ਸੰਤ ਜਨੋ! ਸਦਾ ਪਰਮਾਤਮਾ ਦੀ ਖੋਜ ਕਰਦੇ ਰਹੋ।",
       "translation_ru": "О святые, имеющие глубокую связь с Богом! всегда продолжайте искать Бога."
     },
@@ -116,14 +116,14 @@
     {
       "verse_id": 38025,
       "gurmukhi": "ਗਨਿ ਮਿਨਿ ਦੇਖਹੁ ਸਗਲ ਬੀਚਾਰਿ ॥",
-      "roman": "gan min dekhahu sagal bīchār",
+      "roman": "gan min dekhah sagal bīchār",
       "sahib_singh_pa": "ਹੇ ਸੰਤ ਜਨੋ! ਸਾਰੇ ਗਹੁ ਨਾਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਵਿਚਾਰ ਕੇ ਵੇਖ ਲਵੋ,",
       "translation_ru": "О святые! тщательно обдумав всё, посмотрите,"
     },
     {
       "verse_id": 38026,
       "gurmukhi": "ਨਾਮ ਬਿਨਾ ਕੋ ਸਕੈ ਨ ਤਾਰਿ ॥",
-      "roman": "nām binā ko sakai na tār",
+      "roman": "nām binā ko sakē na tār",
       "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕੋਈ ਭੀ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ) ਪਾਰ ਨਹੀਂ ਲੰਘਾ ਸਕਦਾ।",
       "translation_ru": "без Имени Бога никто не может переправить через океан мира."
     },
@@ -137,21 +137,21 @@
     {
       "verse_id": 38028,
       "gurmukhi": "ਭਵਜਲੁ ਤਰੀਐ ਪ੍ਰਭ ਕੈ ਰੰਗਿ ॥੨॥",
-      "roman": "bhavjal tarīai prabh kai rang",
+      "roman": "bhavjal tarīē prabh kē rang",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਦੇ ਪ੍ਰੇਮ-ਰੰਗ ਵਿਚ ਰਿਹਾਂ ਹੀ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ ਪਾਰ ਲੰਘ ਸਕੀਦਾ ਹੈ ॥੨॥",
       "translation_ru": "только пребывая в любви Господа можно переправиться через океан мира."
     },
     {
       "verse_id": 38029,
       "gurmukhi": "ਦੇਹੀ ਧੋਇ ਨ ਉਤਰੈ ਮੈਲੁ ॥",
-      "roman": "dehī dho-e na utarai mail",
+      "roman": "dehī dho-e na utarē mēl",
       "sahib_singh_pa": "(ਹੇ ਸੰਤ ਜਨੋ! ਤੀਰਥ ਆਦਿਕਾਂ ਤੇ) ਸਰੀਰ ਨੂੰ ਧੋਤਿਆਂ (ਮਨ ਦੀ ਵਿਕਾਰਾਂ ਵਾਲੀ) ਮੈਲ ਦੂਰ ਨਹੀਂ ਹੁੰਦੀ,",
       "translation_ru": "омывая тело, нечистота ума не устраняется,"
     },
     {
       "verse_id": 38030,
       "gurmukhi": "ਹਉਮੈ ਬਿਆਪੈ ਦੁਬਿਧਾ ਫੈਲੁ ॥",
-      "roman": "haumai biāpai dubidhā phail",
+      "roman": "haumē biāpē dubidhā phēl",
       "sahib_singh_pa": "(ਸਗੋਂ ਇਹ) ਹਉਮੈ ਆਪਣਾ ਦਬਾਉ ਪਾ ਲੈਂਦੀ ਹੈ (ਕਿ ਮੈਂ ਤੀਰਥਾਂ ਦੇ ਇਸ਼ਨਾਨ ਕਰ ਆਇਆ ਹਾਂ। ਮਨੁੱਖ ਦੇ ਅੰਦਰ) ਅੰਦਰੋਂ ਹੋਰ ਤੇ ਬਾਹਰੋਂ ਹੋਰ ਹੋਣ ਦਾ ਪਸਾਰਾ ਪਸਰ ਜਾਂਦਾ ਹੈ (ਮਨੁੱਖ ਪਖੰਡੀ ਹੋ ਜਾਂਦਾ ਹੈ)।",
       "translation_ru": "напротив, эго усиливается, и распространяется двойственность, лицемерие."
     },
@@ -179,7 +179,7 @@
     {
       "verse_id": 38034,
       "gurmukhi": "ਮਨ ਤੇ ਕਬਹੁ ਨ ਬਿਸਰੁ ਗੋੁਪਾਲ ॥",
-      "roman": "man te kabahū na bisar gopāl",
+      "roman": "man te kabah na bisar gopāl",
       "sahib_singh_pa": "ਹੇ ਗੋਪਾਲ! ਤੂੰ ਮੇਰੇ ਮਨ ਤੋਂ ਕਦੇ ਭੀ ਨਾਹ ਵਿੱਸਰ।",
       "translation_ru": "О Гопал! никогда не исчезай из моего ума."
     },
@@ -242,7 +242,7 @@
     {
       "verse_id": 38043,
       "gurmukhi": "ਏਕਾ ਸਰਣਿ ਗਹੀ ਮਨ ਮੇਰੈ ਤੁਧੁ ਬਿਨੁ ਦੂਜਾ ਨਾਹੀ ਠਾਉ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "ekā saraṇ gahī man merai tudh bin dūjā nāhī thāu",
+      "roman": "ekā saraṇ gahī man merē tudh bin dūjā nāhī thāu",
       "sahib_singh_pa": "ਮੇਰੇ ਮਨ ਨੇ ਇਕ ਤੇਰੀ ਹੀ ਓਟ ਲਈ ਹੈ। ਹੇ ਪ੍ਰਭੂ! ਤੈਥੋਂ ਬਿਨਾ ਮੈਨੂੰ ਕੋਈ ਹੋਰ (ਆਸਰੇ ਵਾਲੀ) ਥਾਂ ਨਹੀਂ ਸੁੱਝਦੀ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Мой ум принял только Твоё прибежище; кроме Тебя нет иного места опоры."
     },
@@ -256,7 +256,7 @@
     {
       "verse_id": 38045,
       "gurmukhi": "ਆਗੈ ਦਰਗਹ ਪਾਵਉ ਠਾਉ ॥",
-      "roman": "āgai dargeh pāvau thāu",
+      "roman": "āgē dargeh pāvau thāu",
       "sahib_singh_pa": "ਅਗਾਂਹ ਤੇਰੀ ਹਜ਼ੂਰੀ ਵਿਚ ਮੈਂ (ਟਿਕਣ ਜੋਗਾ) ਥਾਂ ਪ੍ਰਾਪਤ ਕਰ ਸਕਾਂਗਾ।",
       "translation_ru": "и впереди получу место в Твоём присутствии."
     },
@@ -270,7 +270,7 @@
     {
       "verse_id": 38047,
       "gurmukhi": "ਦੁਰਮਤਿ ਬਿਨਸੈ ਰਾਚੈ ਹਰਿ ਨਾਇ ॥੨॥",
-      "roman": "durmat binsai rāchai har nāe",
+      "roman": "durmat binsē rāchē har nāe",
       "sahib_singh_pa": "ਜਿਹੜਾ ਮਨੁੱਖ ਤੇਰੇ ਨਾਮ ਵਿਚ ਲੀਨ ਹੁੰਦਾ ਹੈ, (ਉਸ ਦੇ ਅੰਦਰੋਂ) ਭੈੜੀ ਮਤਿ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ ॥੨॥",
       "translation_ru": "его дурной ум уничтожается, и он погружается в Имя Бога."
     },
@@ -291,14 +291,14 @@
     {
       "verse_id": 38050,
       "gurmukhi": "ਭਉ ਭਾਗਾ ਨਿਰਭਉ ਮਨਿ ਬਸੈ ॥",
-      "roman": "bhau bhāgā nirbhau man basai",
+      "roman": "bhau bhāgā nirbhau man basē",
       "sahib_singh_pa": "ਡਰ-ਰਹਿਤ ਪ੍ਰਭੂ ਉਸ ਮਨੁੱਖ ਦੇ ਮਨ ਵਿਚ ਆ ਵੱਸਦਾ ਹੈ, ਉਸ ਦਾ ਹਰੇਕ ਡਰ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ,",
       "translation_ru": "в сердце поселяется бесстрашный Бог, и весь страх исчезает,"
     },
     {
       "verse_id": 38051,
       "gurmukhi": "ਅੰਮ੍ਰਿਤ ਨਾਮੁ ਰਸਨਾ ਨਿਤ ਜਪੈ ॥੩॥",
-      "roman": "amrit nām rasnā nit japai",
+      "roman": "amrit nām rasnā nit japē",
       "sahib_singh_pa": "ਜਿਹੜਾ ਮਨੁੱਖ ਆਪਣੀ ਜੀਭ ਨਾਲ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਨਾਮ ਨਿੱਤ ਜਪਦਾ ਹੈ ॥੩॥",
       "translation_ru": "у того, кто постоянно повторяет языком дающее жизнь Имя."
     },
@@ -319,7 +319,7 @@
     {
       "verse_id": 38054,
       "gurmukhi": "ਤੋਟਿ ਨ ਆਵੈ ਅਖੁਟ ਭੰਡਾਰ ॥",
-      "roman": "toṭ na āvai akhuṭ bhaṇḍār",
+      "roman": "toṭ na āvē akhuṭ bhaṇḍār",
       "sahib_singh_pa": "(ਉਹਨਾਂ ਪਾਸ ਇਸ ਨਾਮ-ਧਨ ਦੇ) ਕਦੇ ਨਾਹ ਮੁੱਕਣ ਵਾਲੇ ਖ਼ਜ਼ਾਨੇ (ਭਰ ਜਾਂਦੇ ਹਨ ਜਿਨ੍ਹਾਂ ਵਿਚ) ਕਦੇ ਘਾਟਾ ਨਹੀਂ ਪੈਂਦਾ।",
       "translation_ru": "его сокровищница неисчерпаема и никогда не истощается."
     },
@@ -354,7 +354,7 @@
     {
       "verse_id": 38059,
       "gurmukhi": "ਸੂਖ ਸਹਜ ਦਇਆ ਕਾ ਪੋਤਾ ॥ ਹਰਿ ਭਗਤਾ ਹਵਾਲੈ ਹੋਤਾ ॥੧॥",
-      "roman": "sūkh sahaj dayā kā potā har bhagtā havālai hotā",
+      "roman": "sūkh sahaj dayā kā potā har bhagtā havālē hotā",
       "sahib_singh_pa": "ਉਹ ਖ਼ਜ਼ਾਨਾ ਸੁਖ, ਆਤਮਕ ਅਡੋਲਤਾ ਤੇ ਦਇਆ ਦਾ ਸੋਮਾ ਹੈ। ਪਰ ਉਹ ਖ਼ਜ਼ਾਨਾ ਪਰਮਾਤਮਾ ਦੇ ਭਗਤਾਂ ਦੇ ਸਪੁਰਦ ਹੋਇਆ ਹੋਇਆ ਹੈ ॥੧॥",
       "translation_ru": "это сокровище — источник покоя, внутреннего равновесия и сострадания, но оно доверено преданным Бога."
     },
@@ -368,7 +368,7 @@
     {
       "verse_id": 38061,
       "gurmukhi": "ਖਾਤ ਖਰਚਿ ਕਛੁ ਤੋਟਿ ਨ ਆਵੈ ਅੰਤੁ ਨਹੀ ਹਰਿ ਪਾਰਾਵਾਰੁ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "khāt kharach kachh toṭ na āvai ant nahī har pārāvār",
+      "roman": "khāt kharach kachh toṭ na āvē ant nahī har pārāvār",
       "sahib_singh_pa": "ਆਪ ਵਰਤਦਿਆਂ ਤੇ ਹੋਰਨਾਂ ਨੂੰ ਵੰਡਦਿਆਂ (ਉਸ ਵਿਚ) ਕਮੀ ਨਹੀਂ ਆਉਂਦੀ। ਉਸ ਪਰਮਾਤਮਾ ਦੇ ਖ਼ਜ਼ਾਨੇ ਦਾ ਅੰਤ ਨਹੀਂ ਲੱਭਦਾ, ਉਸ ਦੀ ਹਸਤੀ ਦਾ ਉਰਲਾ ਪਾਰਲਾ ਬੰਨਾ ਨਹੀਂ ਲੱਭਦਾ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "что, пользуясь и раздавая её, она не уменьшается; нет конца этому богатству, нет границ Его сущности."
     },

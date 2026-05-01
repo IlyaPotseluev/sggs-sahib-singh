@@ -32,7 +32,7 @@
     {
       "verse_id": 28420,
       "gurmukhi": "ਮੈ ਗੁਰ ਪਰਸਾਦੀ ਜਾਨੀ ॥੨॥",
-      "roman": "mai gur parsādī jānī",
+      "roman": "mē gur parsādī jānī",
       "sahib_singh_pa": "ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮੈਂ ਉਸ ਜੋਤਿ ਨੂੰ ਪਛਾਣ ਲਿਆ ਹੈ ॥੨॥",
       "translation_ru": "по милости Гуру я познал этот Свет."
     },
@@ -53,14 +53,14 @@
     {
       "verse_id": 28423,
       "gurmukhi": "ਨੇਰੈ ਨਾਹੀ ਦੂਰਿ ॥",
-      "roman": "nerai nāhī dūr",
+      "roman": "nerē nāhī dūr",
       "sahib_singh_pa": "ਹੁਣ ਪ੍ਰਭੂ ਕਿਤੇ ਦੂਰ ਨਹੀਂ ਜਾਪਦਾ, ਨੇੜੇ ਦਿੱਸਦਾ ਹੈ,",
       "translation_ru": "Теперь Господь не кажется далёким — Он близок,"
     },
     {
       "verse_id": 28424,
       "gurmukhi": "ਨਿਜ ਆਤਮੈ ਰਹਿਆ ਭਰਪੂਰਿ ॥੩॥",
-      "roman": "nij ātmai rahiā bharpūr",
+      "roman": "nij ātmē rahiā bharpūr",
       "sahib_singh_pa": "ਮੈਨੂੰ ਆਪਣੇ ਅੰਦਰ ਹੀ ਭਰਪੂਰ ਦਿੱਸਦਾ ਹੈ ॥੩॥",
       "translation_ru": "Он полностью пребывает внутри меня."
     },
@@ -74,7 +74,7 @@
     {
       "verse_id": 28426,
       "gurmukhi": "ਤਹ ਦੀਪਕ ਜਲੈ ਛੰਛਾਰਾ ॥",
-      "roman": "tah dīpak jalai chhanchārā",
+      "roman": "tah dīpak jalē chhanchārā",
       "sahib_singh_pa": "ਇੱਥੇ ਪਹਿਲਾਂ (ਮਾਨੋ) ਮੱਧਮ ਜਿਹਾ ਦੀਵਾ ਬਲ ਰਿਹਾ ਸੀ।",
       "translation_ru": "раньше лишь тускло горел слабый светильник."
     },
@@ -109,7 +109,7 @@
     {
       "verse_id": 28431,
       "gurmukhi": "ਤੋ ਪਹਿ ਦੁਗਣੀ ਮਜੂਰੀ ਦੈਹਉ ਮੋ ਕਉ ਬੇਢੀ ਦੇਹੁ ਬਤਾਈ ਹੋ ॥੧॥",
-      "roman": "to pah dugṇī majūrī dehau mo kau beṛhī dehu batāī ho",
+      "roman": "to pah dugṇī majūrī dehau mo kau beṛhī deh batāī ho",
       "sahib_singh_pa": "ਮੈਨੂੰ ਉਸ ਤਰਖਾਣ ਦੀ ਦੱਸ ਪਾ, ਮੈਂ ਤੇਰੇ ਨਾਲੋਂ ਦੂਣੀ ਮਜੂਰੀ ਦੇ ਦਿਆਂਗੀ ॥੧॥",
       "translation_ru": "Скажи мне про того плотника, я дам ему вдвое больше платы."
     },
@@ -130,21 +130,21 @@
     {
       "verse_id": 28434,
       "gurmukhi": "ਹਮਾਰੈ ਬੇਢੀ ਪ੍ਰਾਨ ਅਧਾਰਾ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "hamārai beṛhī prān adhārā",
+      "roman": "hamārē beṛhī prān adhārā",
       "sahib_singh_pa": "ਤੇ ਉਹ ਮੇਰੀ ਜਿੰਦ ਦਾ ਆਸਰਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "и он — опора моей жизни."
     },
     {
       "verse_id": 28435,
       "gurmukhi": "ਬੇਢੀ ਪ੍ਰੀਤਿ ਮਜੂਰੀ ਮਾਂਗੈ ਜਉ ਕੋਊ ਛਾਨਿ ਛਵਾਵੈ ਹੋ ॥",
-      "roman": "beṛhī prīt majūrī māṅgai jau koū chhān chhavāvai ho",
+      "roman": "beṛhī prīt majūrī māṅgē jau koū chhān chhavāvē ho",
       "sahib_singh_pa": "(ਹੇ ਭੈਣ!) ਜੇ ਕੋਈ ਮਨੁੱਖ (ਉਸ ਤਰਖਾਣ ਪਾਸੋਂ) ਛੰਨ ਬਣਵਾਏ ਤਾਂ ਉਹ ਤਰਖਾਣ ਪ੍ਰੀਤ (ਦੀ) ਮਜੂਰੀ ਮੰਗਦਾ ਹੈ।",
       "translation_ru": "Если кто хочет построить хижину у этого плотника, он просит плату в виде любви."
     },
     {
       "verse_id": 28436,
       "gurmukhi": "ਲੋਗ ਕੁਟੰਬ ਸਭਹੁ ਤੇ ਤੋਰੈ ਤਉ ਆਪਨ ਬੇਢੀ ਆਵੈ ਹੋ ॥੨॥",
-      "roman": "log kuṭamb sabhahu te torai tau āpan beṛhī āvai ho",
+      "roman": "log kuṭamb sabhah te torē tau āpan beṛhī āvē ho",
       "sahib_singh_pa": "(ਪ੍ਰੀਤ ਭੀ ਅਜਿਹੀ ਹੋਵੇ ਕਿ ਲੋਕਾਂ ਨਾਲੋਂ, ਪਰਵਾਰ ਨਾਲੋਂ, ਸਭਨਾਂ ਨਾਲੋਂ, ਮੋਹ ਤੋੜ ਲਏ; ਤਾਂ ਉਹ ਤਰਖਾਣ ਆਪਣੇ ਆਪ ਆ ਜਾਂਦਾ ਹੈ) ॥੨॥",
       "translation_ru": "Если человек разрывает привязанность к людям и семье, тогда тот плотник сам приходит."
     },
@@ -158,14 +158,14 @@
     {
       "verse_id": 28438,
       "gurmukhi": "ਗੂੰਗੈ ਮਹਾ ਅੰਮ੍ਰਿਤ ਰਸੁ ਚਾਖਿਆ ਪੂਛੇ ਕਹਨੁ ਨ ਜਾਈ ਹੋ ॥੩॥",
-      "roman": "gūṅgai mahā amrit ras chākhiā pūchhe kahan na jāī ho",
+      "roman": "gūṅgē mahā amrit ras chākhiā pūchhe kahan na jāī ho",
       "sahib_singh_pa": "(ਜਿਵੇਂ) ਜੇ ਕੋਈ ਗੁੰਗਾ ਬੜਾ ਸੁਆਦਲਾ ਪਦਾਰਥ ਖਾਏ ਤਾਂ ਪੁੱਛਿਆਂ (ਉਸ ਪਾਸੋਂ ਉਸ ਦਾ ਸੁਆਦ) ਦੱਸਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ ॥੩॥",
       "translation_ru": "Как немой, попробовавший сладкий вкус, не может описать его при расспросе."
     },
     {
       "verse_id": 28439,
       "gurmukhi": "ਬੇਢੀ ਕੇ ਗੁਣ ਸੁਨਿ ਰੀ ਬਾਈ ਜਲਧਿ ਬਾਂਧਿ ਧ੍ਰੂ ਥਾਪਿਓ ਹੋ ॥",
-      "roman": "beṛhī ke guṇ sun rī bāī jaladhi bāṅdh dhrū thāpio ho",
+      "roman": "beṛhī ke guṇ sun rī bāī jaladh bāṅdh dhrū thāpio ho",
       "sahib_singh_pa": "ਹੇ ਭੈਣ! ਉਸ ਤਰਖਾਣ ਦੇ (ਕੁਝ ਥੋੜੇ ਜਿਹੇ) ਗੁਣ ਸੁਣ ਲੈ-ਉਸ ਨੇ ਧ੍ਰੂ ਨੂੰ ਅਟੱਲ ਪਦਵੀ ਦਿੱਤੀ, ਉਸ ਨੇ ਸਮੁੰਦਰ (ਤੇ ਪੁਲ) ਬੱਧਾ,",
       "translation_ru": "Послушай о качествах того плотника: он утвердил Дхрува и связал океан мостом,"
     },
@@ -186,14 +186,14 @@
     {
       "verse_id": 28442,
       "gurmukhi": "ਅਣਮੜਿਆ ਮੰਦਲੁ ਬਾਜੈ ॥",
-      "roman": "aṇmaṛiā mandal bājai",
+      "roman": "aṇmaṛiā mandal bājē",
       "sahib_singh_pa": "(ਉਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰ) ਢੋਲ ਵੱਜਣ ਲੱਗ ਪੈਂਦਾ ਹੈ (ਪਰ ਉਹ ਢੋਲ ਖੱਲ ਨਾਲ) ਮੜ੍ਹਿਆ ਹੋਇਆ ਨਹੀਂ ਹੁੰਦਾ,",
       "translation_ru": "Внутри него звучит барабан, но он не покрыт кожей,"
     },
     {
       "verse_id": 28443,
       "gurmukhi": "ਬਿਨੁ ਸਾਵਣ ਘਨਹਰੁ ਗਾਜੈ ॥",
-      "roman": "bin sāvaṇ ghanhar gājai",
+      "roman": "bin sāvaṇ ghanhar gājē",
       "sahib_singh_pa": "(ਉਸ ਦੇ ਮਨ ਵਿਚ) ਬੱਦਲ ਗੱਜਣ ਲੱਗ ਪੈਂਦਾ ਹੈ, ਪਰ ਉਹ ਬੱਦਲ ਸਾਵਣ ਮਹੀਨੇ ਦੀ ਉਡੀਕ ਨਹੀਂ ਕਰਦਾ (ਭਾਵ, ਹਰ ਵੇਲੇ ਗੱਜਦਾ ਹੈ),",
       "translation_ru": "в его уме гремят облака без ожидания месяца дождей,"
     },
@@ -207,7 +207,7 @@
     {
       "verse_id": 28445,
       "gurmukhi": "ਜਉ ਤਤੁ ਬਿਚਾਰੈ ਕੋਈ ॥੧॥",
-      "roman": "jau tat bichārai koī",
+      "roman": "jau tat bichārē koī",
       "sahib_singh_pa": "ਜਿਹੜਾ ਭੀ ਕੋਈ ਮਨੁੱਖ ਅਸਲੀਅਤ ਨੂੰ ਵਿਚਾਰਦਾ ਹੈ (ਭਾਵ, ਜਿਸ ਦੇ ਭੀ ਅੰਦਰ ਇਹ ਮੇਲ-ਅਵਸਥਾ ਵਾਪਰਦੀ ਹੈ ॥੧॥",
       "translation_ru": "у того, кто размышляет об истине."
     },
@@ -270,14 +270,14 @@
     {
       "verse_id": 28454,
       "gurmukhi": "ਗੁਰ ਚੇਲੇ ਹੈ ਮਨੁ ਮਾਨਿਆ ॥",
-      "roman": "gur chele hai man māniā",
+      "roman": "gur chele hē man māniā",
       "sahib_singh_pa": "ਆਪਣੇ ਸਤਿਗੁਰੂ ਨਾਲ ਮੇਰਾ ਮਨ ਇਕ-ਮਿਕ ਹੋ ਗਿਆ ਹੈ,",
       "translation_ru": "Мой ум стал единым с Гуру,"
     },
     {
       "verse_id": 28455,
       "gurmukhi": "ਜਨ ਨਾਮੈ ਤਤੁ ਪਛਾਨਿਆ ॥੩॥੩॥",
-      "roman": "jan nāmai tat pachhāniā",
+      "roman": "jan nāmē tat pachhāniā",
       "sahib_singh_pa": "ਤੇ ਮੈਂ ਦਾਸ ਨਾਮੇ ਨੇ (ਜਗਤ ਦੇ) ਅਸਲੇ ਪਰਮਾਤਮਾ ਨਾਲ (ਪੱਕੀ) ਸਾਂਝ ਪਾ ਲਈ ਹੈ ॥੩॥੩॥",
       "translation_ru": "и я, слуга Нама, познал сущность Бога."
     },
@@ -298,14 +298,14 @@
     {
       "verse_id": 28458,
       "gurmukhi": "ਜਬ ਹਮ ਹੋਤੇ ਤਬ ਤੂ ਨਾਹੀ ਅਬ ਤੂਹੀ ਮੈ ਨਾਹੀ ॥",
-      "roman": "jab ham hote tab tū nāhī ab tūhī mai nāhī",
+      "roman": "jab ham hote tab tū nāhī ab tūhī mē nāhī",
       "sahib_singh_pa": "(ਹੇ ਮਾਧੋ!) ਜਿਤਨਾ ਚਿਰ ਅਸਾਂ ਜੀਵਾਂ ਦੇ ਅੰਦਰ ਹਉਮੈ ਰਹਿੰਦੀ ਹੈ, ਉਤਨਾ ਚਿਰ ਤੂੰ (ਅਸਾਡੇ ਅੰਦਰ) ਪਰਗਟ ਨਹੀਂ ਹੁੰਦਾ, ਪਰ ਜਦੋਂ ਤੂੰ ਪ੍ਰਤੱਖ ਹੁੰਦਾ ਹੈਂ ਤਦੋਂ ਅਸਾਡੀ 'ਮੈਂ' ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ।",
       "translation_ru": "Пока во мне было эго, Ты не проявлялся; когда проявляешься Ты, моё я исчезает."
     },
     {
       "verse_id": 28459,
       "gurmukhi": "ਅਨਲ ਅਗਮ ਜੈਸੇ ਲਹਰਿ ਮਇ ਓਦਧਿ ਜਲ ਕੇਵਲ ਜਲ ਮਾਂਹੀ ॥੧॥",
-      "roman": "anal agam jaise lahar mai odadh jal keval jal māhī",
+      "roman": "anal agam jēse lahar mē odadh jal keval jal māhī",
       "sahib_singh_pa": "(ਇਸ 'ਮੈਂ' ਦੇ ਹਟਣ ਨਾਲ ਇਹ ਸਮਝ ਆ ਜਾਂਦੀ ਹੈ ਕਿ) ਜਿਵੇਂ ਬੜਾ ਤੂਫ਼ਾਨ ਆਇਆਂ ਸਮੁੰਦਰ ਲਹਿਰਾਂ ਨਾਲ ਨਕਾ-ਨਕ ਭਰ ਜਾਂਦਾ ਹੈ, ਪਰ ਅਸਲ ਵਿਚ ਉਹ (ਲਹਿਰਾਂ ਸਮੁੰਦਰ ਦੇ) ਪਾਣੀ ਵਿਚ ਪਾਣੀ ਹੀ ਹੈ (ਤਿਵੇਂ ਇਹ ਸਾਰੇ ਜੀਆ ਜੰਤ ਤੇਰਾ ਆਪਣਾ ਹੀ ਵਿਕਾਸ ਹੈ) ॥੧॥",
       "translation_ru": "Как волны в океане — это лишь вода в воде."
     },
@@ -319,7 +319,7 @@
     {
       "verse_id": 28461,
       "gurmukhi": "ਜੈਸਾ ਮਾਨੀਐ ਹੋਇ ਨ ਤੈਸਾ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "jaisā mānī-ai hoi na taisā",
+      "roman": "jēsā mānī-ē hoi na tēsā",
       "sahib_singh_pa": "ਅਸੀਂ ਜੋ ਮੰਨੀ ਬੈਠੇ ਹਾਂ (ਕਿ ਜਗਤ ਤੇਰੇ ਨਾਲੋਂ ਕੋਈ ਵੱਖਰੀ ਹਸਤੀ ਹੈ), ਉਹ ਠੀਕ ਨਹੀਂ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "То, что мы считаем реальностью, не является таковым."
     },

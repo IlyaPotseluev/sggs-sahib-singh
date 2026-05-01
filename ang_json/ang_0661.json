@@ -39,7 +39,7 @@
     {
       "verse_id": 28574,
       "gurmukhi": "ਤਪੈ ਹਿਆਉ ਜੀਅੜਾ ਬਿਲਲਾਇ ॥",
-      "roman": "tapai hiāu jīṛā billāe",
+      "roman": "tapē hiāu jīṛā billāe",
       "sahib_singh_pa": "(ਕੀਹ ਕੀਤਾ ਜਾਏ? ਉਸ ਦੀ ਯਾਦ ਤੋਂ ਬਿਨਾਂ) ਦਿਲ ਸੜਦਾ ਰਹਿੰਦਾ ਹੈ, ਜਿੰਦ ਦੁਖੀ ਰਹਿੰਦੀ ਹੈ।",
       "translation_ru": "Что делать? Без Его памяти сердце горит, душа страдает."
     },
@@ -81,21 +81,21 @@
     {
       "verse_id": 28580,
       "gurmukhi": "ਨਾ ਕੋ ਚਾਖੈ ਨਾ ਕੋ ਖਾਇ ॥",
-      "roman": "nā ko chākhai nā ko khāe",
+      "roman": "nā ko chākhē nā ko khāe",
       "sahib_singh_pa": "ਨਾਹ ਕੋਈ ਇਸ ਨੂੰ ਖਾ ਕੇ ਵੇਖਦਾ ਹੈ।",
       "translation_ru": "Никто не пробует и не вкушает его."
     },
     {
       "verse_id": 28581,
       "gurmukhi": "ਲੋਕਿ ਪਤੀਣੈ ਨਾ ਪਤਿ ਹੋਇ ॥",
-      "roman": "lok patīṇai nā pat hoe",
+      "roman": "lok patīṇē nā pat hoe",
       "sahib_singh_pa": "(ਚਲਾਕੀਆਂ ਵਰਤ ਕੇ ਜਗਤ ਦੀ ਤਸੱਲੀ ਕਰਾ ਦਿੱਤੀ ਜਾਂਦੀ ਹੈ ਕਿ ਅਸੀਂ ਨਾਮ-ਵੱਖਰ ਵਿਹਾਝ ਰਹੇ ਹਾਂ) ਪਰ ਨਿਰਾ ਜਗਤ ਦੀ ਤਸੱਲੀ ਕਰਾਇਆਂ ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਆਦਰ ਨਹੀਂ ਮਿਲਦਾ (ਲੋਕ-ਵਿਖਾਵੇ ਵਾਲੀ ਭਗਤੀ ਪਰਵਾਨ ਨਹੀਂ ਹੁੰਦੀ)।",
       "translation_ru": "Можно обмануть мир, но лишь удовлетворяя людей, невозможно получить честь перед Богом."
     },
     {
       "verse_id": 28582,
       "gurmukhi": "ਤਾ ਪਤਿ ਰਹੈ ਰਾਖੈ ਜਾ ਸੋਇ ॥੨॥",
-      "roman": "tā pat rahai rākhai jā soe",
+      "roman": "tā pat rahē rākhē jā soe",
       "sahib_singh_pa": "ਇੱਜ਼ਤ ਤਦੋਂ ਹੀ ਮਿਲਦੀ ਹੈ ਜੇ ਪ੍ਰਭੂ (ਆਪ ਮੇਹਰ ਕਰ ਕੇ ਨਾਮ ਦੀ ਦਾਤਿ ਦੇਵੇ ਤੇ) ਇੱਜ਼ਤ ਰੱਖੇ ॥੨॥",
       "translation_ru": "Честь сохраняется только тогда, когда Сам Господь сохраняет её."
     },
@@ -116,7 +116,7 @@
     {
       "verse_id": 28585,
       "gurmukhi": "ਜੇ ਕੋ ਕਰੇ ਕੀਤੈ ਕਿਆ ਹੋਇ ॥",
-      "roman": "je ko kare kītai kiā hoe",
+      "roman": "je ko kare kītē kiā hoe",
       "sahib_singh_pa": "ਜੋ ਕੋਈ ਜੀਵ (ਪ੍ਰਭੂ ਨੂੰ ਮਿਲਣ ਵਾਸਤੇ ਹਿਕਮਤਿ ਆਦਿਕ ਵਾਲਾ ਕੋਈ ਜਤਨ) ਕਰੇ, ਤਾਂ ਅਜੇਹੇ ਜਤਨ ਨਾਲ ਕੋਈ ਲਾਭ ਨਹੀਂ ਹੁੰਦਾ।",
       "translation_ru": "Какие бы усилия ни предпринимал человек, они не приносят пользы."
     },
@@ -130,7 +130,7 @@
     {
       "verse_id": 28587,
       "gurmukhi": "ਹੁਣਿ ਉਠਿ ਚਲਣਾ ਮੁਹਤਿ ਕਿ ਤਾਲਿ ॥",
-      "roman": "hun uth chalṇā muhat ki tāl",
+      "roman": "hun uth chalṇā muhat k tāl",
       "sahib_singh_pa": "(ਇਥੇ ਸਦਾ ਨਹੀਂ ਬੈਠੇ ਰਹਿਣਾ, ਇਥੋਂ) ਝਬਦੇ ਹੀ (ਹਰੇਕ ਜੀਵ ਨੇ ਆਪੋ ਆਪਣੀ ਵਾਰੀ) ਚਲੇ ਜਾਣਾ ਹੈ, ਇਕ ਪਲ ਵਿਚ ਜਾਂ ਇਕ ਤਾਲ ਵਿਚ (ਕਹਿ ਲਵੋ। ਇਥੇ ਪੱਕੇ ਡੇਰੇ ਨਹੀਂ ਹਨ)।",
       "translation_ru": "Здесь нельзя оставаться вечно, каждому предстоит уйти — в мгновение или в один миг."
     },
@@ -144,7 +144,7 @@
     {
       "verse_id": 28589,
       "gurmukhi": "ਜੈਸੀ ਨਦਰਿ ਕਰੇ ਤੈਸਾ ਹੋਇ ॥",
-      "roman": "jaisī nadar kare taisā hoe",
+      "roman": "jēsī nadar kare tēsā hoe",
       "sahib_singh_pa": "(ਜੀਵ ਦੇ ਭੀ ਕੀਹ ਵੱਸ?) ਪਰਮਾਤਮਾ ਜੇਹੋ ਜੇਹੀ ਨਿਗਾਹ ਕਰਦਾ ਹੈ ਜੀਵ ਉਹੋ ਜੇਹੇ ਜੀਵਨ ਵਾਲਾ ਬਣ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "Какой взгляд бросит Господь, таким и становится человек."
     },
@@ -172,21 +172,21 @@
     {
       "verse_id": 28593,
       "gurmukhi": "ਆਤਮਾ ਦ੍ਰਵੈ ਰਹੈ ਲਿਵ ਲਾਇ ॥",
-      "roman": "ātmā dravai rahai liv lāe",
+      "roman": "ātmā dravē rahē liv lāe",
       "sahib_singh_pa": "(ਜੋ ਮਨੁੱਖ ਸਿਮਰਦਾ ਹੈ ਉਸ ਦਾ) ਆਤਮਾ (ਦੂਜਿਆਂ ਦੇ ਦੁੱਖ ਵੇਖ ਕੇ) ਨਰਮ ਹੁੰਦਾ ਹੈ (ਕਠੋਰਤਾ ਮੁੱਕ ਜਾਣ ਕਰਕੇ) ਉਹ ਪ੍ਰਭੂ ਵਿਚ ਸੁਰਤਿ ਜੋੜੀ ਰੱਖਦਾ ਹੈ।",
       "translation_ru": "Душа такого человека становится мягкой и пребывает в соединении с Богом."
     },
     {
       "verse_id": 28594,
       "gurmukhi": "ਆਤਮਾ ਪਰਾਤਮਾ ਏਕੋ ਕਰੈ ॥",
-      "roman": "ātmā parātmā eko karai",
+      "roman": "ātmā parātmā eko karē",
       "sahib_singh_pa": "ਉਹ ਮਨੁੱਖ ਆਪਣੇ ਆਪੇ ਤੇ ਦੂਜਿਆਂ ਦੇ ਆਪੇ ਨੂੰ ਇਕੋ ਜਿਹਾ ਸਮਝਦਾ ਹੈ,",
       "translation_ru": "Он считает своё «я» и «я» других единым."
     },
     {
       "verse_id": 28595,
       "gurmukhi": "ਅੰਤਰ ਕੀ ਦੁਬਿਧਾ ਅੰਤਰਿ ਮਰੈ ॥੧॥",
-      "roman": "antar kī dubidhā antar marai",
+      "roman": "antar kī dubidhā antar marē",
       "sahib_singh_pa": "ਉਸ ਦੇ ਅੰਦਰ ਦੀ ਮੇਰ-ਤੇਰ ਅੰਦਰ ਹੀ ਮਿਟ ਜਾਂਦੀ ਹੈ ॥੧॥",
       "translation_ru": "Внутреннее разделение в нём исчезает."
     },
@@ -200,21 +200,21 @@
     {
       "verse_id": 28597,
       "gurmukhi": "ਹਰਿ ਸਿਉ ਚਿਤੁ ਲਾਗੈ ਫਿਰਿ ਕਾਲੁ ਨ ਖਾਇ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "har sio chit lāgai fir kāl na khāe",
+      "roman": "har sio chit lāgē fir kāl na khāe",
       "sahib_singh_pa": "ਤੇ, ਜਿਸ ਮਨੁੱਖ ਦਾ ਚਿੱਤ ਪਰਮਾਤਮਾ ਨਾਲ ਪਰਚ ਜਾਂਦਾ ਹੈ ਉਸ ਨੂੰ ਮੁੜ ਮੌਤ ਦਾ ਡਰ ਨਹੀਂ ਪੋਂਹਦਾ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Чьё сознание соединяется с Богом, того больше не поражает смерть."
     },
     {
       "verse_id": 28598,
       "gurmukhi": "ਸਚਿ ਸਿਮਰਿਐ ਹੋਵੈ ਪਰਗਾਸੁ ॥",
-      "roman": "sach simariā hovai pargās",
+      "roman": "sach simariā hovē pargās",
       "sahib_singh_pa": "ਜੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਿਆ ਜਾਏ ਤਾਂ ਸਹੀ ਜੀਵਨ ਦੀ ਸੂਝ ਪੈ ਜਾਂਦੀ ਹੈ,",
       "translation_ru": "При поминании вечного Господа приходит истинное понимание жизни."
     },
     {
       "verse_id": 28599,
       "gurmukhi": "ਤਾ ਤੇ ਬਿਖਿਆ ਮਹਿ ਰਹੈ ਉਦਾਸੁ ॥",
-      "roman": "tā te bikhiā meh rahai udās",
+      "roman": "tā te bikhiā meh rahē udās",
       "sahib_singh_pa": "ਉਸ 'ਪਰਗਾਸ' ਦੀ ਰਾਹੀਂ ਮਾਇਆ ਵਿਚ ਵਰਤਦਾ ਹੋਇਆ ਭੀ ਨਿਰਲੇਪ ਰਹਿੰਦਾ ਹੈ।",
       "translation_ru": "Благодаря этому человек остаётся отрешённым, даже находясь в мире."
     },
@@ -235,56 +235,56 @@
     {
       "verse_id": 28602,
       "gurmukhi": "ਐਸੀ ਸੇਵਕੁ ਸੇਵਾ ਕਰੈ ॥",
-      "roman": "aisī sevak sevā karai",
+      "roman": "ēsī sevak sevā karē",
       "sahib_singh_pa": "ਸੇਵਕ ਉਹ ਹੈ ਜੋ (ਮਾਲਕ ਦੀ) ਇਹੋ ਜਿਹੀ ਸੇਵਾ ਕਰੇ,",
       "translation_ru": "Слуга тот, кто служит так,"
     },
     {
       "verse_id": 28603,
       "gurmukhi": "ਜਿਸ ਕਾ ਜੀਉ ਤਿਸੁ ਆਗੈ ਧਰੈ ॥",
-      "roman": "jis kā jīu tis āgai dharai",
+      "roman": "jis kā jīu tis āgē dharē",
       "sahib_singh_pa": "ਕਿ ਜਿਸ ਮਾਲਕ ਦੀ ਦਿੱਤੀ ਹੋਈ ਜਿੰਦ ਹੈ ਉਸੇ ਦੇ ਅੱਗੇ ਇਸ ਨੂੰ ਭੇਟਾ ਦੇ ਦੇਵੇ।",
       "translation_ru": "что предаёт свою жизнь Тому, Кто её дал."
     },
     {
       "verse_id": 28604,
       "gurmukhi": "ਸਾਹਿਬ ਭਾਵੈ ਸੋ ਪਰਵਾਣੁ ॥",
-      "roman": "sāhib bhāvai so parvāṇ",
+      "roman": "sāhib bhāvē so parvāṇ",
       "sahib_singh_pa": "ਅਜੇਹਾ ਸੇਵਕ ਮਾਲਕ ਨੂੰ ਪਸੰਦ ਆ ਜਾਂਦਾ ਹੈ, (ਮਾਲਕ ਦੇ ਘਰ ਵਿਚ) ਕਬੂਲ ਪੈ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "Такой слуга становится угодным Господу и принимается Им."
     },
     {
       "verse_id": 28605,
       "gurmukhi": "ਸੋ ਸੇਵਕੁ ਦਰਗਹ ਪਾਵੈ ਮਾਣੁ ॥੩॥",
-      "roman": "so sevak dargah pāvai māṇ",
+      "roman": "so sevak dargah pāvē māṇ",
       "sahib_singh_pa": "ਉਹ ਸੇਵਕ ਉਸ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਆਦਰ-ਸਤਕਾਰ ਪਾਂਦਾ ਹੈ ॥੩॥",
       "translation_ru": "Он получает честь в Его присутствии."
     },
     {
       "verse_id": 28606,
       "gurmukhi": "ਸਤਿਗੁਰ ਕੀ ਮੂਰਤਿ ਹਿਰਦੈ ਵਸਾਏ ॥",
-      "roman": "satgur kī mūrat hirdai vasāe",
+      "roman": "satgur kī mūrat hirdē vasāe",
       "sahib_singh_pa": "ਜੇਹੜਾ ਸੇਵਕ ਆਪਣੇ ਸਤਿਗੁਰੂ ਦੇ ਆਤਮਕ-ਸਰੂਪ (ਸ਼ਬਦ) ਨੂੰ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾਂਦਾ ਹੈ,",
       "translation_ru": "Тот, кто поселяет в сердце образ Сатгуру,"
     },
     {
       "verse_id": 28607,
       "gurmukhi": "ਜੋ ਇਛੈ ਸੋਈ ਫਲੁ ਪਾਏ ॥",
-      "roman": "jo ichhai soī phal pāe",
+      "roman": "jo ichhē soī phal pāe",
       "sahib_singh_pa": "ਉਹ ਗੁਰੂ ਦੇ ਦਰ ਤੋਂ ਮਨ-ਇੱਛਤ ਫਲ ਹਾਸਲ ਕਰਦਾ ਹੈ।",
       "translation_ru": "получает желаемый плод."
     },
     {
       "verse_id": 28608,
       "gurmukhi": "ਸਾਚਾ ਸਾਹਿਬੁ ਕਿਰਪਾ ਕਰੈ ॥",
-      "roman": "sāchā sāhib kirpā karai",
+      "roman": "sāchā sāhib kirpā karē",
       "sahib_singh_pa": "ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਮਾਲਕ-ਪ੍ਰਭੂ ਉਸ ਉਤੇ (ਇਤਨੀ) ਮੇਹਰ ਕਰਦਾ ਹੈ,",
       "translation_ru": "Вечный Господь оказывает ему милость,"
     },
     {
       "verse_id": 28609,
       "gurmukhi": "ਸੋ ਸੇਵਕੁ ਜਮ ਤੇ ਕੈਸਾ ਡਰੈ ॥੪॥",
-      "roman": "so sevak jam te kaisā ḍarai",
+      "roman": "so sevak jam te kēsā ḍarē",
       "sahib_singh_pa": "ਕਿ ਉਸ ਨੂੰ ਮੌਤ ਦਾ ਭੀ ਕੋਈ ਡਰ ਨਹੀਂ ਰਹਿ ਜਾਂਦਾ ॥੪॥",
       "translation_ru": "и такой слуга не боится смерти."
     },
@@ -305,14 +305,14 @@
     {
       "verse_id": 28612,
       "gurmukhi": "ਤਾ ਕੋ ਪਾਵੈ ਮੋਖ ਦੁਆਰੁ ॥",
-      "roman": "tā ko pāvai mokh duār",
+      "roman": "tā ko pāvē mokh duār",
       "sahib_singh_pa": "ਤਦੋਂ ਉਹ (ਮਾਇਆ ਦੇ ਮੋਹ ਤੋਂ) ਖ਼ਲਾਸੀ ਦਾ ਦਰਵਾਜ਼ਾ ਲੱਭ ਲੈਂਦਾ ਹੈ।",
       "translation_ru": "Тогда он находит дверь освобождения."
     },
     {
       "verse_id": 28613,
       "gurmukhi": "ਜਪੁ ਤਪੁ ਸਭੁ ਇਹੁ ਸਬਦੁ ਹੈ ਸਾਰੁ ॥੫॥੨॥੪॥",
-      "roman": "jap tap sabh ih sabad hai sār",
+      "roman": "jap tap sabh ih sabad hē sār",
       "sahib_singh_pa": "(ਸਿਫ਼ਤ-ਸਾਲਾਹ ਵਾਲਾ ਇਹ) ਸ੍ਰੇਸ਼ਟ ਗੁਰ-ਸ਼ਬਦ ਹੀ ਅਸਲ ਜਪ ਹੈ ਅਸਲ ਤਪ ਹੈ ॥੫॥੨॥੪॥",
       "translation_ru": "Этот высший Шабад — и есть истинное повторение и истинное подвижничество."
     },
@@ -326,21 +326,21 @@
     {
       "verse_id": 28615,
       "gurmukhi": "ਜੀਉ ਤਪਤੁ ਹੈ ਬਾਰੋ ਬਾਰ ॥",
-      "roman": "jīu tapat hai bāro bār",
+      "roman": "jīu tapat hē bāro bār",
       "sahib_singh_pa": "(ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਵਿਸਾਰਿਆਂ) ਜਿੰਦ ਮੁੜ ਮੁੜ ਦੁਖੀ ਹੁੰਦੀ ਹੈ,",
       "translation_ru": "Душа снова и снова страдает,"
     },
     {
       "verse_id": 28616,
       "gurmukhi": "ਤਪਿ ਤਪਿ ਖਪੈ ਬਹੁਤੁ ਬੇਕਾਰ ॥",
-      "roman": "tap tap khapai bahut bekār",
+      "roman": "tap tap khapē bahut bekār",
       "sahib_singh_pa": "ਦੁਖੀ ਹੋ ਹੋ ਕੇ (ਫਿਰ ਭੀ) ਹੋਰ ਹੋਰ ਵਿਕਾਰਾਂ ਵਿਚ ਖ਼ੁਆਰ ਹੁੰਦੀ ਹੈ।",
       "translation_ru": "и, мучаясь, впадает в новые пороки."
     },
     {
       "verse_id": 28617,
       "gurmukhi": "ਜੈ ਤਨਿ ਬਾਣੀ ਵਿਸਰਿ ਜਾਇ ॥",
-      "roman": "jai tan bāṇī visar jāe",
+      "roman": "jē tan bāṇī visar jāe",
       "sahib_singh_pa": "ਜਿਸ ਸਰੀਰ ਵਿਚ (ਭਾਵ, ਜਿਸ ਮਨੁੱਖ ਨੂੰ) ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੀ ਬਾਣੀ ਭੁੱਲ ਜਾਂਦੀ ਹੈ,",
       "translation_ru": "Если человек забывает бани Господа,"
     },
@@ -361,7 +361,7 @@
     {
       "verse_id": 28620,
       "gurmukhi": "ਵਿਣੁ ਬੋਲੇ ਜਾਣੈ ਸਭੁ ਸੋਇ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "viṇ bole jāṇai sabh soe",
+      "roman": "viṇ bole jāṇē sabh soe",
       "sahib_singh_pa": "ਕਿਉਂਕਿ ਉਹ ਪਰਮਾਤਮਾ ਸਾਡੇ ਗਿਲੇ ਕਰਨ ਤੋਂ ਬਿਨਾ ਹੀ (ਸਾਡੇ ਰੋਗਾਂ ਦਾ) ਸਾਰਾ ਕਾਰਣ ਜਾਣਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Ведь Бог знает всё и без слов."
     },

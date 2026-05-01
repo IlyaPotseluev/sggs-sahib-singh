@@ -95,14 +95,14 @@
     {
       "verse_id": 38079,
       "gurmukhi": "ਅਪਨੀ ਗਤਿ ਆਪਿ ਜਾਨੈ ॥",
-      "roman": "apnī gat āp jānai",
+      "roman": "apnī gat āp jānē",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਕਿਹੋ ਜਿਹਾ ਹੈ-ਇਹ ਗੱਲ ਉਹ ਆਪ ਹੀ ਜਾਣਦਾ ਹੈ।",
       "translation_ru": "О брат! Каков Он — это знает только Он Сам."
     },
     {
       "verse_id": 38080,
       "gurmukhi": "ਸੁਣਿ ਸੁਣਿ ਅਵਰ ਵਖਾਨੈ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "suṇ suṇ avar vakhānai",
+      "roman": "suṇ suṇ avar vakhānē",
       "sahib_singh_pa": "(ਜੀਵ) ਹੋਰਨਾਂ ਪਾਸੋਂ ਸੁਣ ਸੁਣ ਕੇ ਹੀ (ਪਰਮਾਤਮਾ ਬਾਰੇ) ਜ਼ਿਕਰ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Живое существо лишь пересказывает, слушая от других."
     },
@@ -123,7 +123,7 @@
     {
       "verse_id": 38083,
       "gurmukhi": "ਦੇਵੀਆ ਨਹੀ ਜਾਨੈ ਮਰਮ ॥",
-      "roman": "dēvīā nahī jānai maram",
+      "roman": "dēvīā nahī jānē maram",
       "sahib_singh_pa": "ਦੇਵੀਆਂ ਵਿਚੋਂ ਭੀ ਕੋਈ ਉਸ ਪ੍ਰਭੂ ਦਾ ਭੇਦ ਨਹੀਂ ਜਾਣਦੀ।",
       "translation_ru": "Даже среди богинь никто не знает Его тайны."
     },
@@ -137,14 +137,14 @@
     {
       "verse_id": 38085,
       "gurmukhi": "ਅਪਨੈ ਰੰਗਿ ਕਰਤਾ ਕੇਲ ॥",
-      "roman": "apnai raṅg kartā kēl",
+      "roman": "apnē raṅg kartā kēl",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ!) ਪਰਮਾਤਮਾ ਆਪਣੀ ਮੌਜ ਵਿਚ (ਜਗਤ ਦੇ ਸਾਰੇ) ਕੌਤਕ ਕਰ ਰਿਹਾ ਹੈ,",
       "translation_ru": "О брат! Бог в Своей радости совершает все игры мира,"
     },
     {
       "verse_id": 38086,
       "gurmukhi": "ਆਪਿ ਬਿਛੋਰੈ ਆਪੇ ਮੇਲ ॥",
-      "roman": "āp bichhorai āpe mēl",
+      "roman": "āp bichhorē āpe mēl",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਆਪ ਹੀ (ਜੀਵਾਂ ਨੂੰ ਆਪਣੇ ਚਰਨਾਂ ਤੋਂ) ਵਿਛੋੜਦਾ ਹੈ, ਆਪ ਹੀ ਮਿਲਾਂਦਾ ਹੈ।",
       "translation_ru": "Он Сам разлучает и Сам соединяет."
     },
@@ -221,7 +221,7 @@
     {
       "verse_id": 38097,
       "gurmukhi": "ਕਿਛੂ ਨ ਜਾਨਉ ਕੈਸਾ ਕਰਮ ॥੧॥",
-      "roman": "kichhū na jānao kaisā karam",
+      "roman": "kichhū na jānao kēsā karam",
       "sahib_singh_pa": "ਮੈਨੂੰ ਕੋਈ ਸਮਝ ਨਹੀਂ ਕਿ ਕਰਮ-ਕਾਂਡ ਕਿਹੋ ਜਿਹੇ ਹੁੰਦੇ ਹਨ ॥੧॥",
       "translation_ru": "Я не понимаю, как совершаются ритуальные действия."
     },
@@ -249,7 +249,7 @@
     {
       "verse_id": 38101,
       "gurmukhi": "ਬਿਖੈ ਬਿਆਧਿ ਕੇ ਗਾਵ ਮਹਿ ਬਾਸੁ ॥",
-      "roman": "bikhai biādh kē gāv meh bās",
+      "roman": "bikhē biādh kē gāv meh bās",
       "sahib_singh_pa": "ਵਿਕਾਰਾਂ ਤੇ ਰੋਗਾਂ ਦੇ ਇਸ ਸਰੀਰ-ਪਿੰਡ ਵਿਚ ਮੇਰਾ ਵਸੇਬਾ ਹੈ।",
       "translation_ru": "Я живу в теле, наполненном пороками и болезнями."
     },
@@ -389,7 +389,7 @@
     {
       "verse_id": 38121,
       "gurmukhi": "ਹਿਰਦੈ ਜਪਿ ਪਰਮਾਨੰਦ ॥",
-      "roman": "hirdai jap parmānand",
+      "roman": "hirdē jap parmānand",
       "sahib_singh_pa": "ਸਭ ਤੋਂ ਉੱਚੇ ਸੁਖ ਦੇ ਮਾਲਕ ਪ੍ਰਭੂ ਨੂੰ ਹਿਰਦੇ ਵਿਚ ਜਪ ਕੇ-",
       "translation_ru": "Повторяя в сердце Господа — источник высшего блаженства —"
     },

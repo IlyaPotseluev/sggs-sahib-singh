@@ -18,7 +18,7 @@
     {
       "verse_id": 30397,
       "gurmukhi": "ਬਿਨੁ ਪੂਰੇ ਗੁਰਦੇਵ ਫਿਰੈ ਸੈਤਾਨਿਆ ॥੯॥",
-      "roman": "bin pūre gurdev phirai saitāniā",
+      "roman": "bin pūre gurdev phirē sētāniā",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ! ਮਨੁੱਖ) ਪੂਰੇ ਗੁਰੂ ਦੀ ਸਰਨ ਤੋਂ ਬਿਨਾ ਸ਼ੈਤਾਨ ਵਾਂਗ ਫਿਰਦਾ ਹੈ ॥੯॥",
       "translation_ru": "Без совершенного Гуру человек блуждает как демон"
     },
@@ -67,7 +67,7 @@
     {
       "verse_id": 30404,
       "gurmukhi": "ਚਲਦਿਆ ਨਾਲਿ ਨ ਚਲੈ ਸੋ ਕਿਉ ਸੰਜੀਐ ॥",
-      "roman": "chaldiyā nāl na chalai so kiu sanjīai",
+      "roman": "chaldiyā nāl na chalē so kiu sanjīē",
       "sahib_singh_pa": "ਉਸ ਮਾਇਆ ਨੂੰ ਇਕੱਠੀ ਕਰਨ ਦਾ ਕੀ ਲਾਭ, ਜੋ (ਜਗਤ ਤੋਂ ਤੁਰਨ ਵੇਲੇ) ਨਾਲ ਨਹੀਂ ਜਾਂਦੀ,",
       "translation_ru": "Какой смысл собирать ту майю, которая не идёт с человеком при уходе?"
     },
@@ -81,21 +81,21 @@
     {
       "verse_id": 30406,
       "gurmukhi": "ਹਰਿ ਬਿਸਰਿਐ ਕਿਉ ਤ੍ਰਿਪਤਾਵੈ ਨਾ ਮਨੁ ਰੰਜੀਐ ॥",
-      "roman": "har bisriā kiu triptāvai nā man ranjīai",
+      "roman": "har bisriā kiu triptāvē nā man ranjīē",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਨੂੰ ਵਿਸਾਰਿਆਂ (ਨਿਰੀ ਮਾਇਆ ਨਾਲ) ਰੱਜੀਦਾ ਭੀ ਨਹੀਂ ਤੇ ਨਾਹ ਹੀ ਮਨ ਪ੍ਰਸੰਨ ਹੁੰਦਾ ਹੈ।",
       "translation_ru": "Забыв Бога, человек не насыщается и не получает удовлетворения."
     },
     {
       "verse_id": 30407,
       "gurmukhi": "ਪ੍ਰਭੂ ਛੋਡਿ ਅਨ ਲਾਗੈ ਨਰਕਿ ਸਮੰਜੀਐ ॥",
-      "roman": "prabhū chhod an lāgai narak samaṅjīai",
+      "roman": "prabhū chhod an lāgē narak samaṅjīē",
       "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਨੂੰ ਛੱਡ ਕੇ ਜੇ ਮਨ ਹੋਰ ਪਾਸੇ ਲਗਾਇਆਂ ਨਰਕ ਵਿੱਚ ਸਮਾਈਦਾ ਹੈ।",
       "translation_ru": "Оставив Бога и привязавшись к другому, человек погружается в ад."
     },
     {
       "verse_id": 30408,
       "gurmukhi": "ਹੋਹੁ ਕ੍ਰਿਪਾਲ ਦਇਆਲ ਨਾਨਕ ਭਉ ਭੰਜੀਐ ॥੧੦॥",
-      "roman": "hohu kripāl dayāl nānak bhau bhanjīai",
+      "roman": "hoh kripāl dayāl nānak bhau bhanjīai",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਕਿਰਪਾ ਕਰ, ਦਇਆ ਕਰ, ਨਾਨਕ ਦਾ ਸਹਿਮ ਦੂਰ ਕਰ ਦੇਹ ॥੧੦॥",
       "translation_ru": "О Бог! будь милостив и сострадателен — устрани страх Нанака."
     },
@@ -123,7 +123,7 @@
     {
       "verse_id": 30412,
       "gurmukhi": "ਲਗੜਾ ਸੋ ਨੇਹੁ ਮੰਨ ਮਝਾਹੂ ਰਤਿਆ ॥",
-      "roman": "lagṛā so nehu mann majhāhū ratiā",
+      "roman": "lagṛā so neh mann majhāhū ratiā",
       "sahib_singh_pa": "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਉਹ ਪਿਆਰ ਲੱਗ ਜਾਏ ਜਿਸ ਨਾਲ ਅੰਦਰੋਂ ਮਨ (ਪ੍ਰਭੂ ਦੇ ਨਾਲ) ਰੰਗਿਆ ਜਾਏ,",
       "translation_ru": "Тот человек, к которому приходит такая любовь, через которую его ум окрашивается изнутри в Бога,"
     },
@@ -228,35 +228,35 @@
     {
       "verse_id": 30427,
       "gurmukhi": "ਜਿਉ ਮਛੁਲੀ ਬਿਨੁ ਪਾਣੀਐ ਕਿਉ ਜੀਵਣੁ ਪਾਵੈ ॥",
-      "roman": "jiu machhulī bin pāṇīai kiu jīvaṇ pāvai",
+      "roman": "jiu machhulī bin pāṇīē kiu jīvaṇ pāvē",
       "sahib_singh_pa": "ਜਿਵੇਂ ਮੱਛੀ ਪਾਣੀ ਤੋਂ ਬਿਨਾ ਜੀਊ ਨਹੀਂ ਸਕਦੀ,",
       "translation_ru": "Как рыба не может жить без воды,"
     },
     {
       "verse_id": 30428,
       "gurmukhi": "ਬੂੰਦ ਵਿਹੂਣਾ ਚਾਤ੍ਰਿਕੋ ਕਿਉ ਕਰਿ ਤ੍ਰਿਪਤਾਵੈ ॥",
-      "roman": "būnd vihūṇā chātriko kiu kar triptāvai",
+      "roman": "būnd vihūṇā chātriko kiu kar triptāvē",
       "sahib_singh_pa": "ਜਿਵੇਂ ਮੀਂਹ ਦੀ ਕਣੀ ਤੋਂ ਬਿਨਾ ਪਪੀਹਾ ਰੱਜ ਨਹੀਂ ਸਕਦਾ,",
       "translation_ru": "как чатрик не насыщается без капли дождя,"
     },
     {
       "verse_id": 30429,
       "gurmukhi": "ਨਾਦ ਕੁਰੰਕਹਿ ਬੇਧਿਆ ਸਨਮੁਖ ਉਠਿ ਧਾਵੈ ॥",
-      "roman": "nād kuraṅkah bedhiā sanmukh uṭh dhāvai",
+      "roman": "nād kuraṅkah bedhiā sanmukh uṭh dhāvē",
       "sahib_singh_pa": "ਜਿਵੇਂ, (ਘੰਡੇਹੇੜੇ ਦੀ) ਆਵਾਜ਼ ਹਰਨ ਨੂੰ ਮੋਹ ਲੈਂਦੀ ਹੈ, ਉਹ ਓਧਰ ਹੀ ਉੱਠ ਦੌੜਦਾ ਹੈ,",
       "translation_ru": "как олень, очарованный звуком, бежит к нему,"
     },
     {
       "verse_id": 30430,
       "gurmukhi": "ਭਵਰੁ ਲੋਭੀ ਕੁਸਮ ਬਾਸੁ ਕਾ ਮਿਲਿ ਆਪੁ ਬੰਧਾਵੈ ॥",
-      "roman": "bhavar lobhī kusam bās kā mil āp bandhāvai",
+      "roman": "bhavar lobhī kusam bās kā mil āp bandhāvē",
       "sahib_singh_pa": "ਜਿਵੇਂ, ਭੌਰਾ ਫੁੱਲ ਦੀ ਸੁਗੰਧੀ ਦਾ ਆਸ਼ਕ ਹੁੰਦਾ ਹੈ, (ਫੁੱਲ ਨਾਲ) ਮਿਲ ਕੇ ਆਪਣੇ ਆਪ ਨੂੰ ਫਸਾ ਲੈਂਦਾ ਹੈ।",
       "translation_ru": "как пчела, жадная до аромата цветка, сама попадает в ловушку,"
     },
     {
       "verse_id": 30431,
       "gurmukhi": "ਤਿਉ ਸੰਤ ਜਨਾ ਹਰਿ ਪ੍ਰੀਤਿ ਹੈ ਦੇਖਿ ਦਰਸੁ ਅਘਾਵੈ ॥੧੨॥",
-      "roman": "tiu sant janā har prīt hai dekh dars aghāvai",
+      "roman": "tiu sant janā har prīt hē dekh dars aghāvē",
       "sahib_singh_pa": "ਤਿਵੇਂ, ਸੰਤਾਂ ਨੂੰ ਪ੍ਰਭੂ ਨਾਲ ਪ੍ਰੇਮ ਹੁੰਦਾ ਹੈ, ਪ੍ਰਭੂ ਦਾ ਦੀਦਾਰ ਕਰ ਕੇ ਉਹ ਰੱਜ ਜਾਂਦੇ ਹਨ ॥੧੨॥",
       "translation_ru": "так же святые любят Бога и, увидев Его, насыщаются."
     },
@@ -284,7 +284,7 @@
     {
       "verse_id": 30435,
       "gurmukhi": "ਸੀਤੜਾ ਮੰਨ ਮੰਝਾਹਿ ਪਲਕ ਨ ਥੀਵੈ ਬਾਹਰਾ ॥",
-      "roman": "sītraṛā mann manjhāhi palak na thīvai bāhrā",
+      "roman": "sītraṛā mann manjhāh palak na thīvē bāhrā",
       "sahib_singh_pa": "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੇ ਮਨ ਵਿਚ ਪ੍ਰਭੂ (ਸਦਾ) ਪ੍ਰੋਤਾ ਰਹਿੰਦਾ ਹੈ, ਜਿਨ੍ਹਾਂ ਤੋਂ ਇਕ ਖਿਨ ਲਈ ਭੀ ਜੁਦਾ ਨਹੀਂ ਹੁੰਦਾ,",
       "translation_ru": "Те, в чьём уме Бог пребывает постоянно и не покидает их даже на мгновение,"
     },
@@ -319,7 +319,7 @@
     {
       "verse_id": 30440,
       "gurmukhi": "ਦੇਹੁ ਦਰਸੁ ਮਨਿ ਚਾਉ ਲਹਿ ਜਾਹਿ ਵਿਸੂਰੀਐ ॥",
-      "roman": "dehu dars man chāu lah jāh visūrīai",
+      "roman": "deh dars man chāu lah jāh visūrīai",
       "sahib_singh_pa": "ਮੇਰੇ ਮਨ ਵਿਚ ਖਿੱਚ ਹੈ, ਮੈਨੂੰ ਦੀਦਾਰ ਦੇਹ ਤੇ ਮੇਰੇ ਝੋਰੇ ਮਿਟ ਜਾਣ।",
       "translation_ru": "Даруй мне Твоё видение — в моём сердце есть стремление, пусть исчезнут мои печали."
     }

@@ -18,7 +18,7 @@
     {
       "verse_id": 14265,
       "gurmukhi": "ਸੰਤ ਸਹਾਈ ਨਾਨਕਾ ਵਰਤੈ ਸਭ ਜਾਹਰੁ ॥੧॥",
-      "roman": "sant sahāī nānakā vartai sabh jāhar",
+      "roman": "sant sahāī nānakā vartē sabh jāhar",
       "sahib_singh_pa": "ਤੇ, ਹੇ ਨਾਨਕ! ਸੰਤ ਜਨਾਂ ਦਾ ਰਾਖਾ ਹਰੀ ਸਭ ਥਾਈਂ ਪਰਗਟ ਖੇਲ ਕਰ ਰਿਹਾ ਹੈ ॥੧॥",
       "translation_ru": "И, о Нанак! Хари — защитник святых, повсюду явно проявляет Свою игру."
     },
@@ -32,14 +32,14 @@
     {
       "verse_id": 14267,
       "gurmukhi": "ਮੁੰਢਹੁ ਭੁਲੇ ਮੁੰਢ ਤੇ ਕਿਥੈ ਪਾਇਨਿ ਹਥੁ ॥",
-      "roman": "muṇḍhahu bhule muṇḍh te kithai pāin hath",
+      "roman": "muṇḍhah bhule muṇḍh te kithē pāin hath",
       "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ ਪਹਿਲੋਂ ਤੋਂ ਹੀ ਪ੍ਰਭੂ ਵਲੋਂ ਖੁੰਝੇ ਹੋਏ ਹਨ, ਉਹ ਹੋਰ ਕਿਹੜਾ ਆਸਰਾ ਲੈਣ?",
       "translation_ru": "Те, кто изначально отвернулись от Бога, на какую опору ещё могут опереться?"
     },
     {
       "verse_id": 14268,
       "gurmukhi": "ਤਿੰਨੈ ਮਾਰੇ ਨਾਨਕਾ ਜਿ ਕਰਣ ਕਾਰਣ ਸਮਰਥੁ ॥੨॥",
-      "roman": "tinnai māre nānakā je karaṇ kāraṇ samrath",
+      "roman": "tinnē māre nānakā je karaṇ kāraṇ samrath",
       "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਹੇ ਨਾਨਕ! ਇਹ ਉਸ ਪ੍ਰਭੂ ਨੇ ਆਪ ਮਾਰੇ ਹੋਏ ਹਨ, ਜੋ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਨੂੰ ਰਚਨ ਦੇ ਸਮਰੱਥ ਹੈ ॥੨॥",
       "translation_ru": "Ибо, о Нанак! Их поразил Сам Тот Господь, который способен создавать всю вселенную."
     },
@@ -53,14 +53,14 @@
     {
       "verse_id": 14270,
       "gurmukhi": "ਲੈ ਫਾਹੇ ਰਾਤੀ ਤੁਰਹਿ ਪ੍ਰਭੁ ਜਾਣੈ ਪ੍ਰਾਣੀ ॥",
-      "roman": "lai fāhe rātī turahi prabh jāṇai prāṇī",
+      "roman": "lē fāhe rātī turah prabh jāṇē prāṇī",
       "sahib_singh_pa": "ਮਨੁੱਖ ਰਾਤ ਨੂੰ ਫਾਹੇ ਲੈ ਕੇ (ਪਰਾਏ ਘਰਾਂ ਨੂੰ ਲੁੱਟਣ ਲਈ) ਤੁਰਦੇ ਹਨ (ਪਰ) ਪ੍ਰਭੂ ਉਹਨਾਂ ਨੂੰ ਜਾਣਦਾ ਹੈ।",
       "translation_ru": "Люди ночью идут с петлями, чтобы грабить чужие дома, но Господь знает их."
     },
     {
       "verse_id": 14271,
       "gurmukhi": "ਤਕਹਿ ਨਾਰਿ ਪਰਾਈਆ ਲੁਕਿ ਅੰਦਰਿ ਠਾਣੀ ॥",
-      "roman": "takahi nār parāīā luk andar ṭhāṇī",
+      "roman": "takah nār parāīā luk andar ṭhāṇī",
       "sahib_singh_pa": "ਅੰਦਰਲੇ ਥਾਈਂ ਲੁਕ ਕੇ ਪਰਾਈਆਂ ਇਸਤ੍ਰੀਆਂ ਵਲ ਤੱਕਦੇ ਹਨ,",
       "translation_ru": "Скрываясь внутри, они смотрят на чужих женщин,"
     },
@@ -137,35 +137,35 @@
     {
       "verse_id": 14282,
       "gurmukhi": "ਨਾਰਾਇਣਿ ਲਇਆ ਨਾਠੂੰਗੜਾ ਪੈਰ ਕਿਥੈ ਰਖੈ ॥",
-      "roman": "nārāiṇ la-iā nāṭhūṅgaṛā pair kithai rakhai",
+      "roman": "nārāiṇ la-iā nāṭhūṅgaṛā pēr kithē rakhē",
       "sahib_singh_pa": "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਰੱਬ ਵਲੋਂ ਹੀ ਠੇਡਾ ਵੱਜੇ, ਉਹ (ਜ਼ਿੰਦਗੀ ਦੇ ਸਹੀ ਰਾਹ ਤੇ) ਟਿਕ ਨਹੀਂ ਸਕਦਾ।",
       "translation_ru": "Тот, кого Сам Бог толкнёт, не может устоять на правильном пути."
     },
     {
       "verse_id": 14283,
       "gurmukhi": "ਕਰਦਾ ਪਾਪ ਅਮਿਤਿਆ ਨਿਤ ਵਿਸੋ ਚਖੈ ॥",
-      "roman": "kardā pāp amitiā nit viso chakhai",
+      "roman": "kardā pāp amitiā nit viso chakhē",
       "sahib_singh_pa": "ਉਹ ਬੇਅੰਤ ਪਾਪ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ, ਸਦਾ (ਵਿਕਾਰਾਂ ਦੀ) ਵਿਹੁ ਹੀ ਚੱਖਦਾ ਹੈ (ਭਾਵ, ਉਸ ਨੂੰ ਵਿਕਾਰਾਂ ਦਾ ਚਸਕਾ ਪਿਆ ਰਹਿੰਦਾ ਹੈ)।",
       "translation_ru": "Он совершает бесчисленные грехи и постоянно вкушает яд пороков."
     },
     {
       "verse_id": 14284,
       "gurmukhi": "ਨਿੰਦਾ ਕਰਦਾ ਪਚਿ ਮੁਆ ਵਿਚਿ ਦੇਹੀ ਭਖੈ ॥",
-      "roman": "nindā kardā pach muā vich dehī bhakhai",
+      "roman": "nindā kardā pach muā vich dehī bhakhē",
       "sahib_singh_pa": "ਦੂਜਿਆਂ ਦੇ ਐਬ ਢੂੰਢ ਢੂੰਢ ਕੇ ਖ਼ੁਆਰ ਹੁੰਦਾ ਹੈ ਤੇ ਆਪਣੇ ਆਪ ਵਿਚ ਸੜਦਾ ਹੈ।",
       "translation_ru": "Он, выискивая чужие недостатки, изводится и сгорает внутри себя."
     },
     {
       "verse_id": 14285,
       "gurmukhi": "ਸਚੈ ਸਾਹਿਬ ਮਾਰਿਆ ਕਉਣੁ ਤਿਸ ਨੋ ਰਖੈ ॥",
-      "roman": "sachai sāhib māriā kauṇ tis no rakhai",
+      "roman": "sachē sāhib māriā kauṇ tis no rakhē",
       "sahib_singh_pa": "ਉਹ (ਸਮਝੋ) ਸੱਚੇ ਪਰਮਾਤਮਾ ਵਲੋਂ ਮਾਰਿਆ ਹੋਇਆ ਹੈ, ਕੋਈ ਉਸ ਦੀ ਸਹਾਇਤਾ ਨਹੀਂ ਕਰ ਸਕਦਾ।",
       "translation_ru": "Такой человек поражён Истинным Господом — кто сможет его спасти?"
     },
     {
       "verse_id": 14286,
       "gurmukhi": "ਨਾਨਕ ਤਿਸੁ ਸਰਣਾਗਤੀ ਜੋ ਪੁਰਖੁ ਅਲਖੈ ॥੨੮॥",
-      "roman": "nānak tis saraṇāgat jo purakh alakhai",
+      "roman": "nānak tis saraṇāgat jo purakh alakhē",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਇਸ ਵਿਹੁ ਤੋਂ ਬਚਣ ਲਈ) ਉਸ ਅਕਾਲ ਪੁਰਖ ਦੀ ਸ਼ਰਨ ਪਉ ਜੋ ਅਲੱਖ ਹੈ ॥੨੮॥",
       "translation_ru": "О Нанак! Прибегни к защите Того Невидимого Господа."
     },
@@ -179,7 +179,7 @@
     {
       "verse_id": 14288,
       "gurmukhi": "ਨਰਕ ਘੋਰ ਬਹੁ ਦੁਖ ਘਣੇ ਅਕਿਰਤਘਣਾ ਕਾ ਥਾਨੁ ॥",
-      "roman": "narak ghor bahu dukh ghaṇe akiratghaṇā kā thān",
+      "roman": "narak ghor bah dukh ghaṇe akiratghaṇā kā thān",
       "sahib_singh_pa": "ਅਕਿਰਤਘਣ ਮਨੁੱਖ ਉਸ ਪ੍ਰਭੂ ਵਲੋਂ ਮਾਰੇ ਹੋਏ ਹੁੰਦੇ ਹਨ, ਬਹੁਤ ਭਾਰੇ ਦੁੱਖ-ਰੂਪ ਘੋਰ ਨਰਕ ਉਹਨਾਂ ਦਾ ਟਿਕਾਣਾ ਹੈ।",
       "translation_ru": "Те, кто неблагодарны, поражены Богом; их место — страшный ад, полный великих страданий."
     },
@@ -200,7 +200,7 @@
     {
       "verse_id": 14291,
       "gurmukhi": "ਅਵਖਧ ਸਭੇ ਕੀਤਿਅਨੁ ਨਿੰਦਕ ਕਾ ਦਾਰੂ ਨਾਹਿ ॥",
-      "roman": "avkhaḍh sabhe kītian nindak kā dārū nāhi",
+      "roman": "avkhaḍh sabhe kītian nindak kā dārū nāh",
       "sahib_singh_pa": "ਸਾਰੇ ਰੋਗਾਂ ਦੇ ਦਾਰੂ ਉਸ ਪ੍ਰਭੂ ਨੇ ਬਣਾਏ ਹਨ (ਭਾਵ, ਹੋ ਸਕਦੇ ਹਨ), ਪਰ ਨਿੰਦਕਾਂ (ਦੇ ਨਿੰਦਾ-ਰੋਗ ਦਾ) ਕੋਈ ਇਲਾਜ ਨਹੀਂ।",
       "translation_ru": "Все лекарства созданы Богом, но для болезни клеветников нет лекарства."
     },
@@ -221,7 +221,7 @@
     {
       "verse_id": 14294,
       "gurmukhi": "ਤੁਸਿ ਦਿਤਾ ਪੂਰੈ ਸਤਿਗੁਰੂ ਹਰਿ ਧਨੁ ਸਚੁ ਅਖੁਟੁ ॥",
-      "roman": "tus ditā pūrai satgur har dhan sach akhuṭ",
+      "roman": "tus ditā pūrē satgur har dhan sach akhuṭ",
       "sahib_singh_pa": "(ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੂੰ) ਪੂਰੇ ਸਤਿਗੁਰੂ ਨੇ ਪ੍ਰਭੂ ਦਾ ਸੱਚਾ ਤੇ ਨਾ ਮੁੱਕਣ ਵਾਲਾ ਧਨ ਪਰਸੰਨ ਹੋ ਕੇ ਦਿੱਤਾ ਹੈ,",
       "translation_ru": "Тем, кому совершенный Сатгуру по милости дал истинное неиссякаемое богатство Господа,"
     },
@@ -249,7 +249,7 @@
     {
       "verse_id": 14298,
       "gurmukhi": "ਨਾਨਕ ਕਉ ਗੁਰਿ ਬਖਸਿਆ ਨਾਮੈ ਸੰਗਿ ਜੁਟੁ ॥੨੯॥",
-      "roman": "nānak kau gur bakhsiā nāmai sang juṭ",
+      "roman": "nānak kau gur bakhsiā nāmē sang juṭ",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਜਿਸ ਮਨੁੱਖ ਤੇ ਸਤਿਗੁਰੂ ਦੀ ਰਾਹੀਂ ਪ੍ਰਭੂ ਨੇ ਬਖ਼ਸ਼ਿਸ਼ ਕੀਤੀ ਹੈ ਉਹ ਨਿਰੋਲ ਨਾਮ ਵਿਚ ਜੁਟਿਆ ਹੋਇਆ ਹੈ ॥੨੯॥",
       "translation_ru": "О Нанак! Тот, кому через Гуру дарована милость, погружён только в Имя."
     },
@@ -263,42 +263,42 @@
     {
       "verse_id": 14300,
       "gurmukhi": "ਤਪਾ ਨ ਹੋਵੈ ਅੰਦ੍ਰਹੁ ਲੋਭੀ ਨਿਤ ਮਾਇਆ ਨੋ ਫਿਰੈ ਜਜਮਾਲਿਆ ॥",
-      "roman": "tapā na hovai andrah lobhī nit māiā no phirai jajmāliā",
+      "roman": "tapā na hovē andrah lobhī nit māiā no phirē jajmāliā",
       "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ ਅੰਦਰੋਂ ਲੋਭੀ ਹੋਵੇ ਤੇ ਜੋ ਕੋਹੜੀ ਸਦਾ ਮਾਇਆ ਵਾਸਤੇ ਭਟਕਦਾ ਫਿਰੇ, ਉਹ (ਸੱਚਾ) ਤਪੱਸਵੀ ਨਹੀਂ ਹੋ ਸਕਦਾ।",
       "translation_ru": "Тот, кто внутри жаден и постоянно блуждает ради майи, не может быть истинным аскетом."
     },
     {
       "verse_id": 14301,
       "gurmukhi": "ਅਗੋ ਦੇ ਸਦਿਆ ਸਤੈ ਦੀ ਭਿਖਿਆ ਲਏ ਨਾਹੀ ਪਿਛੋ ਦੇ ਪਛੁਤਾਇ ਕੈ ਆਣਿ ਤਪੈ ਪੁਤੁ ਵਿਚਿ ਬਹਾਲਿਆ ॥",
-      "roman": "ago de sadiā satai dī bhikhiā lae nāhī picho de pachhutāe kai āṇ tapai put vich bahāliā",
+      "roman": "ago de sadiā satē dī bhikhiā lae nāhī picho de pachhutāe kē āṇ tapē put vich bahāliā",
       "sahib_singh_pa": "ਇਹ ਤਪਾ ਪਹਿਲਾਂ (ਆਪਣੇ ਆਪ) ਸੱਦਿਆਂ ਆਦਰ ਦੀ ਭਿੱਛਿਆ ਲੈਂਦਾ ਨਹੀਂ ਸੀ, ਤੇ ਪਿਛੋਂ ਪਛਤਾ ਕੇ ਇਸ ਨੇ ਪੁੱਤਰ ਨੂੰ ਲਿਆ ਕੇ (ਪੰਗਤਿ) ਵਿਚ ਬਿਠਾਲ ਦਿੱਤਾ।",
       "translation_ru": "Раньше он не принимал подаяния чести, а потом, раскаявшись, привёл сына и посадил его в ряду."
     },
     {
       "verse_id": 14302,
       "gurmukhi": "ਪੰਚ ਲੋਗ ਸਭਿ ਹਸਣ ਲਗੇ ਤਪਾ ਲੋਭਿ ਲਹਰਿ ਹੈ ਗਾਲਿਆ ॥",
-      "roman": "pañch log sabh hasaṇ lage tapā lobh lahar hai gāliā",
+      "roman": "pañch log sabh hasaṇ lage tapā lobh lahar hē gāliā",
       "sahib_singh_pa": "(ਨਗਰ ਦੇ) ਮੁਖੀ ਬੰਦੇ ਸਾਰੇ ਹੱਸਣ ਲੱਗ ਪਏ (ਤੇ ਆਖਣ ਲੱਗੇ ਕਿ) ਇਹ ਤਪਾ ਲੋਭ ਦੀ ਲਹਿਰ ਵਿਚ ਗਲਿਆ ਪਿਆ ਹੈ।",
       "translation_ru": "Главные люди города стали смеяться, говоря, что аскет поглощён волной жадности."
     },
     {
       "verse_id": 14303,
       "gurmukhi": "ਜਿਥੈ ਥੋੜਾ ਧਨੁ ਵੇਖੈ ਤਿਥੈ ਤਪਾ ਭਿਟੈ ਨਾਹੀ ਧਨਿ ਬਹੁਤੈ ਡਿਠੈ ਤਪੈ ਧਰਮੁ ਹਾਰਿਆ ॥",
-      "roman": "jithai thoṛā dhan vekhai tithai tapā bhiṭai nāhī dhan bahutai diṭhai tapai dharam hāriā",
+      "roman": "jithē thoṛā dhan vekhē tithē tapā bhiṭē nāhī dhan bahutē diṭhē tapē dharam hāriā",
       "sahib_singh_pa": "ਜਿੱਥੇ ਥੋਹੜਾ ਧਨ ਵੇਖਦਾ ਹੈ, ਓਥੇ ਤਾਂ ਨੇੜੇ ਛੋਂਹਦਾ ਭੀ ਨਹੀਂ, ਤੇ ਬਹੁਤਾ ਧਨ ਵੇਖਿਆਂ (ਵੇਖ ਕੇ) ਤਪੇ ਨੇ ਆਪਣਾ ਧਰਮ ਹਾਰ ਦਿੱਤਾ ਹੈ।",
       "translation_ru": "Там, где мало богатства, он не прикасается, но увидев много, теряет свою праведность."
     },
     {
       "verse_id": 14304,
       "gurmukhi": "ਭਾਈ ਏਹੁ ਤਪਾ ਨ ਹੋਵੀ ਬਗੁਲਾ ਹੈ ਬਹਿ ਸਾਧ ਜਨਾ ਵੀਚਾਰਿਆ ॥",
-      "roman": "bhāī eh tapā na hovī bagulā hai bahi sādh janā vīchāriā",
+      "roman": "bhāī eh tapā na hovī bagulā hē bah sādh janā vīchāriā",
       "sahib_singh_pa": "ਭਲੇ ਮਨੁੱਖਾਂ ਨੇ ਇਕੱਠੇ ਹੋ ਕੇ ਵਿਚਾਰ ਕੀਤੀ ਹੈ (ਤੇ ਫ਼ੈਸਲਾ ਕੀਤਾ ਹੈ) ਕਿ ਹੇ ਭਾਈ! ਇਹ (ਸੱਚਾ) ਤਪਾ ਨਹੀਂ ਹੈ ਬਗੁਲਾ (ਭਾਵ, ਪਖੰਡੀ) ਹੈ।",
       "translation_ru": "Добрые люди решили, что он не аскет, а лицемер."
     },
     {
       "verse_id": 14305,
       "gurmukhi": "ਸਤ ਪੁਰਖ ਕੀ ਤਪਾ ਨਿੰਦਾ ਕਰੈ ਸੰਸਾਰੈ ਕੀ ਉਸਤਤੀ ਵਿਚਿ ਹੋਵੈ ਏਤੁ ਦੋਖੈ ਤਪਾ ਦਯਿ ਮਾਰਿਆ ॥",
-      "roman": "sat purakh kī tapā nindā karai sansārai kī ustat vich hovai et dōkhai tapā dai māriā",
+      "roman": "sat purakh kī tapā nindā karē sansārē kī ustat vich hovē et dōkhē tapā dē māriā",
       "sahib_singh_pa": "ਭਲੇ ਮਨੁੱਖਾਂ ਦੀ ਇਹ ਤਪਾ ਨਿੰਦਾ ਕਰਦਾ ਹੈ ਤੇ ਸੰਸਾਰ ਦੀ ਉਸਤਤਿ ਵਿਚ ਹੈ (ਭਾਵ, ਸੰਸਾਰੀ ਜੀਵਾਂ ਦੀ ਵਡਿਆਈ ਵਿਚ ਖ਼ੁਸ਼ ਹੁੰਦਾ ਹੈ) ਇਸ ਦੂਸ਼ਣ ਕਰਕੇ ਇਸ ਤਪੇ ਨੂੰ ਖਸਮ ਪ੍ਰਭੂ ਨੇ (ਆਤਮਕ ਜੀਵਨ ਵਲੋਂ) ਮੁਰਦਾ ਕਰ ਦਿੱਤਾ ਹੈ।",
       "translation_ru": "Он клевещет на праведников и восхваляет мирское; за этот порок Бог лишил его духовной жизни."
     },
@@ -312,14 +312,14 @@
     {
       "verse_id": 14307,
       "gurmukhi": "ਬਾਹਰਿ ਬਹੈ ਪੰਚਾ ਵਿਚਿ ਤਪਾ ਸਦਾਏ ॥",
-      "roman": "bāhar bahai pañchā vich tapā sadāe",
+      "roman": "bāhar bahē pañchā vich tapā sadāe",
       "sahib_singh_pa": "ਬਾਹਰ ਨਗਰ ਦੇ ਮੁਖੀ ਬੰਦਿਆਂ ਵਿਚ ਬੈਠ ਕੇ ਆਪਣੇ ਆਪ ਨੂੰ ਤਪਾ ਅਖਵਾਉਂਦਾ ਹੈ,",
       "translation_ru": "Снаружи он сидит среди лидеров и называет себя аскетом,"
     },
     {
       "verse_id": 14308,
       "gurmukhi": "ਅੰਦਰਿ ਬਹੈ ਤਪਾ ਪਾਪ ਕਮਾਏ ॥",
-      "roman": "andar bahai tapā pāp kamāe",
+      "roman": "andar bahē tapā pāp kamāe",
       "sahib_singh_pa": "ਅਤੇ ਅੰਦਰ ਬਹਿ ਕੇ ਤਪਾ ਮੰਦੇ ਕਰਮ ਕਰਦਾ ਹੈ।",
       "translation_ru": "а внутри совершает грехи."
     }

@@ -25,7 +25,7 @@
     {
       "verse_id": 29187,
       "gurmukhi": "ਆਨ ਸਗਲ ਬਿਧਿ ਕਾਂਮਿ ਨ ਆਵੈ ਹਰਿ ਹਰਿ ਨਾਮੁ ਧਿਆਇਆ ॥੧॥",
-      "roman": "ān sagal bidh kām na āvai har har nām dhiāiā",
+      "roman": "ān sagal bidh kām na āvē har har nām dhiāiā",
       "sahib_singh_pa": "ਕਿ (ਮਾਇਆ ਦੇ ਮੋਹ ਤੋਂ ਬਚਣ ਲਈ) ਹੋਰ ਸਾਰੀਆਂ ਜੁਗਤੀਆਂ ਵਿਚੋਂ ਕੋਈ ਇੱਕ ਜੁਗਤਿ ਭੀ ਕੰਮ ਨਹੀਂ ਆਉਂਦੀ। ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਹੋਇਆ ਹੀ ਕੰਮ ਆਉਂਦਾ ਹੈ ॥੧॥",
       "translation_ru": "что из всех прочих способов ни один не помогает. Лишь памятование Имени Бога приносит пользу ॥1॥"
     },
@@ -88,14 +88,14 @@
     {
       "verse_id": 29196,
       "gurmukhi": "ਛੋਡਿ ਜਾਹਿ ਸੇ ਕਰਹਿ ਪਰਾਲ ॥",
-      "roman": "chhoḍ jāhi se karahi parāl",
+      "roman": "chhoḍ jāh se karah parāl",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਮਾਇਆ-ਵੇੜ੍ਹੇ ਜੀਵ ਉਹੀ ਨਿਕੰਮੇ ਕੰਮ ਕਰਦੇ ਰਹਿੰਦੇ ਹਨ, ਜਿਨ੍ਹਾਂ ਨੂੰ ਆਖ਼ਰ ਛੱਡ ਕੇ ਇਥੋਂ ਚਲੇ ਜਾਂਦੇ ਹਨ।",
       "translation_ru": "О брат! Люди, погружённые в майю, занимаются лишь теми делами, которые в конце оставляют."
     },
     {
       "verse_id": 29197,
       "gurmukhi": "ਕਾਮਿ ਨ ਆਵਹਿ ਸੇ ਜੰਜਾਲ ॥",
-      "roman": "kām na āvahi se janjāl",
+      "roman": "kām na āvah se janjāl",
       "sahib_singh_pa": "ਉਹੀ ਜੰਜਾਲ ਸਹੇੜੀ ਰੱਖਦੇ ਹਨ, ਜੇਹੜੇ ਇਹਨਾਂ ਦੇ ਕਿਸੇ ਕੰਮ ਨਹੀਂ ਆਉਂਦੇ।",
       "translation_ru": "Они собирают те оковы, которые им не приносят пользы."
     },
@@ -109,7 +109,7 @@
     {
       "verse_id": 29199,
       "gurmukhi": "ਜੋ ਬੈਰਾਈ ਸੇਈ ਮੀਤ ॥੧॥",
-      "roman": "jo bairāī seī mīt",
+      "roman": "jo bērāī seī mīt",
       "sahib_singh_pa": "ਉਹਨਾਂ (ਵਿਕਾਰਾਂ) ਨੂੰ ਮਿੱਤਰ ਸਮਝਦੇ ਰਹਿੰਦੇ ਹਨ ਜੋ (ਅਸਲ ਵਿਚ ਆਤਮਕ ਜੀਵਨ ਦੇ) ਵੈਰੀ ਹਨ ॥੧॥",
       "translation_ru": "То, что является врагом, они считают другом ॥1॥"
     },
@@ -130,7 +130,7 @@
     {
       "verse_id": 29202,
       "gurmukhi": "ਸਾਚੁ ਧਰਮੁ ਨਹੀ ਭਾਵੈ ਡੀਠਾ ॥",
-      "roman": "sāch dharam nahī bhāvai ḍīṭhā",
+      "roman": "sāch dharam nahī bhāvē ḍīṭhā",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! (ਮਾਇਆ-ਵੇੜ੍ਹੇ ਮੂਰਖ ਮਨੁੱਖ ਨੂੰ) ਸਦਾ-ਥਿਰ ਹਰਿ-ਨਾਮ ਸਿਮਰਨ (ਵਾਲਾ) ਧਰਮ ਅੱਖੀਂ ਵੇਖਿਆ ਨਹੀਂ ਭਾਉਂਦਾ।",
       "translation_ru": "О брат! Человеку, окутанному майей, не нравится истинная религия — памятование Имени."
     },
@@ -151,42 +151,42 @@
     {
       "verse_id": 29205,
       "gurmukhi": "ਜਾਣੈ ਨਾਹੀ ਮਰਣੁ ਵਿਚਾਰਾ ॥੨॥",
-      "roman": "jāṇai nāhī maraṇ vichārā",
+      "roman": "jāṇē nāhī maraṇ vichārā",
       "sahib_singh_pa": "(ਮੋਹ ਵਿਚ) ਬੇਬਸ ਹੋਇਆ ਜੀਵ ਆਪਣੀ ਮੌਤ ਨੂੰ ਚੇਤੇ ਨਹੀਂ ਕਰਦਾ ॥੨॥",
       "translation_ru": "Поглощённый привязанностью, он не думает о смерти ॥2॥"
     },
     {
       "verse_id": 29206,
       "gurmukhi": "ਵਸਤੁ ਪਰਾਈ ਕਉ ਉਠਿ ਰੋਵੈ ॥",
-      "roman": "vast parāī kau uṭh rovai",
+      "roman": "vast parāī kau uṭh rovē",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! (ਭਟਕਣਾ ਵਿਚ ਪਿਆ ਹੋਇਆ ਜੀਵ) ਉਸ ਚੀਜ਼ ਲਈ ਦੌੜ ਦੌੜ ਤਰਲੇ ਲੈਂਦਾ ਹੈ ਜੋ ਆਖ਼ਰ ਬਿਗਾਨੀ ਹੋ ਜਾਣੀ ਹੈ।",
       "translation_ru": "О брат! Человек, блуждающий в заблуждении, стремится к тому, что в итоге станет чужим."
     },
     {
       "verse_id": 29207,
       "gurmukhi": "ਕਰਮ ਧਰਮ ਸਗਲਾ ਈ ਖੋਵੈ ॥",
-      "roman": "karam dharam saglā ī khovai",
+      "roman": "karam dharam saglā ī khovē",
       "sahib_singh_pa": "ਆਪਣਾ ਇਨਸਾਨੀ ਫ਼ਰਜ਼ ਸਾਰਾ ਹੀ ਭੁਲਾ ਦੇਂਦਾ ਹੈ।",
       "translation_ru": "Он забывает все свои человеческие обязанности."
     },
     {
       "verse_id": 29208,
       "gurmukhi": "ਹੁਕਮੁ ਨ ਬੂਝੈ ਆਵਣ ਜਾਣੇ ॥",
-      "roman": "hukam na būjhai āvaṇ jāṇe",
+      "roman": "hukam na būjhē āvaṇ jāṇe",
       "sahib_singh_pa": "ਮਨੁੱਖ ਪਰਮਾਤਮਾ ਦੀ ਰਜ਼ਾ ਨੂੰ ਨਹੀਂ ਸਮਝਦਾ (ਜਿਸ ਕਰਕੇ ਇਸ ਦੇ ਵਾਸਤੇ) ਜਨਮ ਮਰਨ ਦੇ ਗੇੜ (ਬਣੇ ਰਹਿੰਦੇ ਹਨ)।",
       "translation_ru": "Человек не понимает воли Бога, и поэтому остаётся в круге рождения и смерти."
     },
     {
       "verse_id": 29209,
       "gurmukhi": "ਪਾਪ ਕਰੈ ਤਾ ਪਛੋਤਾਣੇ ॥੩॥",
-      "roman": "pāp karai tā pachhotāṇe",
+      "roman": "pāp karē tā pachhotāṇe",
       "sahib_singh_pa": "ਨਿੱਤ ਪਾਪ ਕਰਦਾ ਰਹਿੰਦਾ ਹੈ, ਆਖ਼ਰ ਪਛੁਤਾਂਦਾ ਹੈ ॥੩॥",
       "translation_ru": "Он постоянно совершает грехи, а затем раскаивается ॥3॥"
     },
     {
       "verse_id": 29210,
       "gurmukhi": "ਜੋ ਤੁਧੁ ਭਾਵੈ ਸੋ ਪਰਵਾਣੁ ॥",
-      "roman": "jo tudh bhāvai so parvāṇ",
+      "roman": "jo tudh bhāvē so parvāṇ",
       "sahib_singh_pa": "(ਪਰ, ਹੇ ਪ੍ਰਭੂ! ਜੀਵਾਂ ਦੇ ਕੀਹ ਵੱਸ?) ਜੋ ਤੈਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ, ਉਹੀ ਅਸਾਂ ਜੀਵਾਂ ਨੂੰ ਕਬੂਲ ਹੁੰਦਾ ਹੈ।",
       "translation_ru": "Но, о Господь, что Тебе угодно, то и принимается нами."
     },
@@ -242,7 +242,7 @@
     {
       "verse_id": 29218,
       "gurmukhi": "ਹਲਤਿ ਪਲਤਿ ਤਾ ਕੈ ਆਵੈ ਕਾਮ ॥੧॥",
-      "roman": "halat palat tā kai āvai kām",
+      "roman": "halat palat tā kē āvē kām",
       "sahib_singh_pa": "(ਜੇਹੜਾ ਮਨੁੱਖ ਹਰਿ-ਨਾਮ-ਧਨ ਇਕੱਠਾ ਕਰਦਾ ਹੈ) ਇਸ ਲੋਕ ਤੇ ਪਰਲੋਕ ਵਿਚ ਉਸ ਦੇ ਕੰਮ ਆਉਂਦਾ ਹੈ ॥੧॥",
       "translation_ru": "Оно помогает и в этом мире, и в следующем ॥1॥"
     },
@@ -277,28 +277,28 @@
     {
       "verse_id": 29223,
       "gurmukhi": "ਅਨਦੁ ਸੰਤਨ ਕੈ ਭਗਤਿ ਗੋਵਿੰਦ ॥",
-      "roman": "anad santan kai bhagat govind",
+      "roman": "anad santan kē bhagat govind",
       "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ ਸੰਤ ਜਨਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਆਨੰਦ ਪੈਦਾ ਕਰਦੀ ਹੈ।",
       "translation_ru": "Преданность Богу приносит радость в сердца святых."
     },
     {
       "verse_id": 29224,
       "gurmukhi": "ਸੂਖੁ ਸੰਤਨ ਕੈ ਬਿਨਸੀ ਚਿੰਦ ॥੨॥",
-      "roman": "sūkh santan kai binsī chind",
+      "roman": "sūkh santan kē binsī chind",
       "sahib_singh_pa": "(ਭਗਤੀ ਦੀ ਬਰਕਤਿ ਨਾਲ) ਸੰਤ ਜਨਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਸੁਖ ਬਣਿਆ ਰਹਿੰਦਾ ਹੈ (ਉਹਨਾਂ ਦੇ ਅੰਦਰੋਂ) ਚਿੰਤਾ ਨਾਸ ਹੋ ਜਾਂਦੀ ਹੈ ॥੨॥",
       "translation_ru": "Благодаря ей в их сердцах пребывает покой, а тревоги исчезают ॥2॥"
     },
     {
       "verse_id": 29225,
       "gurmukhi": "ਜਹ ਸਾਧ ਸੰਤਨ ਹੋਵਹਿ ਇਕਤ੍ਰ ॥",
-      "roman": "jah sādh santan hovahi ikatr",
+      "roman": "jah sādh santan hovah ikatr",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਸਾਧ ਸੰਤ ਜਿੱਥੇ (ਭੀ) ਇਕੱਠੇ ਹੁੰਦੇ ਹਨ,",
       "translation_ru": "О брат! Где бы ни собирались святые,"
     },
     {
       "verse_id": 29226,
       "gurmukhi": "ਤਹ ਹਰਿ ਜਸੁ ਗਾਵਹਿ ਨਾਦ ਕਵਿਤ ॥",
-      "roman": "tah har jas gāvahi nād kavit",
+      "roman": "tah har jas gāvah nād kavit",
       "sahib_singh_pa": "ਉਥੇ ਉਹ ਸਾਜ ਵਰਤ ਕੇ ਬਾਣੀ ਪੜ੍ਹ ਕੇ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦਾ ਗੀਤ (ਹੀ) ਗਾਂਦੇ ਹਨ।",
       "translation_ru": "там они, используя музыку и слово, воспевают хвалу Богу."
     },
@@ -340,7 +340,7 @@
     {
       "verse_id": 29232,
       "gurmukhi": "ਨਾਨਕੁ ਜੀਵੈ ਸੰਤਾ ਧੂਰਿ ॥੪॥੨॥੨੩॥",
-      "roman": "nānak jīvai santā dhūr",
+      "roman": "nānak jīvē santā dhūr",
       "sahib_singh_pa": "ਨਾਨਕ ਉਹਨਾਂ ਸੰਤ ਜਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ ਤੋਂ ਆਤਮਕ ਜੀਵਨ ਪ੍ਰਾਪਤ ਕਰਦਾ ਹੈ ॥੪॥੨॥੨੩॥",
       "translation_ru": "Нанак получает духовную жизнь от пыли стоп святых ॥4॥2॥23॥"
     }

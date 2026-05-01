@@ -11,7 +11,7 @@
     {
       "verse_id": 30303,
       "gurmukhi": "ਪੂਰਿ ਰਹਿਓ ਸਰਬਤ੍ਰ ਮੈ ਨਾਨਕ ਹਰਿ ਰੰਗਿ ਰਾਚੁ ॥੨॥",
-      "roman": "pūr rahiō sarbatr mai nānak har raṅg rāch",
+      "roman": "pūr rahiō sarbatr mē nānak har raṅg rāch",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਉਸ ਹਰੀ ਦੀ ਪਿਆਰੀ ਯਾਦ ਵਿਚ ਲੀਨ ਹੋ ਜਾ ਜੋ ਸਭ ਥਾਈਂ ਮੌਜੂਦ ਹੈ ॥੨॥",
       "translation_ru": "О Нанак! Погрузись в любовь Бога, который присутствует повсюду."
     },
@@ -81,14 +81,14 @@
     {
       "verse_id": 30313,
       "gurmukhi": "ਮੁਖੁ ਤਲੈ ਪੈਰ ਉਪਰੇ ਵਸੰਦੋ ਕੁਹਥੜੈ ਥਾਇ ॥",
-      "roman": "mukh talai pair upare vasando kuhathṛai thāi",
+      "roman": "mukh talē pēr upare vasando kuhathṛē thāi",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ!) ਜਦੋਂ ਤੇਰਾ ਮੂੰਹ ਹੇਠਾਂ ਨੂੰ ਸੀ, ਪੈਰ ਉਤਾਂਹ ਨੂੰ ਸਨ, ਬੜੇ ਔਖੇ ਥਾਂ ਤੂੰ ਵੱਸਦਾ ਸੈਂ,",
       "translation_ru": "Когда твоё лицо было направлено вниз, а ноги вверх, ты пребывал в крайне тяжёлом месте,"
     },
     {
       "verse_id": 30314,
       "gurmukhi": "ਨਾਨਕ ਸੋ ਧਣੀ ਕਿਉ ਵਿਸਾਰਿਓ ਉਧਰਹਿ ਜਿਸ ਦੈ ਨਾਇ ॥੨॥",
-      "roman": "nānak so dhaṇī kio visāriyo udharahi jis dai nāi",
+      "roman": "nānak so dhaṇī kio visāriyo udharahi jis dē nāi",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਆਖ-) ਤਦੋਂ ਜਿਸ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦੀ ਬਰਕਤਿ ਨਾਲ ਤੂੰ ਬਚਿਆ ਰਿਹਾ, ਹੁਣ ਉਸ ਮਾਲਕ ਨੂੰ ਤੂੰ ਕਿਉਂ ਭੁਲਾ ਦਿੱਤਾ? ॥੨॥",
       "translation_ru": "О Нанак! Скажи: почему ты забыл того Владыку, благодаря имени которого ты был спасён?"
     },
@@ -116,14 +116,14 @@
     {
       "verse_id": 30318,
       "gurmukhi": "ਹਰਿ ਸਿਮਰਤ ਤੂ ਨਾ ਜਲਹਿ ਮਨਿ ਤਨਿ ਉਰ ਧਾਰਿ ॥",
-      "roman": "har simarat tū nā jalahi man tan ur dhār",
+      "roman": "har simarat tū nā jalah man tan ur dhār",
       "sahib_singh_pa": "ਜਿਸ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰ ਕੇ ਤੂੰ ਨਹੀਂ ਸੈਂ ਸੜਦਾ-ਉਸ ਨੂੰ (ਹੁਣ ਭੀ) ਮਨੋਂ ਤਨੋਂ ਹਿਰਦੇ ਵਿਚ ਯਾਦ ਕਰ।",
       "translation_ru": "Вспоминая того Господа, ты не сгораешь — удерживай Его в сердце, в уме и теле."
     },
     {
       "verse_id": 30319,
       "gurmukhi": "ਬਿਖਮ ਥਾਨਹੁ ਜਿਨਿ ਰਖਿਆ ਤਿਸੁ ਤਿਲੁ ਨ ਵਿਸਾਰਿ ॥",
-      "roman": "bikham thānahu jin rakhiā tis til na visār",
+      "roman": "bikham thānah jin rakhiā tis til na visār",
       "sahib_singh_pa": "ਜਿਸ ਪ੍ਰਭੂ ਨੇ ਤੈਨੂੰ ਔਖੇ ਥਾਂ ਤੋਂ ਬਚਾਇਆ, ਉਸ ਨੂੰ ਰਤਾ ਭੀ ਨਾਹ ਭੁਲਾ।",
       "translation_ru": "Того, кто спас тебя из трудного места, не забывай ни на мгновение."
     },
@@ -158,14 +158,14 @@
     {
       "verse_id": 30324,
       "gurmukhi": "ਹਭਿ ਰੰਗ ਮਾਣਹਿ ਜਿਸੁ ਸੰਗਿ ਤੈ ਸਿਉ ਲਾਈਐ ਨੇਹੁ ॥",
-      "roman": "habh rang māṇahi jis sang tai siu lāīai neh",
+      "roman": "habh rang māṇah jis sang tē siu lāīē neh",
       "sahib_singh_pa": "ਜਿਸ ਪ੍ਰਭੂ ਦੀ ਬਰਕਤਿ ਨਾਲ ਤੂੰ ਸਾਰੀਆਂ ਮੌਜਾਂ ਮਾਣਦਾ ਹੈਂ, ਉਸ ਨਾਲ ਪ੍ਰੀਤ ਜੋੜ।",
       "translation_ru": "С тем Господом, благодаря которому ты наслаждаешься всеми радостями, соедини любовь."
     },
     {
       "verse_id": 30325,
       "gurmukhi": "ਸੋ ਸਹੁ ਬਿੰਦ ਨ ਵਿਸਰਉ ਨਾਨਕ ਜਿਨਿ ਸੁੰਦਰੁ ਰਚਿਆ ਦੇਹੁ ॥੨॥",
-      "roman": "so sahu bind na visarau nānak jin sundar rachiā deh",
+      "roman": "so sah bind na visarau nānak jin sundar rachiā deh",
       "sahib_singh_pa": "ਜਿਸ ਪ੍ਰਭੂ ਨੇ ਤੇਰਾ ਸੋਹਣਾ ਸਰੀਰ ਬਣਾਇਆ ਹੈ, ਹੇ ਨਾਨਕ! ਰੱਬ ਕਰ ਕੇ ਉਹ ਤੈਨੂੰ ਕਦੇ ਭੀ ਨਾਹ ਭੁੱਲੇ ॥੨॥",
       "translation_ru": "Тот Господь, который создал твоё прекрасное тело — о Нанак! пусть Он никогда не будет забыт."
     },
@@ -277,7 +277,7 @@
     {
       "verse_id": 30341,
       "gurmukhi": "ਜੈਸਾ ਬੀਜੈ ਸੋ ਲੁਣੈ ਕਰਮ ਇਹੁ ਖੇਤੁ ॥",
-      "roman": "jaisā bījai so luṇai karam ih khet",
+      "roman": "jēsā bījē so luṇē karam ih khet",
       "sahib_singh_pa": "ਇਹ ਸਰੀਰ (ਕੀਤੇ) ਕਰਮਾਂ ਦੀ (ਮਾਨੋ) ਪੈਲੀ ਹੈ (ਇਸ ਵਿਚ) ਜਿਹੋ ਜਿਹਾ (ਕਰਮ-ਰੂਪ ਬੀਜ ਕੋਈ) ਬੀਜਦਾ ਹੈ ਉਹੀ ਵੱਢਦਾ ਹੈ।",
       "translation_ru": "Это тело — поле деяний: что посеешь, то и пожнёшь."
     },

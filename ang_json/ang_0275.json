@@ -39,14 +39,14 @@
     {
       "verse_id": 12234,
       "gurmukhi": "ਅਪੁਨੇ ਦਾਸ ਕਉ ਆਪਿ ਕਿਰਪਾ ਕਰੈ ॥",
-      "roman": "apune dās kau āp kirpā karai",
+      "roman": "apune dās kau āp kirpā karē",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਉਸ ਸੇਵਕ ਉਤੇ ਆਪ ਮੇਹਰ ਕਰਦਾ ਹੈ,",
       "translation_ru": "Господь Сам оказывает милость этому слуге,"
     },
     {
       "verse_id": 12235,
       "gurmukhi": "ਤਿਸੁ ਦਾਸ ਕਉ ਸਭ ਸੋਝੀ ਪਰੈ ॥",
-      "roman": "tis dās kau sabh sojhī parai",
+      "roman": "tis dās kau sabh sojhī parē",
       "sahib_singh_pa": "ਤੇ ਉਸ ਸੇਵਕ ਨੂੰ ਸਾਰੀ ਸਮਝ ਆ ਜਾਂਦੀ ਹੈ।",
       "translation_ru": "и тому слуге приходит полное понимание."
     },
@@ -67,21 +67,21 @@
     {
       "verse_id": 12238,
       "gurmukhi": "ਪ੍ਰਭ ਕੀ ਆਗਿਆ ਆਤਮ ਹਿਤਾਵੈ ॥",
-      "roman": "prabh kī āgiā ātam hitāvai",
+      "roman": "prabh kī āgiā ātam hitāvē",
       "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ ਪ੍ਰਭੂ ਦੀ ਰਜ਼ਾ ਨੂੰ ਮਨ ਵਿਚ ਮਿੱਠੀ ਕਰ ਕੇ ਮੰਨਦਾ ਹੈ,",
       "translation_ru": "Тот, кто принимает Божью волю как сладостную для сердца,"
     },
     {
       "verse_id": 12239,
       "gurmukhi": "ਜੀਵਨ ਮੁਕਤਿ ਸੋਊ ਕਹਾਵੈ ॥",
-      "roman": "jīvan mukat soū kahāvai",
+      "roman": "jīvan mukt soū kahāvē",
       "sahib_singh_pa": "ਉਹੀ ਜੀਊਂਦਾ ਮੁਕਤ ਅਖਵਾਉਂਦਾ ਹੈ;",
       "translation_ru": "тот и называется освобождённым при жизни;"
     },
     {
       "verse_id": 12240,
       "gurmukhi": "ਤੈਸਾ ਹਰਖੁ ਤੈਸਾ ਉਸੁ ਸੋਗੁ ॥",
-      "roman": "taisā harakh taisā us sog",
+      "roman": "tēsā harakh tēsā us sog",
       "sahib_singh_pa": "ਉਸ ਨੂੰ ਖ਼ੁਸ਼ੀ ਤੇ ਗ਼ਮੀ ਇਕੋ ਜਿਹੀ ਹੈ,",
       "translation_ru": "для него радость и печаль одинаковы,"
     },
@@ -95,28 +95,28 @@
     {
       "verse_id": 12242,
       "gurmukhi": "ਤੈਸਾ ਸੁਵਰਨੁ ਤੈਸੀ ਉਸੁ ਮਾਟੀ ॥",
-      "roman": "taisā suvaran taisī us māṭī",
+      "roman": "tēsā suvaran tēsī us māṭī",
       "sahib_singh_pa": "ਸੋਨਾ ਤੇ ਮਿੱਟੀ (ਭੀ ਉਸ ਮਨੁੱਖ ਵਾਸਤੇ) ਬਰਾਬਰ ਹੈ (ਭਾਵ, ਸੋਨਾ ਵੇਖ ਕੇ ਉਹ ਲੋਭ ਵਿਚ ਨਹੀਂ ਫਸਦਾ),",
       "translation_ru": "Золото и земля для него равны, то есть золото не улавливает его в жадность,"
     },
     {
       "verse_id": 12243,
       "gurmukhi": "ਤੈਸਾ ਅੰਮ੍ਰਿਤੁ ਤੈਸੀ ਬਿਖੁ ਖਾਟੀ ॥",
-      "roman": "taisā amrit taisī bikh khāṭī",
+      "roman": "tēsā amrit tēsī bikh khāṭī",
       "sahib_singh_pa": "ਅੰਮ੍ਰਿਤ ਤੇ ਕਉੜੀ ਵਿਹੁ ਭੀ ਉਸ ਲਈ ਇਕ ਜੈਸੀ ਹੈ।",
       "translation_ru": "и нектар, и горький яд для него одинаковы."
     },
     {
       "verse_id": 12244,
       "gurmukhi": "ਤੈਸਾ ਮਾਨੁ ਤੈਸਾ ਅਭਿਮਾਨੁ ॥",
-      "roman": "taisā mān taisā abhimān",
+      "roman": "tēsā mān tēsā abhimān",
       "sahib_singh_pa": "(ਕਿਸੇ ਵਲੋਂ) ਆਦਰ (ਦਾ ਵਰਤਾਉ ਹੋਵੇ) ਜਾਂ ਅਹੰਕਾਰ (ਦਾ) (ਉਸ ਮਨੁੱਖ ਵਾਸਤੇ) ਇਕ ਸਮਾਨ ਹੈ,",
       "translation_ru": "Почтение и высокомерное отношение для него равны,"
     },
     {
       "verse_id": 12245,
       "gurmukhi": "ਤੈਸਾ ਰੰਕੁ ਤੈਸਾ ਰਾਜਾਨੁ ॥",
-      "roman": "taisā rank taisā rājān",
+      "roman": "tēsā rank tēsā rājān",
       "sahib_singh_pa": "ਕੰਗਾਲ ਤੇ ਸ਼ਹਨਸ਼ਾਹ ਭੀ ਉਸ ਦੀ ਨਜ਼ਰ ਵਿਚ ਬਰਾਬਰ ਹੈ।",
       "translation_ru": "нищий и царь в его взгляде одинаковы."
     },
@@ -144,7 +144,7 @@
     {
       "verse_id": 12249,
       "gurmukhi": "ਜਿਤੁ ਜਿਤੁ ਘਰਿ ਰਾਖੈ ਤੈਸਾ ਤਿਨ ਨਾਉ ॥",
-      "roman": "jit jit ghar rākhai taisā tin nāu",
+      "roman": "jit jit ghar rākhē tēsā tin nāu",
       "sahib_singh_pa": "ਜਿਸ ਜਿਸ ਥਾਂ ਜੀਵਾਂ ਨੂੰ ਰੱਖਦਾ ਹੈ, ਉਹੋ ਜਿਹਾ ਉਹਨਾਂ ਦਾ ਨਾਉਂ (ਪੈ ਜਾਂਦਾ ਹੈ)।",
       "translation_ru": "и в каком месте Он ни помещает существ, такое имя им и даётся."
     },
@@ -158,7 +158,7 @@
     {
       "verse_id": 12251,
       "gurmukhi": "ਪ੍ਰਭ ਭਾਵੈ ਸੋਈ ਫੁਨਿ ਹੋਗੁ ॥",
-      "roman": "prabh bhāvai soī fun hog",
+      "roman": "prabh bhāvē soī fun hog",
       "sahib_singh_pa": "ਜੋ ਪ੍ਰਭੂ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ ਉਹੀ ਹੁੰਦਾ ਹੈ।",
       "translation_ru": "и происходит только то, что Ему угодно."
     },
@@ -179,7 +179,7 @@
     {
       "verse_id": 12254,
       "gurmukhi": "ਜੈਸੀ ਮਤਿ ਦੇਇ ਤੈਸਾ ਪਰਗਾਸ ॥",
-      "roman": "jaisī mat deī taisā pargās",
+      "roman": "jēsī mat deī tēsā pargās",
       "sahib_singh_pa": "ਜਿਹੋ ਜਿਹੀ ਅਕਲ ਦੇਂਦਾ ਹੈ, ਉਹੋ ਜਿਹਾ ਜ਼ਹੂਰ (ਜੀਵ ਦੇ ਅੰਦਰ) ਹੁੰਦਾ ਹੈ;",
       "translation_ru": "Какой разум Он даёт, такое и проявление происходит внутри существа;"
     },
@@ -214,14 +214,14 @@
     {
       "verse_id": 12259,
       "gurmukhi": "ਉਸਤਤਿ ਕਰਹਿ ਅਨੇਕ ਜਨ ਅੰਤੁ ਨ ਪਾਰਾਵਾਰ ॥",
-      "roman": "ustat karahi anek jan ant na pārāvār",
+      "roman": "ustat karah anek jan ant na pārāvār",
       "sahib_singh_pa": "ਅਨੇਕਾਂ ਬੰਦੇ ਪ੍ਰਭੂ ਦੇ ਗੁਣਾਂ ਦਾ ਜ਼ਿਕਰ ਕਰਦੇ ਹਨ, ਪਰ ਉਹਨਾਂ ਗੁਣਾਂ ਦਾ ਹੱਦ-ਬੰਨਾ ਨਹੀਂ ਲੱਭਦਾ।",
       "translation_ru": "Многие люди восхваляют качества Бога, но предел и границы этих качеств найти невозможно."
     },
     {
       "verse_id": 12260,
       "gurmukhi": "ਨਾਨਕ ਰਚਨਾ ਪ੍ਰਭਿ ਰਚੀ ਬਹੁ ਬਿਧਿ ਅਨਿਕ ਪ੍ਰਕਾਰ ॥੧॥",
-      "roman": "Nānak rachanā prabh rachī bahu bidh anik prakār",
+      "roman": "Nānak rachanā prabh rachī bah bidh anik prakār",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਇਹੀ ਸਾਰੀ) ਸ੍ਰਿਸ਼ਟੀ (ਉਸ) ਪ੍ਰਭੂ ਨੇ ਕਈ ਕਿਸਮਾਂ ਦੀ ਕਈ ਤਰੀਕਿਆਂ ਨਾਲ ਬਣਾਈ ਹੈ ॥੧॥",
       "translation_ru": "О Нанак! Всю эту вселенную тот Бог создал многими способами и во множестве видов. ॥1॥"
     },
@@ -256,7 +256,7 @@
     {
       "verse_id": 12265,
       "gurmukhi": "ਕਈ ਕੋਟਿ ਬਨ ਭ੍ਰਮਹਿ ਉਦਾਸੀ ॥",
-      "roman": "kaī koṭ ban bhramahi udāsī",
+      "roman": "kaī koṭ ban bhramah udāsī",
       "sahib_singh_pa": "ਅਤੇ ਕਈ ਕਰੋੜਾਂ (ਜਗਤ ਵਲੋਂ) ਉਪਰਾਮ ਹੋ ਕੇ ਜੰਗਲਾਂ ਵਿਚ ਫਿਰਦੇ ਹਨ;",
       "translation_ru": "и многие миллионы, отрешившись от мира, скитаются по лесам;"
     },
@@ -277,21 +277,21 @@
     {
       "verse_id": 12268,
       "gurmukhi": "ਕਈ ਕੋਟਿ ਆਤਮ ਧਿਆਨੁ ਧਾਰਹਿ ॥",
-      "roman": "kaī koṭ ātam dhyān dhārahi",
+      "roman": "kaī koṭ ātam dhyān dhārah",
       "sahib_singh_pa": "ਕਈ ਕਰੋੜਾਂ (ਮਨੁੱਖ) ਆਪਣੇ ਅੰਦਰ ਸੁਰਤ ਜੋੜ ਰਹੇ ਹਨ,",
       "translation_ru": "Многие миллионы людей сосредоточивают внимание внутри себя,"
     },
     {
       "verse_id": 12269,
       "gurmukhi": "ਕਈ ਕੋਟਿ ਕਬਿ ਕਾਬਿ ਬੀਚਾਰਹਿ ॥",
-      "roman": "kaī koṭ kab kāb bīchārahi",
+      "roman": "kaī koṭ kab kāb bīchārah",
       "sahib_singh_pa": "ਅਤੇ ਕਈ ਕਰੋੜਾਂ (ਮਨੁੱਖ) ਕਵੀਆਂ ਦੀਆਂ ਰਚੀਆਂ ਕਵਿਤਾ ਵਿਚਾਰਦੇ ਹਨ;",
       "translation_ru": "и многие миллионы размышляют над поэзией, сочинённой поэтами;"
     },
     {
       "verse_id": 12270,
       "gurmukhi": "ਕਈ ਕੋਟਿ ਨਵਤਨ ਨਾਮ ਧਿਆਵਹਿ ॥",
-      "roman": "kaī koṭ navtan nām dhiāvahi",
+      "roman": "kaī koṭ navtan nām dhiāvah",
       "sahib_singh_pa": "ਕਈ ਕਰੋੜਾਂ ਬੰਦੇ (ਪ੍ਰਭੂ ਦਾ) ਨਿੱਤ ਨਵਾਂ ਨਾਮ ਸਿਮਰਦੇ ਹਨ,",
       "translation_ru": "Многие миллионы людей помнят в медитации вечно новый Имя Бога,"
     },
@@ -333,42 +333,42 @@
     {
       "verse_id": 12276,
       "gurmukhi": "ਕਈ ਕੋਟਿ ਪਰ ਦਰਬ ਕਉ ਹਿਰਹਿ ॥",
-      "roman": "kaī koṭ par darab kau hirahi",
+      "roman": "kaī koṭ par darab kau hirah",
       "sahib_singh_pa": "ਕਰੋੜਾਂ ਬੰਦੇ ਦੂਜਿਆਂ ਦਾ ਧਨ ਚੁਰਾਉਂਦੇ ਹਨ,",
       "translation_ru": "Миллионы людей крадут чужое имущество,"
     },
     {
       "verse_id": 12277,
       "gurmukhi": "ਕਈ ਕੋਟਿ ਪਰ ਦੂਖਨਾ ਕਰਹਿ ॥",
-      "roman": "kaī koṭ par dūkhnā karahi",
+      "roman": "kaī koṭ par dūkhnā karah",
       "sahib_singh_pa": "ਅਤੇ ਕਰੋੜਾਂ ਹੀ ਦੂਜਿਆਂ ਦੀ ਨਿੰਦਿਆ ਕਰਦੇ ਹਨ;",
       "translation_ru": "и миллионы порочат других;"
     },
     {
       "verse_id": 12278,
       "gurmukhi": "ਕਈ ਕੋਟਿ ਮਾਇਆ ਸ੍ਰਮ ਮਾਹਿ ॥",
-      "roman": "kaī koṭ māiā sram māhi",
+      "roman": "kaī koṭ māiā sram māh",
       "sahib_singh_pa": "ਕਰੋੜਾਂ (ਮਨੁੱਖ) ਧਨ ਪਦਾਰਥ ਦੀ (ਖ਼ਾਤਰ) ਮੇਹਨਤ ਵਿਚ ਜੁੱਟੇ ਹੋਏ ਹਨ,",
       "translation_ru": "Миллионы людей заняты трудом ради богатства и вещей,"
     },
     {
       "verse_id": 12279,
       "gurmukhi": "ਕਈ ਕੋਟਿ ਪਰਦੇਸ ਭ੍ਰਮਾਹਿ ॥",
-      "roman": "kaī koṭ pardēs bhramāhi",
+      "roman": "kaī koṭ pardēs bhramāh",
       "sahib_singh_pa": "ਅਤੇ ਕਈ ਕਰੋੜ ਦੂਜੇ ਦੇਸ਼ਾਂ ਵਿਚ ਭਟਕ ਰਹੇ ਹਨ;",
       "translation_ru": "и многие миллионы блуждают по чужим странам;"
     },
     {
       "verse_id": 12280,
       "gurmukhi": "ਜਿਤੁ ਜਿਤੁ ਲਾਵਹੁ ਤਿਤੁ ਤਿਤੁ ਲਗਨਾ ॥",
-      "roman": "jit jit lāvahu tit tit lagnā",
+      "roman": "jit jit lāvah tit tit lagnā",
       "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ!) ਜਿਸ ਜਿਸ ਆਹਰੇ ਤੂੰ ਲਾਉਂਦਾ ਹੈਂ ਉਸ ਉਸ ਆਹਰ ਵਿਚ ਜੀਵ ਲੱਗੇ ਹੋਏ ਹਨ।",
       "translation_ru": "О Бог, к какому занятию Ты направляешь, к тому занятию существа и бывают привязаны."
     },
     {
       "verse_id": 12281,
       "gurmukhi": "ਨਾਨਕ ਕਰਤੇ ਕੀ ਜਾਨੈ ਕਰਤਾ ਰਚਨਾ ॥੨॥",
-      "roman": "Nānak karte kī jānai kartā rachanā",
+      "roman": "Nānak karte kī jānē kartā rachanā",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਕਰਤਾਰ ਦੀ ਰਚਨਾ (ਦਾ ਭੇਤ) ਕਰਤਾਰ ਹੀ ਜਾਣਦਾ ਹੈ ॥੨॥",
       "translation_ru": "О Нанак! Тайну творения Творца знает только Сам Творец. ॥2॥"
     },
@@ -403,7 +403,7 @@
     {
       "verse_id": 12286,
       "gurmukhi": "ਕਈ ਕੋਟਿ ਪਵਣ ਪਾਣੀ ਬੈਸੰਤਰ ॥",
-      "roman": "kaī koṭ pavaṇ pāṇī baisantar",
+      "roman": "kaī koṭ pavaṇ pāṇī bēsantar",
       "sahib_singh_pa": "ਕਰੋੜਾਂ ਹਵਾ ਪਾਣੀ ਤੇ ਅੱਗਾਂ ਹਨ,",
       "translation_ru": "Есть миллионы ветров, вод и огней,"
     },

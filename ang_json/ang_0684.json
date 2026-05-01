@@ -4,14 +4,14 @@
     {
       "verse_id": 29482,
       "gurmukhi": "ਚਰਨ ਕਮਲ ਜਾ ਕਾ ਮਨੁ ਰਾਪੈ ॥",
-      "roman": "charan kamal jā kā man rāpai",
+      "roman": "charan kamal jā kā man rāpē",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜਿਸ ਮਨੁੱਖ ਦਾ ਮਨ ਪਰਮਾਤਮਾ ਦੇ ਸੋਹਣੇ ਚਰਨਾਂ (ਦੇ ਪ੍ਰੇਮ-ਰੰਗ) ਵਿਚ ਰੰਗਿਆ ਜਾਂਦਾ ਹੈ,",
       "translation_ru": "О брат! Тот, чьё сердце окрашено любовью к прекрасным стопам Господа,"
     },
     {
       "verse_id": 29483,
       "gurmukhi": "ਸੋਗ ਅਗਨਿ ਤਿਸੁ ਜਨ ਨ ਬਿਆਪੈ ॥੨॥",
-      "roman": "sog agan tis jan na biāpai",
+      "roman": "sog agan tis jan na biāpē",
       "sahib_singh_pa": "ਉਸ ਮਨੁੱਖ ਉਤੇ ਚਿੰਤਾ ਦੀ ਅੱਗ ਜ਼ੋਰ ਨਹੀਂ ਪਾ ਸਕਦੀ ॥੨॥",
       "translation_ru": "того человека не затрагивает огонь печали."
     },
@@ -25,7 +25,7 @@
     {
       "verse_id": 29485,
       "gurmukhi": "ਨਿਰਭਉ ਨਾਮੁ ਜਪਹੁ ਹਰਿ ਰੰਗੇ ॥੩॥",
-      "roman": "nirbhau nām japahu har range",
+      "roman": "nirbhau nām japah har range",
       "sahib_singh_pa": "ਪ੍ਰੇਮ ਨਾਲ ਨਿਰਭਉ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਜਪਿਆ ਕਰੋ ॥੩॥",
       "translation_ru": "С любовью повторяйте Имя бесстрашного Господа."
     },
@@ -39,7 +39,7 @@
     {
       "verse_id": 29487,
       "gurmukhi": "ਜਮ ਜੰਦਾਰੁ ਨ ਆਵੈ ਨੇੜੇ ॥੪॥",
-      "roman": "jam jandār na āvai neṛe",
+      "roman": "jam jandār na āvē neṛe",
       "sahib_singh_pa": "ਭਿਆਨਕ ਜਮ ਭੀ ਨੇੜੇ ਨਹੀਂ ਢੁਕਦਾ (ਮੌਤ ਦਾ ਡਰ ਨਹੀਂ ਵਿਆਪਦਾ, ਆਤਮਕ ਮੌਤ ਨੇੜੇ ਨਹੀਂ ਆਉਂਦੀ) ॥੪॥",
       "translation_ru": "Страшный Яма не приближается (нет страха смерти)."
     },
@@ -116,7 +116,7 @@
     {
       "verse_id": 29498,
       "gurmukhi": "ਹਰਿ ਕਾ ਮਾਰਗੁ ਰਿਦੈ ਨਿਹਾਰੀ ॥੩॥",
-      "roman": "har kā mārag ridai nihārī",
+      "roman": "har kā mārag ridē nihārī",
       "sahib_singh_pa": "ਜੇਹੜਾ ਮਨੁੱਖ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਪਰਮਾਤਮਾ ਦੇ ਮਿਲਾਪ ਦਾ ਰਾਹ ਤੱਕਦਾ ਰਹਿੰਦਾ ਹੈ ॥੩॥",
       "translation_ru": "который в сердце ищет путь к встрече с Богом."
     },
@@ -179,7 +179,7 @@
     {
       "verse_id": 29507,
       "gurmukhi": "ਜਨ ਨਾਨਕੁ ਸਿਮਰੈ ਅੰਤਰਜਾਮੀ ॥੨॥੩॥੫੭॥",
-      "roman": "jan nānak simrai antarjāmī",
+      "roman": "jan nānak simrē antarjāmī",
       "sahib_singh_pa": "ਦਾਸ ਨਾਨਕ (ਭੀ ਉਸ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ) ਸਿਮਰਦਾ ਹੈ ਜੋ ਸਭ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ ਹੈ ॥੨॥੩॥੫੭॥",
       "translation_ru": "слуга Нанак помнит Того, кто знает сердца всех."
     },
@@ -193,7 +193,7 @@
     {
       "verse_id": 29509,
       "gurmukhi": "ਕਿਤੈ ਪ੍ਰਕਾਰਿ ਨ ਤੂਟਉ ਪ੍ਰੀਤਿ ॥ ਦਾਸ ਤੇਰੇ ਕੀ ਨਿਰਮਲ ਰੀਤਿ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "kitai prakār na tūṭau prīt dās tere kī nirmal rīt",
+      "roman": "kitē prakār na tūṭau prīt dās tere kī nirmal rīt",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਕਿਸੇ ਤਰ੍ਹਾਂ ਭੀ (ਤੇਰੇ ਦਾਸਾਂ ਦੀ) ਪ੍ਰੀਤਿ (ਕਿਧਰੇ ਤੇਰੇ ਨਾਲੋਂ) ਟੁੱਟ ਨਾਹ ਜਾਏ, (ਇਸ ਲਈ) ਤੇਰੇ ਦਾਸਾਂ ਦੀ ਰਹਿਣੀ-ਬਹਿਣੀ ਪਵਿਤ੍ਰ ਰਹਿੰਦੀ ਹੈ  ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "О Господь! Пусть ни при каких обстоятельствах любовь Твоих слуг к Тебе не прервётся — поэтому их образ жизни остаётся чистым."
     },
@@ -207,7 +207,7 @@
     {
       "verse_id": 29511,
       "gurmukhi": "ਹਉਮੈ ਬੰਧੁ ਹਰਿ ਦੇਵਣਹਾਰਾ ॥੧॥",
-      "roman": "haumai bandh har devan hārā",
+      "roman": "haumē bandh har devan hārā",
       "sahib_singh_pa": "ਜੋ ਹਉਮੈ ਦੇ ਰਾਹ ਵਿਚ ਬੰਨ੍ਹ ਮਾਰਨ ਦੀ ਸਮਰਥਾ ਰੱਖਦਾ ਹੈ ॥੧॥",
       "translation_ru": "Тот, кто способен разрушить узы эго."
     },
@@ -256,28 +256,28 @@
     {
       "verse_id": 29518,
       "gurmukhi": "ਪੁਹਪ ਮਧਿ ਜਿਉ ਬਾਸੁ ਬਸਤੁ ਹੈ ਮੁਕਰ ਮਾਹਿ ਜੈਸੇ ਛਾਈ ॥",
-      "roman": "puhap madh jiu bās bast hai mukar māhi jaise chhāī",
+      "roman": "puhap madh jiu bās bast hē mukar māh jēse chhāī",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜਿਵੇਂ ਫੁੱਲ ਵਿਚ ਸੁਗੰਧੀ ਵੱਸਦੀ ਹੈ, ਜਿਵੇਂ ਸ਼ੀਸ਼ੇ ਵਿਚ (ਸ਼ੀਸ਼ਾ ਵੇਖਣ ਵਾਲੇ ਦਾ) ਅਕਸ ਵੱਸਦਾ ਹੈ,",
       "translation_ru": "О брат! Как аромат пребывает в цветке, как отражение находится в зеркале,"
     },
     {
       "verse_id": 29519,
       "gurmukhi": "ਤੈਸੇ ਹੀ ਹਰਿ ਬਸੇ ਨਿਰੰਤਰਿ ਘਟ ਹੀ ਖੋਜਹੁ ਭਾਈ ॥੧॥",
-      "roman": "taise hī har base nirantar ghaṭ hī khojahu bhāī",
+      "roman": "tēse hī har base nirantar ghaṭ hī khojah bhāī",
       "sahib_singh_pa": "ਤਿਵੇਂ ਪਰਮਾਤਮਾ ਇਕ-ਰਸ ਸਭਨਾਂ ਦੇ ਅੰਦਰ ਵੱਸਦਾ ਹੈ। (ਇਸ ਵਾਸਤੇ, ਉਸ ਨੂੰ) ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਹੀ ਲੱਭ ॥੧॥",
       "translation_ru": "так и Бог пребывает внутри всех — ищи Его в своём сердце."
     },
     {
       "verse_id": 29520,
       "gurmukhi": "ਬਾਹਰਿ ਭੀਤਰਿ ਏਕੋ ਜਾਨਹੁ ਇਹੁ ਗੁਰ ਗਿਆਨੁ ਬਤਾਈ ॥",
-      "roman": "bāhar bhītar eko jānhu ihu gur giān batāī",
+      "roman": "bāhar bhītar eko jānh ihu gur giān batāī",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਗੁਰੂ ਦਾ (ਆਤਮਕ ਜੀਵਨ ਦਾ) ਉਪਦੇਸ਼ ਇਹ ਦੱਸਦਾ ਹੈ ਕਿ (ਆਪਣੇ ਸਰੀਰ ਦੇ) ਅੰਦਰ (ਅਤੇ ਆਪਣੇ ਸਰੀਰ ਤੋਂ) ਬਾਹਰ (ਹਰ ਥਾਂ) ਇਕ ਪਰਮਾਤਮਾ ਨੂੰ (ਵੱਸਦਾ) ਸਮਝੋ।",
       "translation_ru": "О брат! Учение Гуру говорит: понимай, что внутри и снаружи — везде один Бог."
     },
     {
       "verse_id": 29521,
       "gurmukhi": "ਜਨ ਨਾਨਕ ਬਿਨੁ ਆਪਾ ਚੀਨੈ ਮਿਟੈ ਨ ਭ੍ਰਮ ਕੀ ਕਾਈ ॥੨॥੧॥",
-      "roman": "jan nānak bin āpā chīnai miṭai na bhram kī kāī",
+      "roman": "jan nānak bin āpā chīnē miṭē na bhram kī kāī",
       "sahib_singh_pa": "ਹੇ ਦਾਸ ਨਾਨਕ! ਆਪਣਾ ਆਤਮਕ ਜੀਵਨ ਪਰਖਣ ਤੋਂ ਬਿਨਾ (ਮਨ ਉੱਤੋਂ) ਭਟਕਣਾ ਦਾ ਜਾਲਾ ਦੂਰ ਨਹੀਂ ਹੋ ਸਕਦਾ (ਤੇ, ਉਤਨਾ ਚਿਰ ਸਰਬ-ਵਿਆਪਕ ਪਰਮਾਤਮਾ ਦੀ ਸੂਝ ਨਹੀਂ ਆ ਸਕਦੀ) ॥੨॥੧॥",
       "translation_ru": "О слуга Нанак! Без познания своего внутреннего «я» заблуждение не исчезает."
     },
@@ -305,7 +305,7 @@
     {
       "verse_id": 29525,
       "gurmukhi": "ਮਾਤ ਪਿਤਾ ਭਾਈ ਸੁਤ ਬਨਿਤਾ ਤਾ ਕੈ ਰਸਿ ਲਪਟਾਨਾ ॥",
-      "roman": "māt pitā bhāī sut banitā tā kai ras lapaṭānā",
+      "roman": "māt pitā bhāī sut banitā tā kē ras lapaṭānā",
       "sahib_singh_pa": "ਹੇ ਸੰਤ ਜਨੋ! ਮਾਂ, ਪਿਉ, ਭਰਾ, ਪੁੱਤਰ, ਇਸਤ੍ਰੀ-(ਭੁੱਲਾ ਹੋਇਆ ਜਗਤ) ਇਹਨਾਂ ਦੇ ਮੋਹ ਵਿਚ ਫਸਿਆ ਰਹਿੰਦਾ ਹੈ।",
       "translation_ru": "О святые! Мир привязан к матери, отцу, брату, сыну и жене."
     }

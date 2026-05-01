@@ -4,14 +4,14 @@
     {
       "verse_id": 23313,
       "gurmukhi": "ਮਥੇ ਵਾਲਿ ਪਛਾੜਿਅਨੁ ਜਮ ਮਾਰਗਿ ਮੁਤੇ ॥",
-      "roman": "mathe vāli pachhāṛian jam mārag mute",
+      "roman": "mathe vāl pachhāṛian jam mārag mute",
       "sahib_singh_pa": "(ਨਿੰਦਕਾਂ ਨੂੰ, ਮਾਨੋ,) ਉਸ ਨੇ ਕੇਸਾਂ ਤੋਂ ਫੜ ਕੇ ਭੁੰਞੇ ਪਟਕਾ ਮਾਰਿਆ ਹੈ ਤੇ ਜਮ ਦੇ ਰਾਹ ਤੇ (ਨਿਖਸਮੇ) ਛੱਡ ਦਿੱਤਾ ਹੈ;",
       "translation_ru": "Словно схватив их за волосы, Он бросил их наземь и оставил на пути Ямы, как бесхозных;"
     },
     {
       "verse_id": 23314,
       "gurmukhi": "ਦੁਖਿ ਲਗੈ ਬਿਲਲਾਣਿਆ ਨਰਕਿ ਘੋਰਿ ਸੁਤੇ ॥",
-      "roman": "dukh lagai billāṇiā narak ghor sute",
+      "roman": "dukh lagē billāṇiā narak ghor sute",
       "sahib_singh_pa": "ਇਸ ਤਰ੍ਹਾਂ ਦੁੱਖ ਲੱਗਣ ਕਰ ਕੇ ਉਹ ਵਿਲਕਦੇ ਹਨ, ਤੇ ਮਾਨੋ, ਘੋਰ ਨਰਕ ਵਿਚ ਜਾ ਪੈਂਦੇ ਹਨ।",
       "translation_ru": "оттого, что их постигло страдание, они рыдают и словно оказываются в страшном аду."
     },
@@ -32,14 +32,14 @@
     {
       "verse_id": 23317,
       "gurmukhi": "ਰਾਮੁ ਜਪਹੁ ਵਡਭਾਗੀਹੋ ਜਲਿ ਥਲਿ ਪੂਰਨੁ ਸੋਇ ॥",
-      "roman": "rām japahu vaḍbhāgīho jal thal pūran soē",
+      "roman": "rām japah vaḍbhāgīho jal thal pūran soē",
       "sahib_singh_pa": "ਹੇ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲਿਓ! ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਜਪੋ ਜੋ ਪਾਣੀ ਵਿਚ, ਧਰਤੀ ਉੱਤੇ (ਹਰ ਥਾਂ) ਮੌਜੂਦ ਹੈ;",
       "translation_ru": "О вы, обладающие великой удачей! Повторяйте Имя того Господа, который присутствует в воде, на земле — повсюду;"
     },
     {
       "verse_id": 23318,
       "gurmukhi": "ਨਾਨਕ ਨਾਮਿ ਧਿਆਇਐ ਬਿਘਨੁ ਨ ਲਾਗੈ ਕੋਇ ॥੧॥",
-      "roman": "nānak nām dhiāīai bighan na lāgai koē",
+      "roman": "nānak nām dhiāīē bighan na lāgē koē",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਜੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰੀਏ ਤਾਂ (ਜੀਵਨ ਦੇ ਰਾਹ ਵਿਚ) ਕੋਈ ਰੁਕਾਵਟ ਨਹੀਂ ਪੈਂਦੀ ॥੧॥",
       "translation_ru": "О Нанак! Если помнить Имя Господа, то на жизненном пути не возникает никаких препятствий."
     },
@@ -53,7 +53,7 @@
     {
       "verse_id": 23320,
       "gurmukhi": "ਕੋਟਿ ਬਿਘਨ ਤਿਸੁ ਲਾਗਤੇ ਜਿਸ ਨੋ ਵਿਸਰੈ ਨਾਉ ॥",
-      "roman": "koṭ bighan tis lāgte jis no visrai nāo",
+      "roman": "koṭ bighan tis lāgte jis no visrē nāo",
       "sahib_singh_pa": "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਵਿਸਰ ਜਾਂਦਾ ਹੈ ਉਸ ਨੂੰ ਕ੍ਰੋੜਾਂ ਵਿਘਨ ਆ ਘੇਰਦੇ ਹਨ;",
       "translation_ru": "Того человека, который забывает Имя Бога, окружают миллионы препятствий;"
     },
@@ -151,70 +151,70 @@
     {
       "verse_id": 23334,
       "gurmukhi": "ਚਾਰਿ ਪਾਵ ਦੁਇ ਸਿੰਗ ਗੁੰਗ ਮੁਖ ਤਬ ਕੈਸੇ ਗੁਨ ਗਈਹੈ ॥",
-      "roman": "chār pāv dui siṅg guṅg mukh tab kaise gun gaīhai",
+      "roman": "chār pāv dui siṅg guṅg mukh tab kēse gun gaīhē",
       "sahib_singh_pa": "(ਕਿਸੇ ਪਸ਼ੂ-ਜੂਨ ਵਿਚ ਪੈ ਕੇ ਜਦੋਂ ਤੇਰੇ) ਚਾਰ ਪੈਰ ਤੇ ਦੋ ਸਿੰਙ ਹੋਣਗੇ, ਤੇ ਮੂੰਹੋਂ ਗੂੰਗਾ ਹੋਵੇਂਗਾ, ਤਦੋਂ ਤੂੰ ਕਿਸ ਤਰ੍ਹਾਂ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾ ਸਕੇਂਗਾ?",
       "translation_ru": "Если, попав в животную форму, у тебя будет четыре ноги, два рога и ты будешь немым, как ты тогда сможешь воспевать качества Господа?"
     },
     {
       "verse_id": 23335,
       "gurmukhi": "ਊਠਤ ਬੈਠਤ ਠੇਗਾ ਪਰਿਹੈ ਤਬ ਕਤ ਮੂਡ ਲੁਕਈਹੈ ॥੧॥",
-      "roman": "ūṭhat baiṭhat ṭhegā parihai tab kat mūḍ lukāīhai",
+      "roman": "ūṭhat bēṭhat ṭhegā parihē tab kat mūḍ lukāīhē",
       "sahib_singh_pa": "ਉਠਦਿਆਂ ਬੈਠਦਿਆਂ (ਤੇਰੇ ਸਿਰ ਉੱਤੇ) ਸੋਟਾ ਪਏਗਾ, ਤਦੋਂ ਤੂੰ ਕਿਥੇ ਸਿਰ ਲੁਕਾਏਂਗਾ? ॥੧॥",
       "translation_ru": "При вставании и сидении тебя будут бить палкой — куда ты тогда спрячешь голову?"
     },
     {
       "verse_id": 23336,
       "gurmukhi": "ਹਰਿ ਬਿਨੁ ਬੈਲ ਬਿਰਾਨੇ ਹੁਈਹੈ ॥",
-      "roman": "har bin bail birāne huīhai",
+      "roman": "har bin bēl birāne huīhē",
       "sahib_singh_pa": "(ਪ੍ਰਭੂ ਦਾ ਸਿਮਰਨ ਕਰਨ ਤੋਂ ਬਿਨਾ ਬਲਦ (ਆਦਿਕ ਪਸ਼ੂ ਬਣ ਕੇ) ਪਰ-ਅਧੀਨ ਹੋ ਜਾਏਂਗਾ,",
       "translation_ru": "Без воспоминания о Господе ты станешь, как бык, зависимым от других,"
     },
     {
       "verse_id": 23337,
       "gurmukhi": "ਫਾਟੇ ਨਾਕਨ ਟੂਟੇ ਕਾਧਨ ਕੋਦਉ ਕੋ ਭੁਸੁ ਖਈਹੈ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "phāṭe nākan ṭūṭe kādhan kodau ko bhus khaīhai",
+      "roman": "phāṭe nākan ṭūṭe kādhan kodau ko bhus khaīhē",
       "sahib_singh_pa": "(ਨੱਥ ਨਾਲ) ਨੱਕ ਵਿੰਨ੍ਹਿਆ ਜਾਏਗਾ, ਕੰਨ (ਜੂਲੇ ਨਾਲ) ਫਿੱਸੇ ਹੋਏ ਹੋਣਗੇ ਤੇ ਕੋਧਰੇ ਦਾ ਭੋਹ ਖਾਏਂਗਾ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "нос будет проколот, уши изранены, и ты будешь есть солому проса."
     },
     {
       "verse_id": 23338,
       "gurmukhi": "ਸਾਰੋ ਦਿਨੁ ਡੋਲਤ ਬਨ ਮਹੀਆ ਅਜਹੁ ਨ ਪੇਟ ਅਘਈਹੈ ॥",
-      "roman": "sāro din ḍolat ban mahīā ajahu na peṭ aghaīhai",
+      "roman": "sāro din ḍolat ban mahīā ajah na peṭ aghaīhē",
       "sahib_singh_pa": "ਜੰਗਲ (ਜੂਹ) ਵਿਚ ਸਾਰਾ ਦਿਨ ਭਟਕਦਿਆਂ ਭੀ ਪੇਟ ਨਹੀਂ ਰੱਜੇਗਾ।",
       "translation_ru": "Блуждая весь день по лесу, ты всё равно не насытишь свой живот."
     },
     {
       "verse_id": 23339,
       "gurmukhi": "ਜਨ ਭਗਤਨ ਕੋ ਕਹੋ ਨ ਮਾਨੋ ਕੀਓ ਅਪਨੋ ਪਈਹੈ ॥੨॥",
-      "roman": "jan bhagtan ko kaho na māno kīo apno paīhai",
+      "roman": "jan bhagtan ko kaho na māno kīo apno paīhē",
       "sahib_singh_pa": "ਹੁਣ ਐਸ ਵੇਲੇ ਤੂੰ ਭਗਤ ਜਨਾਂ ਦਾ ਬਚਨ ਨਹੀਂ ਮੰਨਦਾ, (ਉਮਰ ਵਿਹਾ ਜਾਣ ਤੇ) ਆਪਣਾ ਕੀਤਾ ਪਾਏਂਗਾ ॥੨॥",
       "translation_ru": "Теперь ты не слушаешь слова святых, но позже пожнёшь плоды своих поступков."
     },
     {
       "verse_id": 23340,
       "gurmukhi": "ਦੁਖ ਸੁਖ ਕਰਤ ਮਹਾ ਭ੍ਰਮਿ ਬੂਡੋ ਅਨਿਕ ਜੋਨਿ ਭਰਮਈਹੈ ॥",
-      "roman": "dukh sukh karat mahā bhram būḍo anik jon bhramaīhai",
+      "roman": "dukh sukh karat mahā bhram būḍo anik jon bhramaīhē",
       "sahib_singh_pa": "ਹੁਣ ਭੈੜੇ ਹਾਲ ਵਿਚ ਦਿਨ ਗੁਜ਼ਾਰ ਕੇ ਕੁਰਾਹੇ ਗ਼ਰਕ ਹੋਇਆ ਹੋਇਆ ਹੈਂ, (ਆਖ਼ਰ) ਅਨੇਕਾਂ ਜੂਨਾਂ ਵਿਚ ਭਟਕੇਂਗਾ।",
       "translation_ru": "Живя в страданиях и удовольствиях, ты тонешь в великом заблуждении и будешь скитаться в бесчисленных формах рождения."
     },
     {
       "verse_id": 23341,
       "gurmukhi": "ਰਤਨ ਜਨਮੁ ਖੋਇਓ ਪ੍ਰਭੁ ਬਿਸਰਿਓ ਇਹੁ ਅਉਸਰੁ ਕਤ ਪਈਹੈ ॥੩॥",
-      "roman": "ratan janam khoio prabh bisrio ihu ausar kat paīhai",
+      "roman": "ratan janam khoio prabh bisrio ihu ausar kat paīhē",
       "sahib_singh_pa": "ਤੂੰ ਪ੍ਰਭੂ ਨੂੰ ਵਿਸਾਰ ਦਿੱਤਾ ਹੈ, ਤੇ ਸ੍ਰੇਸ਼ਟ ਮਨੁੱਖਾ ਜਨਮ ਗੰਵਾ ਲਿਆ ਹੈ, ਇਹ ਸਮਾ ਫੇਰ ਕਿਤੇ ਨਹੀਂ ਮਿਲੇਗਾ ॥੩॥",
       "translation_ru": "Ты утратил драгоценное человеческое рождение, забыв Господа — такой шанс больше не представится."
     },
     {
       "verse_id": 23342,
       "gurmukhi": "ਭ੍ਰਮਤ ਫਿਰਤ ਤੇਲਕ ਕੇ ਕਪਿ ਜਿਉ ਗਤਿ ਬਿਨੁ ਰੈਨਿ ਬਿਹਈਹੈ ॥",
-      "roman": "bhramat phirat telak ke kap jio gat bin rain bihīhai",
+      "roman": "bhramat phirat telak ke kap jio gat bin rēn bihīhē",
       "sahib_singh_pa": "ਤੇਰੀ ਜ਼ਿੰਦਗੀ-ਰੂਪ ਸਾਰੀ ਰਾਤ ਤੇਲੀ ਦੇ ਬਲਦ ਅਤੇ ਬਾਂਦਰ ਵਾਂਗ ਭਟਕਦਿਆਂ ਵਿਕਾਰਾਂ ਤੋਂ ਖ਼ਲਾਸੀ ਹਾਸਲ ਕਰਨ ਤੋਂ ਬਿਨਾ ਹੀ ਲੰਘ ਜਾਇਗੀ।",
       "translation_ru": "Вся твоя жизнь пройдёт в блуждании, как у быка у маслобойни и обезьяны, без освобождения от пороков."
     },
     {
       "verse_id": 23343,
       "gurmukhi": "ਕਹਤ ਕਬੀਰ ਰਾਮ ਨਾਮ ਬਿਨੁ ਮੂੰਡ ਧੁਨੇ ਪਛੁਤਈਹੈ ॥੪॥੧॥",
-      "roman": "kahat kabīr rām nām bin mūṇḍ dhune pachhutāīhai",
+      "roman": "kahat kabīr rām nām bin mūṇḍ dhune pachhutāīhē",
       "sahib_singh_pa": "ਕਬੀਰ ਆਖਦਾ ਹੈ ਕਿ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਭੁਲਾ ਕੇ ਆਖ਼ਰ ਸਿਰ ਮਾਰ ਮਾਰ ਕੇ ਪਛਤਾਵੇਂਗਾ ॥੪॥੧॥",
       "translation_ru": "Кабир говорит: без Имени Господа ты в конце будешь биться головой и раскаиваться."
     },
@@ -228,21 +228,21 @@
     {
       "verse_id": 23345,
       "gurmukhi": "ਮੁਸਿ ਮੁਸਿ ਰੋਵੈ ਕਬੀਰ ਕੀ ਮਾਈ ॥",
-      "roman": "mus mus rovai kabīr kī māī",
+      "roman": "mus mus rovē kabīr kī māī",
       "sahib_singh_pa": "ਕਬੀਰ ਦੀ ਮਾਂ (ਕਬੀਰ ਆਖਦਾ ਹੈ ਕਿ ਮੇਰੀ ਮਾਂ) ਡੁਸਕ ਡੁਸਕ ਕੇ ਰੋਂਦੀ ਹੈ,",
       "translation_ru": "Мать Кабира тихо плачет,"
     },
     {
       "verse_id": 23346,
       "gurmukhi": "ਏ ਬਾਰਿਕ ਕੈਸੇ ਜੀਵਹਿ ਰਘੁਰਾਈ ॥੧॥",
-      "roman": "e bārik kaise jīvahi raghurāī",
+      "roman": "e bārik kēse jīvahi raghurāī",
       "sahib_singh_pa": "(ਤੇ ਆਖਦੀ ਹੈ-) ਹੇ ਪਰਮਾਤਮਾ! (ਕਬੀਰ ਦੇ) ਇਹ ਅੰਞਾਣੇ ਬਾਲ ਕਿਵੇਂ ਜੀਊਣਗੇ? ॥੧॥",
       "translation_ru": "и говорит: о Господь! как будут жить эти малые дети?"
     },
     {
       "verse_id": 23347,
       "gurmukhi": "ਤਨਨਾ ਬੁਨਨਾ ਸਭੁ ਤਜਿਓ ਹੈ ਕਬੀਰ ॥",
-      "roman": "tannā bunṇā sabh tajio hai kabīr",
+      "roman": "tannā bunṇā sabh tajio hē kabīr",
       "sahib_singh_pa": "(ਕਿਉਂਕਿ ਮੇਰੇ) ਕਬੀਰ ਨੇ (ਤਾਣਾ) ਤਣਨਾ ਤੇ (ਕੱਪੜਾ) ਉਣਨਾ ਸਭ ਕੁੱਝ ਛੱਡ ਦਿੱਤਾ ਹੈ,",
       "translation_ru": "Ведь мой Кабир оставил всё — прядение и ткачество,"
     },
@@ -263,7 +263,7 @@
     {
       "verse_id": 23350,
       "gurmukhi": "ਤਬ ਲਗੁ ਬਿਸਰੈ ਰਾਮੁ ਸਨੇਹੀ ॥੨॥",
-      "roman": "tab lag bisrai rām sanehī",
+      "roman": "tab lag bisrē rām sanehī",
       "sahib_singh_pa": "ਉਤਨਾ ਚਿਰ ਮੈਨੂੰ ਮੇਰਾ ਪਿਆਰਾ ਪ੍ਰਭੂ ਵਿਸਰ ਜਾਂਦਾ ਹੈ (ਭਾਵ, ਮੈਨੂੰ ਇਤਨਾ ਚਿਰ ਭੀ ਪ੍ਰਭੂ ਵਿਸਾਰਨਾ ਨਹੀਂ ਭਾਉਂਦਾ) ॥੨॥",
       "translation_ru": "на это время я забываю своего возлюбленного Господа."
     },
@@ -277,14 +277,14 @@
     {
       "verse_id": 23352,
       "gurmukhi": "ਹਰਿ ਕਾ ਨਾਮੁ ਲਹਿਓ ਮੈ ਲਾਹਾ ॥੩॥",
-      "roman": "har kā nām lahio mai lāhā",
+      "roman": "har kā nām lahio mē lāhā",
       "sahib_singh_pa": "ਪਰ ਮੈਂ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਰੂਪ ਨਫ਼ਾ (ਇਸ ਮਨੁੱਖਾ-ਜਨਮ ਦੇ ਵਪਾਰ ਵਿਚ) ਖੱਟ ਲਿਆ ਹੈ ॥੩॥",
       "translation_ru": "но я приобрёл прибыль — Имя Господа."
     },
     {
       "verse_id": 23353,
       "gurmukhi": "ਕਹਤ ਕਬੀਰ ਸੁਨਹੁ ਮੇਰੀ ਮਾਈ ॥",
-      "roman": "kahat kabīr sunahu merī māī",
+      "roman": "kahat kabīr sunah merī māī",
       "sahib_singh_pa": "ਕਬੀਰ ਆਖਦਾ ਹੈ: ਹੇ ਮੇਰੀ ਮਾਂ! ਸੁਣ,",
       "translation_ru": "Кабир говорит: о мать моя, слушай,"
     },

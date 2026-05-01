@@ -11,7 +11,7 @@
     {
       "verse_id": 27003,
       "gurmukhi": "ਗੁਰਿ ਪੂਰੈ ਕੀਤੀ ਪੂਰੀ ॥",
-      "roman": "gur pūrai kītī pūrī",
+      "roman": "gur pūrē kītī pūrī",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਪੂਰੇ ਗੁਰੂ ਨੇ (ਮੈਨੂੰ ਆਤਮਕ ਜੀਵਨ ਵਿਚ) ਸਫਲਤਾ ਦਿੱਤੀ ਹੈ,",
       "translation_ru": "О брат! Совершенный Гуру даровал мне успех в духовной жизни."
     },
@@ -46,7 +46,7 @@
     {
       "verse_id": 27008,
       "gurmukhi": "ਬਿਘਨੁ ਨ ਲਾਗੈ ਤਿਲ ਕਾ ਕੋਈ ਕਾਰਜ ਸਗਲ ਸਵਾਰੇ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "bighan na lāgai til kā koī kāraj sagal savāre",
+      "roman": "bighan na lāgē til kā koī kāraj sagal savāre",
       "sahib_singh_pa": "(ਉਸ ਦੀ ਜ਼ਿੰਦਗੀ ਦੇ ਰਸਤੇ ਵਿਚ) ਰਤਾ ਭਰ ਭੀ ਕੋਈ ਰੁਕਾਵਟ ਨਹੀਂ ਆਉਂਦੀ। ਗੁਰੂ ਉਸ ਦੇ ਸਾਰੇ ਕੰਮ ਸਵਾਰ ਦੇਂਦਾ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "у того не возникает ни малейшего препятствия; Гуру устраивает все его дела."
     },
@@ -102,7 +102,7 @@
     {
       "verse_id": 27016,
       "gurmukhi": "ਗੁਰੁ ਪੂਰਾ ਰਿਦੈ ਧਿਆਏ ॥੩॥",
-      "roman": "gur pūrā ridai dhiāe",
+      "roman": "gur pūrā ridē dhiāe",
       "sahib_singh_pa": "ਜੇਹੜਾ ਪੂਰੇ ਗੁਰੂ ਨੂੰ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾਂਦਾ ਹੈ ॥੩॥",
       "translation_ru": "Тот, кто удерживает Совершенного Гуру в сердце."
     },
@@ -116,7 +116,7 @@
     {
       "verse_id": 27018,
       "gurmukhi": "ਜਪਿ ਜਪਿ ਜੀਵੈ ਪਰਮਾਨੰਦਾ ॥",
-      "roman": "jap jap jīvai parmānandā",
+      "roman": "jap jap jīvē parmānandā",
       "sahib_singh_pa": "ਉਸ ਸਭ ਤੋਂ ਉੱਚੇ ਆਨੰਦ ਦੇ ਮਾਲਕ ਨੂੰ ਜਪ ਜਪ ਕੇ ਉਹ ਮਨੁੱਖ ਆਤਮਕ ਜੀਵਨ ਹਾਸਲ ਕਰ ਲੈਂਦਾ ਹੈ",
       "translation_ru": "Постоянно повторяя Его Имя, человек обретает духовную жизнь."
     },
@@ -151,7 +151,7 @@
     {
       "verse_id": 27023,
       "gurmukhi": "ਸੇਜ ਇਕੇਲੀ ਨੀਦ ਨਹੁ ਨੈਨਹ ਪਿਰੁ ਪਰਦੇਸਿ ਸਿਧਾਇਓ ॥੧॥",
-      "roman": "sej ikelī nīd nahu nainah pir pardes sidhāio",
+      "roman": "sej ikelī nīd nah nēnah pir pardes sidhāio",
       "sahib_singh_pa": "(ਜਿਸ ਇਸਤ੍ਰੀ ਦਾ) ਪਤੀ ਪਰਦੇਸ ਵਿਚ ਗਿਆ ਹੁੰਦਾ ਹੈ, (ਉਸ ਦੀ) ਸੇਜ (ਪਤੀ ਤੋਂ ਬਿਨਾ) ਸੁੰਞੀ ਹੁੰਦੀ ਹੈ, (ਉਸ ਦੀਆਂ) ਅੱਖਾਂ ਵਿਚ ਨੀਂਦ ਨਹੀਂ ਆਉਂਦੀ ॥੧॥",
       "translation_ru": "ложе одиноко, и глаза не знают сна, когда муж ушёл в чужую страну."
     },
@@ -172,21 +172,21 @@
     {
       "verse_id": 27026,
       "gurmukhi": "ਕਿਉ ਬਿਸਰੈ ਇਹੁ ਲਾਲੁ ਪਿਆਰੋ ਸਰਬ ਗੁਣਾ ਸੁਖਦਾਇਓ ॥",
-      "roman": "kio bisrai ih lāl piāro sarab guṇā sukh dāio",
+      "roman": "kio bisrē ih lāl piāro sarab guṇā sukh dāio",
       "sahib_singh_pa": "ਹੇ ਮਾਂ! ਮੈਨੂੰ ਭੀ ਇਹ ਸੋਹਣਾ ਪਿਆਰਾ ਲਾਲ (ਪ੍ਰਭੂ) ਕਿਵੇਂ ਭੁੱਲ ਸਕਦਾ ਹੈ? ਇਹ ਤਾਂ ਸਾਰੇ ਗੁਣਾਂ ਦਾ ਮਾਲਕ ਹੈ, ਸਾਰੇ ਸੁਖ ਦੇਣ ਵਾਲਾ ਹੈ।",
       "translation_ru": "Как может забыться этот прекрасный возлюбленный, дарующий все добродетели и счастье?"
     },
     {
       "verse_id": 27027,
       "gurmukhi": "ਮੰਦਰਿ ਚਰਿ ਕੈ ਪੰਥੁ ਨਿਹਾਰਉ ਨੈਨ ਨੀਰਿ ਭਰਿ ਆਇਓ ॥੨॥",
-      "roman": "mandar char kai panth nihārau nain nīr bhar āio",
+      "roman": "mandar char kē panth nihārau nēn nīr bhar āio",
       "sahib_singh_pa": "ਮੈਂ ਭੀ (ਵਿਛੁੜੀ ਨਾਰ ਵਾਂਗ) ਕੋਠੇ ਉੱਤੇ ਚੜ੍ਹ ਕੇ (ਪਤੀ ਦਾ) ਰਾਹ ਤੱਕਦੀ ਹਾਂ, (ਮੇਰੀਆਂ ਭੀ) ਅੱਖਾਂ (ਵੈਰਾਗ-) ਨੀਰ ਨਾਲ ਭਰ ਆਈਆਂ ਹਨ ॥੨॥",
       "translation_ru": "Я поднимаюсь на крышу и смотрю на путь, глаза наполняются слезами."
     },
     {
       "verse_id": 27028,
       "gurmukhi": "ਹਉ ਹਉ ਭੀਤਿ ਭਇਓ ਹੈ ਬੀਚੋ ਸੁਨਤ ਦੇਸਿ ਨਿਕਟਾਇਓ ॥",
-      "roman": "hau hau bhīt bhaio hai bīcho sunat des nikṭāio",
+      "roman": "hau hau bhīt bhēo hē bīcho sunat des nikṭāio",
       "sahib_singh_pa": "ਹੇ ਮਾਂ! ਮੈਂ ਸੁਣਦੀ ਤਾਂ ਇਹ ਹਾਂ, ਕਿ (ਉਹ ਪਤੀ ਪ੍ਰਭੂ) ਮੇਰੇ ਹਿਰਦੇ-ਦੇਸ ਵਿਚ ਮੇਰੇ ਨੇੜੇ ਹੀ ਵੱਸਦਾ ਹੈ, ਪਰ (ਮੇਰੇ ਤੇ ਉਸ ਦੇ) ਵਿਚਕਾਰ ਮੇਰੀ ਹਉਮੈ ਦੀ ਕੰਧ ਖੜੀ ਹੋ ਗਈ ਹੈ,",
       "translation_ru": "Я слышу, что Он близок в моём сердце, но между нами стоит стена эго."
     },
@@ -207,7 +207,7 @@
     {
       "verse_id": 27031,
       "gurmukhi": "ਕਹੁ ਨਾਨਕ ਹਉਮੈ ਭੀਤਿ ਗੁਰਿ ਖੋਈ ਤਉ ਦਇਆਰੁ ਬੀਠਲੋ ਪਾਇਓ ॥੪॥",
-      "roman": "kahu nānak haumai bhīt gur khoī tau dayār bīṭhalo pāio",
+      "roman": "kah nānak haumē bhīt gur khoī tau dayār bīṭhalo pāio",
       "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਜਦੋਂ ਗੁਰੂ ਨੇ (ਜੀਵ-ਇਸਤ੍ਰੀ ਦੇ ਅੰਦਰੋਂ) ਹਉਮੈ ਦੀ ਕੰਧ ਢਾਹ ਦਿੱਤੀ, ਤਦੋਂ ਉਸ ਨੇ ਮਾਇਆ-ਰਹਿਤ ਦਇਆਲ (ਪ੍ਰਭੂ-ਪਤੀ) ਨੂੰ (ਆਪਣੇ ਅੰਦਰ ਹੀ) ਲੱਭ ਲਿਆ ॥੪॥",
       "translation_ru": "Нанак говорит: когда Гуру разрушает стену эго, человек находит милосердного Господа внутри."
     },
@@ -256,7 +256,7 @@
     {
       "verse_id": 27038,
       "gurmukhi": "ਨਾਮੁ ਪਰਿਓ ਭਗਤੁ ਗੋਵਿੰਦ ਕਾ ਇਹ ਰਾਖਹੁ ਪੈਜ ਤੁਮਾਰੀ ॥੧॥",
-      "roman": "nām pario bhagat gobind kā ih rākho paij tumārī",
+      "roman": "nām pario bhagat gobind kā ih rākho pēj tumārī",
       "sahib_singh_pa": "ਪਰ ਹੇ ਪ੍ਰਭੂ! ਮੇਰਾ ਨਾਮ 'ਗੋਬਿੰਦ ਦਾ ਭਗਤ' ਪੈ ਗਿਆ ਹੈ। ਸੋ, ਹੁਣ ਤੂੰ ਆਪਣੇ ਨਾਮ ਦੀ ਆਪ ਲਾਜ ਰੱਖ ॥੧॥",
       "translation_ru": "Но моё имя стало ‘преданный Гобинда’; теперь сохрани честь Своего Имени."
     },
@@ -277,42 +277,42 @@
     {
       "verse_id": 27041,
       "gurmukhi": "ਜੈਸਾ ਬਾਲਕੁ ਭਾਇ ਸੁਭਾਈ ਲਖ ਅਪਰਾਧ ਕਮਾਵੈ ॥",
-      "roman": "jaisā bālak bhāe subhāī lakh aprādh kamāvai",
+      "roman": "jēsā bālak bhāe subhāī lakh aprādh kamāvē",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜਿਵੇਂ ਕੋਈ ਬੱਚਾ ਆਪਣੀ ਲਗਨ ਅਨੁਸਾਰ ਸੁਭਾਵ ਅਨੁਸਾਰ ਲੱਖਾਂ ਗ਼ਲਤੀਆਂ ਕਰਦਾ ਹੈ,",
       "translation_ru": "Как ребёнок по своей природе совершает множество ошибок,"
     },
     {
       "verse_id": 27042,
       "gurmukhi": "ਕਰਿ ਉਪਦੇਸੁ ਝਿੜਕੇ ਬਹੁ ਭਾਤੀ ਬਹੁੜਿ ਪਿਤਾ ਗਲਿ ਲਾਵੈ ॥",
-      "roman": "kar updes jhiṛke bahu bhātī bahuṛ pitā gal lāvai",
+      "roman": "kar updes jhiṛke bah bhātī bahuṛ pitā gal lāvē",
       "sahib_singh_pa": "ਉਸ ਦਾ ਪਿਉ ਉਸ ਨੂੰ ਸਿੱਖਿਆ ਦੇ ਦੇ ਕੇ ਕਈ ਤਰੀਕਿਆਂ ਨਾਲ ਝਿੜਕਦਾ ਭੀ ਹੈ, ਪਰ ਫਿਰ ਆਪਣੇ ਗਲ ਨਾਲ (ਉਸ ਨੂੰ) ਲਾ ਲੈਂਦਾ ਹੈ,",
       "translation_ru": "отец наставляет его, порицает, но затем обнимает его."
     },
     {
       "verse_id": 27043,
       "gurmukhi": "ਪਿਛਲੇ ਅਉਗੁਣ ਬਖਸਿ ਲਏ ਪ੍ਰਭੁ ਆਗੈ ਮਾਰਗਿ ਪਾਵੈ ॥੨॥",
-      "roman": "pichhle augun bakhas lae prabh āgai mārag pāvai",
+      "roman": "pichhle augun bakhas lae prabh āgē mārag pāvē",
       "sahib_singh_pa": "ਇਸੇ ਤਰ੍ਹਾਂ ਪ੍ਰਭੂ-ਪਿਤਾ ਭੀ ਜੀਵਾਂ ਦੇ ਪਿਛਲੇ ਗੁਨਾਹ ਬਖ਼ਸ਼ ਲੈਂਦਾ ਹੈ, ਤੇ ਅਗਾਂਹ ਵਾਸਤੇ (ਜੀਵਨ ਦੇ) ਠੀਕ ਰਸਤੇ ਉਤੇ ਪਾ ਦੇਂਦਾ ਹੈ ॥੨॥",
       "translation_ru": "Так и Бог прощает прошлые ошибки и направляет на правильный путь."
     },
     {
       "verse_id": 27044,
       "gurmukhi": "ਹਰਿ ਅੰਤਰਜਾਮੀ ਸਭ ਬਿਧਿ ਜਾਣੈ ਤਾ ਕਿਸੁ ਪਹਿ ਆਖਿ ਸੁਣਾਈਐ ॥",
-      "roman": "har antarjāmī sabh bidh jāṇai tā kis pah ākh suṇāīai",
+      "roman": "har antarjāmī sabh bidh jāṇē tā kis pah ākh suṇāīē",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਹਰੇਕ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ ਹੈ, (ਜੀਵਾਂ ਦੀ) ਹਰੇਕ (ਆਤਮਕ) ਹਾਲਤ ਨੂੰ ਜਾਣਦਾ ਹੈ। (ਉਸ ਨੂੰ ਛੱਡ ਕੇ) ਹੋਰ ਕਿਸ ਪਾਸ (ਆਪਣੀ ਬਿਰਥਾ) ਆਖ ਕੇ ਸੁਣਾਈ ਜਾ ਸਕਦੀ ਹੈ?",
       "translation_ru": "Бог знает всё в сердце каждого — кому ещё можно рассказать свою боль?"
     },
     {
       "verse_id": 27045,
       "gurmukhi": "ਕਹਣੈ ਕਥਨਿ ਨ ਭੀਜੈ ਗੋਬਿੰਦੁ ਹਰਿ ਭਾਵੈ ਪੈਜ ਰਖਾਈਐ ॥",
-      "roman": "kahṇai kathan na bhījai gobind har bhāvai paij rakhāīai",
+      "roman": "kahṇē kathan na bhījē gobind har bhāvē pēj rakhāīē",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਪਰਮਾਤਮਾ ਨਿਰੀਆਂ ਜ਼ਬਾਨੀ ਗੱਲਾਂ ਨਾਲ ਖ਼ੁਸ਼ ਨਹੀਂ ਹੁੰਦਾ। (ਕਰਣੀ ਕਰ ਕੇ ਜੇਹੜਾ ਮਨੁੱਖ) ਪਰਮਾਤਮਾ ਨੂੰ ਚੰਗਾ ਲੱਗ ਪੈਂਦਾ ਹੈ, ਉਸ ਦੀ ਉਹ ਇੱਜ਼ਤ ਰੱਖ ਲੈਂਦਾ ਹੈ।",
       "translation_ru": "Гобинд не доволен пустыми словами; Он хранит честь тех, кто Ему угоден."
     },
     {
       "verse_id": 27046,
       "gurmukhi": "ਅਵਰ ਓਟ ਮੈ ਸਗਲੀ ਦੇਖੀ ਇਕ ਤੇਰੀ ਓਟ ਰਹਾਈਐ ॥੩॥",
-      "roman": "avar oṭ mai saglī dekhi ik terī oṭ rahāīai",
+      "roman": "avar oṭ mē saglī dekhi ik terī oṭ rahāīē",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਮੈਂ ਹੋਰ ਸਾਰੇ ਆਸਰੇ ਵੇਖ ਲਏ ਹਨ, ਮੈਂ ਇਕ ਤੇਰਾ ਆਸਰਾ ਹੀ ਰੱਖਿਆ ਹੋਇਆ ਹੈ ॥੩॥",
       "translation_ru": "Я испытал все другие опоры, но держусь только Твоей."
     }

@@ -18,7 +18,7 @@
     {
       "verse_id": 26682,
       "gurmukhi": "ਸਗਲ ਬਨਸਪਤਿ ਮਹਿ ਬੈਸੰਤਰੁ ਸਗਲ ਦੂਧ ਮਹਿ ਘੀਆ ॥",
-      "roman": "sagal banaspat meh baisantar sagal dūdh meh ghīā",
+      "roman": "sagal banaspat meh bēsantar sagal dūdh meh ghīā",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜਿਵੇਂ ਸਭ ਬੂਟਿਆਂ ਵਿਚ ਅੱਗ (ਗੁਪਤ ਮੌਜੂਦ) ਹੈ, ਜਿਵੇਂ ਹਰੇਕ ਕਿਸਮ ਦੇ ਦੁੱਧ ਵਿਚ ਘਿਉ (ਮੱਖਣ) ਗੁਪਤ ਮੌਜੂਦ ਹੈ,",
       "translation_ru": "О брат! как во всех растениях скрыто присутствует огонь, как в каждом виде молока скрыто присутствует масло,"
     },
@@ -32,7 +32,7 @@
     {
       "verse_id": 26684,
       "gurmukhi": "ਸੰਤਹੁ ਘਟਿ ਘਟਿ ਰਹਿਆ ਸਮਾਹਿਓ ॥",
-      "roman": "santahu ghaṭ ghaṭ rahiā samāhio",
+      "roman": "santah ghaṭ ghaṭ rahiā samāhio",
       "sahib_singh_pa": "ਹੇ ਸੰਤ ਜਨੋ! ਪਰਮਾਤਮਾ ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਮੌਜੂਦ ਹੈ।",
       "translation_ru": "О святые! Всевышний присутствует в каждом теле."
     },
@@ -67,7 +67,7 @@
     {
       "verse_id": 26689,
       "gurmukhi": "ਜਾ ਕੈ ਸਿਮਰਣਿ ਹੋਇ ਅਨੰਦਾ ਬਿਨਸੈ ਜਨਮ ਮਰਣ ਭੈ ਦੁਖੀ ॥",
-      "roman": "jā kai simran hoi anandā binsai janam maran bhai dukhī",
+      "roman": "jā kē simran hoi anandā binsē janam maran bhē dukhī",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜਿਸ ਪ੍ਰਭੂ ਦੇ ਸਿਮਰਨ ਨਾਲ ਤੂੰ ਖ਼ੁਸ਼ੀ-ਭਰਿਆ ਜੀਵਨ ਜੀਊ ਸਕਦਾ ਹੈਂ ਤੇਰੇ ਜਨਮ ਮਰਨ ਦੇ ਸਾਰੇ ਡਰ ਤੇ ਦੁੱਖ ਦੂਰ ਹੋ ਸਕਦੇ ਹਨ,",
       "translation_ru": "О брат! вспоминая Того Господа, ты можешь жить в радости, страхи рождения и смерти и все страдания исчезают,"
     },
@@ -81,14 +81,14 @@
     {
       "verse_id": 26691,
       "gurmukhi": "ਜਾ ਕੋ ਨਾਮੁ ਲੈਤ ਤੂ ਸੁਖੀ ॥",
-      "roman": "jā ko nām lait tū sukhī",
+      "roman": "jā ko nām lēt tū sukhī",
       "sahib_singh_pa": "ਜਿਸ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਿਆਂ ਤੂੰ ਸੁਖੀ ਹੋ ਸਕਦਾ ਹੈਂ,",
       "translation_ru": "Имя того Всевышнего, поминая которое ты становишься счастливым,"
     },
     {
       "verse_id": 26692,
       "gurmukhi": "ਸਾਸਿ ਸਾਸਿ ਧਿਆਵਹੁ ਠਾਕੁਰ ਕਉ ਮਨ ਤਨ ਜੀਅਰੇ ਮੁਖੀ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "sās sās dhiāvahu ṭhākur kau man tan jīare mukhī",
+      "roman": "sās sās dhiāvah ṭhākur kau man tan jīare mukhī",
       "sahib_singh_pa": "ਹੇ ਜੀਵ! ਉਸ ਪਾਲਣਹਾਰ ਪ੍ਰਭੂ ਨੂੰ ਤੂੰ ਆਪਣੇ ਮਨੋ ਤਨੋ ਮੂੰਹ ਨਾਲ ਹਰੇਕ ਸਾਹ ਦੇ ਨਾਲ ਸਿਮਰਿਆ ਕਰ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "о душа! поминай Его каждым дыханием — умом, телом и устами."
     },
@@ -116,42 +116,42 @@
     {
       "verse_id": 26696,
       "gurmukhi": "ਕਾਮ ਕ੍ਰੋਧ ਲੋਭ ਝੂਠ ਨਿੰਦਾ ਇਨ ਤੇ ਆਪਿ ਛਡਾਵਹੁ ॥",
-      "roman": "kām krodh lobh jhūṭh nindā in te āp chhaḍāvahu",
+      "roman": "kām krodh lobh jhūṭh nindā in te āp chhaḍāvah",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਕਾਮ ਕ੍ਰੋਧ ਲੋਭ ਝੂਠ ਨਿੰਦਾ (ਆਦਿਕ) ਇਹਨਾਂ (ਸਾਰੇ ਵਿਕਾਰਾਂ) ਤੋਂ ਤੂੰ ਮੈਨੂੰ ਆਪ ਛੁਡਾ ਲੈ।",
       "translation_ru": "О Господь! освободи меня Сам от похоти, гнева, жадности, лжи и злословия."
     },
     {
       "verse_id": 26697,
       "gurmukhi": "ਇਹ ਭੀਤਰ ਤੇ ਇਨ ਕਉ ਡਾਰਹੁ ਆਪਨ ਨਿਕਟਿ ਬੁਲਾਵਹੁ ॥੧॥",
-      "roman": "ih bhītar te in kau ḍārahu āpan nikat bulāvahu",
+      "roman": "ih bhītar te in kau ḍārah āpan nikat bulāvah",
       "sahib_singh_pa": "ਮੇਰੇ ਇਸ ਮਨ ਵਿਚੋਂ ਇਹਨਾਂ (ਵਿਕਾਰਾਂ) ਨੂੰ ਕੱਢ ਦੇ, ਮੈਨੂੰ ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ ਜੋੜੀ ਰੱਖ ॥੧॥",
       "translation_ru": "Удали эти пороки из моего ума и приблизь меня к Себе."
     },
     {
       "verse_id": 26698,
       "gurmukhi": "ਅਪੁਨੀ ਬਿਧਿ ਆਪਿ ਜਨਾਵਹੁ ॥",
-      "roman": "apunī bidh āp janāvahu",
+      "roman": "apunī bidh āp janāvah",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਆਪਣੀ ਭਗਤੀ ਦੀ ਜਾਚ ਤੂੰ ਮੈਨੂੰ ਆਪ ਸਿਖਾ।",
       "translation_ru": "О Господь! Сам научи меня пути Своего поклонения."
     },
     {
       "verse_id": 26699,
       "gurmukhi": "ਹਰਿ ਜਨ ਮੰਗਲ ਗਾਵਹੁ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "har jan maṅgal gāvahu",
+      "roman": "har jan maṅgal gāvah",
       "sahib_singh_pa": "ਮੈਨੂੰ ਪ੍ਰੇਰਨਾ ਦੇਹ ਕਿ ਮੈਂ ਤੇਰੇ ਸੰਤ ਜਨਾਂ ਨਾਲ ਮਿਲ ਕੇ ਤੇਰੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਦੇ ਗੀਤ ਗਾਇਆ ਕਰਾਂ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Вдохнови меня петь гимны Твоей славы вместе с Твоими святыми."
     },
     {
       "verse_id": 26700,
       "gurmukhi": "ਬਿਸਰੁ ਨਾਹੀ ਕਬਹੂ ਹੀਏ ਤੇ ਇਹ ਬਿਧਿ ਮਨ ਮਹਿ ਪਾਵਹੁ ॥",
-      "roman": "bisar nāhī kabhū hīe te ih bidh man meh pāvahu",
+      "roman": "bisar nāhī kabhū hīe te ih bidh man meh pāvah",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਮੇਰੇ ਮਨ ਵਿਚ ਤੂੰ ਇਹੋ ਜਿਹੀ ਸਿੱਖਿਆ ਪਾ ਦੇਹ ਕਿ ਮੇਰੇ ਹਿਰਦੇ ਤੋਂ ਤੂੰ ਕਦੇ ਭੀ ਨਾਹ ਵਿਸਰੇਂ।",
       "translation_ru": "О Господь! вложи в мой ум такое наставление, чтобы Ты никогда не исчезал из моего сердца."
     },
     {
       "verse_id": 26701,
       "gurmukhi": "ਗੁਰੁ ਪੂਰਾ ਭੇਟਿਓ ਵਡਭਾਗੀ ਜਨ ਨਾਨਕ ਕਤਹਿ ਨ ਧਾਵਹੁ ॥੨॥੩॥੩੧॥",
-      "roman": "gur pūrā bheṭio vaḍbhāgī jan nānak kateh na dhāvahu",
+      "roman": "gur pūrā bheṭio vaḍbhāgī jan nānak kateh na dhāvah",
       "sahib_singh_pa": "ਹੇ ਦਾਸ ਨਾਨਕ! ਤੈਨੂੰ ਵੱਡੇ ਭਾਗਾਂ ਨਾਲ ਪੂਰਾ ਗੁਰੂ ਮਿਲ ਪਿਆ ਹੈ, ਹੁਣ ਤੂੰ ਹੋਰ ਕਿਸੇ ਪਾਸੇ ਨਾਹ ਦੌੜਦਾ ਫਿਰ ॥੨॥੩॥੩੧॥",
       "translation_ru": "О слуга Нанак! по великой удаче тебе встретился совершенный Гуру, теперь не бегай больше никуда."
     },
@@ -165,42 +165,42 @@
     {
       "verse_id": 26703,
       "gurmukhi": "ਜਾ ਕੈ ਸਿਮਰਣਿ ਸਭੁ ਕਛੁ ਪਾਈਐ ਬਿਰਥੀ ਘਾਲ ਨ ਜਾਈ ॥",
-      "roman": "jā kai simran sabh kachh pāīai birthī ghāl na jāī",
+      "roman": "jā kē simran sabh kachh pāīē birthī ghāl na jāī",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜਿਸ ਪ੍ਰਭੂ ਦੇ ਸਿਮਰਨ ਦੀ ਬਰਕਤਿ ਨਾਲ ਹਰੇਕ ਪਦਾਰਥ ਮਿਲ ਸਕਦਾ ਹੈ, (ਸਿਮਰਨ ਦੀ) ਕੀਤੀ ਹੋਈ ਮਿਹਨਤ ਵਿਅਰਥ ਨਹੀਂ ਜਾਂਦੀ,",
       "translation_ru": "О брат! благодаря воспоминанию о Господе можно обрести всё, и труд в симране не пропадает напрасно,"
     },
     {
       "verse_id": 26704,
       "gurmukhi": "ਤਿਸੁ ਪ੍ਰਭ ਤਿਆਗਿ ਅਵਰ ਕਤ ਰਾਚਹੁ ਜੋ ਸਭ ਮਹਿ ਰਹਿਆ ਸਮਾਈ ॥੧॥",
-      "roman": "tis prabh tiāg avar kat rāchahu jo sabh meh rahiā samāī",
+      "roman": "tis prabh tiāg avar kat rāchah jo sabh meh rahiā samāī",
       "sahib_singh_pa": "ਜੇਹੜਾ ਪ੍ਰਭੂ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਵਿਚ ਮੌਜੂਦ ਹੈ ਉਸ ਨੂੰ ਛੱਡ ਕੇ ਹੋਰ ਕੇਹੜੇ ਪਾਸੇ ਮਸਤ ਹੋ ਰਹੇ ਹੋ? ॥੧॥",
       "translation_ru": "оставив Того Господа, который присутствует во всём, к чему ещё ты привязываешься?"
     },
     {
       "verse_id": 26705,
       "gurmukhi": "ਹਰਿ ਹਰਿ ਸਿਮਰਹੁ ਸੰਤ ਗੋਪਾਲਾ ॥",
-      "roman": "har har simrahu sant gopālā",
+      "roman": "har har simrah sant gopālā",
       "sahib_singh_pa": "ਹੇ ਸੰਤ ਜਨੋ! ਸ੍ਰਿਸ਼ਟੀ ਦੇ ਪਾਲਣਹਾਰ ਨੂੰ ਸਦਾ ਸਿਮਰਦੇ ਰਹੋ।",
       "translation_ru": "О святые! постоянно помните Господа — Хранителя мира."
     },
     {
       "verse_id": 26706,
       "gurmukhi": "ਸਾਧਸੰਗਿ ਮਿਲਿ ਨਾਮੁ ਧਿਆਵਹੁ ਪੂਰਨ ਹੋਵੈ ਘਾਲਾ ॥੧॥ ਰਹਾਉ ॥",
-      "roman": "sādhsaṅg mil nām dhiāvahu pūran hovai ghālā",
+      "roman": "sādhsaṅg mil nām dhiāvah pūran hovē ghālā",
       "sahib_singh_pa": "ਸਾਧ ਸੰਗਤ ਵਿਚ ਮਿਲ ਕੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸਿਮਰਿਆ ਕਰੋ, (ਸਿਮਰਨ ਦੀ) ਮੇਹਨਤ ਜ਼ਰੂਰ ਸਫਲ ਹੋ ਜਾਂਦੀ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Соединяясь в обществе святых, поминайте Имя — и труд обязательно станет успешным."
     },
     {
       "verse_id": 26707,
       "gurmukhi": "ਸਾਰਿ ਸਮਾਲੈ ਨਿਤਿ ਪ੍ਰਤਿਪਾਲੈ ਪ੍ਰੇਮ ਸਹਿਤ ਗਲਿ ਲਾਵੈ ॥",
-      "roman": "sār samālai nit pratipālai prem sahit gal lāvai",
+      "roman": "sār samālē nit pratipālē prem sahit gal lāvē",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਉਹ ਪਰਮਾਤਮਾ (ਸਭ ਜੀਵਾਂ ਦੀ) ਸਾਰ ਲੈ ਕੇ ਸੰਭਾਲ ਕਰਦਾ ਹੈ, ਸਦਾ ਪਾਲਣਾ ਕਰਦਾ ਹੈ (ਸਿਮਰਨ ਕਰਨ ਵਾਲਿਆਂ ਨੂੰ) ਪ੍ਰੇਮ ਨਾਲ ਆਪਣੇ ਗਲੇ ਲਾਂਦਾ ਹੈ।",
       "translation_ru": "О брат! Всевышний заботится о всех существах, постоянно поддерживает их и с любовью прижимает к Себе."
     },
     {
       "verse_id": 26708,
       "gurmukhi": "ਕਹੁ ਨਾਨਕ ਪ੍ਰਭ ਤੁਮਰੇ ਬਿਸਰਤ ਜਗਤ ਜੀਵਨੁ ਕੈਸੇ ਪਾਵੈ ॥੨॥੪॥੩੨॥",
-      "roman": "kahu nānak prabh tumre bisrat jagat jīvan kaise pāvai",
+      "roman": "kah nānak prabh tumre bisrat jagat jīvan kēse pāvē",
       "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਹੇ ਪ੍ਰਭੂ! ਤੈਨੂੰ ਵਿਸਾਰ ਕੇ ਜੀਵ ਤੈਨੂੰ ਕਿਵੇਂ ਮਿਲ ਸਕਦਾ ਹੈ? ਤੇ, ਤੂੰ ਹੀ ਸਾਰੇ ਜੀਵਾਂ ਦੀ ਜ਼ਿੰਦਗੀ ਦਾ ਸਹਾਰਾ ਹੈਂ ॥੨॥੪॥੩੨॥",
       "translation_ru": "Нанак говорит: о Господь! забыв Тебя, как живое существо может обрести жизнь? Ведь Ты — опора жизни всех."
     },
@@ -221,7 +221,7 @@
     {
       "verse_id": 26711,
       "gurmukhi": "ਗੁਣ ਨਿਧਾਨ ਭਗਤਨ ਕਉ ਬਰਤਨਿ ਬਿਰਲਾ ਪਾਵੈ ਕੋਈ ॥੧॥",
-      "roman": "guṇ nidhān bhagtan kau bartan birlā pāvai koī",
+      "roman": "guṇ nidhān bhagtan kau bartan birlā pāvē koī",
       "sahib_singh_pa": "ਉਹ ਪ੍ਰਭੂ ਸਾਰੇ ਗੁਣਾਂ ਦਾ ਖ਼ਜ਼ਾਨਾ ਹੈ, ਭਗਤਾਂ ਵਾਸਤੇ ਹਰ ਵੇਲੇ ਦਾ ਸਹਾਰਾ ਹੈ। ਪਰ ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ ਉਸ ਦਾ ਮਿਲਾਪ ਹਾਸਲ ਕਰਦਾ ਹੈ ॥੧॥",
       "translation_ru": "Он — сокровищница добродетелей и опора для преданных, но лишь редкий человек достигает Его."
     },

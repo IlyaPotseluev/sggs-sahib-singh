@@ -102,7 +102,7 @@
     {
       "verse_id": 50687,
       "gurmukhi": "ਸਦਾ ਰਿਦੈ ਜਪੀ ਪ੍ਰਭ ਤੇਰੋ ਨਾਮੁ ॥੩॥",
-      "roman": "sadā ridai japī prabh tero nām. 3.",
+      "roman": "sadā ridē japī prabh tero nām. 3.",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! (ਮਿਹਰ ਕਰ) ਮੈਂ ਸਦਾ ਤੇਰਾ ਨਾਮ ਜਪਦਾ ਰਹਾਂ ॥੩॥",
       "translation_ru": "О Прабху! Окажи милость, чтобы я всегда повторял Твоё Имя. 3."
     },
@@ -144,7 +144,7 @@
     {
       "verse_id": 50693,
       "gurmukhi": "ਪ੍ਰਭ ਪ੍ਰੀਤਮ ਮੇਰੈ ਸੰਗਿ ਰਾਇ ॥",
-      "roman": "prabh prītam merai sang rāi.",
+      "roman": "prabh prītam merē sang rāi.",
       "sahib_singh_pa": "ਪ੍ਰੀਤਮ ਪ੍ਰਭੂ, ਪ੍ਰਭੂ ਪਾਤਿਸ਼ਾਹ (ਜੋ ਉਂਞ ਤਾਂ ਹਰ ਵੇਲੇ) ਮੇਰੇ ਨਾਲ ਵੱਸਦਾ ਹੈ (ਪਰ ਮੈਨੂੰ ਦਿੱਸਦਾ ਨਹੀਂ)।",
       "translation_ru": "Возлюбленный Прабху, Прабху-Патишах, который вообще-то всегда пребывает со мной, но мне не виден."
     },
@@ -158,14 +158,14 @@
     {
       "verse_id": 50695,
       "gurmukhi": "ਜਾ ਕੈ ਸਿਮਰਨਿ ਦੁਖੁ ਨ ਹੋਇ ॥",
-      "roman": "jā kai simran dukh na hoi.",
+      "roman": "jā kē simran dukh na hoi.",
       "sahib_singh_pa": "ਜਿਸ ਦੇ ਸਿਮਰਨ ਦੀ ਬਰਕਤਿ ਨਾਲ ਕੋਈ ਦੁੱਖ ਪੋਹ ਨਹੀਂ ਸਕਦਾ,",
       "translation_ru": "По благодати памятования о Нём никакая боль не может коснуться."
     },
     {
       "verse_id": 50696,
       "gurmukhi": "ਕਰਿ ਦਇਆ ਮਿਲਾਵਹੁ ਤਿਸਹਿ ਮੋਹਿ ॥੧॥",
-      "roman": "kar daiā milāvahu tiseh moh. 1.",
+      "roman": "kar daiā milāvah tiseh moh. 1.",
       "sahib_singh_pa": "ਮਿਹਰ ਕਰ ਕੇ ਮੈਨੂੰ ਉਸ ਪ੍ਰਭੂ ਨਾਲ ਮਿਲਾ ਦੇ ॥੧॥",
       "translation_ru": "Окажи милость и соедини меня с тем Прабху. 1."
     },
@@ -214,28 +214,28 @@
     {
       "verse_id": 50703,
       "gurmukhi": "ਜਾ ਕੇ ਭਗਤ ਆਨੰਦ ਮੈ ॥",
-      "roman": "jā ke bhagat ānand mai.",
+      "roman": "jā ke bhagat ānand mē.",
       "sahib_singh_pa": "ਹੇ ਮਾਂ! ਜਿਸ ਪਰਮਾਤਮਾ ਦੇ ਭਗਤ ਸਦਾ ਆਨੰਦ-ਭਰਪੂਰ ਰਹਿੰਦੇ ਹਨ,",
       "translation_ru": "О мать! Преданные того Параматмы всегда наполнены блаженством."
     },
     {
       "verse_id": 50704,
       "gurmukhi": "ਜਾ ਕੇ ਭਗਤ ਕਉ ਨਾਹੀ ਖੈ ॥",
-      "roman": "jā ke bhagat kau nāhī khai.",
+      "roman": "jā ke bhagat kau nāhī khē.",
       "sahib_singh_pa": "ਜਿਸ ਪਰਮਾਤਮਾ ਦੇ ਭਗਤਾਂ ਨੂੰ ਕਦੇ ਆਤਮਕ ਮੌਤ ਨਹੀਂ ਆਉਂਦੀ,",
       "translation_ru": "К преданным того Параматмы никогда не приходит духовная смерть."
     },
     {
       "verse_id": 50705,
       "gurmukhi": "ਜਾ ਕੇ ਭਗਤ ਕਉ ਨਾਹੀ ਭੈ ॥",
-      "roman": "jā ke bhagat kau nāhī bhai.",
+      "roman": "jā ke bhagat kau nāhī bhē.",
       "sahib_singh_pa": "ਜਿਸ ਪਰਮਾਤਮਾ ਦੇ ਭਗਤਾਂ ਨੂੰ (ਦੁਨੀਆ ਦੇ ਕੋਈ) ਡਰ ਪੋਹ ਨਹੀਂ ਸਕਦੇ,",
       "translation_ru": "Преданных того Параматмы не могут коснуться никакие мирские страхи."
     },
     {
       "verse_id": 50706,
       "gurmukhi": "ਜਾ ਕੇ ਭਗਤ ਕਉ ਸਦਾ ਜੈ ॥੩॥",
-      "roman": "jā ke bhagat kau sadā jai. 3.",
+      "roman": "jā ke bhagat kau sadā jē. 3.",
       "sahib_singh_pa": "ਜਿਸ ਪਰਮਾਤਮਾ ਦੇ ਭਗਤਾਂ ਨੂੰ (ਵਿਕਾਰਾਂ ਦੇ ਟਾਕਰੇ ਤੇ) ਸਦਾ ਜਿੱਤ ਹੁੰਦੀ ਹੈ (ਉਹ ਪਰਮਾਤਮਾ ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਮੌਜੂਦ ਹੈ) ॥੩॥",
       "translation_ru": "Преданные того Параматмы всегда одерживают победу над пороками; тот Параматма присутствует в каждом теле. 3."
     },
@@ -256,14 +256,14 @@
     {
       "verse_id": 50709,
       "gurmukhi": "ਨਾਨਕੁ ਜਾਚੈ ਏਕੁ ਦਾਨੁ ॥",
-      "roman": "Nānak jāchai ek dān.",
+      "roman": "Nānak jāchē ek dān.",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! (ਤੇਰੇ ਪਾਸੋਂ) ਨਾਨਕ ਇਕ ਖ਼ੈਰ ਮੰਗਦਾ ਹੈ-",
       "translation_ru": "О Прабху! Нанак просит у Тебя один дар."
     },
     {
       "verse_id": 50710,
       "gurmukhi": "ਕਰਿ ਕਿਰਪਾ ਮੋਹਿ ਦੇਹੁ ਨਾਮੁ ॥੪॥੫॥",
-      "roman": "kar kirpā moh dehu nām. 4. 5.",
+      "roman": "kar kirpā moh deh nām. 4. 5.",
       "sahib_singh_pa": "ਮਿਹਰ ਕਰ ਕੇ ਮੈਨੂੰ ਆਪਣਾ ਨਾਮ ਬਖ਼ਸ਼ ॥੪॥੫॥",
       "translation_ru": "Окажи милость и даруй мне Своё Имя. 4. 5."
     },
@@ -284,21 +284,21 @@
     {
       "verse_id": 50713,
       "gurmukhi": "ਸਾਧਸੰਗਤਿ ਤਿਉ ਹਉਮੈ ਛੂਟ ॥",
-      "roman": "sādhsangat tio haumai chhūṭ.",
+      "roman": "sādhsangat tio haumē chhūṭ.",
       "sahib_singh_pa": "ਤਿਵੇਂ ਸਾਧ ਸੰਗਤ ਵਿਚ ਮਿਲ ਕੇ (ਮਨੁੱਖ ਦੇ ਅੰਦਰੋਂ) ਹਉਮੈ ਮੁੱਕ ਜਾਂਦੀ ਹੈ।",
       "translation_ru": "Так же, соединившись с Садх Сангат, изнутри человека исчезает Хоумэ."
     },
     {
       "verse_id": 50714,
       "gurmukhi": "ਜੈਸੀ ਦਾਸੇ ਧੀਰ ਮੀਰ ॥",
-      "roman": "jaisī dāse dhīr mīr.",
+      "roman": "jēsī dāse dhīr mīr.",
       "sahib_singh_pa": "ਜਿਵੇਂ ਕਿਸੇ ਦਾਸ ਨੂੰ ਆਪਣੇ ਮਾਲਕ ਦੀ ਧੀਰਜ ਹੁੰਦੀ ਹੈ,",
       "translation_ru": "Как слуга имеет уверенность в своём господине."
     },
     {
       "verse_id": 50715,
       "gurmukhi": "ਤੈਸੇ ਉਧਾਰਨ ਗੁਰਹ ਪੀਰ ॥੧॥",
-      "roman": "taise udhāran gurah pīr. 1.",
+      "roman": "tēse udhāran gurah pīr. 1.",
       "sahib_singh_pa": "ਤਿਵੇਂ ਗੁਰੂ-ਪੀਰ (ਜੀਵਾਂ ਨੂੰ) ਪਾਰ ਉਤਾਰਨ ਲਈ ਆਸਰਾ ਹੁੰਦਾ ਹੈ ॥੧॥",
       "translation_ru": "Так Гуру-Пир является опорой для переправы живых существ. 1."
     },
@@ -333,7 +333,7 @@
     {
       "verse_id": 50720,
       "gurmukhi": "ਤੇ ਬੰਧਨ ਤੇ ਭਏ ਮੁਕਤਿ ॥",
-      "roman": "te bandhan te bhae mukat.",
+      "roman": "te bandhan te bhae mukt.",
       "sahib_singh_pa": "(ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੂੰ ਨਾਮ-ਰੰਗ ਚੜ੍ਹ ਜਾਂਦਾ ਹੈ) ਉਹ ਮਨੁੱਖ ਮਾਇਆ ਦੇ ਮੋਹ ਦੇ ਬੰਧਨਾਂ ਤੋਂ ਖ਼ਲਾਸੀ ਹਾਸਲ ਕਰ ਲੈਂਦੇ ਹਨ।",
       "translation_ru": "Те люди, на которых ложится краска Имени, освобождаются от уз привязанности к майе."
     },

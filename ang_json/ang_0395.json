@@ -10,7 +10,7 @@
       "gurmukhi": "ਕਰਿ ਕਿਰਪਾ ਅਪੁਨੈ ਨਾਇ ਲਾਏ ਸਰਬ ਸੂਖ ਪ੍ਰਭ ਤੁਮਰੀ ਰਜਾਇ ॥ ਰਹਾਉ ॥",
       "site_roman": "",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੂੰ ਤੂੰ ਮੇਹਰ ਕਰ ਕੇ ਆਪਣੇ ਨਾਮ ਵਿਚ ਜੋੜੀ ਰੱਖਦਾ ਹੈਂ ਉਹ (ਤੇਰੇ) ਸੰਤ ਜਨ ਤੇਰਾ ਹਰਿ-ਨਾਮ ਸਿਮਰ ਸਿਮਰ ਕੇ (ਮਾਇਆ ਦੀ ਤ੍ਰਿਸ਼ਨਾ ਵੱਲੋਂ) ਰੱਜੇ ਰਹਿੰਦੇ ਹਨ ਰਹਾਉ॥",
-      "roman": "kar kirpā apunai nāe lāe sarab sūkh prabh tumrī rajāi",
+      "roman": "kar kirpā apunē nāe lāe sarab sūkh prabh tumrī rajāi",
       "translation_ru": "О Вахегуру! Тех людей, которых Ты по милости соединяешь со Своим Именем, эти святые, памятуя Твоё Имя, остаются насыщенными и довольными, не обращаясь к жажде майи. Рахау ॥"
     },
     {
@@ -43,7 +43,7 @@
       "gurmukhi": "ਮਹਾ ਬਿਖਿਆ ਮਹਿ ਦਿਨੁ ਰੈਨਿ ਜਾਹਿ ॥੩॥",
       "site_roman": "",
       "sahib_singh_pa": "ਉਸ ਦੇ (ਜ਼ਿੰਦਗੀ ਦੇ) ਸਾਰੇ ਰਾਤ ਦਿਨ ਡਾਢੀ ਮਾਇਆ (ਦੇ ਮੋਹ) ਵਿਚ (ਫਸਿਆਂ ਹੀ) ਗੁਜ਼ਰਦੇ ਹਨ ॥੩॥",
-      "roman": "mahā bikhiā meh din rain jāh",
+      "roman": "mahā bikhiā meh din rēn jāh",
       "translation_ru": "проводит все свои дни и ночи в тяжёлой майе, в её обольщении. ॥3॥"
     },
     {
@@ -54,7 +54,7 @@
       "gurmukhi": "ਕਹੁ ਨਾਨਕ ਪ੍ਰਭੁ ਸਿਮਰਹੁ ਏਕ ॥",
       "site_roman": "",
       "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ- (ਹੇ ਭਾਈ!) ਪੂਰੇ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਇਕ ਪਰਮਾਤਮਾ ਨੂੰ ਯਾਦ ਕਰਦੇ ਰਿਹਾ ਕਰੋ।",
-      "roman": "kaho nānak prabh simarahu ek",
+      "roman": "kaho nānak prabh simarah ek",
       "translation_ru": "Нанак говорит: О брат! Приходя в прибежище совершенного Гуру, помните одного Вахегуру."
     },
     {
@@ -131,7 +131,7 @@
       "gurmukhi": "ਸਾਧ ਜਨਾ ਕੇ ਪੂਜੇ ਪੈਰ ॥",
       "site_roman": "",
       "sahib_singh_pa": "ਜੇਹੜਾ ਮਨੁੱਖ ਗੁਰਮੁਖਾਂ ਦੇ ਪੈਰ ਪੂਜਦਾ ਹੈ,",
-      "roman": "sādh janā ke pūje pair",
+      "roman": "sādh janā ke pūje pēr",
       "translation_ru": "Тот человек, который почитает стопы святых,"
     },
     {
@@ -142,7 +142,7 @@
       "gurmukhi": "ਮਿਟੇ ਉਪਦ੍ਰਹ ਮਨ ਤੇ ਬੈਰ ॥੨॥",
       "site_roman": "",
       "sahib_singh_pa": "ਉਸ ਦੇ ਮਨ ਵਿਚੋਂ ਸਾਰੀਆਂ ਛੇੜ-ਖ਼ਾਨੀਆਂ ਸਾਰੇ ਵੈਰ-ਵਿਰੋਧ ਮਿੱਟ ਜਾਂਦੇ ਹਨ ॥੨॥",
-      "roman": "miṭe upadrah man te bair",
+      "roman": "miṭe upadrah man te bēr",
       "translation_ru": "избавляется в своём уме от всех распрей и вражды. ॥2॥"
     },
     {
@@ -274,7 +274,7 @@
       "gurmukhi": "ਜਾ ਕਾ ਦਾਨੁ ਨਿਖੂਟੈ ਨਾਹੀ ॥",
       "site_roman": "",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜਿਸ ਦੀ ਦਿੱਤੀ ਹੋਈ ਦਾਤਿ ਕਦੇ ਮੁੱਕਦੀ ਨਹੀਂ,",
-      "roman": "jā kā dān nikhūṭai nāhī",
+      "roman": "jā kā dān nikhūṭē nāhī",
       "translation_ru": "О брат, чьё дарованное никогда не иссякает,"
     },
     {
@@ -296,7 +296,7 @@
       "gurmukhi": "ਜਾ ਕੀ ਬਖਸ ਨ ਮੇਟੈ ਕੋਈ ॥",
       "site_roman": "",
       "sahib_singh_pa": "ਜਿਸ ਦੀ ਕੀਤੀ ਬਖ਼ਸ਼ਸ਼ ਦੇ ਰਾਹ ਵਿਚ ਕੋਈ ਰੋਕ ਨਹੀਂ ਪਾ ਸਕਦਾ,",
-      "roman": "jā kī bakhas na meṭai koī",
+      "roman": "jā kī bakhas na meṭē koī",
       "translation_ru": "чьё дарованное прощение никто не может отменить,"
     },
     {
@@ -318,7 +318,7 @@
       "gurmukhi": "ਸਗਲ ਸਮਗ੍ਰੀ ਗ੍ਰਿਹ ਜਾ ਕੈ ਪੂਰਨ ॥",
       "site_roman": "",
       "sahib_singh_pa": "ਹੇ ਭਾਈ! ਜਿਸ (ਪ੍ਰਭੂ) ਦੇ ਘਰ ਵਿਚ (ਜੀਵਾਂ ਵਾਸਤੇ) ਸਾਰੇ ਪਦਾਰਥ ਭਰੇ ਪਏ ਰਹਿੰਦੇ ਹਨ,",
-      "roman": "sagal samagrī grih jā kai pūran",
+      "roman": "sagal samagrī grih jā kē pūran",
       "translation_ru": "О брат, в доме того Господа для существ в изобилии имеются все блага,"
     },
     {
@@ -395,7 +395,7 @@
       "gurmukhi": "ਨਾਨਕੁ ਮੰਗੈ ਹਰਿ ਧਨੁ ਰਾਸਿ ॥੪॥੫॥੯੯॥",
       "site_roman": "",
       "sahib_singh_pa": "(ਤੇ ਆਖਦਾ ਹਾਂ-ਹੇ ਗੁਰੂ! ਤੇਰੇ ਪਾਸੋਂ) ਨਾਨਕ ਹਰਿ-ਨਾਮ-ਧਨ ਮੰਗਦਾ ਹੈ ਹਰਿ-ਨਾਮ ਦਾ ਸਰਮਾਇਆ ਮੰਗਦਾ ਹੈ ॥੪॥੫॥੯੯॥",
-      "roman": "nānak mangai har dhan rās",
+      "roman": "nānak mangē har dhan rās",
       "translation_ru": "и говорю: Нанак просит богатство Имени Хари, просит запас этого богатства. ॥4॥5॥99॥"
     },
     {
@@ -483,7 +483,7 @@
       "gurmukhi": "ਗੁਰ ਕੇ ਚਰਨ ਹਿਰਦੈ ਵਸਾਏ ॥",
       "site_roman": "",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ! ਜਦੋਂ ਤੋਂ) ਮੈਂ ਗੁਰੂ ਦੇ ਚਰਨ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾਏ ਹਨ,",
-      "roman": "gur ke charan hirdai vasāe",
+      "roman": "gur ke charan hirdē vasāe",
       "translation_ru": "О брат, с тех пор как я поселил стопы Гуру в своём сердце,"
     },
     {
@@ -571,7 +571,7 @@
       "gurmukhi": "ਵਡੈ ਭਾਗਿ ਪੂਜ ਗੁਰ ਚਰਨਾ ॥",
       "site_roman": "",
       "sahib_singh_pa": "(ਹੇ ਭਾਈ!) ਵੱਡੀ ਕਿਸਮਤਿ ਨਾਲ ਮੈਨੂੰ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਦੀ ਪੂਜਾ (ਦਾ ਅਵਸਰ ਮਿਲਿਆ)",
-      "roman": "vaḍai bhāg pūj gur charnā",
+      "roman": "vaḍē bhāg pūj gur charnā",
       "translation_ru": "О брат, по великой удаче мне выпала возможность почитать стопы Гуру,"
     },
     {
