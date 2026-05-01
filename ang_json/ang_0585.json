@@ -1,214 +1,256 @@
 {
   "ang": 585,
-  "line_count": 19,
   "lines": [
     {
-      "index": 1,
+      "verse_id": 25524,
+      "gurmukhi": "ਭ੍ਰਮੁ ਮਾਇਆ ਵਿਚਹੁ ਕਟੀਐ ਸਚੜੈ ਨਾਮਿ ਸਮਾਏ ॥",
+      "roman": "bhram māiā vichah kaṭīē sachṛē nām samāe",
+      "sahib_singh_pa": "(ਤਦੋਂ ਮਨੁੱਖ) ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਲੀਨ ਹੋ ਜਾਂਦਾ ਹੈ ਤੇ ਇਸ ਦੇ ਅੰਦਰੋਂ ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਭਟਕਣਾ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ।",
+      "translation_ru": "Тогда исчезает заблуждение майи, и человек сливается с Истинным Именем."
+    },
+    {
+      "verse_id": 25525,
+      "gurmukhi": "ਸਚੈ ਨਾਮਿ ਸਮਾਏ ਹਰਿ ਗੁਣ ਗਾਏ ਮਿਲਿ ਪ੍ਰੀਤਮ ਸੁਖੁ ਪਾਏ ॥",
+      "roman": "sachē nām samāe har guṇ gāe mil prītam sukh pāe",
+      "sahib_singh_pa": "ਮਨੁੱਖ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਵਿਚ ਲੀਨ ਹੋ ਜਾਂਦਾ ਹੈ, ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਂਦਾ ਰਹਿੰਦਾ ਹੈ, ਪ੍ਰਭੂ-ਪ੍ਰੀਤਮ ਨੂੰ ਮਿਲ ਕੇ ਆਨੰਦ ਮਾਣਦਾ ਹੈ।",
+      "translation_ru": "Человек сливается с Истинным Именем, поёт качества Бога и, встретив Возлюбленного, обретает радость."
+    },
+    {
+      "verse_id": 25526,
+      "gurmukhi": "ਸਦਾ ਅਨੰਦਿ ਰਹੈ ਦਿਨੁ ਰਾਤੀ ਵਿਚਹੁ ਹੰਉਮੈ ਜਾਏ ॥",
+      "roman": "sadā anand rahē din rātī vichah haumē jāe",
+      "sahib_singh_pa": "ਇਸ ਆਨੰਦ ਵਿਚ ਦਿਨ ਰਾਤ ਸਦਾ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ, ਤੇ, ਇਸ ਦੇ ਅੰਦਰੋਂ ਹਉਮੈ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ।",
+      "translation_ru": "Он пребывает в блаженстве днём и ночью, и эго исчезает изнутри."
+    },
+    {
+      "verse_id": 25527,
+      "gurmukhi": "ਜਿਨੀ ਪੁਰਖੀ ਹਰਿ ਨਾਮਿ ਚਿਤੁ ਲਾਇਆ ਤਿਨ ਕੈ ਹੰਉ ਲਾਗਉ ਪਾਏ ॥",
+      "roman": "jinī purkhī har nām chit lāiā tin kē hau lāgau pāe",
+      "sahib_singh_pa": "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਚਿੱਤ ਜੋੜਿਆ ਹੋਇਆ ਹੈ, ਮੈਂ ਉਹਨਾਂ ਦੀ ਚਰਨੀਂ ਲੱਗਦਾ ਹਾਂ।",
+      "translation_ru": "Я склоняюсь к стопам тех, кто сосредоточил ум на Имени Бога."
+    },
+    {
+      "verse_id": 25528,
+      "gurmukhi": "ਕਾਂਇਆ ਕੰਚਨੁ ਤਾਂ ਥੀਐ ਜਾ ਸਤਿਗੁਰੁ ਲਏ ਮਿਲਾਏ ॥੨॥",
+      "roman": "kāiā kanchan tāṅ thīai jā satigur lae milāe",
+      "sahib_singh_pa": "ਸਰੀਰ ਤਦੋਂ ਸੋਨੇ ਵਾਂਗ ਪਵਿਤ੍ਰ ਹੋ ਜਾਂਦਾ ਹੈ, ਜਦੋਂ ਗੁਰੂ ਮਨੁੱਖ ਨੂੰ ਪਰਮਾਤਮਾ ਦੇ ਚਰਨਾਂ ਵਿਚ ਜੋੜ ਦੇਂਦਾ ਹੈ ॥੨॥",
+      "translation_ru": "Тело становится чистым, как золото, когда Гуру соединяет с Господом."
+    },
+    {
+      "verse_id": 25529,
+      "gurmukhi": "ਸੋ ਸਚਾ ਸਚੁ ਸਲਾਹੀਐ ਜੇ ਸਤਿਗੁਰੁ ਦੇਇ ਬੁਝਾਏ ॥",
+      "roman": "so sachā sach salāhīai je satigur dei bujhāe",
+      "sahib_singh_pa": "ਉਸ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਤਦੋਂ ਹੀ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ, ਜਦੋਂ ਗੁਰੂ ਇਹ ਸੂਝ ਦੇਂਦਾ ਹੈ।",
+      "translation_ru": "Истинного Господа можно восхвалять лишь тогда, когда Гуру даёт понимание."
+    },
+    {
+      "verse_id": 25530,
+      "gurmukhi": "ਬਿਨੁ ਸਤਿਗੁਰ ਭਰਮਿ ਭੁਲਾਣੀਆ ਕਿਆ ਮੁਹੁ ਦੇਸਨਿ ਆਗੈ ਜਾਏ ॥",
+      "roman": "bin satigur bharam bhulāṇīā kiā muh desan āgē jāe",
+      "sahib_singh_pa": "ਗੁਰੂ ਦੀ ਸਰਨ ਤੋਂ ਬਿਨਾ (ਜੀਵ-ਇਸਤ੍ਰੀਆਂ) ਮਾਇਆ ਦੀ ਭਟਕਣਾ ਵਿਚ ਪੈ ਕੇ ਕੁਰਾਹੇ ਪੈ ਜਾਂਦੀਆਂ ਹਨ ਤੇ ਪਰਲੋਕ ਵਿਚ ਜਾ ਕੇ ਸ਼ਰਮ-ਸਾਰ ਹੁੰਦੀਆਂ ਹਨ।",
+      "translation_ru": "Без Гуру души сбиваются с пути и в ином мире испытывают стыд."
+    },
+    {
+      "verse_id": 25531,
+      "gurmukhi": "ਕਿਆ ਦੇਨਿ ਮੁਹੁ ਜਾਏ ਅਵਗੁਣਿ ਪਛੁਤਾਏ ਦੁਖੋ ਦੁਖੁ ਕਮਾਏ ॥",
+      "roman": "kiā den muh jāe avguṇ pachhutāe dukhō dukh kamāe",
+      "sahib_singh_pa": "ਪਰਲੋਕ ਵਿਚ ਜਾ ਕੇ ਉਹ ਮੂੰਹ ਨਹੀਂ ਵਿਖਾ ਸਕਦੀਆਂ। ਜੇਹੜੀ (ਜੀਵ-ਇਸਤ੍ਰੀ) ਔਗੁਣ ਵਿਚ ਫਸ ਜਾਂਦੀ ਹੈ, ਉਹ ਆਖ਼ਰ ਪਛੁਤਾਂਦੀ ਹੈ, ਉਹ ਸਦਾ ਦੁੱਖ ਹੀ ਦੁੱਖ ਸਹੇੜਦੀ ਹੈ।",
+      "translation_ru": "Они не могут показать лицо; погрязшие в пороках, они раскаиваются и пожинают лишь страдания."
+    },
+    {
+      "verse_id": 25532,
+      "gurmukhi": "ਨਾਮਿ ਰਤੀਆ ਸੇ ਰੰਗਿ ਚਲੂਲਾ ਪਿਰ ਕੈ ਅੰਕਿ ਸਮਾਏ ॥",
+      "roman": "nām ratīā se raṅg chalūlā pir kē aṅk samāe",
+      "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਵਿਚ ਰੰਗੀਆਂ ਹੋਈਆਂ ਜੀਵ-ਇਸਤ੍ਰੀਆਂ ਪਰਮਾਤਮਾ ਦੇ ਚਰਨਾਂ ਵਿਚ ਲੀਨ ਹੋ ਕੇ ਗੂੜ੍ਹੇ ਪ੍ਰੇਮ-ਰੰਗ ਵਿਚ (ਮਸਤ ਰਹਿੰਦੀਆਂ ਹਨ)।",
+      "translation_ru": "Те, кто окрашен в Имя, погружаются в глубокую любовь и соединяются с Господом."
+    },
+    {
+      "verse_id": 25533,
+      "gurmukhi": "ਤਿਸੁ ਜੇਵਡੁ ਅਵਰੁ ਨ ਸੂਝਈ ਕਿਸੁ ਆਗੈ ਕਹੀਐ ਜਾਏ ॥",
+      "roman": "tis jevaḍ avar na sūjhē kis āgē kahīē jāe",
+      "sahib_singh_pa": "ਉਸ ਪਰਮਾਤਮਾ ਦੇ ਬਰਾਬਰ ਦਾ (ਜਗਤ ਵਿਚ) ਹੋਰ ਕੋਈ ਨਹੀਂ ਦਿੱਸਦਾ (ਇਸ ਵਾਸਤੇ ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ) ਕਿਸੇ ਹੋਰ ਅੱਗੇ (ਕੋਈ ਦੁਖ ਸੁਖ) ਦੱਸਿਆ ਨਹੀਂ ਜਾ ਸਕਦਾ।",
+      "translation_ru": "Нет никого равного Господу, и некому другому излить свои чувства."
+    },
+    {
+      "verse_id": 25534,
+      "gurmukhi": "ਸੋ ਸਚਾ ਸਚੁ ਸਲਾਹੀਐ ਜੇ ਸਤਿਗੁਰੁ ਦੇਇ ਬੁਝਾਏ ॥੩॥",
+      "roman": "so sachā sach salāhīai je satigur dei bujhāe",
+      "sahib_singh_pa": "ਉਸ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਤਦੋਂ ਹੀ ਕੀਤੀ ਜਾ ਸਕਦੀ ਹੈ, ਜਦੋਂ ਗੁਰੂ ਇਹ ਸੂਝ ਦੇਂਦਾ ਹੈ ॥੩॥",
+      "translation_ru": "Истинного Господа можно восхвалять лишь тогда, когда Гуру даёт понимание."
+    },
+    {
+      "verse_id": 25535,
+      "gurmukhi": "ਜਿਨੀ ਸਚੜਾ ਸਚੁ ਸਲਾਹਿਆ ਹੰਉ ਤਿਨ ਲਾਗਉ ਪਾਏ ॥",
+      "roman": "jinī sachṛā sach salāhiā hau tin lāgau pāe",
+      "sahib_singh_pa": "ਜਿਨ੍ਹਾਂ ਨੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕੀਤੀ, ਮੈਂ ਉਹਨਾਂ ਦੇ ਚਰਨੀਂ ਲੱਗਦਾ ਹਾਂ।",
+      "translation_ru": "Я склоняюсь к стопам тех, кто восхвалял Истинного Господа."
+    },
+    {
+      "verse_id": 25536,
+      "gurmukhi": "ਸੇ ਜਨ ਸਚੇ ਨਿਰਮਲੇ ਤਿਨ ਮਿਲਿਆ ਮਲੁ ਸਭ ਜਾਏ ॥",
+      "roman": "se jan sache nirmale tin miliā mal sabh jāe",
+      "sahib_singh_pa": "ਉਹ ਮਨੁੱਖ ਅਡੋਲ-ਚਿੱਤ ਹੋ ਜਾਂਦੇ ਹਨ, ਪਵਿਤ੍ਰ ਹੋ ਜਾਂਦੇ ਹਨ, ਉਹਨਾਂ ਦਾ ਦਰਸ਼ਨ ਕੀਤਿਆਂ (ਵਿਕਾਰਾਂ ਦੀ) ਸਾਰੀ ਮੈਲ ਦੂਰ ਹੋ ਜਾਂਦੀ ਹੈ।",
+      "translation_ru": "Эти люди становятся чистыми; при встрече с ними исчезает вся нечистота."
+    },
+    {
+      "verse_id": 25537,
+      "gurmukhi": "ਤਿਨ ਮਿਲਿਆ ਮਲੁ ਸਭ ਜਾਏ ਸਚੈ ਸਰਿ ਨਾਏ ਸਚੈ ਸਹਜਿ ਸੁਭਾਏ ॥",
+      "roman": "tin miliā mal sabh jāe sachē sar nāe sachē sahaj subhāe",
+      "sahib_singh_pa": "ਉਹਨਾਂ ਦਾ ਦੀਦਾਰ ਕਰਨ ਨਾਲ (ਵਿਕਾਰਾਂ ਦੀ) ਸਾਰੀ ਮੈਲ ਲਹਿ ਜਾਂਦੀ ਹੈ ਮਨੁੱਖ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੇ ਨਾਮ-ਸਰੋਵਰ ਵਿਚ ਇਸ਼ਨਾਨ ਕਰਦਾ ਹੈ ਉਸ (ਪ੍ਰਭੂ) ਵਿਚ ਲੀਨ ਹੋ ਜਾਂਦਾ ਹੈ।",
+      "translation_ru": "При встрече с ними очищаются; человек омывается в источнике Имени и сливается с Господом."
+    },
+    {
+      "verse_id": 25538,
+      "gurmukhi": "ਨਾਮੁ ਨਿਰੰਜਨੁ ਅਗਮੁ ਅਗੋਚਰੁ ਸਤਿਗੁਰਿ ਦੀਆ ਬੁਝਾਏ ॥",
+      "roman": "nām niranjan agam agochar satigur dīā bujhāe",
+      "sahib_singh_pa": "ਸਤਿਗੁਰ ਨੇ ਮੈਨੂੰ ਇਹ ਸੂਝ ਦਿੱਤੀ ਹੈ ਕਿ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਮਾਇਆ ਦੀ ਕਾਲਖ ਤੋਂ ਰਹਿਤ (ਕਰਨ ਵਾਲਾ) ਹੈ, ਪਰ ਪ੍ਰਭੂ (ਸਿਆਣਪ ਚਤੁਰਾਈ ਦੀ ਰਾਹੀਂ) ਅਪਹੁੰਚ ਹੈ, ਗਿਆਨ-ਇੰਦ੍ਰਿਆਂ ਦੀ ਭੀ ਉਸ ਤਕ ਪਹੁੰਚ ਨਹੀਂ।",
+      "translation_ru": "Гуру дал понять, что Имя Бога чисто от майи, но Сам Господь недостижим и вне чувств."
+    },
+    {
+      "verse_id": 25539,
+      "gurmukhi": "ਅਨਦਿਨੁ ਭਗਤਿ ਕਰਹਿ ਰੰਗਿ ਰਾਤੇ ਨਾਨਕ ਸਚਿ ਸਮਾਏ ॥",
+      "roman": "anadin bhagat karah raṅg rāte nānak sach samāe",
+      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਵਿਚ ਲੀਨ ਹੋ ਕੇ ਹਰ ਵੇਲੇ ਨਾਮ-ਰੰਗ ਵਿਚ ਰੰਗੇ ਕੇ ਪ੍ਰਭੂ ਦੀ ਭਗਤੀ ਕਰ!",
+      "translation_ru": "О Нанак! Будь всегда окрашен в любовь и занимайся преданностью, сливаясь с Истиной."
+    },
+    {
+      "verse_id": 25540,
+      "gurmukhi": "ਜਿਨੀ ਸਚੜਾ ਸਚੁ ਧਿਆਇਆ ਹੰਉ ਤਿਨ ਕੈ ਲਾਗਉ ਪਾਏ ॥੪॥੪॥",
+      "roman": "jinī sachṛā sach dhiāiā hau tin kē lāgau pāe",
+      "sahib_singh_pa": "ਜਿਨ੍ਹਾਂ ਨੇ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਕੀਤੀ, ਮੈਂ ਉਹਨਾਂ ਦੇ ਚਰਨੀਂ ਲੱਗਦਾ ਹਾਂ ॥੪॥੪॥",
+      "translation_ru": "Я склоняюсь к стопам тех, кто медитировал на Истинного Господа."
+    },
+    {
       "verse_id": 25541,
-      "shabad_num": 1515,
-      "shabad_id": 1515,
       "gurmukhi": "ਵਡਹੰਸ ਕੀ ਵਾਰ ਮਹਲਾ ੪ ਲਲਾਂ ਬਹਲੀਮਾ ਕੀ ਧੁਨਿ ਗਾਵਣੀ",
-      "site_roman": "vadahans kī vār mahalā 4 lalānh bahalīmā kī dhun gāvanī",
-      "sahib_singh_pa": "ਵਡਹੰਸ ਰਾਗ ਵਿੱਚ ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ ਦੀ ਬਾਣੀ 'ਵਾਰ'। ਲਲਾਂ ਤੇ ਬਹਲੀਮਾ ਦੀ ਧੁਨ ਅਨੁਸਾਰ ਗਾਈ ਜਾਵੇ।",
       "roman": "vaḍhaṅs kī vār mehlā 4 lalāṅ bahlīmā kī dhun gāvaṇī",
+      "sahib_singh_pa": "ਵਡਹੰਸ ਰਾਗ ਵਿੱਚ ਗੁਰੂ ਰਾਮਦਾਸ ਜੀ ਦੀ ਬਾਣੀ 'ਵਾਰ'। ਲਲਾਂ ਤੇ ਬਹਲੀਮਾ ਦੀ ਧੁਨ ਅਨੁਸਾਰ ਗਾਈ ਜਾਵੇ।",
       "translation_ru": "В раге Вадханс — вар Гуру Рамдас Джи. Петь на мелодию Лалāн и Бахлимā."
     },
     {
-      "index": 2,
       "verse_id": 25542,
-      "shabad_num": 1515,
-      "shabad_id": 1515,
       "gurmukhi": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
-      "site_roman": "ik ōunkār satigur prasād .",
-      "sahib_singh_pa": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ ਅਤੇ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।",
       "roman": "ik ōaṅkār satgur prasād",
+      "sahib_singh_pa": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ ਅਤੇ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।",
       "translation_ru": "Ака́л Пуракх один, и достигается по милости Сатгуру."
     },
     {
-      "index": 3,
       "verse_id": 25543,
-      "shabad_num": 1515,
-      "shabad_id": 1515,
       "gurmukhi": "ਸਲੋਕ ਮਃ ੩ ॥",
-      "site_roman": "salōk mah 3 .",
-      "sahib_singh_pa": "None",
       "roman": "salok meh 3",
+      "sahib_singh_pa": "None",
       "translation_ru": ""
     },
     {
-      "index": 4,
       "verse_id": 25544,
-      "shabad_num": 1515,
-      "shabad_id": 1515,
       "gurmukhi": "ਸਬਦਿ ਰਤੇ ਵਡ ਹੰਸ ਹੈ ਸਚੁ ਨਾਮੁ ਉਰਿ ਧਾਰਿ ॥",
-      "site_roman": "sabad ratē vad hans hai sach nām ur dhār .",
+      "roman": "sabad ratē vaḍ haṅs hē sach nām ur dhār",
       "sahib_singh_pa": "ਜੋ ਸੱਚੇ ਨਾਮ ਨੂੰ ਹਿਰਦੇ ਵਿਚ ਪਰੋ ਕੇ ਸਤਿਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਰੱਤੇ ਹੋਏ ਹਨ, ਉਹ ਵੱਡੇ ਬਿਬੇਕੀ (ਸੰਤ) ਹਨ।",
-      "roman": "sabad ratē vaḍ haṅs hai sach nām ur dhār",
       "translation_ru": "Те, кто пропитаны Шабдом Сатгуру и удерживают истинное Имя в сердце, — великие мудрые святые."
     },
     {
-      "index": 5,
       "verse_id": 25545,
-      "shabad_num": 1515,
-      "shabad_id": 1515,
       "gurmukhi": "ਸਚੁ ਸੰਗ੍ਰਹਹਿ ਸਦ ਸਚਿ ਰਹਹਿ ਸਚੈ ਨਾਮਿ ਪਿਆਰਿ ॥",
-      "site_roman": "sach sangrahah sad sach rahah sachai nām piār .",
+      "roman": "sach sangraheh sad sach raheh sachē nām piār",
       "sahib_singh_pa": "ਉਹ ਸੱਚਾ ਨਾਮ (ਰੂਪ ਧਨ) ਇਕੱਠਾ ਕਰਦੇ ਹਨ, ਤੇ ਸੱਚੇ ਨਾਮ ਵਿਚ ਪਿਆਰ ਦੇ ਕਾਰਨ ਸੱਚ ਵਿਚ ਹੀ ਲੀਨ ਰਹਿੰਦੇ ਹਨ।",
-      "roman": "sach sangraheh sad sach raheh sachai nām piār",
       "translation_ru": "Они собирают истинное Имя как богатство и, из любви к нему, всегда пребывают в истине."
     },
     {
-      "index": 6,
       "verse_id": 25546,
-      "shabad_num": 1515,
-      "shabad_id": 1515,
       "gurmukhi": "ਸਦਾ ਨਿਰਮਲ ਮੈਲੁ ਨ ਲਗਈ ਨਦਰਿ ਕੀਤੀ ਕਰਤਾਰਿ ॥",
-      "site_roman": "sadā niramal mail n lagaī nadar kītī karatār .",
+      "roman": "sadā nirmal mēl na lagē nadar kītī kartār",
       "sahib_singh_pa": "ਕਰਤਾਰ ਨੇ ਉਹਨਾਂ ਉਤੇ ਮੇਹਰ ਦੀ ਨਜ਼ਰ ਕੀਤੀ ਹੋਈ ਹੈ; (ਇਸ ਕਰਕੇ) ਉਹ ਸਦਾ ਪਵਿਤ੍ਰ ਹਨ ਉਹਨਾਂ ਨੂੰ (ਵਿਕਾਰਾਂ ਦੀ) ਮੈਲ ਨਹੀਂ ਲੱਗਦੀ।",
-      "roman": "sadā nirmal mail na lagai nadar kītī kartār",
       "translation_ru": "Творец даровал им Свою милостивую взгляд; поэтому они всегда чисты и к ним не пристаёт скверна."
     },
     {
-      "index": 7,
       "verse_id": 25547,
-      "shabad_num": 1515,
-      "shabad_id": 1515,
       "gurmukhi": "ਨਾਨਕ ਹਉ ਤਿਨ ਕੈ ਬਲਿਹਾਰਣੈ ਜੋ ਅਨਦਿਨੁ ਜਪਹਿ ਮੁਰਾਰਿ ॥੧॥",
-      "site_roman": "nānak hau tin kai balihāranai jō anadin japah murār .1.",
+      "roman": "nānak hau tin kē balihārṇē jo andin japahi murār",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਜੋ ਮਨੁੱਖ ਹਰ ਵੇਲੇ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਦੇ ਹਨ, ਮੈਂ ਉਹਨਾਂ ਤੋਂ ਸਦਕੇ ਹਾਂ ॥੧॥",
-      "roman": "nānak hau tin kai balihārṇai jo andin japahi murār",
       "translation_ru": "О Нанак! Я жертвую собой ради тех, кто постоянно помнит Господа."
     },
     {
-      "index": 8,
       "verse_id": 25548,
-      "shabad_num": 1515,
-      "shabad_id": 1515,
       "gurmukhi": "ਮਃ ੩ ॥",
-      "site_roman": "mah 3 .",
-      "sahib_singh_pa": "None",
       "roman": "meh 3",
+      "sahib_singh_pa": "None",
       "translation_ru": ""
     },
     {
-      "index": 9,
       "verse_id": 25549,
-      "shabad_num": 1515,
-      "shabad_id": 1515,
       "gurmukhi": "ਮੈ ਜਾਨਿਆ ਵਡ ਹੰਸੁ ਹੈ ਤਾ ਮੈ ਕੀਆ ਸੰਗੁ ॥",
-      "site_roman": "mai jāniā vad hans hai tā mai kīā sang .",
+      "roman": "mē jāniā vaḍ haṅs hē tā mē kīā saṅg",
       "sahib_singh_pa": "ਮੈਂ ਸਮਝਿਆ ਸੀ ਕਿ ਇਹ ਕੋਈ ਵੱਡਾ ਸੰਤ ਹੈ, ਇਸ ਵਾਸਤੇ ਮੈਂ ਇਸ ਨਾਲ ਸਾਥ ਕੀਤਾ ਸੀ।",
-      "roman": "mai jāniā vaḍ haṅs hai tā mai kīā saṅg",
       "translation_ru": "Я думал, что это великий святой, поэтому и вступил с ним в общение."
     },
     {
-      "index": 10,
       "verse_id": 25550,
-      "shabad_num": 1515,
-      "shabad_id": 1515,
       "gurmukhi": "ਜੇ ਜਾਣਾ ਬਗੁ ਬਪੁੜਾ ਤ ਜਨਮਿ ਨ ਦੇਦੀ ਅੰਗੁ ॥੨॥",
-      "site_roman": "jē jānā bag bapurā t janam n dēdī ang .2.",
-      "sahib_singh_pa": "ਜੇ ਮੈਨੂੰ ਪਤਾ ਹੁੰਦਾ ਕਿ ਇਹ ਵਿਚਾਰਾ ਪਖੰਡੀ ਮਨੁੱਖ ਹੈ ਤਾਂ ਮੈਂ ਮੁੱਢ ਤੋਂ ਹੀ ਇਸ ਦੇ ਪਾਸ ਨਾਹ ਬੈਠਦੀ ॥੨॥",
       "roman": "je jāṇā bag bapuṛā ta janam na dedī aṅg",
+      "sahib_singh_pa": "ਜੇ ਮੈਨੂੰ ਪਤਾ ਹੁੰਦਾ ਕਿ ਇਹ ਵਿਚਾਰਾ ਪਖੰਡੀ ਮਨੁੱਖ ਹੈ ਤਾਂ ਮੈਂ ਮੁੱਢ ਤੋਂ ਹੀ ਇਸ ਦੇ ਪਾਸ ਨਾਹ ਬੈਠਦੀ ॥੨॥",
       "translation_ru": "Если бы я знал, что это жалкий лицемер, я бы с самого начала не приблизился к нему."
     },
     {
-      "index": 11,
       "verse_id": 25551,
-      "shabad_num": 1515,
-      "shabad_id": 1515,
       "gurmukhi": "ਮਃ ੩ ॥",
-      "site_roman": "mah 3 .",
-      "sahib_singh_pa": "None",
       "roman": "meh 3",
+      "sahib_singh_pa": "None",
       "translation_ru": ""
     },
     {
-      "index": 12,
       "verse_id": 25552,
-      "shabad_num": 1515,
-      "shabad_id": 1515,
       "gurmukhi": "ਹੰਸਾ ਵੇਖਿ ਤਰੰਦਿਆ ਬਗਾਂ ਭਿ ਆਯਾ ਚਾਉ ॥",
-      "site_roman": "hansā vēkh tarandiā bagānh bh āyā chāu .",
+      "roman": "haṅsā vekh tarandiyā bagāṅ bh āyā chāu",
       "sahib_singh_pa": "ਹੰਸਾਂ ਨੂੰ ਤਰਦਿਆਂ ਵੇਖ ਕੇ ਬਗਲਿਆਂ ਨੂੰ ਭੀ ਚਾਅ ਕੁੱਦਿਆ,",
-      "roman": "haṅsā vekh tarandiyā bagāṅ bhī āyā chāu",
       "translation_ru": "Увидев, как лебеди плывут, цаплям тоже захотелось подражать,"
     },
     {
-      "index": 13,
       "verse_id": 25553,
-      "shabad_num": 1515,
-      "shabad_id": 1515,
       "gurmukhi": "ਡੁਬਿ ਮੁਏ ਬਗ ਬਪੁੜੇ ਸਿਰੁ ਤਲਿ ਉਪਰਿ ਪਾਉ ॥੩॥",
-      "site_roman": "dub muē bag bapurē sir tal upar pāu .3.",
-      "sahib_singh_pa": "ਪਰ ਬਗਲੇ ਵਿਚਾਰੇ ਸਿਰ-ਪਰਨੇ ਹੋ ਕੇ ਡੁੱਬ ਕੇ ਮਰ ਗਏ ॥੩॥",
       "roman": "ḍub muē bag bapuṛe sir tal upar pāu",
+      "sahib_singh_pa": "ਪਰ ਬਗਲੇ ਵਿਚਾਰੇ ਸਿਰ-ਪਰਨੇ ਹੋ ਕੇ ਡੁੱਬ ਕੇ ਮਰ ਗਏ ॥੩॥",
       "translation_ru": "но бедные цапли, перевернувшись, утонули и погибли."
     },
     {
-      "index": 14,
       "verse_id": 25554,
-      "shabad_num": 1515,
-      "shabad_id": 1515,
       "gurmukhi": "ਪਉੜੀ ॥",
-      "site_roman": "paurī .",
-      "sahib_singh_pa": "None",
       "roman": "paurī",
+      "sahib_singh_pa": "None",
       "translation_ru": ""
     },
     {
-      "index": 15,
       "verse_id": 25555,
-      "shabad_num": 1515,
-      "shabad_id": 1515,
       "gurmukhi": "ਤੂ ਆਪੇ ਹੀ ਆਪਿ ਆਪਿ ਹੈ ਆਪਿ ਕਾਰਣੁ ਕੀਆ ॥",
-      "site_roman": "tū āpē hī āp āp hai āp kāran kīā .",
+      "roman": "tū āpe hī āp āp hē āp kāraṇ kīā",
       "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ!) ਸੰਸਾਰ ਦਾ ਮੁੱਢ ਤੂੰ ਆਪ ਹੀ ਬਣਾਇਆ, (ਕਿਉਂਕਿ ਇਸ ਤੋਂ ਪਹਿਲਾਂ ਦਾ ਭੀ) ਤੂੰ ਆਪ ਹੀ ਹੈਂ, ਤੂੰ ਆਪ ਹੀ ਹੈਂ।",
-      "roman": "tū āpe hī āp āp hai āp kāraṇ kīā",
       "translation_ru": "О Господь! Ты Сам создал начало мира, ибо и до этого Ты был Сам по Себе."
     },
     {
-      "index": 16,
       "verse_id": 25556,
-      "shabad_num": 1515,
-      "shabad_id": 1515,
       "gurmukhi": "ਤੂ ਆਪੇ ਆਪਿ ਨਿਰੰਕਾਰੁ ਹੈ ਕੋ ਅਵਰੁ ਨ ਬੀਆ ॥",
-      "site_roman": "tū āpē āp nirankār hai kō avar n bīā .",
+      "roman": "tū āpe āp nirankār hē ko avar na bīā",
       "sahib_singh_pa": "ਤੇਰਾ ਕੋਈ ਖ਼ਾਸ ਸਰੂਪ ਨਹੀਂ ਹੈ (ਜੋ ਮੈਂ ਬਿਆਨ ਕਰ ਸਕਾਂ), ਤੇਰੇ ਵਰਗਾ ਕੋਈ ਦੂਜਾ ਨਹੀਂ ਹੈ।",
-      "roman": "tū āpe āp nirankār hai ko avar na bīā",
       "translation_ru": "У Тебя нет определённой формы, и нет никого другого, подобного Тебе."
     },
     {
-      "index": 17,
       "verse_id": 25557,
-      "shabad_num": 1515,
-      "shabad_id": 1515,
       "gurmukhi": "ਤੂ ਕਰਣ ਕਾਰਣ ਸਮਰਥੁ ਹੈ ਤੂ ਕਰਹਿ ਸੁ ਥੀਆ ॥",
-      "site_roman": "tū karan kāran samarath hai tū karah s thīā .",
+      "roman": "tū karaṇ kāraṇ samrath hē tū karah so thīā",
       "sahib_singh_pa": "ਸ੍ਰਿਸ਼ਟੀ ਦੀ ਉਤਪੱਤੀ ਕਰਨ ਦੇ ਤੂੰ ਹੀ ਸਮਰੱਥ ਹੈਂ, ਜੋ ਕੁਝ ਤੂੰ ਕਰਦਾ ਹੈਂ ਉਹੀ ਹੁੰਦਾ ਹੈ।",
-      "roman": "tū karaṇ kāraṇ samrath hai tū karahi so thīā",
       "translation_ru": "Ты один способен создавать вселенную; что Ты делаешь — то и происходит."
     },
     {
-      "index": 18,
       "verse_id": 25558,
-      "shabad_num": 1515,
-      "shabad_id": 1515,
       "gurmukhi": "ਤੂ ਅਣਮੰਗਿਆ ਦਾਨੁ ਦੇਵਣਾ ਸਭਨਾਹਾ ਜੀਆ ॥",
-      "site_roman": "tū anamangiā dān dēvanā sabhanāhā jīā .",
-      "sahib_singh_pa": "ਤੂੰ ਸਾਰੇ ਜੀਵਾਂ ਨੂੰ (ਉਹਨਾਂ ਦੇ) ਮੰਗਣ ਤੋਂ ਬਿਨਾ ਹੀ ਸਭ ਦਾਤਾਂ ਦੇ ਰਿਹਾ ਹੈਂ।",
       "roman": "tū aṇmaṅgiā dān devṇā sabhnāhā jīā",
+      "sahib_singh_pa": "ਤੂੰ ਸਾਰੇ ਜੀਵਾਂ ਨੂੰ (ਉਹਨਾਂ ਦੇ) ਮੰਗਣ ਤੋਂ ਬਿਨਾ ਹੀ ਸਭ ਦਾਤਾਂ ਦੇ ਰਿਹਾ ਹੈਂ।",
       "translation_ru": "Ты даёшь всем существам дары даже без их просьбы."
     },
     {
-      "index": 19,
       "verse_id": 25559,
-      "shabad_num": 1515,
-      "shabad_id": 1515,
       "gurmukhi": "ਸਭਿ ਆਖਹੁ ਸਤਿਗੁਰੁ ਵਾਹੁ ਵਾਹੁ ਜਿਨਿ ਦਾਨੁ ਹਰਿ ਨਾਮੁ ਮੁਖਿ ਦੀਆ ॥੧॥",
-      "site_roman": "sabh ākhah satigur vāh vāh jin dān har nām mukh dīā .1.",
+      "roman": "sabh ākhah satgur vāh vāh jin dān har nām mukh dīā",
       "sahib_singh_pa": "ਸਾਰੇ ਆਖੋ! ਸਤਿਗੁਰੂ (ਭੀ) ਧੰਨ ਹੈ ਜਿਸ ਨੇ (ਇਹੋ ਜਿਹੇ) ਪ੍ਰਭੂ ਦੀ ਨਾਮ-ਰੂਪ ਦਾਤ (ਅਸਾਡੇ) ਮੂੰਹ ਵਿਚ ਪਾਈ ਹੈ ॥੧॥",
-      "roman": "sabh ākhahu satgur vāhu vāhu jin dān har nām mukh dīā",
       "translation_ru": "Все говорите: «Слава Сатгуру, который вложил в наши уста дар Имени Господа»."
     }
   ]

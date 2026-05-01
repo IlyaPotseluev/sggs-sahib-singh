@@ -1,512 +1,313 @@
 {
   "ang": 140,
-  "line_count": 46,
   "lines": [
     {
-      "index": 1,
-      "verse_id": 5713,
-      "shabad_num": 318,
-      "shabad_id": 318,
-      "gurmukhi": "ਸਲੋਕੁ ਮਃ ੧ ॥",
-      "site_roman": "salōk mah 1 .",
+      "verse_id": 5694,
+      "gurmukhi": "ਅਵਰੀ ਨੋ ਸਮਝਾਵਣਿ ਜਾਇ ॥",
+      "roman": "avarī no samjhāvaṇ jāi ॥",
+      "sahib_singh_pa": "ਤੇ ਹੋਰਨਾਂ ਨੂੰ ਸਿੱਖਿਆ ਦੇਣ ਜਾਂਦਾ ਹੈ (ਕਿ ਝੂਠ ਨਾਹ ਬੋਲੋ)।",
+      "translation_ru": "идёт поучать других, чтобы те не лгали."
+    },
+    {
+      "verse_id": 5695,
+      "gurmukhi": "ਮੁਠਾ ਆਪਿ ਮੁਹਾਏ ਸਾਥੈ ॥",
+      "roman": "muṭhā āp muhāe sāthē ॥",
+      "sahib_singh_pa": "(ਉਹ) ਆਪ ਤਾਂ ਠੱਗਿਆ ਜਾ ਹੀ ਰਿਹਾ ਹੈ, ਆਪਣੇ ਸਾਥ ਨੂੰ ਭੀ ਲੁਟਾਂਦਾ ਹੈ।",
+      "translation_ru": "Он и сам уже обманут, и тех, кто с ним, тоже губит."
+    },
+    {
+      "verse_id": 5696,
+      "gurmukhi": "ਨਾਨਕ ਐਸਾ ਆਗੂ ਜਾਪੈ ॥੧॥",
+      "roman": "Nānak ēsā āgū jāpē ॥1॥",
+      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਅਜੇਹਾ ਆਗੂ (ਅੰਤ ਇਉਂ) ਉੱਘੜਦਾ ਹੈ ॥੧॥",
+      "translation_ru": "О Нанак! Такой вожак в конце именно так и обнаруживается ॥1॥"
+    },
+    {
+      "verse_id": 5697,
+      "gurmukhi": "ਮਹਲਾ ੪ ॥",
+      "roman": "mahlā 4 ॥",
       "sahib_singh_pa": "None",
-      "roman": "salok mah 1 ||",
       "translation_ru": ""
     },
     {
-      "index": 2,
+      "verse_id": 5698,
+      "gurmukhi": "ਜਿਸ ਦੈ ਅੰਦਰਿ ਸਚੁ ਹੈ ਸੋ ਸਚਾ ਨਾਮੁ ਮੁਖਿ ਸਚੁ ਅਲਾਏ ॥",
+      "roman": "jis dē andar sach hē so sachā nām mukh sach alāe ॥",
+      "sahib_singh_pa": "ਜਿਸ ਮਨੁੱਖ ਦੇ ਹਿਰਦੇ ਵਿਚ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਪ੍ਰਭੂ ਵੱਸਦਾ ਹੈ, ਮੂੰਹੋਂ (ਭੀ) ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਸੱਚਾ ਨਾਮ ਹੀ ਬੋਲਦਾ ਹੈ।",
+      "translation_ru": "В сердце того человека, в ком пребывает вечный Господь, и из уст исходит только истинное вечное Имя."
+    },
+    {
+      "verse_id": 5699,
+      "gurmukhi": "ਓਹੁ ਹਰਿ ਮਾਰਗਿ ਆਪਿ ਚਲਦਾ ਹੋਰਨਾ ਨੋ ਹਰਿ ਮਾਰਗਿ ਪਾਏ ॥",
+      "roman": "ohu har mārag āp chaldā hornā no har mārag pāe ॥",
+      "sahib_singh_pa": "ਉਹ ਆਪ ਪਰਮਾਤਮਾ ਦੇ ਰਾਹ ਤੇ ਤੁਰਦਾ ਹੈ ਤੇ ਹੋਰਨਾਂ ਨੂੰ ਭੀ ਤੇ ਦੇ ਰਾਹ ਪ੍ਰਭੂ ਤੋਰਦਾ ਹੈ।",
+      "translation_ru": "Он сам идёт путём Господа и других тоже Бог ставит на этот путь."
+    },
+    {
+      "verse_id": 5700,
+      "gurmukhi": "ਜੇ ਅਗੈ ਤੀਰਥੁ ਹੋਇ ਤਾ ਮਲੁ ਲਹੈ ਛਪੜਿ ਨਾਤੈ ਸਗਵੀ ਮਲੁ ਲਾਏ ॥",
+      "roman": "je agē tīrath hoi tā mal lahē chhapṛ nātē sagvī mal lāe ॥",
+      "sahib_singh_pa": "(ਜਿੱਥੇ ਨ੍ਹਾਉਣ ਜਾਈਏ) ਜੇ ਉੱਥੇ ਖੁਲ੍ਹੇ ਸਾਫ਼ ਪਾਣੀ ਦਾ ਸੋਮਾ ਹੋਵੇ ਤਾਂ (ਨ੍ਹਾਉਣ ਵਾਲੇ ਦੀ) ਮੈਲ ਲਹਿ ਜਾਂਦੀ ਹੈ, ਪਰ ਛੱਪੜ ਵਿਚ ਨ੍ਹਾਤਿਆਂ ਸਗੋਂ ਹੋਰ ਮੈਲ ਵਧਦੀ ਹੈ।",
+      "translation_ru": "Если в месте омовения есть открытый чистый источник воды, тогда грязь смывается; но если мыться в стоячем пруду, грязи становится ещё больше."
+    },
+    {
+      "verse_id": 5701,
+      "gurmukhi": "ਤੀਰਥੁ ਪੂਰਾ ਸਤਿਗੁਰੂ ਜੋ ਅਨਦਿਨੁ ਹਰਿ ਹਰਿ ਨਾਮੁ ਧਿਆਏ ॥",
+      "roman": "tīrath pūrā satgurū jo andin har har nām dhiāe ॥",
+      "sahib_singh_pa": "(ਇਹੀ ਨੇਮ ਸਮਝੋ ਮਨ ਦੀ ਮੈਲ ਧੋਣ ਲਈ), ਪੂਰਾ ਗੁਰੂ ਜੋ ਹਰ ਵੇਲੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਹੈ (ਮਾਨੋ) ਖੁਲ੍ਹੇ ਸਾਫ਼ ਪਾਣੀ ਦਾ ਸੋਮਾ ਹੈ।",
+      "translation_ru": "Пойми это как правило для омовения грязи ума: совершенный Гуру, который непрестанно помнит Имя Господа, — это как открытый чистый источник воды."
+    },
+    {
+      "verse_id": 5702,
+      "gurmukhi": "ਓਹੁ ਆਪਿ ਛੁਟਾ ਕੁਟੰਬ ਸਿਉ ਦੇ ਹਰਿ ਹਰਿ ਨਾਮੁ ਸਭ ਸ੍ਰਿਸਟਿ ਛਡਾਏ ॥",
+      "roman": "ohu āp chhuṭā kuṭaṃb siu de har har nām sabh srisṭ chhaḍāe ॥",
+      "sahib_singh_pa": "ਉਹ ਆਪ ਆਪਣੇ ਪਰਵਾਰ ਸਮੇਤ ਵਿਕਾਰਾਂ ਤੋਂ ਬਚਿਆ ਹੋਇਆ ਹੈ, ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਦੇ ਕੇ ਉਹ ਸਾਰੀ ਸ੍ਰਿਸ਼ਟੀ ਨੂੰ ਵੀ ਬਚਾਂਦਾ ਹੈ।",
+      "translation_ru": "Он сам вместе со своей семьёй спасён от пороков, и, давая Имя Господа, спасает также всё творение."
+    },
+    {
+      "verse_id": 5703,
+      "gurmukhi": "ਜਨ ਨਾਨਕ ਤਿਸੁ ਬਲਿਹਾਰਣੈ ਜੋ ਆਪਿ ਜਪੈ ਅਵਰਾ ਨਾਮੁ ਜਪਾਏ ॥੨॥",
+      "roman": "jan Nānak tis balihāraṇē jo āp japē avrā nām japāe ॥2॥",
+      "sahib_singh_pa": "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ-ਮੈਂ) ਉਸ ਤੋਂ ਸਦਕੇ ਹਾਂ, ਜੋ ਆਪ (ਪ੍ਰਭੂ ਦਾ) ਨਾਮ ਜਪਦਾ ਹੈ ਤੇ ਹੋਰਨਾਂ ਨੂੰ ਜਪਾਂਦਾ ਹੈ ॥੨॥",
+      "translation_ru": "О слуга Нанак! Я жертвую собой ради того, кто сам повторяет Имя Господа и побуждает других делать то же ॥2॥"
+    },
+    {
+      "verse_id": 5704,
+      "gurmukhi": "ਪਉੜੀ ॥",
+      "roman": "paurī ॥",
+      "sahib_singh_pa": "None",
+      "translation_ru": ""
+    },
+    {
+      "verse_id": 5705,
+      "gurmukhi": "ਇਕਿ ਕੰਦ ਮੂਲੁ ਚੁਣਿ ਖਾਹਿ ਵਣ ਖੰਡਿ ਵਾਸਾ ॥",
+      "roman": "ik kand mūl chuṇ khāh vaṇ khaṇḍ vāsā ॥",
+      "sahib_singh_pa": "ਕਈ ਬੰਦੇ ਮੂਲੀ ਆਦਿਕ ਪੁਟ ਕੇ ਖਾਂਦੇ ਹਨ (ਮੂਲੀ ਆਦਿਕ ਖਾ ਕੇ ਗੁਜ਼ਾਰਾ ਕਰਦੇ ਹਨ) ਤੇ ਜੰਗਲ ਦੇ ਗੋਸ਼ੇ ਵਿਚ ਜਾ ਰਹਿੰਦੇ ਹਨ।",
+      "translation_ru": "Некоторые люди выкапывают и едят коренья и живут в глухих местах леса."
+    },
+    {
+      "verse_id": 5706,
+      "gurmukhi": "ਇਕਿ ਭਗਵਾ ਵੇਸੁ ਕਰਿ ਫਿਰਹਿ ਜੋਗੀ ਸੰਨਿਆਸਾ ॥",
+      "roman": "ik bhagvā ves kar phirah jogī sañniāsā ॥",
+      "sahib_singh_pa": "ਕਈ ਲੋਕ ਭਗਵੇ ਕੱਪੜੇ ਪਾ ਕੇ ਜੋਗੀ ਤੇ ਸੰਨਿਆਸੀ ਬਣ ਕੇ ਫਿਰਦੇ ਹਨ।",
+      "translation_ru": "Некоторые, надев шафрановые одежды, ходят как йоги и санньяси."
+    },
+    {
+      "verse_id": 5707,
+      "gurmukhi": "ਅੰਦਰਿ ਤ੍ਰਿਸਨਾ ਬਹੁਤੁ ਛਾਦਨ ਭੋਜਨ ਕੀ ਆਸਾ ॥",
+      "roman": "andar trisnā bahut chhādan bhojan kī āsā ॥",
+      "sahib_singh_pa": "(ਪਰ ਉਹਨਾਂ ਦੇ) ਮਨ ਵਿਚ ਬਹੁਤ ਲਾਲਚ ਹੁੰਦਾ ਹੈ, ਕੱਪੜੇ ਤੇ ਭੋਜਨ ਦੀ ਲਾਲਸਾ ਟਿਕੀ ਰਹਿੰਦੀ ਹੈ।",
+      "translation_ru": "Но в их уме много жадности, и остаётся жажда к одежде и пище."
+    },
+    {
+      "verse_id": 5708,
+      "gurmukhi": "ਬਿਰਥਾ ਜਨਮੁ ਗਵਾਇ ਨ ਗਿਰਹੀ ਨ ਉਦਾਸਾ ॥",
+      "roman": "birthā janam gavāi na girahī na udāsā ॥",
+      "sahib_singh_pa": "(ਇਸ ਤਰ੍ਹਾਂ) ਅਜਾਈਂ ਮਨੁੱਖਾ ਜਨਮ ਗਵਾ ਕੇ ਨਾਹ ਉਹ ਗ੍ਰਿਹਸਤੀ ਰਹਿੰਦੇ ਹਨ ਤੇ ਨਾਹ ਹੀ ਫ਼ਕੀਰ।",
+      "translation_ru": "Так они напрасно теряют человеческую жизнь и не остаются ни домохозяевами, ни отречёнными."
+    },
+    {
+      "verse_id": 5709,
+      "gurmukhi": "ਜਮਕਾਲੁ ਸਿਰਹੁ ਨ ਉਤਰੈ ਤ੍ਰਿਬਿਧਿ ਮਨਸਾ ॥",
+      "roman": "jamkāl sirah na utrē tribidh mansā ॥",
+      "sahib_singh_pa": "(ਉਹਨਾਂ ਦੇ ਅੰਦਰ) ਤ੍ਰਿਗੁਣੀ (ਮਾਇਆ ਦੀ) ਲਾਲਸਾ ਹੋਣ ਦੇ ਕਾਰਨ ਆਤਮਕ ਮੌਤ ਉਹਨਾਂ ਦੇ ਸਿਰ ਤੋਂ ਟਲਦੀ ਨਹੀਂ ਹੈ।",
+      "translation_ru": "Поскольку внутри них остаётся трёхкачественная жажда майи, духовная смерть не уходит с их головы."
+    },
+    {
+      "verse_id": 5710,
+      "gurmukhi": "ਗੁਰਮਤੀ ਕਾਲੁ ਨ ਆਵੈ ਨੇੜੈ ਜਾ ਹੋਵੈ ਦਾਸਨਿ ਦਾਸਾ ॥",
+      "roman": "gurmatī kāl na āvē neṛē jā hovē dāsan dāsā ॥",
+      "sahib_singh_pa": "ਜਦੋਂ ਮਨੁੱਖ (ਪ੍ਰਭੂ ਦੇ) ਸੇਵਕਾਂ ਦਾ ਸੇਵਕ ਬਣ ਜਾਂਦਾ ਹੈ, ਤਾਂ ਸਤਿਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਤੇ ਤੁਰ ਕੇ ਆਤਮਕ ਮੌਤ ਉਸਦੇ ਨੇੜੇ ਨਹੀਂ ਆਉਂਦੀ।",
+      "translation_ru": "Когда человек становится слугой слуг Господа, тогда, следуя учению Сатгуру, духовная смерть не приближается к нему."
+    },
+    {
+      "verse_id": 5711,
+      "gurmukhi": "ਸਚਾ ਸਬਦੁ ਸਚੁ ਮਨਿ ਘਰ ਹੀ ਮਾਹਿ ਉਦਾਸਾ ॥",
+      "roman": "sachā sabad sach man ghar hī māh udāsā ॥",
+      "sahib_singh_pa": "ਗੁਰੂ ਦਾ ਸੱਚਾ ਸਬਦ ਤੇ ਪ੍ਰਭੂ (ਉਸ ਦੇ) ਮਨ ਵਿਚ ਹੋਣ ਕਰਕੇ ਉਹ ਗ੍ਰਿਹਸਤ ਵਿਚ ਰਹਿੰਦਾ ਹੋਇਆ ਹੀ ਤਿਆਗੀ ਹੈ।",
+      "translation_ru": "Поскольку истинный Шабд и Господь пребывают в его уме, он остаётся отрешённым, даже живя в доме."
+    },
+    {
+      "verse_id": 5712,
+      "gurmukhi": "ਨਾਨਕ ਸਤਿਗੁਰੁ ਸੇਵਨਿ ਆਪਣਾ ਸੇ ਆਸਾ ਤੇ ਨਿਰਾਸਾ ॥੫॥",
+      "roman": "Nānak satgur sevan āpaṇā se āsā te nirāsā ॥5॥",
+      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਜੋ ਮਨੁੱਖ ਆਪਣੇ ਗੁਰੂ ਦੇ ਹੁਕਮ ਵਿਚ ਤੁਰਦੇ ਹਨ, ਉਹ (ਦੁਨੀਆ ਦੀਆਂ) ਲਾਲਸਾ ਤੋਂ ਉਪਰਾਮ ਹੋ ਜਾਂਦੇ ਹਨ ॥੫॥",
+      "translation_ru": "О Нанак! Те люди, которые следуют повелению своего Гуру, поднимаются над мирскими желаниями ॥5॥"
+    },
+    {
+      "verse_id": 5713,
+      "gurmukhi": "ਸਲੋਕੁ ਮਃ ੧ ॥",
+      "roman": "salok mah 1 ||",
+      "sahib_singh_pa": "None",
+      "translation_ru": ""
+    },
+    {
       "verse_id": 5714,
-      "shabad_num": 318,
-      "shabad_id": 318,
       "gurmukhi": "ਜੇ ਰਤੁ ਲਗੈ ਕਪੜੈ ਜਾਮਾ ਹੋਇ ਪਲੀਤੁ ॥",
-      "site_roman": "jē rat lagai kaparai jāmā hōi palīt .",
+      "roman": "jē rat lagē kapṛē jāmā hoi palīt ||",
       "sahib_singh_pa": "ਜੇ ਜਾਮੇ ਨੂੰ ਲਹੂ ਲੱਗ ਜਾਵੇ, ਤਾਂ ਜਾਮਾ ਪਲੀਤ ਹੋ ਜਾਂਦਾ ਹੈ (ਤੇ ਨਮਾਜ਼ ਨਹੀਂ ਹੋ ਸਕਦੀ),",
-      "roman": "jē rat lagai kapṛai jāmā hoi palīt ||",
       "translation_ru": "Если одежду запачкает кровь, одежда становится нечистой."
     },
     {
-      "index": 3,
       "verse_id": 5715,
-      "shabad_num": 318,
-      "shabad_id": 318,
       "gurmukhi": "ਜੋ ਰਤੁ ਪੀਵਹਿ ਮਾਣਸਾ ਤਿਨ ਕਿਉ ਨਿਰਮਲੁ ਚੀਤੁ ॥",
-      "site_roman": "jō rat pīvah mānasā tin kiu niramal chīt .",
+      "roman": "jo rat pīvah māṇsā tin kiu nirmal chīt ||",
       "sahib_singh_pa": "(ਪਰ) ਜੋ ਬੰਦੇ ਮਨੁੱਖਾਂ ਦਾ ਲਹੂ ਪੀਂਦੇ ਹਨ (ਭਾਵ, ਧੱਕਾ ਕਰ ਕੇ ਹਰਾਮ ਦੀ ਕਮਾਈ ਖਾਂਦੇ ਹਨ) ਉਹਨਾਂ ਦਾ ਮਨ ਕਿਵੇਂ ਪਾਕ (ਸਾਫ਼) ਰਹਿ ਸਕਦਾ ਹੈ (ਤੇ ਪਲੀਤ ਮਨ ਨਾਲ ਨਮਾਜ਼ ਪੜ੍ਹੀ ਕਿਵੇਂ ਕਬੂਲ ਹੈ)?",
-      "roman": "jo rat pīvahi māṇsā tin kiu nirmal chīt ||",
       "translation_ru": "Но те люди, которые пьют человеческую кровь, то есть, притесняя других, едят незаконный заработок, — как может их ум оставаться чистым? И как намаз с осквернённым умом может быть принят?"
     },
     {
-      "index": 4,
       "verse_id": 5716,
-      "shabad_num": 318,
-      "shabad_id": 318,
       "gurmukhi": "ਨਾਨਕ ਨਾਉ ਖੁਦਾਇ ਕਾ ਦਿਲਿ ਹਛੈ ਮੁਖਿ ਲੇਹੁ ॥",
-      "site_roman": "nānak nāu khudāi kā dil hashai mukh lēh .",
+      "roman": "nānak nāu khudāi kā dil hachhē mukh lēh ||",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਰੱਬ ਦਾ ਨਾਮ ਮੂੰਹੋਂ ਸਾਫ਼ ਦਿਲ ਨਾਲ ਲੈ,",
-      "roman": "nānak nāu khudāi kā dil hachhai mukh lēhu ||",
       "translation_ru": "О Нанак! Произноси имя Бога устами с чистым сердцем."
     },
     {
-      "index": 5,
       "verse_id": 5717,
-      "shabad_num": 318,
-      "shabad_id": 318,
       "gurmukhi": "ਅਵਰਿ ਦਿਵਾਜੇ ਦੁਨੀ ਕੇ ਝੂਠੇ ਅਮਲ ਕਰੇਹੁ ॥੧॥",
-      "site_roman": "avar divājē dunī kē jhūthē amal karēh .1.",
-      "sahib_singh_pa": "(ਇਸ ਤੋਂ ਬਿਨਾ) ਹੋਰ ਕੰਮ ਦੁਨੀਆ ਵਾਲੇ ਵਿਖਾਵੇ ਹਨ। ਇਹ ਤਾਂ ਤੁਸੀ ਕੂੜੇ ਕੰਮ ਹੀ ਕਰਦੇ ਹੋ ॥੧॥",
       "roman": "avar divāje dunī kē jhūṭhe amal karēhu ||1||",
+      "sahib_singh_pa": "(ਇਸ ਤੋਂ ਬਿਨਾ) ਹੋਰ ਕੰਮ ਦੁਨੀਆ ਵਾਲੇ ਵਿਖਾਵੇ ਹਨ। ਇਹ ਤਾਂ ਤੁਸੀ ਕੂੜੇ ਕੰਮ ਹੀ ਕਰਦੇ ਹੋ ॥੧॥",
       "translation_ru": "Кроме этого, прочие дела — мирские показухи. Это вы совершаете лишь ложные дела. ||1||"
     },
     {
-      "index": 6,
       "verse_id": 5718,
-      "shabad_num": 318,
-      "shabad_id": 318,
       "gurmukhi": "ਮਃ ੧ ॥",
-      "site_roman": "mah 1 .",
-      "sahib_singh_pa": "None",
       "roman": "mah 1 ||",
+      "sahib_singh_pa": "None",
       "translation_ru": ""
     },
     {
-      "index": 7,
       "verse_id": 5719,
-      "shabad_num": 318,
-      "shabad_id": 318,
       "gurmukhi": "ਜਾ ਹਉ ਨਾਹੀ ਤਾ ਕਿਆ ਆਖਾ ਕਿਹੁ ਨਾਹੀ ਕਿਆ ਹੋਵਾ ॥",
-      "site_roman": "jā hau nāhī tā kiā ākhā kih nāhī kiā hōvā .",
+      "roman": "jā hau nāhī tā kiā ākhā kih nāhī kiā hovā ||",
       "sahib_singh_pa": "ਜਦੋਂ ਮੈਂ ਹਾਂ ਹੀ ਕੁਝ ਨਹੀਂ (ਭਾਵ, ਮੇਰੀ ਆਤਮਕ ਹਸਤੀ ਹੀ ਕੁਝ ਨਹੀਂ ਬਣੀ), ਤਾਂ ਮੈਂ (ਹੋਰਨਾਂ ਨੂੰ) ਉਪਦੇਸ਼ ਕੀਹ ਕਰਾਂ? (ਅੰਦਰ) ਕੋਈ ਆਤਮਕ ਗੁਣ ਨਾਹ ਹੁੰਦਿਆਂ ਕਿਤਨਾ ਕੁਝ ਬਣ ਬਣ ਕੇ ਵਿਖਾਵਾਂ?",
-      "roman": "jā hau nāhī tā kiā ākhā kihu nāhī kiā hovā ||",
       "translation_ru": "Когда меня самого вовсе нет, то есть когда моя духовная сущность ещё ничем не стала, чему я могу учить других? Не имея внутри никаких духовных качеств, сколько бы я ни изображал из себя что-то?"
     },
     {
-      "index": 8,
       "verse_id": 5720,
-      "shabad_num": 318,
-      "shabad_id": 318,
       "gurmukhi": "ਕੀਤਾ ਕਰਣਾ ਕਹਿਆ ਕਥਨਾ ਭਰਿਆ ਭਰਿ ਭਰਿ ਧੋਵਾਂ ॥",
-      "site_roman": "kītā karanā kahiā kathanā bhariā bhar bhar dhōvānh .",
-      "sahib_singh_pa": "ਮੇਰਾ ਕੰਮ-ਕਾਰ, ਮੇਰਾ ਬੋਲ-ਚਾਲ-ਇਹਨਾਂ ਦੀ ਰਾਹੀਂ (ਮੰਦੇ ਸੰਸਕਾਰਾਂ ਨਾਲ) ਭਰਿਆ ਹੋਇਆ ਕਦੇ ਮੰਦੇ ਪਾਸੇ ਡਿੱਗਦਾ ਹਾਂ ਤੇ (ਕਦੇ ਫੇਰ ਮਨ ਨੂੰ) ਧੋਣ ਦਾ ਜਤਨ ਕਰਦਾ ਹਾਂ।",
       "roman": "kītā karṇā kahiā kathnā bhariā bhar bhar dhovā ||",
+      "sahib_singh_pa": "ਮੇਰਾ ਕੰਮ-ਕਾਰ, ਮੇਰਾ ਬੋਲ-ਚਾਲ-ਇਹਨਾਂ ਦੀ ਰਾਹੀਂ (ਮੰਦੇ ਸੰਸਕਾਰਾਂ ਨਾਲ) ਭਰਿਆ ਹੋਇਆ ਕਦੇ ਮੰਦੇ ਪਾਸੇ ਡਿੱਗਦਾ ਹਾਂ ਤੇ (ਕਦੇ ਫੇਰ ਮਨ ਨੂੰ) ਧੋਣ ਦਾ ਜਤਨ ਕਰਦਾ ਹਾਂ।",
       "translation_ru": "Мои дела, мои слова — через них я наполнен дурными впечатлениями: то падаю в дурную сторону, то снова пытаюсь омыть ум."
     },
     {
-      "index": 9,
       "verse_id": 5721,
-      "shabad_num": 318,
-      "shabad_id": 318,
       "gurmukhi": "ਆਪਿ ਨ ਬੁਝਾ ਲੋਕ ਬੁਝਾਈ ਐਸਾ ਆਗੂ ਹੋਵਾਂ ॥",
-      "site_roman": "āp n bujhā lōk bujhāī aisā āgū hōvānh .",
-      "sahib_singh_pa": "ਜਦੋਂ ਮੈਨੂੰ ਆਪ ਨੂੰ ਹੀ ਸਮਝ ਨਹੀਂ ਆਈ ਤੇ ਲੋਕਾਂ ਨੂੰ ਰਾਹ ਦੱਸਦਾ ਹਾਂ, (ਇਸ ਹਾਲਤ ਵਿਚ) ਹਾਸੋ-ਹੀਣਾ ਆਗੂ ਹੀ ਬਣਦਾ ਹਾਂ।",
       "roman": "āp na bujhā lok bujhāī aisa āgū hovā ||",
+      "sahib_singh_pa": "ਜਦੋਂ ਮੈਨੂੰ ਆਪ ਨੂੰ ਹੀ ਸਮਝ ਨਹੀਂ ਆਈ ਤੇ ਲੋਕਾਂ ਨੂੰ ਰਾਹ ਦੱਸਦਾ ਹਾਂ, (ਇਸ ਹਾਲਤ ਵਿਚ) ਹਾਸੋ-ਹੀਣਾ ਆਗੂ ਹੀ ਬਣਦਾ ਹਾਂ।",
       "translation_ru": "Когда я сам не понял, а людям указываю путь, в таком состоянии я становлюсь лишь жалким вождём."
     },
     {
-      "index": 10,
       "verse_id": 5722,
-      "shabad_num": 318,
-      "shabad_id": 318,
       "gurmukhi": "ਨਾਨਕ ਅੰਧਾ ਹੋਇ ਕੈ ਦਸੇ ਰਾਹੈ ਸਭਸੁ ਮੁਹਾਏ ਸਾਥੈ ॥",
-      "site_roman": "nānak andhā hōi kai dasē rāhai sabhas muhāē sāthai .",
+      "roman": "nānak andhā hoi kē dasē rāhē sabhas muhāe sāthē ||",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਜੋ ਮਨੁੱਖ ਆਪ ਅੰਨ੍ਹਾ ਹੈ, ਪਰ ਹੋਰਨਾਂ ਨੂੰ ਰਾਹ ਦੱਸਦਾ ਹੈ, ਉਹ ਸਾਰੇ ਸਾਥ ਨੂੰ ਲੁਟਾ ਦੇਂਦਾ ਹੈ।",
-      "roman": "nānak andhā hoi kai dasē rāhai sabhas muhāe sāthai ||",
       "translation_ru": "О Нанак! Человек, который сам слеп, но другим показывает дорогу, губит всех, кто идёт с ним."
     },
     {
-      "index": 11,
       "verse_id": 5723,
-      "shabad_num": 318,
-      "shabad_id": 318,
       "gurmukhi": "ਅਗੈ ਗਇਆ ਮੁਹੇ ਮੁਹਿ ਪਾਹਿ ਸੁ ਐਸਾ ਆਗੂ ਜਾਪੈ ॥੨॥",
-      "site_roman": "agai gaiā muhē muh pāh s aisā āgū jāpai .2.",
+      "roman": "agē gēā muhē muhi pāhi su ēsa āgū jāpē ||2||",
       "sahib_singh_pa": "ਅੱਗੇ ਚੱਲ ਕੇ ਮੂੰਹੋਂ ਮੂੰਹ ਉਸ ਨੂੰ (ਜੁੱਤੀਆਂ) ਪੈਂਦੀਆਂ ਹਨ, ਤਦੋਂ ਅਜੇਹਾ ਆਗੂ (ਅਸਲ ਰੂਪ ਵਿਚ) ਉੱਘੜਦਾ ਹੈ ॥੨॥",
-      "roman": "agai gaiā muhē muhi pāhi su aisa āgū jāpai ||2||",
       "translation_ru": "Дальше, когда он уходит вперёд, ему по лицу достаётся удар за ударом; тогда и обнаруживается, что это за вождь. ||2||"
     },
     {
-      "index": 12,
       "verse_id": 5724,
-      "shabad_num": 318,
-      "shabad_id": 318,
       "gurmukhi": "ਪਉੜੀ ॥",
-      "site_roman": "paurī .",
-      "sahib_singh_pa": "None",
       "roman": "pauṛī ||",
+      "sahib_singh_pa": "None",
       "translation_ru": ""
     },
     {
-      "index": 13,
       "verse_id": 5725,
-      "shabad_num": 318,
-      "shabad_id": 318,
       "gurmukhi": "ਮਾਹਾ ਰੁਤੀ ਸਭ ਤੂੰ ਘੜੀ ਮੂਰਤ ਵੀਚਾਰਾ ॥",
-      "site_roman": "māhā rutī sabh tūn gharī mūrat vīchārā .",
-      "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ!) ਸਭ ਮਹੀਨਿਆਂ ਰੁੱਤਾਂ ਘੜੀਆਂ ਤੇ ਮੁਹੂਰਤਾਂ ਵਿਚ ਤੈਨੂੰ ਸਿਮਰਿਆ ਜਾ ਸਕਦਾ ਹੈ (ਭਾਵ, ਤੇਰੇ ਸਿਮਰਨ ਲਈ ਕੋਈ ਖ਼ਾਸ ਰੁੱਤ ਜਾਂ ਥਿੱਤ ਨਹੀਂ ਹੈ)।",
       "roman": "māhā rutī sabh tū ghaṛī mūrat vīchārā ||",
+      "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ!) ਸਭ ਮਹੀਨਿਆਂ ਰੁੱਤਾਂ ਘੜੀਆਂ ਤੇ ਮੁਹੂਰਤਾਂ ਵਿਚ ਤੈਨੂੰ ਸਿਮਰਿਆ ਜਾ ਸਕਦਾ ਹੈ (ਭਾਵ, ਤੇਰੇ ਸਿਮਰਨ ਲਈ ਕੋਈ ਖ਼ਾਸ ਰੁੱਤ ਜਾਂ ਥਿੱਤ ਨਹੀਂ ਹੈ)।",
       "translation_ru": "О Господь! Во все месяцы, времена года, часы и мгновения можно помнить Тебя; для памятования о Тебе нет какой-то особой поры или даты."
     },
     {
-      "index": 14,
       "verse_id": 5726,
-      "shabad_num": 318,
-      "shabad_id": 318,
       "gurmukhi": "ਤੂੰ ਗਣਤੈ ਕਿਨੈ ਨ ਪਾਇਓ ਸਚੇ ਅਲਖ ਅਪਾਰਾ ॥",
-      "site_roman": "tūn ganatai kinai n pāiō sachē alakh apārā .",
+      "roman": "tū gaṇtē kinē na pāio sachē alakh apārā ||",
       "sahib_singh_pa": "ਹੇ ਅਦ੍ਰਿਸ਼ਟ ਤੇ ਬੇਅੰਤ ਪ੍ਰਭੂ! ਥਿੱਤਾਂ ਦਾ ਲੇਖਾ ਗਿਣ ਕੇ ਕਿਸੇ ਨੇ ਭੀ ਤੈਨੂੰ ਨਹੀਂ ਲੱਭਿਆ।",
-      "roman": "tū gaṇtai kinai na pāio sachē alakh apārā ||",
       "translation_ru": "О невидимый и беспредельный Господь! Подсчитывая даты и сроки, никто Тебя не нашёл."
     },
     {
-      "index": 15,
       "verse_id": 5727,
-      "shabad_num": 318,
-      "shabad_id": 318,
       "gurmukhi": "ਪੜਿਆ ਮੂਰਖੁ ਆਖੀਐ ਜਿਸੁ ਲਬੁ ਲੋਭੁ ਅਹੰਕਾਰਾ ॥",
-      "site_roman": "pariā mūrakh ākhīai jis lab lōbh ahankārā .",
-      "sahib_singh_pa": "ਇਹੋ ਜਿਹੀ (ਥਿੱਤਾਂ ਦੀ ਵਿੱਦਿਆ) ਪੜ੍ਹੇ ਹੋਏ ਨੂੰ ਮੂਰਖ ਆਖਣਾ ਚਾਹੀਦਾ ਹੈ ਕਿਉਂਕਿ ਉਸ ਦੇ ਅੰਦਰ ਲੋਭ ਤੇ ਅਹੰਕਾਰ ਹੈ।",
       "roman": "paṛiā mūrakh ākhīai jis lab lobh ahaṅkārā ||",
+      "sahib_singh_pa": "ਇਹੋ ਜਿਹੀ (ਥਿੱਤਾਂ ਦੀ ਵਿੱਦਿਆ) ਪੜ੍ਹੇ ਹੋਏ ਨੂੰ ਮੂਰਖ ਆਖਣਾ ਚਾਹੀਦਾ ਹੈ ਕਿਉਂਕਿ ਉਸ ਦੇ ਅੰਦਰ ਲੋਭ ਤੇ ਅਹੰਕਾਰ ਹੈ।",
       "translation_ru": "Такого учёного в этих датах и сроках следует называть глупцом, потому что внутри него живут алчность и гордыня."
     },
     {
-      "index": 16,
       "verse_id": 5728,
-      "shabad_num": 318,
-      "shabad_id": 318,
       "gurmukhi": "ਨਾਉ ਪੜੀਐ ਨਾਉ ਬੁਝੀਐ ਗੁਰਮਤੀ ਵੀਚਾਰਾ ॥",
-      "site_roman": "nāu parīai nāu bujhīai guramatī vīchārā .",
-      "sahib_singh_pa": "(ਕਿਸੇ ਥਿੱਤ ਮੁਹੂਰਤ ਦੇ ਭਰਮ ਦੀ ਲੋੜ ਨਹੀਂ, ਸਿਰਫ਼) ਸਤਿਗੁਰੂ ਦੀ ਦਿੱਤੀ ਮਤਿ ਨੂੰ ਵਿਚਾਰ ਕੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਣਾ ਚਾਹੀਦਾ ਹੈ ਤੇ (ਉਸ ਵਿਚ) ਸੁਰਤ ਜੋੜਨੀ ਚਾਹੀਦੀ ਹੈ।",
       "roman": "nāu paṛīai nāu bujhīai gurmatī vīchārā ||",
+      "sahib_singh_pa": "(ਕਿਸੇ ਥਿੱਤ ਮੁਹੂਰਤ ਦੇ ਭਰਮ ਦੀ ਲੋੜ ਨਹੀਂ, ਸਿਰਫ਼) ਸਤਿਗੁਰੂ ਦੀ ਦਿੱਤੀ ਮਤਿ ਨੂੰ ਵਿਚਾਰ ਕੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਣਾ ਚਾਹੀਦਾ ਹੈ ਤੇ (ਉਸ ਵਿਚ) ਸੁਰਤ ਜੋੜਨੀ ਚਾਹੀਦੀ ਹੈ।",
       "translation_ru": "Не нужен обман насчёт каких-то дат и благоприятных моментов; следует, размышляя над данным Гуру наставлением, повторять Имя Бога и соединять с Ним сознание."
     },
     {
-      "index": 17,
       "verse_id": 5729,
-      "shabad_num": 318,
-      "shabad_id": 318,
       "gurmukhi": "ਗੁਰਮਤੀ ਨਾਮੁ ਧਨੁ ਖਟਿਆ ਭਗਤੀ ਭਰੇ ਭੰਡਾਰਾ ॥",
-      "site_roman": "guramatī nām dhan khatiā bhagatī bharē bhandārā .",
-      "sahib_singh_pa": "ਜਿਨ੍ਹਾਂ ਨੇ ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਤੇ ਤੁਰ ਕੇ ਨਾਮ-ਰੂਪ ਧਨ ਕਮਾਇਆ ਹੈ, ਉਹਨਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਭਗਤੀ ਨਾਲ ਭਰ ਗਏ ਹਨ।",
       "roman": "gurmatī nām dhan khaṭiā bhagtī bharē bhaṇḍārā ||",
+      "sahib_singh_pa": "ਜਿਨ੍ਹਾਂ ਨੇ ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਤੇ ਤੁਰ ਕੇ ਨਾਮ-ਰੂਪ ਧਨ ਕਮਾਇਆ ਹੈ, ਉਹਨਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ ਭਗਤੀ ਨਾਲ ਭਰ ਗਏ ਹਨ।",
       "translation_ru": "Те, кто, следуя учению Гуру, приобрели богатство Имени, — их сокровищницы наполнились преданностью."
     },
     {
-      "index": 18,
       "verse_id": 5730,
-      "shabad_num": 318,
-      "shabad_id": 318,
       "gurmukhi": "ਨਿਰਮਲੁ ਨਾਮੁ ਮੰਨਿਆ ਦਰਿ ਸਚੈ ਸਚਿਆਰਾ ॥",
-      "site_roman": "niramal nām manniā dar sachai sachiārā .",
+      "roman": "nirmal nām manniā dar sachē sachiārā ||",
       "sahib_singh_pa": "ਜਿਨ੍ਹਾਂ ਪ੍ਰਭੂ ਦਾ ਪਵਿਤ੍ਰ ਨਾਮ ਕਬੂਲ ਕੀਤਾ ਹੈ, ਉਹ ਪ੍ਰਭੂ ਦੇ ਦਰ ਤੇ ਸੁਰਖ਼ਰੂ ਹੁੰਦੇ ਹਨ।",
-      "roman": "nirmal nām manniā dar sachai sachiārā ||",
       "translation_ru": "Те, кто приняли чистое Имя Господа, оказываются прославленными при Его дворе."
     },
     {
-      "index": 19,
       "verse_id": 5731,
-      "shabad_num": 318,
-      "shabad_id": 318,
       "gurmukhi": "ਜਿਸ ਦਾ ਜੀਉ ਪਰਾਣੁ ਹੈ ਅੰਤਰਿ ਜੋਤਿ ਅਪਾਰਾ ॥",
-      "site_roman": "jis dā jīu parān hai antar jōt apārā .",
+      "roman": "jis dā jīu parāṇ hē antar jot apārā ||",
       "sahib_singh_pa": "ਤੇਰੇ ਹੀ ਬਖ਼ਸ਼ੇ ਹੋਏ ਜਿੰਦ ਪ੍ਰਾਣ ਹਰੇਕ ਜੀਵ ਨੂੰ ਮਿਲੇ ਹਨ, ਤੇਰੀ ਹੀ ਅਪਾਰ ਜੋਤਿ ਹਰੇਕ ਜੀਵ ਦੇ ਅੰਦਰ ਹੈ।",
-      "roman": "jis dā jīu parāṇ hai antar jot apārā ||",
       "translation_ru": "Жизнь и дыхание каждого существа даны Тобой, и Твой беспредельный свет находится внутри каждого."
     },
     {
-      "index": 20,
       "verse_id": 5732,
-      "shabad_num": 318,
-      "shabad_id": 318,
       "gurmukhi": "ਸਚਾ ਸਾਹੁ ਇਕੁ ਤੂੰ ਹੋਰੁ ਜਗਤੁ ਵਣਜਾਰਾ ॥੬॥",
-      "site_roman": "sachā sāh ik tūn hōr jagat vanajārā .6.",
-      "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਸਦਾ ਟਿਕੇ ਰਹਿਣ ਵਾਲਾ ਸ਼ਾਹ ਹੈਂ, ਹੋਰ ਸਾਰਾ ਜਗਤ ਵਣਜਾਰਾ ਹੈ (ਭਾਵ, ਹੋਰ ਸਾਰੇ ਜੀਵ ਇਥੇ, ਮਾਨੋ, ਫੇਰੀ ਲਾ ਕੇ ਸਉਦਾ ਕਰਨ ਆਏ ਹਨ) ॥੬॥",
       "roman": "sachā sāh ik tū hor jagat vaṇjārā ||6||",
+      "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਸਦਾ ਟਿਕੇ ਰਹਿਣ ਵਾਲਾ ਸ਼ਾਹ ਹੈਂ, ਹੋਰ ਸਾਰਾ ਜਗਤ ਵਣਜਾਰਾ ਹੈ (ਭਾਵ, ਹੋਰ ਸਾਰੇ ਜੀਵ ਇਥੇ, ਮਾਨੋ, ਫੇਰੀ ਲਾ ਕੇ ਸਉਦਾ ਕਰਨ ਆਏ ਹਨ) ॥੬॥",
       "translation_ru": "О Господь! Ты один — истинный Шах, а весь прочий мир — торговец в пути. ||6||"
     },
     {
-      "index": 21,
       "verse_id": 5733,
-      "shabad_num": 319,
-      "shabad_id": 319,
       "gurmukhi": "ਸਲੋਕੁ ਮਃ ੧ ॥",
-      "site_roman": "salōk mah 1 .",
-      "sahib_singh_pa": "None",
       "roman": "salok mah 1 ||",
+      "sahib_singh_pa": "None",
       "translation_ru": ""
     },
     {
-      "index": 22,
       "verse_id": 5734,
-      "shabad_num": 319,
-      "shabad_id": 319,
       "gurmukhi": "ਮਿਹਰ ਮਸੀਤਿ ਸਿਦਕੁ ਮੁਸਲਾ ਹਕੁ ਹਲਾਲੁ ਕੁਰਾਣੁ ॥",
-      "site_roman": "mihar masīt sidak musalā hak halāl kurān .",
-      "sahib_singh_pa": "(ਲੋਕਾਂ ਉੱਤੇ) ਤਰਸ ਦੀ ਮਸੀਤ (ਬਣਾਓ), ਸਰਧਾ ਨੂੰ ਮੁਸੱਲਾ ਤੇ ਹੱਕ ਦੀ ਕਮਾਈ ਨੂੰ ਕੁਰਾਨ (ਬਣਾਓ)।",
       "roman": "mihar masīt sidak muslā hak halāl kurāṇ ||",
+      "sahib_singh_pa": "(ਲੋਕਾਂ ਉੱਤੇ) ਤਰਸ ਦੀ ਮਸੀਤ (ਬਣਾਓ), ਸਰਧਾ ਨੂੰ ਮੁਸੱਲਾ ਤੇ ਹੱਕ ਦੀ ਕਮਾਈ ਨੂੰ ਕੁਰਾਨ (ਬਣਾਓ)।",
       "translation_ru": "Сделай мечетью милость к людям, молитвенным ковриком — веру, а Кораном — честный заработок."
     },
     {
-      "index": 23,
       "verse_id": 5735,
-      "shabad_num": 319,
-      "shabad_id": 319,
       "gurmukhi": "ਸਰਮ ਸੁੰਨਤਿ ਸੀਲੁ ਰੋਜਾ ਹੋਹੁ ਮੁਸਲਮਾਣੁ ॥",
-      "site_roman": "saram sunnat sīl rōjā hōh musalamān .",
+      "roman": "saram sunnat sīl rojā hoh musalmāṇ ||",
       "sahib_singh_pa": "ਵਿਕਾਰ ਕਰਨ ਵਲੋਂ ਝੱਕਣਾ-ਇਹ ਸੁੰਨਤ ਹੋਵੇ, ਚੰਗਾ ਸੁਭਾਉ ਰੋਜ਼ਾ ਬਣੇ। ਇਸ ਤਰ੍ਹਾਂ (ਹੇ ਭਾਈ!) ਮੁਸਲਮਾਨ ਬਣ।",
-      "roman": "saram sunnat sīl rojā hohu musalmāṇ ||",
       "translation_ru": "Пусть суннатом станет удержание себя от порока, постом — добрый нрав. Так, брат, становись мусульманином."
     },
     {
-      "index": 24,
       "verse_id": 5736,
-      "shabad_num": 319,
-      "shabad_id": 319,
       "gurmukhi": "ਕਰਣੀ ਕਾਬਾ ਸਚੁ ਪੀਰੁ ਕਲਮਾ ਕਰਮ ਨਿਵਾਜ ॥",
-      "site_roman": "karanī kābā sach pīr kalamā karam nivāj .",
-      "sahib_singh_pa": "ਉੱਚਾ ਆਚਰਣ ਕਾਬਾ ਹੋਵੇ, ਅੰਦਰੋਂ ਬਾਹਰੋਂ ਇਕੋ ਜਿਹੇ ਰਹਿਣਾ-ਪੀਰ ਹੋਵੇ, ਨੇਕ ਅਮਲਾਂ ਦੀ ਨਿਮਾਜ਼ ਤੇ ਕਲਮਾ ਬਣੇ।",
       "roman": "karṇī kābā sach pīr kalmā karam nivāj ||",
+      "sahib_singh_pa": "ਉੱਚਾ ਆਚਰਣ ਕਾਬਾ ਹੋਵੇ, ਅੰਦਰੋਂ ਬਾਹਰੋਂ ਇਕੋ ਜਿਹੇ ਰਹਿਣਾ-ਪੀਰ ਹੋਵੇ, ਨੇਕ ਅਮਲਾਂ ਦੀ ਨਿਮਾਜ਼ ਤੇ ਕਲਮਾ ਬਣੇ।",
       "translation_ru": "Пусть Каабой станет высокое поведение, пиром — внутренняя и внешняя цельность, а намазом и калимой — добрые дела."
     },
     {
-      "index": 25,
       "verse_id": 5737,
-      "shabad_num": 319,
-      "shabad_id": 319,
       "gurmukhi": "ਤਸਬੀ ਸਾ ਤਿਸੁ ਭਾਵਸੀ ਨਾਨਕ ਰਖੈ ਲਾਜ ॥੧॥",
-      "site_roman": "tasabī sā tis bhāvasī nānak rakhai lāj .1.",
+      "roman": "tasbī sā tis bhāvsī nānak rakhē lāj ||1||",
       "sahib_singh_pa": "ਜੋ ਗੱਲ ਉਸ ਰੱਬ ਨੂੰ ਭਾਵੇ ਉਹੀ (ਸਿਰ ਮੱਥੇ ਤੇ ਮੰਨਣੀ, ਇਹ) ਤਸਬੀ ਹੋਵੇ। ਹੇ ਨਾਨਕ! (ਅਜਿਹੇ ਮੁਸਲਮਾਨ ਦੀ ਰੱਬ) ਲਾਜ ਰੱਖਦਾ ਹੈ ॥੧॥",
-      "roman": "tasbī sā tis bhāvsī nānak rakhai lāj ||1||",
       "translation_ru": "Пусть чётками будет то, что угодно тому Богу. О Нанак! Бог хранит честь такого мусульманина. ||1||"
-    },
-    {
-      "index": 26,
-      "verse_id": 5738,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਮਃ ੧ ॥",
-      "site_roman": "mah 1 .",
-      "sahib_singh_pa": "None",
-      "roman": "mah 1 ||",
-      "translation_ru": ""
-    },
-    {
-      "index": 27,
-      "verse_id": 5739,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਹਕੁ ਪਰਾਇਆ ਨਾਨਕਾ ਉਸੁ ਸੂਅਰ ਉਸੁ ਗਾਇ ॥",
-      "site_roman": "hak parāiā nānakā us sūar us gāi .",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਪਰਾਇਆ ਹੱਕ ਮੁਸਲਮਾਨ ਲਈ ਸੂਰ ਹੈ ਤੇ ਹਿੰਦੂ ਲਈ ਗਾਂ ਹੈ।",
-      "roman": "hak parāiā nānakā us sūar us gāi ||",
-      "translation_ru": "О Нанак! Чужое право для мусульманина — свинина, а для индуиста — корова."
-    },
-    {
-      "index": 28,
-      "verse_id": 5740,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਗੁਰੁ ਪੀਰੁ ਹਾਮਾ ਤਾ ਭਰੇ ਜਾ ਮੁਰਦਾਰੁ ਨ ਖਾਇ ॥",
-      "site_roman": "gur pīr hāmā tā bharē jā muradār n khāi .",
-      "sahib_singh_pa": "ਗੁਰੂ ਪੈਗ਼ੰਬਰ ਤਾਂ ਹੀ ਸਿਫ਼ਾਰਿਸ਼ ਕਰਦਾ ਹੈ ਜੇ ਮਨੁੱਖ ਪਰਾਇਆ ਹੱਕ ਨਾਹ ਵਰਤੇ।",
-      "roman": "gur pīr hāmā tā bharē jā murdār na khāi ||",
-      "translation_ru": "Гуру и пир ходатайствуют лишь тогда, когда человек не посягает на чужое право."
-    },
-    {
-      "index": 29,
-      "verse_id": 5741,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਗਲੀ ਭਿਸਤਿ ਨ ਜਾਈਐ ਛੁਟੈ ਸਚੁ ਕਮਾਇ ॥",
-      "site_roman": "galī bhisat n jāīai shutai sach kamāi .",
-      "sahib_singh_pa": "ਨਿਰੀਆਂ ਗੱਲਾਂ ਕਰਨ ਨਾਲ ਬਹਿਸ਼ਤ ਵਿਚ ਨਹੀਂ ਅੱਪੜ ਸਕੀਦਾ। ਸੱਚ ਨੂੰ (ਭਾਵ, ਜਿਸ ਨੂੰ ਸੱਚਾ ਰਸਤਾ ਆਖਦੇ ਹਉ, ਉਸ ਨੂੰ) ਅਮਲੀ ਜੀਵਨ ਵਿਚ ਵਰਤਿਆਂ ਹੀ ਨਜਾਤ ਮਿਲਦੀ ਹੈ।",
-      "roman": "galī bhisat na jāīai chhuṭai sach kamāi ||",
-      "translation_ru": "Одними разговорами в рай не попасть. Освобождение приходит лишь тогда, когда истину, то есть тот путь, который зовут истинным, воплощают в жизни."
-    },
-    {
-      "index": 30,
-      "verse_id": 5742,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਮਾਰਣ ਪਾਹਿ ਹਰਾਮ ਮਹਿ ਹੋਇ ਹਲਾਲੁ ਨ ਜਾਇ ॥",
-      "site_roman": "māran pāh harām mah hōi halāl n jāi .",
-      "sahib_singh_pa": "(ਬਹਿਸ ਆਦਿਕ ਗੱਲਾਂ ਦੇ) ਮਸਾਲੇ ਹਰਾਮ ਮਾਲ ਵਿਚ ਪਾਇਆਂ ਉਹ ਹੱਕ ਦਾ ਮਾਲ ਨਹੀਂ ਬਣ ਜਾਂਦਾ।",
-      "roman": "māraṇ pāhi harām mahi hoi halāl na jāi ||",
-      "translation_ru": "Если в харамное имущество подмешать приправы споров и разговоров, оно не станет дозволенным имуществом."
-    },
-    {
-      "index": 31,
-      "verse_id": 5743,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਨਾਨਕ ਗਲੀ ਕੂੜੀਈ ਕੂੜੋ ਪਲੈ ਪਾਇ ॥੨॥",
-      "site_roman": "nānak galī kūrīī kūrō palai pāi .2.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਕੂੜੀਆਂ ਗੱਲਾਂ ਕੀਤਿਆਂ ਕੂੜ ਹੀ ਮਿਲਦਾ ਹੈ ॥੨॥",
-      "roman": "nānak galī kūṛīī kūṛo palai pāi ||2||",
-      "translation_ru": "О Нанак! От лживых речей достаётся только ложь. ||2||"
-    },
-    {
-      "index": 32,
-      "verse_id": 5744,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਮਃ ੧ ॥",
-      "site_roman": "mah 1 .",
-      "sahib_singh_pa": "None",
-      "roman": "mah 1 ||",
-      "translation_ru": ""
-    },
-    {
-      "index": 33,
-      "verse_id": 5745,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਪੰਜਿ ਨਿਵਾਜਾ ਵਖਤ ਪੰਜਿ ਪੰਜਾ ਪੰਜੇ ਨਾਉ ॥",
-      "site_roman": "panj nivājā vakhat panj panjā panjē nāu .",
-      "sahib_singh_pa": "(ਮੁਸਲਮਾਨਾਂ ਦੀਆਂ ਪੰਜ ਨਿਮਾਜ਼ਾਂ ਹਨ, (ਉਹਨਾਂ ਦੇ) ਪੰਜ ਵਕਤ ਹਨ ਤੇ ਪੰਜਾਂ ਹੀ ਨਿਮਾਜ਼ਾਂ ਦੇ (ਵਖੋ ਵਖਰੇ) ਪੰਜ ਨਾਮ।",
-      "roman": "pañj nivājā vakhat pañj pañjā pañje nāu ||",
-      "translation_ru": "Есть пять намазов, пять времён, и у всех пяти намазов — пять имён."
-    },
-    {
-      "index": 34,
-      "verse_id": 5746,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਪਹਿਲਾ ਸਚੁ ਹਲਾਲ ਦੁਇ ਤੀਜਾ ਖੈਰ ਖੁਦਾਇ ॥",
-      "site_roman": "pahilā sach halāl dui tījā khair khudāi .",
-      "sahib_singh_pa": "(ਪਰ ਅਸਾਡੇ ਮਤ ਵਿਚ ਅਸਲ ਨਿਮਾਜ਼ਾਂ ਇਉਂ ਹਨ-) ਸੱਚ ਬੋਲਣਾ ਨਮਾਜ਼ ਦਾ ਪਹਿਲਾ ਨਾਮ ਹੈ (ਭਾਵ, ਸਵੇਰ ਦੀ ਪਹਿਲੀ ਨਿਮਾਜ਼ ਹੈ), ਹੱਕ ਦੀ ਕਮਾਈ ਦੂਜੀ ਨਮਾਜ਼ ਹੈ, ਰੱਬ ਤੋਂ ਸਭ ਦਾ ਭਲਾ ਮੰਗਣਾ ਨਿਮਾਜ਼ ਦਾ ਤੀਜਾ ਨਾਮ ਹੈ।",
-      "roman": "pahilā sach halāl dui tījā khair khudāi ||",
-      "translation_ru": "Но по нашему пониманию настоящие намазы таковы: говорить истину — первое имя намаза, то есть первый, утренний намаз; честный заработок — второй намаз; просить у Бога блага для всех — третье имя намаза."
-    },
-    {
-      "index": 35,
-      "verse_id": 5747,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਚਉਥੀ ਨੀਅਤਿ ਰਾਸਿ ਮਨੁ ਪੰਜਵੀ ਸਿਫਤਿ ਸਨਾਇ ॥",
-      "site_roman": "chauthī nīat rās man panjavī siphat sanāi .",
-      "sahib_singh_pa": "ਨੀਅਤਿ ਨੂੰ ਸਾਫ਼ ਕਰਨਾ ਮਨ ਨੂੰ ਸਾਫ਼ ਰੱਖਣਾ ਇਹ ਚਉਥੀ ਨਿਮਾਜ਼ ਹੈ ਤੇ ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ ਤੇ ਵਡਿਆਈ ਕਰਨੀ ਇਹ ਪੰਜਵੀਂ ਨਮਾਜ਼ ਹੈ।",
-      "roman": "chauṭhī nīat rās man pañjvī sifat sanāi ||",
-      "translation_ru": "Очищать намерение и хранить ум чистым — это четвёртый намаз; восхвалять и прославлять Бога — это пятый намаз."
-    },
-    {
-      "index": 36,
-      "verse_id": 5748,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਕਰਣੀ ਕਲਮਾ ਆਖਿ ਕੈ ਤਾ ਮੁਸਲਮਾਣੁ ਸਦਾਇ ॥",
-      "site_roman": "karanī kalamā ākh kai tā musalamān sadāi .",
-      "sahib_singh_pa": "(ਇਹਨਾਂ ਪੰਜਾਂ ਨਮਾਜ਼ਾਂ ਦੇ ਨਾਲ ਨਾਲ) ਉੱਚਾ ਆਚਰਣ ਬਨਾਣ-ਰੂਪ ਕਲਮਾ ਪੜ੍ਹੇ ਤਾਂ (ਆਪਣੇ ਆਪ ਨੂੰ) ਮੁਸਲਮਾਨ ਅਖਵਾਏ (ਭਾਵ, ਤਾਂ ਹੀ ਸੱਚਾ ਮੁਸਲਮਾਨ ਅਖਵਾ ਸਕਦਾ ਹੈ)।",
-      "roman": "karṇī kalmā ākh kai tā musalmāṇ sadāi ||",
-      "translation_ru": "И если вместе с этими пятью намазами человек читает калиму в форме высокого поведения, тогда он может называться мусульманином, то есть только тогда может называться истинным мусульманином."
-    },
-    {
-      "index": 37,
-      "verse_id": 5749,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਨਾਨਕ ਜੇਤੇ ਕੂੜਿਆਰ ਕੂੜੈ ਕੂੜੀ ਪਾਇ ॥੩॥",
-      "site_roman": "nānak jētē kūriār kūrai kūrī pāi .3.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਇਹਨਾਂ ਨਮਾਜ਼ਾਂ ਤੇ ਕਲਮੇ ਤੋਂ ਖੁੰਝੇ ਹੋਏ) ਜਿਤਨੇ ਭੀ ਹਨ ਉਹ ਕੂੜ ਦੇ ਵਪਾਰੀ ਹਨ ਤੇ ਕੂੜੇ ਦੀ ਇੱਜ਼ਤ ਭੀ ਕੂੜੀ ਹੀ ਹੁੰਦੀ ਹੈ ॥੩॥",
-      "roman": "nānak jētē kūṛiār kūṛai kūṛī pāi ||3||",
-      "translation_ru": "О Нанак! Все, кто лишены этих намазов и этой калимы, — торговцы ложью, и честь ложного тоже ложна. ||3||"
-    },
-    {
-      "index": 38,
-      "verse_id": 5750,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਪਉੜੀ ॥",
-      "site_roman": "paurī .",
-      "sahib_singh_pa": "None",
-      "roman": "pauṛī ||",
-      "translation_ru": ""
-    },
-    {
-      "index": 39,
-      "verse_id": 5751,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਇਕਿ ਰਤਨ ਪਦਾਰਥ ਵਣਜਦੇ ਇਕਿ ਕਚੈ ਦੇ ਵਾਪਾਰਾ ॥",
-      "site_roman": "ik ratan padārath vanajadē ik kachai dē vāpārā .",
-      "sahib_singh_pa": "ਕਈ ਮਨੁੱਖ (ਪਰਮਾਤਮਾ ਦੀ ਸਿਫ਼ਤ-ਸਾਲਾਹ-ਰੂਪ) ਕੀਮਤੀ-ਸਉਦੇ ਵਿਹਾਝਦੇ ਹਨ, ਤੇ ਕਈ (ਦੁਨੀਆ-ਰੂਪ) ਕੱਚ ਦੇ ਵਪਾਰੀ ਹਨ।",
-      "roman": "ik ratan padārath vaṇajdē ik kachai dē vāpārā ||",
-      "translation_ru": "Одни торгуют драгоценными товарами, то есть хвалой Богу, а другие — торговцы стекляшками этого мира."
-    },
-    {
-      "index": 40,
-      "verse_id": 5752,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਸਤਿਗੁਰਿ ਤੁਠੈ ਪਾਈਅਨਿ ਅੰਦਰਿ ਰਤਨ ਭੰਡਾਰਾ ॥",
-      "site_roman": "satigur tuthai pāīan andar ratan bhandārā .",
-      "sahib_singh_pa": "(ਪ੍ਰਭੂ ਦੇ ਗੁਣ-ਰੂਪ ਇਹ) ਰਤਨਾਂ ਦੇ ਖ਼ਜ਼ਾਨੇ (ਮਨੁੱਖ ਦੇ) ਅੰਦਰ ਹੀ ਹਨ, ਪਰ ਸਤਿਗੁਰੂ ਦੇ ਤਰੁੱਠਿਆਂ ਇਹ ਮਿਲਦੇ ਹਨ।",
-      "roman": "satgur tuṭhai pāīan andar ratan bhaṇḍārā ||",
-      "translation_ru": "Эти сокровищницы драгоценных камней, то есть качеств Господа, находятся внутри человека, но обретаются лишь по милости Сатгуру."
-    },
-    {
-      "index": 41,
-      "verse_id": 5753,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਵਿਣੁ ਗੁਰ ਕਿਨੈ ਨ ਲਧਿਆ ਅੰਧੇ ਭਉਕਿ ਮੁਏ ਕੂੜਿਆਰਾ ॥",
-      "site_roman": "vin gur kinai n ladhiā andhē bhauk muē kūriārā .",
-      "sahib_singh_pa": "ਗੁਰੂ (ਦੀ ਸਰਨ ਆਉਣ) ਤੋਂ ਬਿਨਾ ਕਿਸੇ ਨੇ ਇਹ ਖ਼ਜ਼ਾਨਾ ਨਹੀਂ ਲੱਭਾ, ਕੂੜ ਦੇ ਵਪਾਰੀ ਅੰਨ੍ਹੇ ਬੰਦੇ (ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਹੀ ਦਰ ਦਰ ਤੇ) ਤਰਲੇ ਲੈਂਦੇ ਮਰ ਜਾਂਦੇ ਹਨ।",
-      "roman": "viṇ gur kinai na ladhiā andhē bhauk muē kūṛiārā ||",
-      "translation_ru": "Без Гуру никто не нашёл это сокровище; слепые торговцы ложью умирают, умоляя от двери к двери ради майи."
-    },
-    {
-      "index": 42,
-      "verse_id": 5754,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਮਨਮੁਖ ਦੂਜੈ ਪਚਿ ਮੁਏ ਨਾ ਬੂਝਹਿ ਵੀਚਾਰਾ ॥",
-      "site_roman": "manamukh dūjai pach muē nā būjhah vīchārā .",
-      "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ ਆਪਣੇ ਮਨ ਦੇ ਪਿੱਛੇ ਤੁਰਦੇ ਹਨ, ਉਹ ਮਾਇਆ ਵਿਚ ਖਚਿਤ ਹੁੰਦੇ ਹਨ, ਉਹਨਾਂ ਨੂੰ ਅਸਲ ਵਿਚਾਰ ਸੁੱਝਦੀ ਨਹੀਂ।",
-      "roman": "manmukh dūjai pach muē nā būjhhahi vīchārā ||",
-      "translation_ru": "Те, кто идут за своим умом, изнуряются в майе и не постигают истинного размышления."
-    },
-    {
-      "index": 43,
-      "verse_id": 5755,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਇਕਸੁ ਬਾਝਹੁ ਦੂਜਾ ਕੋ ਨਹੀ ਕਿਸੁ ਅਗੈ ਕਰਹਿ ਪੁਕਾਰਾ ॥",
-      "site_roman": "ikas bājhah dūjā kō nahī kis agai karah pukārā .",
-      "sahib_singh_pa": "(ਇਸ ਦੁਖੀ ਹਾਲਤ ਦੀ) ਪੁਕਾਰ ਭੀ ਉਹ ਲੋਕ ਕਿਸ ਦੇ ਸਾਹਮਣੇ ਕਰਨ? ਇਕ ਪ੍ਰਭੂ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕੋਈ (ਸਹੈਤਾ ਕਰਨ ਵਾਲਾ ਹੀ) ਨਹੀਂ ਹੈ।",
-      "roman": "ikas bājhahu dūjā ko nahī kis agai karahi pukārā ||",
-      "translation_ru": "Перед кем ещё им жаловаться в этом скорбном состоянии? Кроме одного Бога, другого помощника нет."
-    },
-    {
-      "index": 44,
-      "verse_id": 5756,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਇਕਿ ਨਿਰਧਨ ਸਦਾ ਭਉਕਦੇ ਇਕਨਾ ਭਰੇ ਤੁਜਾਰਾ ॥",
-      "site_roman": "ik niradhan sadā bhaukadē ikanā bharē tujārā .",
-      "sahib_singh_pa": "(ਨਾਮ-ਰੂਪ ਖ਼ਜ਼ਾਨੇ ਤੋਂ ਬਿਨਾ) ਕਈ ਕੰਗਾਲ ਸਦਾ (ਦਰ ਦਰ ਤੇ) ਤਰਲੇ ਲੈਂਦੇ ਫਿਰਦੇ ਹਨ, ਇਹਨਾਂ ਦੇ (ਹਿਰਦੇ-ਰੂਪ) ਖ਼ਜ਼ਾਨੇ (ਬੰਦਗੀ-ਰੂਪ ਧਨ ਨਾਲ) ਭਰੇ ਪਏ ਹਨ।",
-      "roman": "ik nirdhan sadā bhaukdē iknā bharē tujārā ||",
-      "translation_ru": "Многие нищие вечно попрошайничают, а у некоторых их сокровищницы сердца полны богатством преданности."
-    },
-    {
-      "index": 45,
-      "verse_id": 5757,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਵਿਣੁ ਨਾਵੈ ਹੋਰੁ ਧਨੁ ਨਾਹੀ ਹੋਰੁ ਬਿਖਿਆ ਸਭੁ ਛਾਰਾ ॥",
-      "site_roman": "vin nāvai hōr dhan nāhī hōr bikhiā sabh shārā .",
-      "sahib_singh_pa": "(ਪਰਮਾਤਮਾ ਦੇ) ਨਾਮ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕੋਈ (ਨਾਲ ਨਿਭਣ ਵਾਲਾ) ਧਨ ਨਹੀਂ ਹੈ, ਹੋਰ ਮਾਇਆ ਵਾਲਾ ਧਨ ਸੁਆਹ (ਸਮਾਨ) ਹੈ।",
-      "roman": "viṇ nāvai hor dhan nāhī hor bikhiā sabh chhārā ||",
-      "translation_ru": "Кроме Имени, другого богатства нет; всё прочее богатство майи — прах."
-    },
-    {
-      "index": 46,
-      "verse_id": 5758,
-      "shabad_num": 319,
-      "shabad_id": 319,
-      "gurmukhi": "ਨਾਨਕ ਆਪਿ ਕਰਾਏ ਕਰੇ ਆਪਿ ਹੁਕਮਿ ਸਵਾਰਣਹਾਰਾ ॥੭॥",
-      "site_roman": "nānak āp karāē karē āp hukam savāranahārā .7.",
-      "sahib_singh_pa": "(ਪਰ) ਹੇ ਨਾਨਕ! ਸਭ (ਜੀਵਾਂ ਵਿਚ ਬੈਠਾ ਪ੍ਰਭੂ) ਆਪ ਹੀ (ਕੱਚ ਤੇ ਰਤਨਾਂ ਦੇ ਵਪਾਰ) ਕਰ ਰਿਹਾ ਹੈ, (ਜਿਨ੍ਹਾਂ ਨੂੰ ਸੁਧਾਰਦਾ ਹੈ ਉਹਨਾਂ ਨੂੰ ਆਪਣੇ) ਹੁਕਮ ਵਿਚ ਹੀ ਸਿੱਧੇ ਰਾਹੇ ਪਾਂਦਾ ਹੈ ॥੭॥",
-      "roman": "nānak āp karāe karē āp hukam savāraṇhārā ||7||",
-      "translation_ru": "Но, о Нанак, Сам Господь, пребывая во всех существах, Сам ведёт и эту торговлю стеклом, и торговлю драгоценностями; а тех, кого исправляет, направляет на прямой путь в Своём повелении. ||7||"
     }
   ]
 }

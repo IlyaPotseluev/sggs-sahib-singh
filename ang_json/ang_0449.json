@@ -1,380 +1,271 @@
 {
   "ang": 449,
-  "line_count": 34,
   "lines": [
     {
-      "index": 1,
+      "verse_id": 20258,
+      "gurmukhi": "ਜਨੁ ਨਾਨਕੁ ਮੁਸਕਿ ਝਕੋਲਿਆ ਸਭੁ ਜਨਮੁ ਧਨੁ ਧੰਨਾ ॥੧॥",
+      "roman": "jan nānak musak jhakoliā sabh janam dhan dhannā",
+      "sahib_singh_pa": "(ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ) ਦਾਸ ਨਾਨਕ (ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਦੀ) ਕਸਤੂਰੀ ਨਾਲ ਚੰਗੀ ਤਰ੍ਹਾਂ ਸੁਗੰਧਿਤ ਹੋ ਗਿਆ ਹੈ, (ਦਾਸ ਨਾਨਕ ਦਾ) ਸਾਰਾ ਜੀਵਨ ਹੀ ਭਾਗਾਂ ਵਾਲਾ ਬਣ ਗਿਆ ਹੈ ॥੧॥",
+      "translation_ru": "Слуга Нанак пропитан ароматом Имени, и вся его жизнь стала благословенной."
+    },
+    {
+      "verse_id": 20259,
+      "gurmukhi": "ਹਰਿ ਪ੍ਰੇਮ ਬਾਣੀ ਮਨੁ ਮਾਰਿਆ ਅਣੀਆਲੇ ਅਣੀਆ ਰਾਮ ਰਾਜੇ ॥",
+      "roman": "har prem bāṇī man māriā aṇīāle aṇīā rām rājē",
+      "sahib_singh_pa": "ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ ਪ੍ਰੇਮ ਪੈਦਾ ਕਰਨ ਵਾਲੀ ਗੁਰਬਾਣੀ ਨੇ ਮੇਰਾ ਮਨ ਵਿੰਨ੍ਹ ਲਿਆ ਹੈ ਜਿਵੇਂ ਤ੍ਰਿੱਖੀ ਨੋਕ ਵਾਲੇ ਤੀਰ (ਕਿਸੇ ਚੀਜ਼ ਨੂੰ) ਵਿੰਨ੍ਹ ਲੈਂਦੇ ਹਨ।",
+      "translation_ru": "Бани любви пронзила мой ум, как острые стрелы."
+    },
+    {
+      "verse_id": 20260,
+      "gurmukhi": "ਜਿਸੁ ਲਾਗੀ ਪੀਰ ਪਿਰੰਮ ਕੀ ਸੋ ਜਾਣੈ ਜਰੀਆ ॥",
+      "roman": "jis lāgī pīr piram kī so jāṇē jarīā",
+      "sahib_singh_pa": "ਜਿਸ ਮਨੁੱਖ ਦੇ ਅੰਦਰ ਪ੍ਰਭੂ ਪ੍ਰੇਮ ਦੀ ਪੀੜ ਉੱਠਦੀ ਹੈ ਉਹੀ ਜਾਣਦਾ ਹੈ ਕਿ ਉਸ ਨੂੰ ਕਿਵੇਂ ਸਹਾਰਿਆ ਜਾ ਸਕਦਾ ਹੈ।",
+      "translation_ru": "Тот, кого поразила боль любви к Богу, знает, как её вынести."
+    },
+    {
+      "verse_id": 20261,
+      "gurmukhi": "ਜੀਵਨ ਮੁਕਤਿ ਸੋ ਆਖੀਐ ਮਰਿ ਜੀਵੈ ਮਰੀਆ ॥",
+      "roman": "jīvan mukt so ākhīē mar jīvē mariā",
+      "sahib_singh_pa": "ਜੇਹੜਾ ਮਨੁੱਖ ਮਾਇਆ ਦੇ ਮੋਹ ਵਲੋਂ ਅਛੋਹ ਹੋ ਕੇ ਆਤਮਕ ਜੀਵਨ ਜੀਊਂਦਾ ਹੈ ਉਹ ਦੁਨੀਆ ਦੀ ਕਿਰਤ ਕਾਰ ਕਰਦਾ ਹੋਇਆ ਹੀ ਮਾਇਆ ਦੇ ਬੰਧਨਾਂ ਤੋਂ ਆਜ਼ਾਦ ਰਹਿੰਦਾ ਹੈ।",
+      "translation_ru": "Освобождённым при жизни называют того, кто живёт, умертвив привязанность к майе."
+    },
+    {
+      "verse_id": 20262,
+      "gurmukhi": "ਜਨ ਨਾਨਕ ਸਤਿਗੁਰੁ ਮੇਲਿ ਹਰਿ ਜਗੁ ਦੁਤਰੁ ਤਰੀਆ ॥੨॥",
+      "roman": "jan nānak satigur mel har jag dūtar tarīā",
+      "sahib_singh_pa": "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ-) ਹੇ ਹਰੀ! ਮੈਨੂੰ ਗੁਰੂ ਮਿਲਾ, ਤਾ ਕਿ ਮੈਂ ਇਸ ਸੰਸਾਰ (-ਸਮੁੰਦਰ) ਤੋਂ ਪਾਰ ਲੰਘ ਸਕਾਂ ਜਿਸ ਨੂੰ ਤਰਨਾ ਔਖਾ ਹੈ ॥੨॥",
+      "translation_ru": "О Нанак! Соедини меня с Гуру, чтобы переплыть этот трудный мир."
+    },
+    {
+      "verse_id": 20263,
+      "gurmukhi": "ਹਮ ਮੂਰਖ ਮੁਗਧ ਸਰਣਾਗਤੀ ਮਿਲੁ ਗੋਵਿੰਦ ਰੰਗਾ ਰਾਮ ਰਾਜੇ ॥",
+      "roman": "ham mūrak mugadh saraṇāgat mil govind raṅgā rām rājē",
+      "sahib_singh_pa": "ਹੇ ਬੇਅੰਤ ਕੌਤਕਾਂ ਦੇ ਮਾਲਕ ਗੋਵਿੰਦ! (ਸਾਨੂੰ) ਮਿਲ, ਅਸੀਂ ਮੂਰਖ ਬੇ-ਸਮਝ ਤੇਰੀ ਸਰਨ ਆਏ ਹਾਂ।",
+      "translation_ru": "О Говинд! Мы глупые и невежественные пришли в Твоё прибежище, встреться с нами."
+    },
+    {
+      "verse_id": 20264,
+      "gurmukhi": "ਗੁਰਿ ਪੂਰੈ ਹਰਿ ਪਾਇਆ ਹਰਿ ਭਗਤਿ ਇਕ ਮੰਗਾ ॥",
+      "roman": "gur pūrē har pāiā har bhagat ik maṅgā",
+      "sahib_singh_pa": "ਮੈਂ (ਗੁਰੂ ਪਾਸੋਂ) ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ (ਦੀ ਦਾਤਿ) ਮੰਗਦਾ ਹਾਂ (ਕਿਉਂਕਿ) ਪੂਰੇ ਗੁਰੂ ਦੀ ਰਾਹੀਂ ਹੀ ਪਰਮਾਤਮਾ ਮਿਲ ਸਕਦਾ ਹੈ।",
+      "translation_ru": "Через совершенного Гуру достигается Господь, и я прошу дар преданности."
+    },
+    {
+      "verse_id": 20265,
+      "gurmukhi": "ਮੇਰਾ ਮਨੁ ਤਨੁ ਸਬਦਿ ਵਿਗਾਸਿਆ ਜਪਿ ਅਨਤ ਤਰੰਗਾ ॥",
+      "roman": "merā man tan sabad vigāsiā jap anat taraṅgā",
+      "sahib_singh_pa": "ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਰਾਹੀਂ ਬੇਅੰਤ ਲਹਰਾਂ ਵਾਲੇ (ਸਮੁੰਦਰ-ਪ੍ਰਭੂ) ਨੂੰ ਸਿਮਰ ਕੇ ਮੇਰਾ ਮਨ ਖਿੜ ਪਿਆ ਹੈ, ਮੇਰਾ ਹਿਰਦਾ ਪ੍ਰਫੁਲਤ ਹੋ ਗਿਆ ਹੈ।",
+      "translation_ru": "Повторяя Имя, мой ум и сердце расцвели через Шабад."
+    },
+    {
+      "verse_id": 20266,
+      "gurmukhi": "ਮਿਲਿ ਸੰਤ ਜਨਾ ਹਰਿ ਪਾਇਆ ਨਾਨਕ ਸਤਸੰਗਾ ॥੩॥",
+      "roman": "mil sant janā har pāiā nānak satsangā",
+      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਆਖ-) ਸੰਤ ਜਨਾਂ ਨੂੰ ਮਿਲ ਕੇ ਸੰਤਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਮੈਂ ਪਰਮਾਤਮਾ ਨੂੰ ਲੱਭ ਲਿਆ ਹੈ ॥੩॥",
+      "translation_ru": "О Нанак! Встречаясь со святыми, я нашёл Господа."
+    },
+    {
+      "verse_id": 20267,
+      "gurmukhi": "ਦੀਨ ਦਇਆਲ ਸੁਣਿ ਬੇਨਤੀ ਹਰਿ ਪ੍ਰਭ ਹਰਿ ਰਾਇਆ ਰਾਮ ਰਾਜੇ ॥",
+      "roman": "dīn dayāl suṇ benatī har prabh har rāiā rām rājē",
+      "sahib_singh_pa": "ਹੇ ਦੀਨਾਂ ਉਤੇ ਦਇਆ ਕਰਨ ਵਾਲੇ! ਹੇ ਹਰੀ! ਹੇ ਪ੍ਰਭੂ! ਹੇ ਪ੍ਰਭੂ ਪਾਤਿਸ਼ਾਹ! ਮੇਰੀ ਬੇਨਤੀ ਸੁਣ।",
+      "translation_ru": "О Милостивый к бедным, услышь мою молитву, Господь!"
+    },
+    {
+      "verse_id": 20268,
+      "gurmukhi": "ਹਉ ਮਾਗਉ ਸਰਣਿ ਹਰਿ ਨਾਮ ਕੀ ਹਰਿ ਹਰਿ ਮੁਖਿ ਪਾਇਆ ॥",
+      "roman": "hau māgau saraṇ har nām kī har har mukh pāiā",
+      "sahib_singh_pa": "ਹੇ ਹਰੀ! ਮੈਂ ਤੇਰੇ ਨਾਮ ਦਾ ਆਸਰਾ ਮੰਗਦਾ ਹਾਂ। ਹੇ ਹਰੀ! (ਤੇਰੀ ਮੇਹਰ ਹੋਵੇ ਤਾਂ ਮੈਂ ਤੇਰਾ ਨਾਮ) ਆਪਣੇ ਮੂੰਹ ਵਿਚ ਪਾ ਸਕਦਾ ਹਾਂ (ਮੂੰਹ ਨਾਲ ਜਪ ਸਕਦਾ ਹਾਂ)।",
+      "translation_ru": "Я прошу прибежища в Имени, чтобы произносить Его устами."
+    },
+    {
+      "verse_id": 20269,
+      "gurmukhi": "ਭਗਤਿ ਵਛਲੁ ਹਰਿ ਬਿਰਦੁ ਹੈ ਹਰਿ ਲਾਜ ਰਖਾਇਆ ॥",
+      "roman": "bhagat vachhal har birad hē har lāj rakhāiā",
+      "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਦਾ ਇਹ ਮੁੱਢ ਕਦੀਮਾਂ ਦਾ ਸੁਭਾਉ ਹੈ ਕਿ ਉਹ ਭਗਤੀ ਨਾਲ ਪਿਆਰ ਕਰਦਾ ਹੈ (ਜੇਹੜਾ ਉਸ ਦੀ ਸਰਨ ਪਏ, ਉਸ ਦੀ) ਇੱਜ਼ਤ ਰੱਖ ਲੈਂਦਾ ਹੈ।",
+      "translation_ru": "Природа Господа — любить преданных и защищать их честь."
+    },
+    {
+      "verse_id": 20270,
+      "gurmukhi": "ਜਨੁ ਨਾਨਕੁ ਸਰਣਾਗਤੀ ਹਰਿ ਨਾਮਿ ਤਰਾਇਆ ॥੪॥੮॥੧੫॥",
+      "roman": "jan nānak saraṇāgat har nām tarāiā",
+      "sahib_singh_pa": "ਦਾਸ ਨਾਨਕ (ਭੀ) ਉਸ ਹਰੀ ਦੀ ਸਰਨ ਆ ਪਿਆ ਹੈ (ਸਰਨ ਆਏ ਮਨੁੱਖ ਨੂੰ) ਹਰੀ ਆਪਣੇ ਨਾਮ ਵਿਚ ਜੋੜ ਕੇ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਤੋਂ) ਪਾਰ ਲੰਘਾ ਲੈਂਦਾ ਹੈ ॥੪॥੮॥੧੫॥",
+      "translation_ru": "Слуга Нанак пришёл в прибежище, и Господь переправляет через Имя."
+    },
+    {
       "verse_id": 20271,
-      "shabad_num": 1173,
-      "shabad_id": 1173,
       "gurmukhi": "ਆਸਾ ਮਹਲਾ ੪ ॥",
-      "site_roman": "āsā mahalā 4 .",
-      "sahib_singh_pa": "None",
       "roman": "āsā mehlā 4",
+      "sahib_singh_pa": "None",
       "translation_ru": ""
     },
     {
-      "index": 2,
       "verse_id": 20272,
-      "shabad_num": 1173,
-      "shabad_id": 1173,
       "gurmukhi": "ਗੁਰਮੁਖਿ ਢੂੰਢਿ ਢੂਢੇਦਿਆ ਹਰਿ ਸਜਣੁ ਲਧਾ ਰਾਮ ਰਾਜੇ ॥",
-      "site_roman": "guramukh dhūndh dhūdhēdiā har sajan ladhā rām rājē .",
-      "sahib_singh_pa": "ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਭਾਲ ਕਰਦਿਆਂ ਕਰਦਿਆਂ ਮੈਂ ਮਿੱਤਰ-ਪ੍ਰਭੂ ਨੂੰ (ਆਪਣੇ ਅੰਦਰ ਹੀ) ਲੱਭ ਲਿਆ ਹੈ।",
       "roman": "gurmukh ḍhūṇḍh ḍhūḍhediā har sajṇ ladhā rām rājē",
+      "sahib_singh_pa": "ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਭਾਲ ਕਰਦਿਆਂ ਕਰਦਿਆਂ ਮੈਂ ਮਿੱਤਰ-ਪ੍ਰਭੂ ਨੂੰ (ਆਪਣੇ ਅੰਦਰ ਹੀ) ਲੱਭ ਲਿਆ ਹੈ।",
       "translation_ru": "Став на путь Гуру и ища, я нашёл друга-Господа внутри себя."
     },
     {
-      "index": 3,
       "verse_id": 20273,
-      "shabad_num": 1173,
-      "shabad_id": 1173,
       "gurmukhi": "ਕੰਚਨ ਕਾਇਆ ਕੋਟ ਗੜ ਵਿਚਿ ਹਰਿ ਹਰਿ ਸਿਧਾ ॥",
-      "site_roman": "kanchan kāiā kōt gar vich har har sidhā .",
-      "sahib_singh_pa": "ਮੇਰਾ ਇਹ ਸਰੀਰ ਕਿਲ੍ਹਾ (ਮਾਨੋ) ਸੋਨੇ ਦਾ ਬਣ ਗਿਆ ਹੈ (ਕਿਉਂਕਿ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ) ਇਸ ਵਿਚ ਪਰਮਾਤਮਾ ਪਰਗਟ ਹੋ ਗਿਆ ਹੈ।",
       "roman": "kanchan kāiā koṭ gaṛ vich har har siḍhā",
+      "sahib_singh_pa": "ਮੇਰਾ ਇਹ ਸਰੀਰ ਕਿਲ੍ਹਾ (ਮਾਨੋ) ਸੋਨੇ ਦਾ ਬਣ ਗਿਆ ਹੈ (ਕਿਉਂਕਿ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ) ਇਸ ਵਿਚ ਪਰਮਾਤਮਾ ਪਰਗਟ ਹੋ ਗਿਆ ਹੈ।",
       "translation_ru": "Моё тело стало словно золотой крепостью, потому что по милости Гуру в нём проявился Бог."
     },
     {
-      "index": 4,
       "verse_id": 20274,
-      "shabad_num": 1173,
-      "shabad_id": 1173,
       "gurmukhi": "ਹਰਿ ਹਰਿ ਹੀਰਾ ਰਤਨੁ ਹੈ ਮੇਰਾ ਮਨੁ ਤਨੁ ਵਿਧਾ ॥",
-      "site_roman": "har har hīrā ratan hai mērā man tan vidhā .",
+      "roman": "har har hīrā ratan hē merā man tan vidhā",
       "sahib_singh_pa": "(ਮੈਨੂੰ ਆਪਣੇ ਅੰਦਰ ਹੀ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਰਤਨ, ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਹੀਰਾ (ਮਿਲ ਪਿਆ) ਹੈ (ਜਿਸ ਨਾਲ ਮੇਰਾ ਕਠੋਰ) ਮਨ (ਮੇਰਾ ਕਠੋਰ) ਹਿਰਦਾ ਵਿੰਨ੍ਹਿਆ ਗਿਆ ਹੈ (ਨਰਮ ਹੋ ਗਿਆ ਹੈ)।",
-      "roman": "har har hīrā ratan hai merā man tan vidhā",
       "translation_ru": "Я обрёл в себе драгоценность Имени Бога, алмаз Имени, которым было пронзено и смягчено моё сердце."
     },
     {
-      "index": 5,
       "verse_id": 20275,
-      "shabad_num": 1173,
-      "shabad_id": 1173,
       "gurmukhi": "ਧੁਰਿ ਭਾਗ ਵਡੇ ਹਰਿ ਪਾਇਆ ਨਾਨਕ ਰਸਿ ਗੁਧਾ ॥੧॥",
-      "site_roman": "dhur bhāg vadē har pāiā nānak ras gudhā .1.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਆਖ-ਹੇ ਭਾਈ!) ਧੁਰ ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਤੋਂ ਵੱਡੇ ਭਾਗਾਂ ਨਾਲ ਮੈਨੂੰ ਪਰਮਾਤਮਾ ਮਿਲ ਪਿਆ ਹੈ, ਮੇਰਾ ਆਪਾ ਉਸ ਦੇ ਪ੍ਰੇਮ-ਰਸ ਵਿਚ ਭਿੱਜ ਗਿਆ ਹੈ ॥੧॥",
       "roman": "dhur bhāg vaḍe har pāiā nānak ras gudhā",
+      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਆਖ-ਹੇ ਭਾਈ!) ਧੁਰ ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਤੋਂ ਵੱਡੇ ਭਾਗਾਂ ਨਾਲ ਮੈਨੂੰ ਪਰਮਾਤਮਾ ਮਿਲ ਪਿਆ ਹੈ, ਮੇਰਾ ਆਪਾ ਉਸ ਦੇ ਪ੍ਰੇਮ-ਰਸ ਵਿਚ ਭਿੱਜ ਗਿਆ ਹੈ ॥੧॥",
       "translation_ru": "О Нанак! По великой изначальной судьбе я обрёл Бога, и моё существо пропиталось Его любовью."
     },
     {
-      "index": 6,
       "verse_id": 20276,
-      "shabad_num": 1173,
-      "shabad_id": 1173,
       "gurmukhi": "ਪੰਥੁ ਦਸਾਵਾ ਨਿਤ ਖੜੀ ਮੁੰਧ ਜੋਬਨਿ ਬਾਲੀ ਰਾਮ ਰਾਜੇ ॥",
-      "site_roman": "panth dasāvā nit kharī mundh jōban bālī rām rājē .",
-      "sahib_singh_pa": "ਹੇ ਸਤਿਗੁਰੂ! ਮੈਂ ਜੋਬਨ-ਮੱਤੀ ਅੰਞਾਣ ਜੀਵ-ਇਸਤ੍ਰੀ (ਤੇਰੇ ਦਰ ਤੇ) ਸਦਾ ਖਲੋਤੀ ਹੋਈ (ਤੈਥੋਂ ਪਤੀ-ਪ੍ਰਭੂ ਦੇ ਦੇਸ ਦਾ) ਰਾਹ ਪੁਛਦੀ ਹਾਂ।",
       "roman": "panth dasāvā nit khaṛī mundh joban bālī rām rājē",
+      "sahib_singh_pa": "ਹੇ ਸਤਿਗੁਰੂ! ਮੈਂ ਜੋਬਨ-ਮੱਤੀ ਅੰਞਾਣ ਜੀਵ-ਇਸਤ੍ਰੀ (ਤੇਰੇ ਦਰ ਤੇ) ਸਦਾ ਖਲੋਤੀ ਹੋਈ (ਤੈਥੋਂ ਪਤੀ-ਪ੍ਰਭੂ ਦੇ ਦੇਸ ਦਾ) ਰਾਹ ਪੁਛਦੀ ਹਾਂ।",
       "translation_ru": "О Сатгуру! Я, неразумная юная душа-женщина, стою у Твоей двери и спрашиваю путь к Господу."
     },
     {
-      "index": 7,
       "verse_id": 20277,
-      "shabad_num": 1173,
-      "shabad_id": 1173,
       "gurmukhi": "ਹਰਿ ਹਰਿ ਨਾਮੁ ਚੇਤਾਇ ਗੁਰ ਹਰਿ ਮਾਰਗਿ ਚਾਲੀ ॥",
-      "site_roman": "har har nām chētāi gur har mārag chālī .",
-      "sahib_singh_pa": "ਹੇ ਸਤਿਗੁਰੂ! ਮੈਨੂੰ ਪ੍ਰਭੂ-ਪਤੀ ਦਾ ਨਾਮ ਚੇਤੇ ਕਰਾਂਦਾ ਰਹੁ (ਮੇਹਰ ਕਰ) ਮੈਂ ਪਰਮਾਤਮਾ ਦੇ (ਦੇਸ ਪਹੁੰਚਣ ਵਾਲੇ) ਰਸਤੇ ਉਤੇ ਤੁਰਾਂ।",
       "roman": "har har nām chetāe gur har mārag chālī",
+      "sahib_singh_pa": "ਹੇ ਸਤਿਗੁਰੂ! ਮੈਨੂੰ ਪ੍ਰਭੂ-ਪਤੀ ਦਾ ਨਾਮ ਚੇਤੇ ਕਰਾਂਦਾ ਰਹੁ (ਮੇਹਰ ਕਰ) ਮੈਂ ਪਰਮਾਤਮਾ ਦੇ (ਦੇਸ ਪਹੁੰਚਣ ਵਾਲੇ) ਰਸਤੇ ਉਤੇ ਤੁਰਾਂ।",
       "translation_ru": "О Сатгуру! Напоминай мне Имя Господа, чтобы я шёл путём к Нему."
     },
     {
-      "index": 8,
       "verse_id": 20278,
-      "shabad_num": 1173,
-      "shabad_id": 1173,
       "gurmukhi": "ਮੇਰੈ ਮਨਿ ਤਨਿ ਨਾਮੁ ਆਧਾਰੁ ਹੈ ਹਉਮੈ ਬਿਖੁ ਜਾਲੀ ॥",
-      "site_roman": "mērai man tan nām ādhār hai haumai bikh jālī .",
+      "roman": "merē man tan nām ādhār hē haumē bikh jālī",
       "sahib_singh_pa": "ਮੇਰੇ ਮਨ ਵਿਚ ਮੇਰੇ ਹਿਰਦੇ ਵਿਚ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਹੀ ਸਹਾਰਾ ਹੈ (ਜੇ ਤੇਰੀ ਕਿਰਪਾ ਹੋਵੇ ਤਾਂ ਇਸ ਨਾਮ ਦੀ ਬਰਕਤਿ ਨਾਲ ਆਪਣੇ ਅੰਦਰੋਂ) ਮੈਂ ਹਉਮੈ-ਜ਼ਹਰ ਨੂੰ ਸਾੜ ਦਿਆਂ।",
-      "roman": "merai man tan nām ādhār hai haumai bikh jālī",
       "translation_ru": "В моём уме и сердце Имя Господа — опора, и по милости я сжигаю яд эго."
     },
     {
-      "index": 9,
       "verse_id": 20279,
-      "shabad_num": 1173,
-      "shabad_id": 1173,
       "gurmukhi": "ਜਨ ਨਾਨਕ ਸਤਿਗੁਰੁ ਮੇਲਿ ਹਰਿ ਹਰਿ ਮਿਲਿਆ ਬਨਵਾਲੀ ॥੨॥",
-      "site_roman": "jan nānak satigur mēl har har miliā banavālī .2.",
-      "sahib_singh_pa": "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ-ਹੇ ਪ੍ਰਭੂ! ਮੈਨੂੰ) ਗੁਰੂ ਮਿਲਾ! ਜੇਹੜਾ ਭੀ ਕੋਈ ਪਰਮਾਤਮਾ ਨੂੰ ਮਿਲਿਆ ਹੈ ਗੁਰੂ ਦੀ ਰਾਹੀਂ ਹੀ ਮਿਲਿਆ ਹੈ ॥੨॥",
       "roman": "jan nānak satgur mel har har miliā banvālī",
+      "sahib_singh_pa": "ਹੇ ਦਾਸ ਨਾਨਕ! (ਆਖ-ਹੇ ਪ੍ਰਭੂ! ਮੈਨੂੰ) ਗੁਰੂ ਮਿਲਾ! ਜੇਹੜਾ ਭੀ ਕੋਈ ਪਰਮਾਤਮਾ ਨੂੰ ਮਿਲਿਆ ਹੈ ਗੁਰੂ ਦੀ ਰਾਹੀਂ ਹੀ ਮਿਲਿਆ ਹੈ ॥੨॥",
       "translation_ru": "О раб Нанак! Встреть меня с Гуру — ведь только через Гуру достигают Бога."
     },
     {
-      "index": 10,
       "verse_id": 20280,
-      "shabad_num": 1173,
-      "shabad_id": 1173,
       "gurmukhi": "ਗੁਰਮੁਖਿ ਪਿਆਰੇ ਆਇ ਮਿਲੁ ਮੈ ਚਿਰੀ ਵਿਛੁੰਨੇ ਰਾਮ ਰਾਜੇ ॥",
-      "site_roman": "guramukh piārē āi mil mai chirī vishunnē rām rājē .",
+      "roman": "gurmukh piāre āe mil mē chirī vichhuṇe rām rājē",
       "sahib_singh_pa": "ਹੇ ਪਿਆਰੇ ਹਰੀ! ਮੈਨੂੰ ਚਿਰ ਦੇ ਵਿਛੁੜੇ ਹੋਏ ਨੂੰ ਗੁਰੂ ਦੀ ਰਾਹੀਂ ਆ ਮਿਲ।",
-      "roman": "gurmukh piāre āe mil mai chirī vichhuṇe rām rājē",
       "translation_ru": "О возлюбленный Господь! Приди и встреться со мной, давно разлучённым, через Гуру."
     },
     {
-      "index": 11,
       "verse_id": 20281,
-      "shabad_num": 1173,
-      "shabad_id": 1173,
       "gurmukhi": "ਮੇਰਾ ਮਨੁ ਤਨੁ ਬਹੁਤੁ ਬੈਰਾਗਿਆ ਹਰਿ ਨੈਣ ਰਸਿ ਭਿੰਨੇ ॥",
-      "site_roman": "mērā man tan bahut bairāgiā har nain ras bhinnē .",
+      "roman": "merā man tan bahut bērāgiā har nēn ras bhinne",
       "sahib_singh_pa": "ਹੇ ਹਰੀ! ਮੇਰਾ ਮਨ ਮੇਰਾ ਹਿਰਦਾ ਬਹੁਤ ਓਦਰਿਆ ਹੋਇਆ ਹੈ, ਮੇਰੀਆਂ ਅੱਖਾਂ (ਵਿਛੋੜੇ ਦੇ ਕਾਰਨ ਤੇਰੇ) ਪ੍ਰੇਮ-ਜਲ ਨਾਲ ਭਿੱਜੀਆਂ ਹੋਈਆਂ ਹਨ।",
-      "roman": "merā man tan bahut bairāgiā har nain ras bhinne",
       "translation_ru": "Моё сердце сильно истосковалось, мои глаза наполнены слезами любви к Тебе."
     },
     {
-      "index": 12,
       "verse_id": 20282,
-      "shabad_num": 1173,
-      "shabad_id": 1173,
       "gurmukhi": "ਮੈ ਹਰਿ ਪ੍ਰਭੁ ਪਿਆਰਾ ਦਸਿ ਗੁਰੁ ਮਿਲਿ ਹਰਿ ਮਨੁ ਮੰਨੇ ॥",
-      "site_roman": "mai har prabh piārā das gur mil har man mannē .",
+      "roman": "mē har prabh piārā das gur mil har man manne",
       "sahib_singh_pa": "ਹੇ ਹਰੀ! ਮੈਨੂੰ ਪਿਆਰੇ ਗੁਰੂ ਦੀ ਦੱਸ ਪਾ, ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ ਮੇਰਾ ਮਨ ਤੇਰੀ ਯਾਦ ਵਿਚ ਗਿੱਝ ਜਾਏ।",
-      "roman": "mai har prabh piārā das gur mil har man manne",
       "translation_ru": "О Господь! Покажи мне любимого Гуру, чтобы, встретив его, мой ум утвердился в Тебе."
     },
     {
-      "index": 13,
       "verse_id": 20283,
-      "shabad_num": 1173,
-      "shabad_id": 1173,
       "gurmukhi": "ਹਉ ਮੂਰਖੁ ਕਾਰੈ ਲਾਈਆ ਨਾਨਕ ਹਰਿ ਕੰਮੇ ॥੩॥",
-      "site_roman": "hau mūrakh kārai lāīā nānak har kanmē .3.",
+      "roman": "hau mūrakh kārē lāiā nānak har kamme",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਆਖ-) ਹੇ ਹਰੀ! ਮੈਂ ਮੂਰਖ ਹਾਂ, ਮੈਨੂੰ ਆਪਣੇ (ਨਾਮ ਸਿਮਰਨ ਦੇ) ਕੰਮ ਵਿਚ ਜੋੜ ॥੩॥",
-      "roman": "hau mūrakh kārai lāiā nānak har kamme",
       "translation_ru": "О Нанак! Я глуп, привлеки меня к делу воспоминания Имени."
     },
     {
-      "index": 14,
       "verse_id": 20284,
-      "shabad_num": 1173,
-      "shabad_id": 1173,
       "gurmukhi": "ਗੁਰ ਅੰਮ੍ਰਿਤ ਭਿੰਨੀ ਦੇਹੁਰੀ ਅੰਮ੍ਰਿਤੁ ਬੁਰਕੇ ਰਾਮ ਰਾਜੇ ॥",
-      "site_roman": "gur anmrit bhinnī dēhurī anmrit burakē rām rājē .",
-      "sahib_singh_pa": "ਗੁਰੂ ਦਾ ਸੋਹਣਾ ਹਿਰਦਾ ਸਦਾ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੇ ਨਾਮ-ਜਲ ਨਾਲ ਭਿੱਜਾ ਰਹਿੰਦਾ ਹੈ, ਉਹ (ਗੁਰੂ ਹੋਰਨਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਭੀ ਇਹ) ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਨਾਮ-ਜਲ ਛਿੜਕਦਾ ਰਹਿੰਦਾ ਹੈ।",
       "roman": "gur amrit bhinnī dehurī amrit burke rām rājē",
+      "sahib_singh_pa": "ਗੁਰੂ ਦਾ ਸੋਹਣਾ ਹਿਰਦਾ ਸਦਾ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੇ ਨਾਮ-ਜਲ ਨਾਲ ਭਿੱਜਾ ਰਹਿੰਦਾ ਹੈ, ਉਹ (ਗੁਰੂ ਹੋਰਨਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਭੀ ਇਹ) ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਨਾਮ-ਜਲ ਛਿੜਕਦਾ ਰਹਿੰਦਾ ਹੈ।",
       "translation_ru": "Сердце Гуру пропитано нектаром Имени, и он окропляет этим нектаром других."
     },
     {
-      "index": 15,
       "verse_id": 20285,
-      "shabad_num": 1173,
-      "shabad_id": 1173,
       "gurmukhi": "ਜਿਨਾ ਗੁਰਬਾਣੀ ਮਨਿ ਭਾਈਆ ਅੰਮ੍ਰਿਤਿ ਛਕਿ ਛਕੇ ॥",
-      "site_roman": "jinā gurabānī man bhāīā anmrit shak shakē .",
-      "sahib_singh_pa": "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਸਤਿਗੁਰੂ ਦੀ ਬਾਣੀ ਪਿਆਰੀ ਲੱਗ ਪੈਂਦੀ ਹੈ, ਬਾਣੀ ਦਾ ਰਸ ਮਾਣ ਮਾਣ ਕੇ ਉਹਨਾਂ ਦੇ ਹਿਰਦੇ ਭੀ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੇ ਨਾਮ-ਜਲ ਨਾਲ ਭਿੱਜ ਜਾਂਦੇ ਹਨ।",
       "roman": "jinā gurbāṇī man bhāīā amrit chhak chhake",
+      "sahib_singh_pa": "ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਸਤਿਗੁਰੂ ਦੀ ਬਾਣੀ ਪਿਆਰੀ ਲੱਗ ਪੈਂਦੀ ਹੈ, ਬਾਣੀ ਦਾ ਰਸ ਮਾਣ ਮਾਣ ਕੇ ਉਹਨਾਂ ਦੇ ਹਿਰਦੇ ਭੀ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੇ ਨਾਮ-ਜਲ ਨਾਲ ਭਿੱਜ ਜਾਂਦੇ ਹਨ।",
       "translation_ru": "Те, кому Гурбани становится любимой, насыщаются её нектаром и их сердца наполняются им."
     },
     {
-      "index": 16,
       "verse_id": 20286,
-      "shabad_num": 1173,
-      "shabad_id": 1173,
       "gurmukhi": "ਗੁਰ ਤੁਠੈ ਹਰਿ ਪਾਇਆ ਚੂਕੇ ਧਕ ਧਕੇ ॥",
-      "site_roman": "gur tuthai har pāiā chūkē dhak dhakē .",
+      "roman": "gur tuṭhē har pāiā chūke dhak dhake",
       "sahib_singh_pa": "ਗੁਰਾਂ ਦੇ ਪ੍ਰਸੰਨ ਹੋਣ ਤੇ ਮੈਂ ਵਾਹਿਗੁਰੂ ਨੂੰ ਪਾ ਲਿਆ ਹੈ ਅਤੇ ਹੁਣ ਮੈਨੂੰ ਧੱਕੇ ਨਹੀਂ ਪੈਣਗੇ।",
-      "roman": "gur tuṭhai har pāiā chūke dhak dhake",
       "translation_ru": "Когда Гуру доволен, обретается Бог, и прекращаются все скитания."
     },
     {
-      "index": 17,
       "verse_id": 20287,
-      "shabad_num": 1173,
-      "shabad_id": 1173,
       "gurmukhi": "ਹਰਿ ਜਨੁ ਹਰਿ ਹਰਿ ਹੋਇਆ ਨਾਨਕੁ ਹਰਿ ਇਕੇ ॥੪॥੯॥੧੬॥",
-      "site_roman": "har jan har har hōiā nānak har ikē .4.9.16.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਪਰਮਾਤਮਾ ਤੇ ਪਰਮਾਤਮਾ ਦਾ ਸੇਵਕ ਇਕ-ਰੂਪ ਹੋ ਜਾਂਦੇ ਹਨ, ਸੇਵਕ ਪਰਮਾਤਮਾ ਵਿਚ ਲੀਨ ਹੋ ਜਾਂਦਾ ਹੈ ॥੪॥੯॥੧੬॥",
       "roman": "har jan har har hoā nānak har ikē",
+      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਪਰਮਾਤਮਾ ਤੇ ਪਰਮਾਤਮਾ ਦਾ ਸੇਵਕ ਇਕ-ਰੂਪ ਹੋ ਜਾਂਦੇ ਹਨ, ਸੇਵਕ ਪਰਮਾਤਮਾ ਵਿਚ ਲੀਨ ਹੋ ਜਾਂਦਾ ਹੈ ॥੪॥੯॥੧੬॥",
       "translation_ru": "О Нанак! Слуга Бога становится единым с Богом и сливается с Ним."
     },
     {
-      "index": 18,
       "verse_id": 20288,
-      "shabad_num": 1174,
-      "shabad_id": 1174,
       "gurmukhi": "ਆਸਾ ਮਹਲਾ ੪ ॥",
-      "site_roman": "āsā mahalā 4 .",
-      "sahib_singh_pa": "None",
       "roman": "āsā mehlā 4",
+      "sahib_singh_pa": "None",
       "translation_ru": ""
     },
     {
-      "index": 19,
       "verse_id": 20289,
-      "shabad_num": 1174,
-      "shabad_id": 1174,
       "gurmukhi": "ਹਰਿ ਅੰਮ੍ਰਿਤ ਭਗਤਿ ਭੰਡਾਰ ਹੈ ਗੁਰ ਸਤਿਗੁਰ ਪਾਸੇ ਰਾਮ ਰਾਜੇ ॥",
-      "site_roman": "har anmrit bhagat bhandār hai gur satigur pāsē rām rājē .",
+      "roman": "har amrit bhagat bhaṇḍār hē gur satgur pāse rām rājē",
       "sahib_singh_pa": "ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲੀ ਪ੍ਰਭੂ ਭਗਤੀ ਦੇ ਖ਼ਜ਼ਾਨੇ ਗੁਰੂ ਸਤਿਗੁਰੂ ਦੇ ਕੋਲ ਹੀ ਹਨ।",
-      "roman": "har amrit bhagat bhaṇḍār hai gur satgur pāse rām rājē",
       "translation_ru": "Сокровища бхакти, дающей жизнь, находятся у Сатгуру."
     },
     {
-      "index": 20,
       "verse_id": 20290,
-      "shabad_num": 1174,
-      "shabad_id": 1174,
       "gurmukhi": "ਗੁਰੁ ਸਤਿਗੁਰੁ ਸਚਾ ਸਾਹੁ ਹੈ ਸਿਖ ਦੇਇ ਹਰਿ ਰਾਸੇ ॥",
-      "site_roman": "gur satigur sachā sāh hai sikh dēi har rāsē .",
+      "roman": "gur satgur sachā sāh hē sikh dei har rāse",
       "sahib_singh_pa": "ਇਸ ਸਦਾ-ਥਿਰ ਹਰਿ-ਭਗਤੀ ਦੇ ਖ਼ਜ਼ਾਨੇ ਦਾ ਸਾਹੂਕਾਰ ਗੁਰੂ ਸਤਿਗੁਰੂ ਹੀ ਹੈ, ਉਹ ਆਪਣੇ ਸਿੱਖਾਂ ਨੂੰ ਇਹ ਭਗਤੀ-ਸਰਮਾਇਆ ਦੇਂਦਾ ਹੈ।",
-      "roman": "gur satgur sachā sāh hai sikh dei har rāse",
       "translation_ru": "Сатгуру — истинный хозяин этого богатства и даёт его своим ученикам."
     },
     {
-      "index": 21,
       "verse_id": 20291,
-      "shabad_num": 1174,
-      "shabad_id": 1174,
       "gurmukhi": "ਧਨੁ ਧੰਨੁ ਵਣਜਾਰਾ ਵਣਜੁ ਹੈ ਗੁਰੁ ਸਾਹੁ ਸਾਬਾਸੇ ॥",
-      "site_roman": "dhan dhann vanajārā vanaj hai gur sāh sābāsē .",
+      "roman": "dhan dhann vaṇjārā vaṇaj hē gur sāh sābāse",
       "sahib_singh_pa": "(ਪ੍ਰਭੂ-ਭਗਤੀ ਦਾ ਵਣਜ) ਸ੍ਰੇਸ਼ਟ ਵਣਜ ਹੈ, ਭਾਗਾਂ ਵਾਲਾ ਹੈ ਉਹ ਮਨੁੱਖ ਜੋ ਇਹ ਵਣਜ ਕਰਦਾ ਹੈ, ਨਾਮ-ਧਨ ਦਾ ਸ਼ਾਹ ਗੁਰੂ ਉਸ ਮਨੁੱਖ ਨੂੰ ਸ਼ਾਬਾਸ਼ ਦੇਂਦਾ ਹੈ।",
-      "roman": "dhan dhann vaṇjārā vaṇaj hai gur sāh sābāse",
       "translation_ru": "Благословен тот торговец, кто ведёт эту торговлю Имени — Гуру одобряет его."
     },
     {
-      "index": 22,
       "verse_id": 20292,
-      "shabad_num": 1174,
-      "shabad_id": 1174,
-      "gurmukhi": "ਜਨੁ ਨਾਨਕੁ ਗੁਰੁ ਤਿਨ੍ਹੀ ਪਾਇਆ ਜਿਨ ਧੁਰਿ ਲਿਖਤੁ ਲਿਲਾਟਿ ਲਿਖਾਸੇ ॥੧॥",
-      "site_roman": "jan nānak gur tinhī pāiā jin dhur likhat lilāt likhāsē .1.",
-      "sahib_singh_pa": "ਦਾਸ ਨਾਨਕ ਆਖਦਾ ਹੈ, ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੇ ਮੱਥੇ ਉੱਤੇ ਧੁਰੋਂ ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਤੋਂ (ਇਸ ਸਰਮਾਏ ਦੀ ਪ੍ਰਾਪਤੀ ਦਾ) ਲੇਖ ਲਿਖਿਆ ਹੈ ਉਹਨਾਂ ਨੂੰ ਹੀ ਮਿਲਦਾ ਹੈ ॥੧॥",
+      "gurmukhi": "ਜਨੁ ਨਾਨਕੁ ਗੁਰੁ ਤਿਨੑੀ ਪਾਇਆ ਜਿਨ ਧੁਰਿ ਲਿਖਤੁ ਲਿਲਾਟਿ ਲਿਖਾਸੇ ॥੧॥",
       "roman": "jan nānak gur tinhī pāiā jin dhur likhat lilāṭ likhāse",
+      "sahib_singh_pa": "ਦਾਸ ਨਾਨਕ ਆਖਦਾ ਹੈ, ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੇ ਮੱਥੇ ਉੱਤੇ ਧੁਰੋਂ ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਤੋਂ (ਇਸ ਸਰਮਾਏ ਦੀ ਪ੍ਰਾਪਤੀ ਦਾ) ਲੇਖ ਲਿਖਿਆ ਹੈ ਉਹਨਾਂ ਨੂੰ ਹੀ ਮਿਲਦਾ ਹੈ ॥੧॥",
       "translation_ru": "Раб Нанак говорит: только те находят Гуру, у кого это записано судьбой."
     },
     {
-      "index": 23,
       "verse_id": 20293,
-      "shabad_num": 1174,
-      "shabad_id": 1174,
       "gurmukhi": "ਸਚੁ ਸਾਹੁ ਹਮਾਰਾ ਤੂੰ ਧਣੀ ਸਭੁ ਜਗਤੁ ਵਣਜਾਰਾ ਰਾਮ ਰਾਜੇ ॥",
-      "site_roman": "sach sāh hamārā tūn dhanī sabh jagat vanajārā rām rājē .",
-      "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਸਾਡਾ ਮਾਲਕ ਹੈਂ ਤੂੰ ਸਾਡਾ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਸ਼ਾਹ ਹੈਂ (ਤੇਰਾ ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ ਇਹ) ਸਾਰਾ ਜਗਤ ਇਥੇ ਤੇਰੇ ਦਿੱਤੇ ਨਾਮ-ਸਰਮਾਏ ਨਾਲ ਨਾਮ ਦਾ ਵਣਜ ਕਰਨ ਆਇਆ ਹੋਇਆ ਹੈ।",
       "roman": "sach sāh hamārā tūṁ dhaṇī sabh jagat vaṇjārā rām rājē",
+      "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਤੂੰ ਸਾਡਾ ਮਾਲਕ ਹੈਂ ਤੂੰ ਸਾਡਾ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਸ਼ਾਹ ਹੈਂ (ਤੇਰਾ ਪੈਦਾ ਕੀਤਾ ਹੋਇਆ ਇਹ) ਸਾਰਾ ਜਗਤ ਇਥੇ ਤੇਰੇ ਦਿੱਤੇ ਨਾਮ-ਸਰਮਾਏ ਨਾਲ ਨਾਮ ਦਾ ਵਣਜ ਕਰਨ ਆਇਆ ਹੋਇਆ ਹੈ।",
       "translation_ru": "О Господь! Ты наш истинный владыка, весь мир пришёл торговать данным Тобой Имением."
     },
     {
-      "index": 24,
       "verse_id": 20294,
-      "shabad_num": 1174,
-      "shabad_id": 1174,
       "gurmukhi": "ਸਭ ਭਾਂਡੇ ਤੁਧੈ ਸਾਜਿਆ ਵਿਚਿ ਵਸਤੁ ਹਰਿ ਥਾਰਾ ॥",
-      "site_roman": "sabh bhānhdē tudhai sājiā vich vasat har thārā .",
+      "roman": "sabh bhāṇḍe tudhē sājiā vich vast har thārā",
       "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਇਹ ਸਾਰੇ ਜੀਵ ਜੰਤ ਤੂੰ ਹੀ ਪੈਦਾ ਕੀਤੇ ਹਨ, ਇਹਨਾਂ ਦੇ ਅੰਦਰ ਤੇਰੀ ਹੀ ਦਿੱਤੀ ਹੋਈ ਜਿੰਦ-ਵਸਤ ਮੌਜੂਦ ਹੈ।",
-      "roman": "sabh bhāṇḍe tudhai sājiā vich vastu har thārā",
       "translation_ru": "Все существа созданы Тобой, и в них пребывает Твоя жизнь."
     },
     {
-      "index": 25,
       "verse_id": 20295,
-      "shabad_num": 1174,
-      "shabad_id": 1174,
       "gurmukhi": "ਜੋ ਪਾਵਹਿ ਭਾਂਡੇ ਵਿਚਿ ਵਸਤੁ ਸਾ ਨਿਕਲੈ ਕਿਆ ਕੋਈ ਕਰੇ ਵੇਚਾਰਾ ॥",
-      "site_roman": "jō pāvah bhānhdē vich vasat sā nikalai kiā kōī karē vēchārā .",
+      "roman": "jo pāveh bhāṇḍe vich vast sā nikalē kiā koī kare vechārā",
       "sahib_singh_pa": "ਕੋਈ ਵਿਚਾਰਾ ਜੀਵ (ਆਪਣੇ ਉੱਦਮ ਨਾਲ) ਕੁਝ ਭੀ ਨਹੀਂ ਕਰ ਸਕਦਾ, ਜੇਹੜਾ ਕੋਈ (ਗੁਣ ਔਗੁਣ) ਪਦਾਰਥ ਤੂੰ ਇਹਨਾਂ ਸਰੀਰਾਂ ਵਿਚ ਪਾਂਦਾ ਹੈ ਉਹੀ ਉੱਘੜਦਾ ਹੈ।",
-      "roman": "jo pāveh bhāṇḍe vich vastu sā nikalai kiā koī kare vechārā",
       "translation_ru": "Что Ты вкладываешь в эти тела, то и проявляется — никто сам ничего изменить не может."
-    },
-    {
-      "index": 26,
-      "verse_id": 20296,
-      "shabad_num": 1174,
-      "shabad_id": 1174,
-      "gurmukhi": "ਜਨ ਨਾਨਕ ਕਉ ਹਰਿ ਬਖਸਿਆ ਹਰਿ ਭਗਤਿ ਭੰਡਾਰਾ ॥੨॥",
-      "site_roman": "jan nānak kau har bakhasiā har bhagat bhandārā .2.",
-      "sahib_singh_pa": "ਹੇ ਹਰੀ! ਆਪਣੇ ਦਾਸ ਨਾਨਕ ਨੂੰ ਭੀ ਤੂੰ ਹੀ (ਮੇਹਰ ਕਰ ਕੇ) ਆਪਣੀ ਭਗਤੀ ਦਾ ਖ਼ਜ਼ਾਨਾ ਬਖ਼ਸ਼ਿਆ ਹੈ ॥੨॥",
-      "roman": "jan nānak kau har bakhsiā har bhagat bhaṇḍārā",
-      "translation_ru": "О Господь! Ты даровал рабу Нанаку сокровище преданности."
-    },
-    {
-      "index": 27,
-      "verse_id": 20297,
-      "shabad_num": 1174,
-      "shabad_id": 1174,
-      "gurmukhi": "ਹਮ ਕਿਆ ਗੁਣ ਤੇਰੇ ਵਿਥਰਹ ਸੁਆਮੀ ਤੂੰ ਅਪਰ ਅਪਾਰੋ ਰਾਮ ਰਾਜੇ ॥",
-      "site_roman": "ham kiā gun tērē vitharah suāmī tūn apar apārō rām rājē .",
-      "sahib_singh_pa": "ਹੇ ਮੇਰੇ ਮਾਲਕ! (ਤੂੰ ਬੇਅੰਤ ਗੁਣਾਂ ਦਾ ਮਾਲਕ ਹੈਂ) ਅਸੀਂ ਤੇਰੇ ਕੇਹੜੇ ਕੇਹੜੇ ਗੁਣ ਗਿਣ ਕੇ ਦੱਸ ਸਕਦੇ ਹਾਂ? ਤੂੰ ਬੇਅੰਤ ਹੈਂ, ਤੂੰ ਬੇਅੰਤ ਹੈਂ।",
-      "roman": "ham kiā guṇ tere vithrah suāmī tūṁ apar apāro rām rājē",
-      "translation_ru": "О Владыка! Как мы можем перечислить Твои качества — Ты беспредельный."
-    },
-    {
-      "index": 28,
-      "verse_id": 20298,
-      "shabad_num": 1174,
-      "shabad_id": 1174,
-      "gurmukhi": "ਹਰਿ ਨਾਮੁ ਸਾਲਾਹਹ ਦਿਨੁ ਰਾਤਿ ਏਹਾ ਆਸ ਆਧਾਰੋ ॥",
-      "site_roman": "har nām sālāhah din rāt ēhā ās ādhārō .",
-      "sahib_singh_pa": "ਹੇ ਸੁਆਮੀ! ਅਸੀਂ ਤਾਂ ਦਿਨੇ ਰਾਤ ਤੇਰੇ ਨਾਮ ਦੀ ਹੀ ਵਡਿਆਈ ਕਰਦੇ ਹਾਂ, ਸਾਡੇ ਜੀਵਨ ਦਾ ਇਹੀ ਸਹਾਰਾ ਹੈ ਇਹੀ ਆਸਰਾ ਹੈ।",
-      "roman": "har nām salāhah din rāt ehā ās ādhāro",
-      "translation_ru": "Мы днём и ночью восхваляем Твоё Имя — это наша опора."
-    },
-    {
-      "index": 29,
-      "verse_id": 20299,
-      "shabad_num": 1174,
-      "shabad_id": 1174,
-      "gurmukhi": "ਹਮ ਮੂਰਖ ਕਿਛੂਅ ਨ ਜਾਣਹਾ ਕਿਵ ਪਾਵਹ ਪਾਰੋ ॥",
-      "site_roman": "ham mūrakh kishū n jānahā kiv pāvah pārō .",
-      "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਅਸੀਂ ਮੂਰਖ ਹਾਂ, ਸਾਨੂੰ ਕੋਈ ਸਮਝ ਨਹੀਂ ਹੈ, ਅਸੀਂ ਤੇਰਾ ਅੰਤ ਕਿਵੇਂ ਪਾ ਸਕਦੇ ਹਾਂ?",
-      "roman": "ham mūrakh kichhū na jāṇahā kiv pāveh pāro",
-      "translation_ru": "Мы глупы и ничего не знаем — как нам постичь Твой предел?"
-    },
-    {
-      "index": 30,
-      "verse_id": 20300,
-      "shabad_num": 1174,
-      "shabad_id": 1174,
-      "gurmukhi": "ਜਨੁ ਨਾਨਕੁ ਹਰਿ ਕਾ ਦਾਸੁ ਹੈ ਹਰਿ ਦਾਸ ਪਨਿਹਾਰੋ ॥੩॥",
-      "site_roman": "jan nānak har kā dās hai har dās panihārō .3.",
-      "sahib_singh_pa": "ਦਾਸ ਨਾਨਕ ਤਾਂ ਪਰਮਾਤਮਾ ਦਾ ਦਾਸ ਹੈ, ਪਰਮਾਤਮਾ ਦੇ ਦਾਸਾਂ ਦਾ ਦਾਸ ਹੈ ॥੩॥",
-      "roman": "jan nānak har kā dās hai har dās panihāro",
-      "translation_ru": "Раб Нанак — слуга Бога и слуга Его слуг."
-    },
-    {
-      "index": 31,
-      "verse_id": 20301,
-      "shabad_num": 1174,
-      "shabad_id": 1174,
-      "gurmukhi": "ਜਿਉ ਭਾਵੈ ਤਿਉ ਰਾਖਿ ਲੈ ਹਮ ਸਰਣਿ ਪ੍ਰਭ ਆਏ ਰਾਮ ਰਾਜੇ ॥",
-      "site_roman": "jiu bhāvai tiu rākh lai ham saran prabh āē rām rājē .",
-      "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਅਸੀਂ ਤੇਰੀ ਸਰਨ ਆਏ ਹਾਂ, ਹੁਣ ਜਿਵੇਂ ਤੇਰੀ ਮਰਜ਼ੀ ਹੋਵੇ ਤਿਵੇਂ ਸਾਨੂੰ (ਮੰਦੇ ਕੰਮਾਂ ਤੋਂ) ਬਚਾ ਲੈ।",
-      "roman": "jiu bhāvai tiu rākh lai ham saraṇ prabh āe rām rājē",
-      "translation_ru": "О Господь! Мы пришли к Тебе в прибежище — храни нас по Своей воле."
-    },
-    {
-      "index": 32,
-      "verse_id": 20302,
-      "shabad_num": 1174,
-      "shabad_id": 1174,
-      "gurmukhi": "ਹਮ ਭੂਲਿ ਵਿਗਾੜਹ ਦਿਨਸੁ ਰਾਤਿ ਹਰਿ ਲਾਜ ਰਖਾਏ ॥",
-      "site_roman": "ham bhūl vigārah dinas rāt har lāj rakhāē .",
-      "sahib_singh_pa": "ਅਸੀਂ ਦਿਨ ਰਾਤ (ਜੀਵਨ-ਰਾਹ ਤੋਂ) ਖੁੰਝ ਕੇ (ਆਪਣੇ ਆਤਮਕ ਜੀਵਨ ਨੂੰ) ਖ਼ਰਾਬ ਕਰਦੇ ਰਹਿੰਦੇ ਹਾਂ। ਹੇ ਹਰੀ! ਸਾਡੀ ਇੱਜ਼ਤ ਰੱਖ।",
-      "roman": "ham bhūl vigāṛah dinas rāt har lāj rakhāe",
-      "translation_ru": "Мы день и ночь ошибаемся и портим себя — сохрани нашу честь."
-    },
-    {
-      "index": 33,
-      "verse_id": 20303,
-      "shabad_num": 1174,
-      "shabad_id": 1174,
-      "gurmukhi": "ਹਮ ਬਾਰਿਕ ਤੂੰ ਗੁਰੁ ਪਿਤਾ ਹੈ ਦੇ ਮਤਿ ਸਮਝਾਏ ॥",
-      "site_roman": "ham bārik tūn gur pitā hai dē mat samajhāē .",
-      "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ! ਅਸੀਂ ਤੇਰੇ ਬੱਚੇ ਹਾਂ, ਤੂੰ ਸਾਡਾ ਗੁਰੂ ਹੈਂ ਤੂੰ ਸਾਡਾ ਪਿਤਾ ਹੈਂ, ਸਾਨੂੰ ਮਤਿ ਦੇ ਕੇ ਚੰਗੀ ਸਮਝ ਬਖ਼ਸ਼।",
-      "roman": "ham bārik tūṁ gur pitā hai de mat samjhāe",
-      "translation_ru": "Мы дети Твои, Ты наш Гуру и Отец — даруй нам разум и понимание."
-    },
-    {
-      "index": 34,
-      "verse_id": 20304,
-      "shabad_num": 1174,
-      "shabad_id": 1174,
-      "gurmukhi": "ਜਨੁ ਨਾਨਕੁ ਦਾਸੁ ਹਰਿ ਕਾਂਢਿਆ ਹਰਿ ਪੈਜ ਰਖਾਏ ॥੪॥੧੦॥੧੭॥",
-      "site_roman": "jan nānak dās har kānhdhiā har paij rakhāē .4.10.17.",
-      "sahib_singh_pa": "ਹੇ ਹਰੀ! ਦਾਸ ਨਾਨਕ ਤੇਰਾ ਦਾਸ ਅਖਵਾਂਦਾ ਹੈ, (ਮੇਹਰ ਕਰ, ਆਪਣੇ ਦਾਸ ਦੀ) ਇੱਜ਼ਤ ਰੱਖ ॥੪॥੧੦॥੧੭॥",
-      "roman": "jan nānak dās har kāṇḍhiā har paij rakhāe",
-      "translation_ru": "О Господь! Раб Нанак зовётся Твоим слугой — сохрани его честь."
     }
   ]
 }

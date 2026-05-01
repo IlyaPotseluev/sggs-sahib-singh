@@ -1,930 +1,446 @@
 {
   "ang": 277,
-  "line_count": 84,
   "lines": [
     {
-      "index": 1,
-      "verse_id": 12342,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਸਲੋਕੁ ॥",
-      "site_roman": "salōk .",
-      "sahib_singh_pa": "None",
-      "roman": "salok",
-      "translation_ru": ""
-    },
-    {
-      "index": 2,
-      "verse_id": 12343,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਕਰਣ ਕਾਰਣ ਪ੍ਰਭੁ ਏਕੁ ਹੈ ਦੂਸਰ ਨਾਹੀ ਕੋਇ ॥",
-      "site_roman": "karan kāran prabh ēk hai dūsar nāhī kōi .",
-      "sahib_singh_pa": "(ਇਸ ਸਾਰੇ) ਜਗਤ ਦਾ (ਮੂਲ-) ਕਾਰਣ (ਭਾਵ, ਬਣਾਉਣ ਵਾਲਾ) ਇਕ ਅਕਾਲ ਪੁਰਖ ਹੀ ਹੈ, ਕੋਈ ਦੂਜਾ ਨਹੀਂ ਹੈ।",
-      "roman": "karaṇ kāraṇ prabh ēk hai dūsar nāhī koi",
-      "translation_ru": "Единственный Акаал Пуракх и есть причина всего этого мира, другого нет."
-    },
-    {
-      "index": 3,
-      "verse_id": 12344,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਨਾਨਕ ਤਿਸੁ ਬਲਿਹਾਰਣੈ ਜਲਿ ਥਲਿ ਮਹੀਅਲਿ ਸੋਇ ॥੧॥",
-      "site_roman": "nānak tis balihāranai jal thal mahīal sōi .1.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਮੈਂ) ਉਸ ਪ੍ਰਭੂ ਤੋਂ ਸਦਕੇ (ਹਾਂ), ਜੋ ਜਲ ਵਿਚ ਥਲ ਵਿਚ ਤੇ ਧਰਤੀ ਦੇ ਤਲ ਉਤੇ (ਭਾਵ, ਆਕਾਸ਼ ਵਿਚ ਮੌਜੂਦ ਹੈ) ॥੧॥",
-      "roman": "Nānak tis balihāraṇai jal thal mahīal soi",
-      "translation_ru": "О Нанак, я жертвую себя Тому Господу, Который присутствует в воде, на суше и над землёй, то есть в небесах. ॥1॥"
-    },
-    {
-      "index": 4,
-      "verse_id": 12345,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਅਸਟਪਦੀ ॥",
-      "site_roman": "asatapadī .",
-      "sahib_singh_pa": "None",
-      "roman": "asaṭpadī",
-      "translation_ru": ""
-    },
-    {
-      "index": 5,
-      "verse_id": 12346,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਕਰਨ ਕਰਾਵਨ ਕਰਨੈ ਜੋਗੁ ॥",
-      "site_roman": "karan karāvan karanai jōg .",
-      "sahib_singh_pa": "ਪ੍ਰਭੂ (ਸਭ ਕੁਝ) ਕਰਨ ਦੀ ਸਮਰੱਥਾ ਰੱਖਦਾ ਹੈ, ਤੇ (ਜੀਆਂ ਨੂੰ) ਕੰਮ ਕਰਨ ਲਈ ਪ੍ਰੇਰਨ ਜੋਗਾ ਭੀ ਹੈ,",
-      "roman": "karan karāvan karnai jog",
-      "translation_ru": "Господь способен всё совершать и также способен побуждать существ к действию,"
-    },
-    {
-      "index": 6,
-      "verse_id": 12347,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਜੋ ਤਿਸੁ ਭਾਵੈ ਸੋਈ ਹੋਗੁ ॥",
-      "site_roman": "jō tis bhāvai sōī hōg .",
-      "sahib_singh_pa": "ਓਹੀ ਕੁਝ ਹੁੰਦਾ ਹੈ ਜੋ ਉਸ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ।",
-      "roman": "jo tis bhāvai soi hog",
-      "translation_ru": "и происходит только то, что Ему угодно."
-    },
-    {
-      "index": 7,
-      "verse_id": 12348,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਖਿਨ ਮਹਿ ਥਾਪਿ ਉਥਾਪਨਹਾਰਾ ॥",
-      "site_roman": "khin mah thāp uthāpanahārā .",
-      "sahib_singh_pa": "ਅੱਖ ਦੇ ਫੋਰ ਵਿਚ ਜਗਤ ਨੂੰ ਪੈਦਾ ਕਰ ਕੇ ਨਾਸ ਭੀ ਕਰਨ ਵਾਲਾ ਹੈ,",
-      "roman": "khin meh thāp uthāpanhārā",
-      "translation_ru": "в мгновение ока Он создаёт мир и также уничтожает его,"
-    },
-    {
-      "index": 8,
       "verse_id": 12349,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਅੰਤੁ ਨਹੀ ਕਿਛੁ ਪਾਰਾਵਾਰਾ ॥",
-      "site_roman": "ant nahī kish pārāvārā .",
-      "sahib_singh_pa": "(ਉਸ ਦੀ ਤਾਕਤ) ਦਾ ਕੋਈ ਹੱਦ-ਬੰਨਾ ਨਹੀਂ ਹੈ।",
       "roman": "ant nahī kichh pārāvārā",
+      "sahib_singh_pa": "(ਉਸ ਦੀ ਤਾਕਤ) ਦਾ ਕੋਈ ਹੱਦ-ਬੰਨਾ ਨਹੀਂ ਹੈ।",
       "translation_ru": "у Его силы нет никакого предела."
     },
     {
-      "index": 9,
       "verse_id": 12350,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਹੁਕਮੇ ਧਾਰਿ ਅਧਰ ਰਹਾਵੈ ॥",
-      "site_roman": "hukamē dhār adhar rahāvai .",
+      "roman": "hukme dhār adhar rahāvē",
       "sahib_singh_pa": "(ਸ੍ਰਿਸ਼ਟੀ ਨੂੰ ਆਪਣੇ) ਹੁਕਮ ਵਿਚ ਪੈਦਾ ਕਰ ਕੇ ਬਿਨਾ ਕਿਸੇ ਆਸਰੇ ਟਿਕਾ ਰੱਖਦਾ ਹੈ,",
-      "roman": "hukmē dhār adhar rahāvai",
-      "translation_ru": "Сотворив творение по Своему Хукам, Он держит его без всякой опоры,"
+      "translation_ru": "По Своему Хукаму Он создаёт творение и держит его без всякой опоры,"
     },
     {
-      "index": 10,
       "verse_id": 12351,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਹੁਕਮੇ ਉਪਜੈ ਹੁਕਮਿ ਸਮਾਵੈ ॥",
-      "site_roman": "hukamē upajai hukam samāvai .",
+      "roman": "hukme upjē hukam samāvē",
       "sahib_singh_pa": "(ਜਗਤ ਉਸ ਦੇ) ਹੁਕਮ ਵਿਚ ਪੈਦਾ ਹੁੰਦਾ ਹੈ ਤੇ ਹੁਕਮ ਵਿਚ ਲੀਨ ਹੋ ਜਾਂਦਾ ਹੈ।",
-      "roman": "hukmē upjai hukam samāvai",
-      "translation_ru": "мир возникает по Его Хукам и по Хукам же сливается в Нём."
+      "translation_ru": "по Хукаму мир возникает и по Хукаму растворяется."
     },
     {
-      "index": 11,
       "verse_id": 12352,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਹੁਕਮੇ ਊਚ ਨੀਚ ਬਿਉਹਾਰ ॥",
-      "site_roman": "hukamē ūch nīch biuhār .",
+      "roman": "hukme ūch nīch biuhār",
       "sahib_singh_pa": "ਉੱਚੇ ਤੇ ਨੀਵੇਂ ਬੰਦਿਆਂ ਦੀ ਵਰਤੋਂ ਭੀ ਉਸ ਦੇ ਹੁਕਮ ਵਿਚ ਹੀ ਹੈ,",
-      "roman": "hukmē ūch nīch biuhār",
-      "translation_ru": "и высокое, и низкое положение людей тоже существует по Его Хукам,"
+      "translation_ru": "И положение высоких и низких людей тоже существует по Его Хукаму,"
     },
     {
-      "index": 12,
       "verse_id": 12353,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਹੁਕਮੇ ਅਨਿਕ ਰੰਗ ਪਰਕਾਰ ॥",
-      "site_roman": "hukamē anik rang parakār .",
+      "roman": "hukme anik raṅg parkār",
       "sahib_singh_pa": "ਅਨੇਕਾਂ ਕਿਸਮਾਂ ਦੇ ਖੇਡ-ਤਮਾਸ਼ੇ ਉਸ ਦੇ ਹੁਕਮ ਵਿਚ ਹੋ ਰਹੇ ਹਨ।",
-      "roman": "hukmē anik raṅg parkār",
-      "translation_ru": "многочисленные виды игр и зрелищ происходят по Его Хукам."
+      "translation_ru": "и бесчисленные виды игр и зрелищ происходят по Его Хукаму."
     },
     {
-      "index": 13,
       "verse_id": 12354,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਰਿ ਕਰਿ ਦੇਖੈ ਅਪਨੀ ਵਡਿਆਈ ॥",
-      "site_roman": "kar kar dēkhai apanī vadiāī .",
+      "roman": "kar kar dekhē apnī vaḍiāī",
       "sahib_singh_pa": "ਆਪਣੀ ਬਜ਼ੁਰਗੀ (ਦੇ ਕੰਮ) ਕਰ ਕਰ ਕੇ ਆਪ ਹੀ ਵੇਖ ਰਿਹਾ ਹੈ।",
-      "roman": "kar kar dēkhai apnī vaḍiāī",
-      "translation_ru": "Он Сам совершает дела Своего величия и Сам же смотрит на них."
+      "translation_ru": "Он Сам, совершая Свои великие деяния, Сам же на них и смотрит."
     },
     {
-      "index": 14,
       "verse_id": 12355,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਨਾਨਕ ਸਭ ਮਹਿ ਰਹਿਆ ਸਮਾਈ ॥੧॥",
-      "site_roman": "nānak sabh mah rahiā samāī .1.",
+      "roman": "Nānak sabh mahi rahiā samāī ॥1॥",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਪ੍ਰਭੂ ਸਭ ਜੀਵਾਂ ਵਿਚ ਵਿਆਪਕ ਹੈ ॥੧॥",
-      "roman": "Nānak sabh meh rahiā samāī",
-      "translation_ru": "О Нанак, Господь пронизывает всех существ. ॥1॥"
+      "translation_ru": "О Нанак! Господь пронизывает всех существ. ॥1॥"
     },
     {
-      "index": 15,
       "verse_id": 12356,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਪ੍ਰਭ ਭਾਵੈ ਮਾਨੁਖ ਗਤਿ ਪਾਵੈ ॥",
-      "site_roman": "prabh bhāvai mānukh gat pāvai .",
+      "roman": "prabh bhāvē mānukh gat pāvē",
       "sahib_singh_pa": "ਜੇ ਪ੍ਰਭੂ ਨੂੰ ਚੰਗੀ ਲੱਗੇ ਤਾਂ ਮਨੁੱਖ ਨੂੰ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ ਦੇਂਦਾ ਹੈ,",
-      "roman": "prabh bhāvai mānukh gat pāvai",
-      "translation_ru": "Если Господу угодно, Он даёт человеку высокое духовное состояние,"
+      "translation_ru": "Если Господу угодно, Он дарует человеку высокое духовное состояние,"
     },
     {
-      "index": 16,
       "verse_id": 12357,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਪ੍ਰਭ ਭਾਵੈ ਤਾ ਪਾਥਰ ਤਰਾਵੈ ॥",
-      "site_roman": "prabh bhāvai tā pāthar tarāvai .",
+      "roman": "prabh bhāvē tā pāthar tarāvē",
       "sahib_singh_pa": "ਅਤੇ ਪੱਥਰ (-ਦਿਲਾਂ) ਨੂੰ ਭੀ ਤਾਰ ਲੈਂਦਾ ਹੈ।",
-      "roman": "prabh bhāvai tā pāthar tarāvai",
-      "translation_ru": "и даже каменные сердца Он переправляет через мирское море."
+      "translation_ru": "и даже каменные сердцем переправляет через мир."
     },
     {
-      "index": 17,
       "verse_id": 12358,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਪ੍ਰਭ ਭਾਵੈ ਬਿਨੁ ਸਾਸ ਤੇ ਰਾਖੈ ॥",
-      "site_roman": "prabh bhāvai bin sās tē rākhai .",
+      "roman": "prabh bhāvē bin sās te rākhē",
       "sahib_singh_pa": "ਜੇ ਪ੍ਰਭੂ ਚਾਹੇ ਤਾਂ ਸੁਆਸਾਂ ਤੋਂ ਬਿਨਾ ਭੀ ਪ੍ਰਾਣੀ ਨੂੰ (ਮੌਤ ਤੋਂ) ਬਚਾ ਰੱਖਦਾ ਹੈ,",
-      "roman": "prabh bhāvai bin sās tē rākhai",
-      "translation_ru": "Если Господь пожелает, то и без дыхания сохраняет живое существо от смерти,"
+      "translation_ru": "Если Господь пожелает, Он хранит живое существо от смерти даже без дыхания,"
     },
     {
-      "index": 18,
       "verse_id": 12359,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਪ੍ਰਭ ਭਾਵੈ ਤਾ ਹਰਿ ਗੁਣ ਭਾਖੈ ॥",
-      "site_roman": "prabh bhāvai tā har gun bhākhai .",
+      "roman": "prabh bhāvē tā har guṇ bhākhē",
       "sahib_singh_pa": "ਉਸ ਦੀ ਮੇਹਰ ਹੋਵੇ ਤਾਂ ਜੀਵ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਉਂਦਾ ਹੈ।",
-      "roman": "prabh bhāvai tā har guṇ bhākhai",
-      "translation_ru": "если есть Его милость, тогда существо воспевает качества Господа."
+      "translation_ru": "если приходит Его милость, живое существо воспевает качества Господа."
     },
     {
-      "index": 19,
       "verse_id": 12360,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਪ੍ਰਭ ਭਾਵੈ ਤਾ ਪਤਿਤ ਉਧਾਰੈ ॥",
-      "site_roman": "prabh bhāvai tā patit udhārai .",
+      "roman": "prabh bhāvē tā patit udhārē",
       "sahib_singh_pa": "ਜੇ ਅਕਾਲ ਪੁਰਖ ਦੀ ਰਜ਼ਾ ਹੋਵੇ ਤਾਂ ਗਿਰੇ ਹੋਏ ਚਲਨ ਵਾਲਿਆਂ ਨੂੰ (ਵਿਕਾਰਾਂ ਤੋਂ) ਬਚਾ ਲੈਂਦਾ ਹੈ;",
-      "roman": "prabh bhāvai tā patit udhārai",
-      "translation_ru": "Если на то есть воля Акаал Пуракха, Он спасает от пороков даже падших по своему поведению,"
+      "translation_ru": "Если такова воля Акал Пуракха, Он спасает от пороков даже падших по своему поведению;"
     },
     {
-      "index": 20,
       "verse_id": 12361,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਆਪਿ ਕਰੈ ਆਪਨ ਬੀਚਾਰੈ ॥",
-      "site_roman": "āp karai āpan bīchārai .",
+      "roman": "āp karē āpan bīchārē",
       "sahib_singh_pa": "ਜੋ ਕੁਝ ਕਰਦਾ ਹੈ, ਆਪਣੀ ਸਲਾਹ ਅਨੁਸਾਰ ਕਰਦਾ ਹੈ।",
-      "roman": "āp karai āpan bīchārai",
-      "translation_ru": "всё, что Он делает, Он делает по Своему собственному замыслу."
+      "translation_ru": "что бы Он ни делал, делает по Своему собственному замыслу."
     },
     {
-      "index": 21,
       "verse_id": 12362,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਦੁਹਾ ਸਿਰਿਆ ਕਾ ਆਪਿ ਸੁਆਮੀ ॥",
-      "site_roman": "duhā siriā kā āp suāmī .",
-      "sahib_singh_pa": "ਪ੍ਰਭੂ ਆਪ ਹੀ ਲੋਕ ਪਰਲੋਕ ਦਾ ਮਾਲਕ ਹੈ,",
       "roman": "duhā siriā kā āp suāmī",
-      "translation_ru": "Сам Господь является владыкой и этого мира, и мира иного,"
+      "sahib_singh_pa": "ਪ੍ਰਭੂ ਆਪ ਹੀ ਲੋਕ ਪਰਲੋਕ ਦਾ ਮਾਲਕ ਹੈ,",
+      "translation_ru": "Господь Сам — Владыка и этого мира, и мира иного,"
     },
     {
-      "index": 22,
       "verse_id": 12363,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਖੇਲੈ ਬਿਗਸੈ ਅੰਤਰਜਾਮੀ ॥",
-      "site_roman": "khēlai bigasai antarajāmī .",
+      "roman": "khelē bigsē antarjāmī",
       "sahib_singh_pa": "ਉਹ ਸਭ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ ਆਪ ਜਗਤ-ਖੇਡ ਖੇਡਦਾ ਹੈ ਤੇ (ਇਸ ਨੂੰ ਵੇਖ ਕੇ) ਖ਼ੁਸ਼ ਹੁੰਦਾ ਹੈ।",
-      "roman": "khēlai bigsai antarjāmī",
-      "translation_ru": "всеведущий сердцевед Сам ведёт мировую игру и радуется, глядя на неё."
+      "translation_ru": "Он, Знающий сердца всех, Сам играет в мировую игру и, глядя на неё, радуется."
     },
     {
-      "index": 23,
       "verse_id": 12364,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਜੋ ਭਾਵੈ ਸੋ ਕਾਰ ਕਰਾਵੈ ॥",
-      "site_roman": "jō bhāvai sō kār karāvai .",
+      "roman": "jo bhāvē so kār karāvē",
       "sahib_singh_pa": "ਜੋ ਉਸ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ ਉਹੀ ਕੰਮ ਕਰਦਾ ਹੈ।",
-      "roman": "jo bhāvai so kār karāvai",
-      "translation_ru": "Он делает только то дело, которое Ему нравится."
+      "translation_ru": "Что Ему нравится, то дело Он и совершает."
     },
     {
-      "index": 24,
       "verse_id": 12365,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਨਾਨਕ ਦ੍ਰਿਸਟੀ ਅਵਰੁ ਨ ਆਵੈ ॥੨॥",
-      "site_roman": "nānak drisatī avar n āvai .2.",
+      "roman": "Nānak drisṭī avar na āvē ॥2॥",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਉਸ ਵਰਗਾ) ਕੋਈ ਹੋਰ ਨਹੀਂ ਦਿੱਸਦਾ ॥੨॥",
-      "roman": "Nānak drisaṭ avar na āvai",
-      "translation_ru": "О Нанак, никого другого, подобного Ему, не видно. ॥2॥"
+      "translation_ru": "О Нанак! Другого, подобного Ему, не видно. ॥2॥"
     },
     {
-      "index": 25,
       "verse_id": 12366,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਹੁ ਮਾਨੁਖ ਤੇ ਕਿਆ ਹੋਇ ਆਵੈ ॥",
-      "site_roman": "kah mānukh tē kiā hōi āvai .",
+      "roman": "kah mānukh te kiā hoe āvē",
       "sahib_singh_pa": "ਦੱਸੋ, ਮਨੁੱਖ ਪਾਸੋਂ (ਆਪਣੇ ਆਪ) ਕੇਹੜਾ ਕੰਮ ਹੋ ਸਕਦਾ ਹੈ?",
-      "roman": "kahu mānukh tē kiā hoi āvai",
-      "translation_ru": "Скажите, какое дело человек способен совершить сам по себе?"
+      "translation_ru": "Скажите, что человек может сделать сам по себе?"
     },
     {
-      "index": 26,
       "verse_id": 12367,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਜੋ ਤਿਸੁ ਭਾਵੈ ਸੋਈ ਕਰਾਵੈ ॥",
-      "site_roman": "jō tis bhāvai sōī karāvai .",
+      "roman": "jo tis bhāvē soe karāvē",
       "sahib_singh_pa": "ਜੋ ਪ੍ਰਭੂ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ, ਉਹੀ (ਜੀਵ ਪਾਸੋਂ) ਕਰਾਉਂਦਾ ਹੈ।",
-      "roman": "jo tis bhāvai soi karāvai",
-      "translation_ru": "Он побуждает существо делать только то, что угодно Ему."
+      "translation_ru": "Что Господу угодно, то Он и заставляет живое существо делать."
     },
     {
-      "index": 27,
       "verse_id": 12368,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਇਸ ਕੈ ਹਾਥਿ ਹੋਇ ਤਾ ਸਭੁ ਕਿਛੁ ਲੇਇ ॥",
-      "site_roman": "is kai hāth hōi tā sabh kish lēi .",
+      "roman": "is kē hāth hoe tā sabh kichh lei",
       "sahib_singh_pa": "ਇਸ (ਮਨੁੱਖ) ਦੇ ਵੱਸ ਹੋਵੇ ਤਾਂ ਹਰੇਕ ਚੀਜ਼ ਸਾਂਭ ਲਏ,",
-      "roman": "is kai hāth hoi tā sabh kichh lei",
-      "translation_ru": "Если бы это было во власти человека, он удержал бы каждую вещь при себе,"
+      "translation_ru": "Будь это во власти человека, он удержал бы всякую вещь,"
     },
     {
-      "index": 28,
       "verse_id": 12369,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਜੋ ਤਿਸੁ ਭਾਵੈ ਸੋਈ ਕਰੇਇ ॥",
-      "site_roman": "jō tis bhāvai sōī karēi .",
+      "roman": "jo tis bhāvē soe karei",
       "sahib_singh_pa": "(ਪਰ) ਪ੍ਰਭੂ ਉਹੀ ਕੁਝ ਕਰਦਾ ਹੈ ਜੋ ਉਸ ਨੂੰ ਭਾਉਂਦਾ ਹੈ।",
-      "roman": "jo tis bhāvai soi karei",
       "translation_ru": "но Господь делает только то, что Ему по нраву."
     },
     {
-      "index": 29,
       "verse_id": 12370,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਅਨਜਾਨਤ ਬਿਖਿਆ ਮਹਿ ਰਚੈ ॥",
-      "site_roman": "anajānat bikhiā mah rachai .",
+      "roman": "anjānat bikhiā mah rachē",
       "sahib_singh_pa": "ਮੂਰਖਤਾ ਦੇ ਕਾਰਣ ਮਨੁੱਖ ਮਾਇਆ ਵਿਚ ਰੁੱਝ ਜਾਂਦਾ ਹੈ,",
-      "roman": "anjānat bikhiā meh rachai",
-      "translation_ru": "Из-за невежества человек увлекается майей,"
+      "translation_ru": "По своей глупости человек запутывается в майе,"
     },
     {
-      "index": 30,
       "verse_id": 12371,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਜੇ ਜਾਨਤ ਆਪਨ ਆਪ ਬਚੈ ॥",
-      "site_roman": "jē jānat āpan āp bachai .",
+      "roman": "je jānat āpan āp bachē",
       "sahib_singh_pa": "ਜੇ ਸਮਝ ਵਾਲਾ ਹੋਵੇ ਤਾਂ ਆਪਣੇ ਆਪ (ਇਸ ਤੋਂ) ਬਚਿਆ ਰਹੇ;",
-      "roman": "jē jānat āpan āp bachai",
-      "translation_ru": "а если бы у него было понимание, он сам уберёг бы себя от этого;"
+      "translation_ru": "а если бы был разумен, то сам бы уберёгся от этого;"
     },
     {
-      "index": 31,
       "verse_id": 12372,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਭਰਮੇ ਭੂਲਾ ਦਹ ਦਿਸਿ ਧਾਵੈ ॥",
-      "site_roman": "bharamē bhūlā dah dis dhāvai .",
+      "roman": "bharme bhūlā dah dis dhāvē",
       "sahib_singh_pa": "(ਪਰ ਇਸ ਦਾ ਮਨ) ਭੁਲੇਖੇ ਵਿਚ ਭੁੱਲਾ ਹੋਇਆ (ਮਾਇਆ ਦੀ ਖ਼ਾਤਿਰ) ਦਸੀਂ ਪਾਸੀਂ ਦੌੜਦਾ ਹੈ,",
-      "roman": "bharamē bhūlā dah dis dhāvai",
-      "translation_ru": "но его ум, сбившись в заблуждении, носится по десяти направлениям ради майи,"
+      "translation_ru": "но его ум, заблудившись в обмане, мечется ради майи во все десять сторон,"
     },
     {
-      "index": 32,
       "verse_id": 12373,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਨਿਮਖ ਮਾਹਿ ਚਾਰਿ ਕੁੰਟ ਫਿਰਿ ਆਵੈ ॥",
-      "site_roman": "nimakh māh chār kunt phir āvai .",
+      "roman": "nimakh māh chār kuṇṭ phir āvē",
       "sahib_singh_pa": "ਅੱਖ ਦੇ ਫੋਰ ਵਿਚ ਚਹੁੰ ਕੂਟਾਂ ਵਿਚ ਭੱਜ ਦੌੜ ਆਉਂਦਾ ਹੈ।",
-      "roman": "nimakh māhi chār kuṇṭ phir āvai",
-      "translation_ru": "в одно мгновение он бегает по всем четырём сторонам света."
+      "translation_ru": "в мгновение ока носится по четырём сторонам света."
     },
     {
-      "index": 33,
       "verse_id": 12374,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਰਿ ਕਿਰਪਾ ਜਿਸੁ ਅਪਨੀ ਭਗਤਿ ਦੇਇ ॥",
-      "site_roman": "kar kirapā jis apanī bhagat dēi .",
+      "roman": "kar kirpā jis apnī bhagat dei",
       "sahib_singh_pa": "(ਪ੍ਰਭੂ) ਮੇਹਰ ਕਰ ਕੇ ਜਿਸ ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਆਪਣੀ ਭਗਤੀ ਬਖ਼ਸ਼ਦਾ ਹੈ,",
-      "roman": "kar kirpā jis apnī bhagat dēi",
-      "translation_ru": "Кому Господь по милости дарует Свою бхагати,"
+      "translation_ru": "Кому Господь по милости дарует Своё бхагти,"
     },
     {
-      "index": 34,
       "verse_id": 12375,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਨਾਨਕ ਤੇ ਜਨ ਨਾਮਿ ਮਿਲੇਇ ॥੩॥",
-      "site_roman": "nānak tē jan nām milēi .3.",
+      "roman": "Nānak te jan nām milei ॥3॥",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਉਹ ਮਨੁੱਖ ਨਾਮ ਵਿਚ ਟਿਕੇ ਰਹਿੰਦੇ ਹਨ ॥੩॥",
-      "roman": "Nānak tē jan nām milei",
       "translation_ru": "о Нанак, те люди пребывают в Имени. ॥3॥"
     },
     {
-      "index": 35,
       "verse_id": 12376,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਖਿਨ ਮਹਿ ਨੀਚ ਕੀਟ ਕਉ ਰਾਜ ॥",
-      "site_roman": "khin mah nīch kīt kau rāj .",
+      "roman": "khin mah nīch kīṭ kau rāj",
       "sahib_singh_pa": "ਖਿਣ ਵਿਚ ਪ੍ਰਭੂ ਕੀੜੇ (ਵਰਗੇ) ਨੀਵੇਂ (ਮਨੁੱਖ) ਨੂੰ ਰਾਜ ਦੇ ਦੇਂਦਾ ਹੈ,",
-      "roman": "khin meh nīch kīṭ kau rāj",
-      "translation_ru": "В одно мгновение Господь даёт царство низкому человеку, подобному червю,"
+      "translation_ru": "В миг Господь может дать царство даже низкому человеку, подобному червю,"
     },
     {
-      "index": 36,
       "verse_id": 12377,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਪਾਰਬ੍ਰਹਮ ਗਰੀਬ ਨਿਵਾਜ ॥",
-      "site_roman": "pārabraham garīb nivāj .",
+      "roman": "Pārbrahm garīb nivāj",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਗ਼ਰੀਬਾਂ ਤੇ ਮੇਹਰ ਕਰਨ ਵਾਲਾ ਹੈ।",
-      "roman": "pārbrahm garīb nivāj",
-      "translation_ru": "Парбрахм милостив к бедным."
+      "translation_ru": "ведь Господь милостив к бедным."
     },
     {
-      "index": 37,
       "verse_id": 12378,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਜਾ ਕਾ ਦ੍ਰਿਸਟਿ ਕਛੂ ਨ ਆਵੈ ॥",
-      "site_roman": "jā kā drisat kashū n āvai .",
+      "roman": "jā kā drisṭ kachhū na āvē",
       "sahib_singh_pa": "ਜਿਸ ਮਨੁੱਖ ਦਾ ਕੋਈ ਗੁਣ ਨਹੀਂ ਦਿੱਸ ਆਉਂਦਾ,",
-      "roman": "jā kā drisaṭ kachhū na āvai",
-      "translation_ru": "Человека, у которого не видно никаких достоинств,"
+      "translation_ru": "Тот, в ком не видно никаких достоинств,"
     },
     {
-      "index": 38,
       "verse_id": 12379,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਤਿਸੁ ਤਤਕਾਲ ਦਹ ਦਿਸ ਪ੍ਰਗਟਾਵੈ ॥",
-      "site_roman": "tis tatakāl dah dis pragatāvai .",
+      "roman": "tis tatkāl dah dis pragaṭāvē",
       "sahib_singh_pa": "ਉਸ ਨੂੰ ਪਲਕ ਵਿਚ ਦਸੀਂ ਪਾਸੀਂ ਉੱਘਾ ਕਰ ਦੇਂਦਾ ਹੈ।",
-      "roman": "tis tatkāl dah dis pragaṭāvai",
-      "translation_ru": "Он в один миг делает известным во всех десяти направлениях."
+      "translation_ru": "может в одно мгновение стать прославленным во всех десяти направлениях."
     },
     {
-      "index": 39,
       "verse_id": 12380,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਜਾ ਕਉ ਅਪੁਨੀ ਕਰੈ ਬਖਸੀਸ ॥",
-      "site_roman": "jā kau apunī karai bakhasīs .",
+      "roman": "jā kau apunī karē bakhsīs",
       "sahib_singh_pa": "ਜਿਸ ਮਨੁੱਖ ਤੇ ਜਗਤ ਦਾ ਮਾਲਕ ਪ੍ਰਭੂ ਆਪਣੀ ਬਖ਼ਸ਼ਸ਼ ਕਰਦਾ ਹੈ;",
-      "roman": "jā kau apunī karai bakhsīs",
-      "translation_ru": "Тому человеку, на которого Владыка мира изливает Свою милость,"
+      "translation_ru": "На кого Владыка мира изливает Свою милость,"
     },
     {
-      "index": 40,
       "verse_id": 12381,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਤਾ ਕਾ ਲੇਖਾ ਨ ਗਨੈ ਜਗਦੀਸ ॥",
-      "site_roman": "tā kā lēkhā n ganai jagadīs .",
+      "roman": "tā kā lekhā na ganē Jagdīs",
       "sahib_singh_pa": "ਉਸ ਦਾ (ਕਰਮਾਂ ਦਾ) ਲੇਖਾ ਨਹੀਂ ਗਿਣਦਾ।",
-      "roman": "tā kā lēkhā na gaṇai jagdīs",
-      "translation_ru": "Владыка мира не засчитывает его кармический счёт."
+      "translation_ru": "того счета его деяниям Владыка мира не ведёт."
     },
     {
-      "index": 41,
       "verse_id": 12382,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਜੀਉ ਪਿੰਡੁ ਸਭ ਤਿਸ ਕੀ ਰਾਸਿ ॥",
-      "site_roman": "jīu pind sabh tis kī rās .",
-      "sahib_singh_pa": "ਇਹ ਜਿੰਦ ਤੇ ਸਰੀਰ ਸਭ ਉਸ ਪ੍ਰਭੂ ਦੀ ਦਿੱਤੀ ਹੋਈ ਪੂੰਜੀ ਹੈ,",
       "roman": "jīu piṇḍ sabh tis kī rās",
-      "translation_ru": "Эта душа и это тело — всё это данный Им капитал,"
+      "sahib_singh_pa": "ਇਹ ਜਿੰਦ ਤੇ ਸਰੀਰ ਸਭ ਉਸ ਪ੍ਰਭੂ ਦੀ ਦਿੱਤੀ ਹੋਈ ਪੂੰਜੀ ਹੈ,",
+      "translation_ru": "Эта душа и это тело — всё капитал, данный тем Господом,"
     },
     {
-      "index": 42,
       "verse_id": 12383,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਘਟਿ ਘਟਿ ਪੂਰਨ ਬ੍ਰਹਮ ਪ੍ਰਗਾਸ ॥",
-      "site_roman": "ghat ghat pūran braham pragās .",
-      "sahib_singh_pa": "ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਵਿਆਪਕ ਪ੍ਰਭੂ ਦਾ ਹੀ ਜਲਵਾ ਹੈ।",
       "roman": "ghaṭ ghaṭ pūran brahm pragās",
-      "translation_ru": "в каждом теле сияет только всепроникающий Брахм."
+      "sahib_singh_pa": "ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਵਿਆਪਕ ਪ੍ਰਭੂ ਦਾ ਹੀ ਜਲਵਾ ਹੈ।",
+      "translation_ru": "в каждом теле сияет только вездесущий Господь."
     },
     {
-      "index": 43,
       "verse_id": 12384,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਅਪਨੀ ਬਣਤ ਆਪਿ ਬਨਾਈ ॥",
-      "site_roman": "apanī banat āp banāī .",
-      "sahib_singh_pa": "ਇਹ (ਜਗਤ-) ਰਚਨਾ ਉਸ ਨੇ ਆਪ ਰਚੀ ਹੈ।",
       "roman": "apnī baṇat āp banāī",
-      "translation_ru": "Это устроение мира Он Сам создал."
+      "sahib_singh_pa": "ਇਹ (ਜਗਤ-) ਰਚਨਾ ਉਸ ਨੇ ਆਪ ਰਚੀ ਹੈ।",
+      "translation_ru": "Это мироздание Он Сам создал."
     },
     {
-      "index": 44,
       "verse_id": 12385,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਨਾਨਕ ਜੀਵੈ ਦੇਖਿ ਬਡਾਈ ॥੪॥",
-      "site_roman": "nānak jīvai dēkh badāī .4.",
+      "roman": "Nānak jīvē dekhi baḍāī ॥4॥",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਆਪਣੀ (ਇਸ) ਬਜ਼ੁਰਗੀ ਨੂੰ ਆਪ ਵੇਖ ਕੇ ਖ਼ੁਸ਼ ਹੋ ਰਿਹਾ ਹੈ ॥੪॥",
-      "roman": "Nānak jīvai dēkh baḍāī",
-      "translation_ru": "О Нанак, глядя на это Своё величие, Он Сам радуется. ॥4॥"
+      "translation_ru": "О Нанак! Видя это Своё величие, Он Сам радуется. ॥4॥"
     },
     {
-      "index": 45,
       "verse_id": 12386,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਇਸ ਕਾ ਬਲੁ ਨਾਹੀ ਇਸੁ ਹਾਥ ॥",
-      "site_roman": "is kā bal nāhī is hāth .",
-      "sahib_singh_pa": "ਇਸ (ਜੀਵ) ਦੀ ਤਾਕਤ ਇਸ ਦੇ ਆਪਣੇ ਹੱਥ ਨਹੀਂ ਹੈ,",
       "roman": "is kā bal nāhī is hāth",
+      "sahib_singh_pa": "ਇਸ (ਜੀਵ) ਦੀ ਤਾਕਤ ਇਸ ਦੇ ਆਪਣੇ ਹੱਥ ਨਹੀਂ ਹੈ,",
       "translation_ru": "Сила этого существа не находится в его собственных руках,"
     },
     {
-      "index": 46,
       "verse_id": 12387,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਰਨ ਕਰਾਵਨ ਸਰਬ ਕੋ ਨਾਥ ॥",
-      "site_roman": "karan karāvan sarab kō nāth .",
-      "sahib_singh_pa": "ਸਭ ਜੀਵਾਂ ਦਾ ਮਾਲਕ ਪ੍ਰਭੂ ਆਪ ਸਭ ਕੁਝ ਕਰਨ ਕਰਾਉਣ ਦੇ ਸਮਰੱਥ ਹੈ।",
       "roman": "karan karāvan sarab ko nāth",
-      "translation_ru": "Господь, Владыка всех существ, Сам способен всё делать и побуждать ко всему."
+      "sahib_singh_pa": "ਸਭ ਜੀਵਾਂ ਦਾ ਮਾਲਕ ਪ੍ਰਭੂ ਆਪ ਸਭ ਕੁਝ ਕਰਨ ਕਰਾਉਣ ਦੇ ਸਮਰੱਥ ਹੈ।",
+      "translation_ru": "Владыка всех существ Сам способен всё делать и побуждать ко всему."
     },
     {
-      "index": 47,
       "verse_id": 12388,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਆਗਿਆਕਾਰੀ ਬਪੁਰਾ ਜੀਉ ॥",
-      "site_roman": "āgiākārī bapurā jīu .",
-      "sahib_singh_pa": "ਵਿਚਾਰਾ ਜੀਵ ਪ੍ਰਭੂ ਦੇ ਹੁਕਮ ਵਿਚ ਹੀ ਤੁਰਨ ਵਾਲਾ ਹੈ,",
       "roman": "āgiākārī bapurā jīu",
-      "translation_ru": "Бедное существо только и может идти по Хукам Господа,"
+      "sahib_singh_pa": "ਵਿਚਾਰਾ ਜੀਵ ਪ੍ਰਭੂ ਦੇ ਹੁਕਮ ਵਿਚ ਹੀ ਤੁਰਨ ਵਾਲਾ ਹੈ,",
+      "translation_ru": "Бедное живое существо лишь следует Хукаму Господа,"
     },
     {
-      "index": 48,
       "verse_id": 12389,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਜੋ ਤਿਸੁ ਭਾਵੈ ਸੋਈ ਫੁਨਿ ਥੀਉ ॥",
-      "site_roman": "jō tis bhāvai sōī phun thīu .",
+      "roman": "jo tis bhāvē soe phun thīu",
       "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਹੁੰਦਾ ਓਹੀ ਹੈ ਜੋ ਉਸ ਪ੍ਰਭੂ ਨੂੰ ਭਾਉਂਦਾ ਹੈ।",
-      "roman": "jo tis bhāvai soi phun thīu",
-      "translation_ru": "потому что происходит лишь то, что угодно этому Господу."
+      "translation_ru": "потому что происходит только то, что угодно тому Господу."
     },
     {
-      "index": 49,
       "verse_id": 12390,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਬਹੂ ਊਚ ਨੀਚ ਮਹਿ ਬਸੈ ॥",
-      "site_roman": "kabahū ūch nīch mah basai .",
+      "roman": "kabhū ūch nīch mah basē",
       "sahib_singh_pa": "(ਪ੍ਰਭੂ ਆਪ) ਕਦੇ ਉੱਚਿਆਂ ਵਿਚ ਕਦੇ ਨੀਵਿਆਂ ਵਿਚ ਪ੍ਰਗਟ ਹੋ ਰਿਹਾ ਹੈ,",
-      "roman": "kabahū ūch nīch meh basai",
-      "translation_ru": "Иногда Он проявляется среди высоких, иногда среди низких,"
+      "translation_ru": "Иногда Сам Господь проявляется среди высоких, а иногда среди низких,"
     },
     {
-      "index": 50,
       "verse_id": 12391,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਬਹੂ ਸੋਗ ਹਰਖ ਰੰਗਿ ਹਸੈ ॥",
-      "site_roman": "kabahū sōg harakh rang hasai .",
+      "roman": "kabhū sog harakh raṅg hasē",
       "sahib_singh_pa": "ਕਦੇ ਚਿੰਤਾ ਵਿਚ ਹੈ ਤੇ ਕਦੇ ਖੁਸ਼ੀ ਦੀ ਮੌਜ ਵਿਚ ਹੱਸ ਰਿਹਾ ਹੈ;",
-      "roman": "kabahū sog harakh raṅg hasai",
-      "translation_ru": "иногда пребывает в печали, а иногда смеётся в волне радости;"
+      "translation_ru": "иногда пребывает в печали, а иногда смеётся в радости и веселье;"
     },
     {
-      "index": 51,
       "verse_id": 12392,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਬਹੂ ਨਿੰਦ ਚਿੰਦ ਬਿਉਹਾਰ ॥",
-      "site_roman": "kabahū nind chind biuhār .",
+      "roman": "kabhū nind chind biuhār",
       "sahib_singh_pa": "ਕਦੇ (ਦੂਜਿਆਂ ਦੀ) ਨਿੰਦਿਆ ਵਿਚਾਰਨ ਦਾ ਵਿਹਾਰ ਬਣਾਈ ਬੈਠਾ ਹੈ,",
-      "roman": "kabahū nind chind biuhār",
-      "translation_ru": "иногда занят раздумыванием и пересудами о других,"
+      "translation_ru": "иногда занят разбором и осуждением других,"
     },
     {
-      "index": 52,
       "verse_id": 12393,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਬਹੂ ਊਭ ਅਕਾਸ ਪਇਆਲ ॥",
-      "site_roman": "kabahū ūbh akās paiāl .",
+      "roman": "kabhū ūbh akās paiāl",
       "sahib_singh_pa": "ਕਦੇ (ਖ਼ੁਸ਼ੀ ਦੇ ਕਾਰਣ) ਅਕਾਸ਼ ਵਿਚ ਉੱਚਾ (ਚੜ੍ਹਦਾ ਹੈ) (ਕਦੇ ਚਿੰਤਾ ਦੇ ਕਾਰਣ) ਪਤਾਲ ਵਿਚ (ਡਿੱਗਾ ਪਿਆ ਹੈ);",
-      "roman": "kabahū ūbh akāś paiāl",
-      "translation_ru": "иногда поднимается высоко в небо, а иногда лежит в патаале;"
+      "translation_ru": "иногда поднимается высоко до неба, а иногда падает в подземный мир;"
     },
     {
-      "index": 53,
       "verse_id": 12394,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਬਹੂ ਬੇਤਾ ਬ੍ਰਹਮ ਬੀਚਾਰ ॥",
-      "site_roman": "kabahū bētā braham bīchār .",
+      "roman": "kabhū betā brahm bīchār",
       "sahib_singh_pa": "ਕਦੇ ਆਪ ਹੀ ਰੱਬੀ ਵਿਚਾਰ ਦਾ ਮਹਰਮ ਹੈ।",
-      "roman": "kabahū bētā brahm bīchār",
-      "translation_ru": "иногда Сам является знатоком Божественного размышления."
+      "translation_ru": "иногда Сам является знатоком божественного размышления."
     },
     {
-      "index": 54,
       "verse_id": 12395,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਨਾਨਕ ਆਪਿ ਮਿਲਾਵਣਹਾਰ ॥੫॥",
-      "site_roman": "nānak āp milāvanahār .5.",
+      "roman": "Nānak āp milāvaṇhār ॥5॥",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਜੀਵਾਂ ਨੂੰ ਆਪਣੇ ਵਿਚ ਮੇਲਣ ਵਾਲਾ ਆਪ ਹੀ ਹੈ ॥੫॥",
-      "roman": "Nānak āp milāvaṇhār",
-      "translation_ru": "О Нанак, Сам Он и соединяет существ с Собой. ॥5॥"
+      "translation_ru": "О Нанак! Он Сам соединяет живых существ с Собой. ॥5॥"
     },
     {
-      "index": 55,
       "verse_id": 12396,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਬਹੂ ਨਿਰਤਿ ਕਰੈ ਬਹੁ ਭਾਤਿ ॥",
-      "site_roman": "kabahū nirat karai bah bhāt .",
+      "roman": "kabhū nirat karē bah bhāt",
       "sahib_singh_pa": "(ਪ੍ਰਭੂ ਜੀਵਾਂ ਵਿਚ ਵਿਆਪਕ ਹੋ ਕੇ) ਕਦੇ ਕਈ ਕਿਸਮਾਂ ਦੇ ਨਾਚ ਕਰ ਰਿਹਾ ਹੈ,",
-      "roman": "kabahū nirat karai bahu bhāt",
-      "translation_ru": "Иногда, пребывая во всех существах, Он исполняет многие виды танца,"
+      "translation_ru": "Иногда, пронизывая живых существ, Он совершает множество разных танцев,"
     },
     {
-      "index": 56,
       "verse_id": 12397,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਬਹੂ ਸੋਇ ਰਹੈ ਦਿਨੁ ਰਾਤਿ ॥",
-      "site_roman": "kabahū sōi rahai din rāt .",
+      "roman": "kabhū soe rahē din rāt",
       "sahib_singh_pa": "ਕਦੇ ਦਿਨੇ ਰਾਤ ਸੁੱਤਾ ਰਹਿੰਦਾ ਹੈ।",
-      "roman": "kabahū soi rahai din rāt",
-      "translation_ru": "иногда днём и ночью спит."
+      "translation_ru": "иногда день и ночь спит."
     },
     {
-      "index": 57,
       "verse_id": 12398,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਬਹੂ ਮਹਾ ਕ੍ਰੋਧ ਬਿਕਰਾਲ ॥",
-      "site_roman": "kabahū mahā krōdh bikarāl .",
+      "roman": "kabhū mahā krodh bikrāl",
       "sahib_singh_pa": "ਕਦੇ ਕ੍ਰੋਧ (ਵਿਚ ਆ ਕੇ) ਬੜਾ ਡਰਾਉਣਾ (ਲੱਗਦਾ ਹੈ),",
-      "roman": "kabahū mahā krodh bikrāl",
-      "translation_ru": "Иногда, придя в гнев, становится очень страшным,"
+      "translation_ru": "Иногда в гневе выглядит очень страшным,"
     },
     {
-      "index": 58,
       "verse_id": 12399,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਬਹੂੰ ਸਰਬ ਕੀ ਹੋਤ ਰਵਾਲ ॥",
-      "site_roman": "kabahūn sarab kī hōt ravāl .",
+      "roman": "kabhūṅ sarab kī hot ravāl",
       "sahib_singh_pa": "ਕਦੇ ਜੀਵਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਧੂੜ (ਬਣਿਆ ਰਹਿੰਦਾ ਹੈ);",
-      "roman": "kabahūṃ sarab kī hot ravāl",
-      "translation_ru": "а иногда остаётся пылью под ногами всех существ;"
+      "translation_ru": "иногда становится пылью у ног всех живых существ;"
     },
     {
-      "index": 59,
       "verse_id": 12400,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਬਹੂ ਹੋਇ ਬਹੈ ਬਡ ਰਾਜਾ ॥",
-      "site_roman": "kabahū hōi bahai bad rājā .",
+      "roman": "kabhū hoe bahē baḍ rājā",
       "sahib_singh_pa": "ਕਦੇ ਵੱਡਾ ਰਾਜਾ ਬਣ ਬੈਠਦਾ ਹੈ,",
-      "roman": "kabahū hoi bahai baḍ rājā",
       "translation_ru": "иногда восседает как великий царь,"
     },
     {
-      "index": 60,
       "verse_id": 12401,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਬਹੁ ਭੇਖਾਰੀ ਨੀਚ ਕਾ ਸਾਜਾ ॥",
-      "site_roman": "kabah bhēkhārī nīch kā sājā .",
+      "roman": "kabh bhekhārī nīch kā sājā",
       "sahib_singh_pa": "ਕਦੇ ਇਕ ਨੀਵੀਂ ਜਾਤਿ ਦੇ ਮੰਗਤੇ ਦਾ ਸਾਂਗ (ਬਣਾ ਰੱਖਿਆ ਹੈ);",
-      "roman": "kabahu bhēkhārī nīch kā sājā",
-      "translation_ru": "а иногда принял облик нищего из низкой касты;"
+      "translation_ru": "иногда принимает облик нищего из низкой касты;"
     },
     {
-      "index": 61,
       "verse_id": 12402,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਬਹੂ ਅਪਕੀਰਤਿ ਮਹਿ ਆਵੈ ॥",
-      "site_roman": "kabahū apakīrat mah āvai .",
+      "roman": "kabhū apkīrat mah āvē",
       "sahib_singh_pa": "ਕਦੇ ਆਪਣੀ ਬਦਨਾਮੀ ਕਰਾ ਰਿਹਾ ਹੈ,",
-      "roman": "kabahū apkīrat meh āvai",
-      "translation_ru": "иногда навлекает на себя дурную славу,"
+      "translation_ru": "иногда сам навлекает на себя дурную славу,"
     },
     {
-      "index": 62,
       "verse_id": 12403,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਬਹੂ ਭਲਾ ਭਲਾ ਕਹਾਵੈ ॥",
-      "site_roman": "kabahū bhalā bhalā kahāvai .",
+      "roman": "kabhū bhalā bhalā kahāvē",
       "sahib_singh_pa": "ਕਦੇ ਚੰਗਾ ਅਖਵਾ ਰਿਹਾ ਹੈ;",
-      "roman": "kabahū bhalā bhalā kahāvai",
-      "translation_ru": "а иногда зовётся хорошим;"
+      "translation_ru": "иногда даёт называть себя хорошим;"
     },
     {
-      "index": 63,
       "verse_id": 12404,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਜਿਉ ਪ੍ਰਭੁ ਰਾਖੈ ਤਿਵ ਹੀ ਰਹੈ ॥",
-      "site_roman": "jiu prabh rākhai tiv hī rahai .",
+      "roman": "jiu prabh rākhē tiv hī rahē",
       "sahib_singh_pa": "ਜੀਵ ਉਸੇ ਤਰ੍ਹਾਂ ਜੀਵਨ ਬਿਤੀਤ ਕਰਦਾ ਹੈ ਜਿਵੇਂ ਪ੍ਰਭੂ ਕਰਾਉਂਦਾ ਹੈ।",
-      "roman": "jiu prabh rākhai tiv hī rahai",
-      "translation_ru": "Существо проводит жизнь именно так, как Господь его держит."
+      "translation_ru": "Живое существо проводит жизнь так, как Господь велит ему жить."
     },
     {
-      "index": 64,
       "verse_id": 12405,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਗੁਰ ਪ੍ਰਸਾਦਿ ਨਾਨਕ ਸਚੁ ਕਹੈ ॥੬॥",
-      "site_roman": "gur prasād nānak sach kahai .6.",
+      "roman": "gur prasād Nānak sach kahē ॥6॥",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਕੋਈ ਵਿਰਲਾ ਮਨੁੱਖ) ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਪ੍ਰਭੂ ਨੂੰ ਸਿਮਰਦਾ ਹੈ ॥੬॥",
-      "roman": "gur prasād Nānak sach kahai",
-      "translation_ru": "О Нанак, по милости Гуру редкий человек помнит Господа. ॥6॥"
+      "translation_ru": "О Нанак! Лишь редкий человек по милости Гуру помнит Господа. ॥6॥"
     },
     {
-      "index": 65,
       "verse_id": 12406,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਕਬਹੂ ਹੋਇ ਪੰਡਿਤੁ ਕਰੇ ਬਖ੍ਯਾਨੁ ॥",
-      "site_roman": "kabahū hōi pandit karē bakhyān .",
+      "gurmukhi": "ਕਬਹੂ ਹੋਇ ਪੰਡਿਤੁ ਕਰੇ ਬਖੵਾਨੁ ॥",
+      "roman": "kabhū hoe paṇḍit kre bakhyān",
       "sahib_singh_pa": "(ਸਰਬ-ਵਿਆਪੀ ਪ੍ਰਭੂ) ਕਦੇ ਪੰਡਤ ਬਣ ਕੇ (ਦੂਜਿਆਂ ਨੂੰ) ਉਪਦੇਸ਼ ਕਰ ਰਿਹਾ ਹੈ,",
-      "roman": "kabahū hoi paṇḍit karē bakhyān",
-      "translation_ru": "Иногда всепроникающий Господь, став пандитом, поучает других,"
+      "translation_ru": "Иногда всепроникающий Господь, став пандитом, наставляет других,"
     },
     {
-      "index": 66,
       "verse_id": 12407,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਬਹੂ ਮੋਨਿਧਾਰੀ ਲਾਵੈ ਧਿਆਨੁ ॥",
-      "site_roman": "kabahū mōnidhārī lāvai dhiān .",
+      "roman": "kabhū monidhārī lāvē dhiān",
       "sahib_singh_pa": "ਕਦੇ ਮੋਨੀ ਸਾਧੂ ਹੋ ਕੇ ਸਮਾਧੀ ਲਾਈ ਬੈਠਾ ਹੈ;",
-      "roman": "kabahū monidhārī lāvai dhiān",
-      "translation_ru": "иногда, став молчальником-аскетом, сидит в самадхи;"
+      "translation_ru": "иногда, став безмолвным садху, сидит в самадхи;"
     },
     {
-      "index": 67,
       "verse_id": 12408,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਬਹੂ ਤਟ ਤੀਰਥ ਇਸਨਾਨ ॥",
-      "site_roman": "kabahū tat tīrath isanān .",
+      "roman": "kabhū taṭ tīrath isnān",
       "sahib_singh_pa": "ਕਦੇ ਤੀਰਥਾਂ ਦੇ ਕਿਨਾਰੇ ਇਸ਼ਨਾਨ ਕਰ ਰਿਹਾ ਹੈ,",
-      "roman": "kabahū taṭ tīrath isnān",
-      "translation_ru": "иногда омывается на берегах мест паломничества,"
+      "translation_ru": "иногда совершает омовение на берегах святых мест,"
     },
     {
-      "index": 68,
       "verse_id": 12409,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਬਹੂ ਸਿਧ ਸਾਧਿਕ ਮੁਖਿ ਗਿਆਨ ॥",
-      "site_roman": "kabahū sidh sādhik mukh giān .",
+      "roman": "kabhū sidh sādhik mukh giān",
       "sahib_singh_pa": "ਕਦੇ ਸਿੱਧ ਤੇ ਸਾਧਿਕ (ਦੇ ਰੂਪ ਵਿਚ) ਮੂੰਹੋਂ ਗਿਆਨ ਦੀਆਂ ਗੱਲਾਂ ਕਰਦਾ ਹੈ;",
-      "roman": "kabahū sidh sādhik mukh giān",
-      "translation_ru": "иногда в облике сиддха и садхака говорит устами слова знания;"
+      "translation_ru": "иногда в образе сиддха и садхака говорит устами слова знания;"
     },
     {
-      "index": 69,
       "verse_id": 12410,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਕਬਹੂ ਕੀਟ ਹਸਤਿ ਪਤੰਗ ਹੋਇ ਜੀਆ ॥",
-      "site_roman": "kabahū kīt hasat patang hōi jīā .",
+      "roman": "kabhū kīṭ hast pataṅg hoe jīā",
       "sahib_singh_pa": "ਕਦੇ ਕੀੜੇ ਹਾਥੀ ਭੰਬਟ (ਆਦਿਕ) ਜੀਵ ਬਣਿਆ ਹੋਇਆ ਹੈ,",
-      "roman": "kabahū kīṭ hasat pataṅg hoi jīā",
-      "translation_ru": "иногда становится существом в виде червя, слона, мотылька и прочих,"
+      "translation_ru": "иногда бывает живым существом — червём, слоном, мотыльком и прочими,"
     },
     {
-      "index": 70,
       "verse_id": 12411,
-      "shabad_num": 713,
-      "shabad_id": 713,
       "gurmukhi": "ਅਨਿਕ ਜੋਨਿ ਭਰਮੈ ਭਰਮੀਆ ॥",
-      "site_roman": "anik jōn bharamai bharamīā .",
+      "roman": "anik jon bharmē bharmīā",
       "sahib_singh_pa": "ਅਤੇ (ਆਪਣਾ ਹੀ) ਭਵਾਇਆ ਹੋਇਆ ਕਈ ਜੂਨਾਂ ਵਿਚ ਭਉਂ ਰਿਹਾ ਹੈ;",
-      "roman": "anik jon bharmai bharamīā",
-      "translation_ru": "и, Сам же приведя в движение, блуждает во множестве рождений;"
-    },
-    {
-      "index": 71,
-      "verse_id": 12412,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਨਾਨਾ ਰੂਪ ਜਿਉ ਸ੍ਵਾਗੀ ਦਿਖਾਵੈ ॥",
-      "site_roman": "nānā rūp jiu svāgī dikhāvai .",
-      "sahib_singh_pa": "ਬਹੁ-ਰੂਪੀਏ ਵਾਂਗ ਕਈ ਤਰ੍ਹਾਂ ਦੇ ਰੂਪ ਵਿਖਾ ਰਿਹਾ ਹੈ,",
-      "roman": "nānā rūp jiu svāgī dikhāvai",
-      "translation_ru": "словно многоликий актёр, Он показывает множество разных обликов,"
-    },
-    {
-      "index": 72,
-      "verse_id": 12413,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਜਿਉ ਪ੍ਰਭ ਭਾਵੈ ਤਿਵੈ ਨਚਾਵੈ ॥",
-      "site_roman": "jiu prabh bhāvai tivai nachāvai .",
-      "sahib_singh_pa": "ਜਿਉਂ ਪ੍ਰਭੂ ਨੂੰ ਭਾਉਂਦਾ ਹੈ ਤਿਵੇਂ (ਜੀਵਾਂ ਨੂੰ) ਨਚਾਉਂਦਾ ਹੈ।",
-      "roman": "jiu prabh bhāvai tivai nachāvai",
-      "translation_ru": "и как угодно Господу, так и заставляет существ танцевать."
-    },
-    {
-      "index": 73,
-      "verse_id": 12414,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਜੋ ਤਿਸੁ ਭਾਵੈ ਸੋਈ ਹੋਇ ॥",
-      "site_roman": "jō tis bhāvai sōī hōi .",
-      "sahib_singh_pa": "ਉਹੀ ਹੁੰਦਾ ਹੈ ਜੋ ਉਸ (ਮਾਲਕ) ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ।",
-      "roman": "jo tis bhāvai soi hoi",
-      "translation_ru": "Происходит только то, что нравится тому Владыке."
-    },
-    {
-      "index": 74,
-      "verse_id": 12415,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਨਾਨਕ ਦੂਜਾ ਅਵਰੁ ਨ ਕੋਇ ॥੭॥",
-      "site_roman": "nānak dūjā avar n kōi .7.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਉਸ ਵਰਗਾ) ਕੋਈ ਹੋਰ ਦੂਜਾ ਨਹੀਂ ਹੈ ॥੭॥",
-      "roman": "Nānak dūjā avar na koi",
-      "translation_ru": "О Нанак, другого, подобного Ему, нет. ॥7॥"
-    },
-    {
-      "index": 75,
-      "verse_id": 12416,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਕਬਹੂ ਸਾਧਸੰਗਤਿ ਇਹੁ ਪਾਵੈ ॥",
-      "site_roman": "kabahū sādhasangat ih pāvai .",
-      "sahib_singh_pa": "(ਜਦੋਂ) ਕਦੇ (ਪ੍ਰਭੂ ਦੀ ਅੰਸ਼) ਇਹ ਜੀਵ ਸਤਸੰਗਿ ਵਿਚ ਅੱਪੜਦਾ ਹੈ,",
-      "roman": "kabahū sādhsaṅgat ih pāvai",
-      "translation_ru": "Когда иногда это существо, как часть Господа, приходит в Садхсангат,"
-    },
-    {
-      "index": 76,
-      "verse_id": 12417,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਉਸੁ ਅਸਥਾਨ ਤੇ ਬਹੁਰਿ ਨ ਆਵੈ ॥",
-      "site_roman": "us asathān tē bahur n āvai .",
-      "sahib_singh_pa": "ਤਾਂ ਉਸ ਥਾਂ ਤੋਂ ਮੁੜ ਵਾਪਸ ਨਹੀਂ ਆਉਂਦਾ;",
-      "roman": "us asthān tē bahur na āvai",
-      "translation_ru": "то с того места уже не возвращается обратно;"
-    },
-    {
-      "index": 77,
-      "verse_id": 12418,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਅੰਤਰਿ ਹੋਇ ਗਿਆਨ ਪਰਗਾਸੁ ॥",
-      "site_roman": "antar hōi giān paragās .",
-      "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਇਸ ਦੇ ਅੰਦਰ ਪ੍ਰਭੂ ਦੇ ਗਿਆਨ ਦਾ ਪਰਕਾਸ਼ ਹੋ ਜਾਂਦਾ ਹੈ,",
-      "roman": "antar hoi giān pargās",
-      "translation_ru": "потому что внутри него загорается свет знания о Господе,"
-    },
-    {
-      "index": 78,
-      "verse_id": 12419,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਉਸੁ ਅਸਥਾਨ ਕਾ ਨਹੀ ਬਿਨਾਸੁ ॥",
-      "site_roman": "us asathān kā nahī binās .",
-      "sahib_singh_pa": "(ਤੇ) ਉਸ (ਗਿਆਨ ਦੇ ਪਰਕਾਸ਼ ਵਾਲੀ) ਹਾਲਤ ਦਾ ਨਾਸ ਨਹੀਂ ਹੁੰਦਾ;",
-      "roman": "us asthān kā nahī binās",
-      "translation_ru": "и этому состоянию озарённого знания нет уничтожения;"
-    },
-    {
-      "index": 79,
-      "verse_id": 12420,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਮਨ ਤਨ ਨਾਮਿ ਰਤੇ ਇਕ ਰੰਗਿ ॥",
-      "site_roman": "man tan nām ratē ik rang .",
-      "sahib_singh_pa": "(ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਦੇ) ਤਨ ਮਨ ਪ੍ਰਭੂ ਦੇ ਨਾਮ ਵਿਚ ਤੇ ਪਿਆਰ ਵਿਚ ਰੱਤੇ ਰਹਿੰਦੇ ਹਨ,",
-      "roman": "man tan nām ratē ik raṅg",
-      "translation_ru": "те люди, чьи тело и ум окрашены в Имя и в любовь к Единому,"
-    },
-    {
-      "index": 80,
-      "verse_id": 12421,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਸਦਾ ਬਸਹਿ ਪਾਰਬ੍ਰਹਮ ਕੈ ਸੰਗਿ ॥",
-      "site_roman": "sadā basah pārabraham kai sang .",
-      "sahib_singh_pa": "ਉਹ ਸਦਾ ਪ੍ਰਭੂ ਦੀ ਹਜ਼ੂਰੀ ਵਿਚ ਵੱਸਦੇ ਹਨ।",
-      "roman": "sadā basahi pārbrahm kai saṅg",
-      "translation_ru": "всегда пребывают в присутствии Парбрахма."
-    },
-    {
-      "index": 81,
-      "verse_id": 12422,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਜਿਉ ਜਲ ਮਹਿ ਜਲੁ ਆਇ ਖਟਾਨਾ ॥",
-      "site_roman": "jiu jal mah jal āi khatānā .",
-      "sahib_singh_pa": "(ਸੋ) ਜਿਵੇਂ ਪਾਣੀ ਵਿਚ ਪਾਣੀ ਆ ਰਲਦਾ ਹੈ,",
-      "roman": "jiu jal meh jal āi khaṭānā",
-      "translation_ru": "Как вода, придя, сливается с водой,"
-    },
-    {
-      "index": 82,
-      "verse_id": 12423,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਤਿਉ ਜੋਤੀ ਸੰਗਿ ਜੋਤਿ ਸਮਾਨਾ ॥",
-      "site_roman": "tiu jōtī sang jōt samānā .",
-      "sahib_singh_pa": "ਤਿਵੇਂ (ਸਤਸੰਗ ਵਿਚ ਟਿਕੇ ਹੋਏ ਦੀ) ਆਤਮਾ ਪ੍ਰਭੂ ਦੀ ਜੋਤਿ ਵਿਚ ਲੀਨ ਹੋ ਜਾਂਦੀ ਹੈ;",
-      "roman": "tiu jotī saṅg jot samānā",
-      "translation_ru": "так и душа того, кто утвердился в Садхсангат, сливается с Божественным Светом;"
-    },
-    {
-      "index": 83,
-      "verse_id": 12424,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਮਿਟਿ ਗਏ ਗਵਨ ਪਾਏ ਬਿਸ੍ਰਾਮ ॥",
-      "site_roman": "mit gaē gavan pāē bisrām .",
-      "sahib_singh_pa": "ਉਸ ਦੇ (ਜਨਮ ਮਰਨ ਦੇ) ਫੇਰੇ ਮੁੱਕ ਜਾਂਦੇ ਹਨ, (ਪ੍ਰਭੂ-ਚਰਨਾਂ ਵਿਚ) ਉਸ ਨੂੰ ਟਿਕਾਣਾ ਮਿਲ ਜਾਂਦਾ ਹੈ।",
-      "roman": "miṭ gaē gavan pāē bisrām",
-      "translation_ru": "его круги рождения и смерти прекращаются, и он обретает покой у стоп Господа."
-    },
-    {
-      "index": 84,
-      "verse_id": 12425,
-      "shabad_num": 713,
-      "shabad_id": 713,
-      "gurmukhi": "ਨਾਨਕ ਪ੍ਰਭ ਕੈ ਸਦ ਕੁਰਬਾਨ ॥੮॥੧੧॥",
-      "site_roman": "nānak prabh kai sad kurabān .8.11.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਪ੍ਰਭੂ ਤੋਂ ਸਦਕੇ ਜਾਈਏ ॥੮॥੧੧॥",
-      "roman": "Nānak prabh kai sad kurbān",
-      "translation_ru": "О Нанак, будем вечно жертвовать себя Господу. ॥8॥11॥"
+      "translation_ru": "и, Сам введя в скитание, блуждает во множестве рождений;"
     }
   ]
 }

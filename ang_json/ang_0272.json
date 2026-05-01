@@ -1,941 +1,432 @@
 {
   "ang": 272,
-  "line_count": 85,
   "lines": [
     {
-      "index": 1,
+      "verse_id": 12056,
+      "gurmukhi": "ਨਾਨਕ ਸਾਧ ਕੈ ਸੰਗਿ ਸਫਲ ਜਨੰਮ ॥੫॥",
+      "roman": "Nānak sādh kē sang safal janamm. 5.",
+      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਸਾਧੂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਮਨੁੱਖਾ ਜਨਮ ਦਾ ਫਲ ਮਿਲ ਜਾਂਦਾ ਹੈ ॥੫॥",
+      "translation_ru": "о Нанак, в обществе святого человеческая жизнь получает свой плод. 5."
+    },
+    {
+      "verse_id": 12057,
+      "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਨਹੀ ਕਛੁ ਘਾਲ ॥",
+      "roman": "sādh kē sang nahī kachh ghāl",
+      "sahib_singh_pa": "ਸਾਧ ਜਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਿਹਾਂ ਤਪ ਆਦਿਕ ਤਪਨ ਦੀ ਲੋੜ ਨਹੀਂ ਰਹਿੰਦੀ,",
+      "translation_ru": "В обществе святых уже не нужна аскеза и иные истязания,"
+    },
+    {
+      "verse_id": 12058,
+      "gurmukhi": "ਦਰਸਨੁ ਭੇਟਤ ਹੋਤ ਨਿਹਾਲ ॥",
+      "roman": "darsan bheṭat hot nihāl",
+      "sahib_singh_pa": "(ਕਿਉਂਕਿ ਉਹਨਾਂ) ਦਾ ਦਰਸ਼ਨ ਹੀ ਕਰ ਕੇ ਹਿਰਦਾ ਖਿੜ ਆਉਂਦਾ ਹੈ।",
+      "translation_ru": "потому что уже один их даршан наполняет сердце радостью."
+    },
+    {
+      "verse_id": 12059,
+      "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਕਲੂਖਤ ਹਰੈ ॥",
+      "roman": "sādh kē sang kalūkhat harē",
+      "sahib_singh_pa": "ਗੁਰਮੁਖਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ (ਮਨੁੱਖ ਆਪਣੇ) ਪਾਪ ਨਾਸ ਕਰ ਲੈਂਦਾ ਹੈ,",
+      "translation_ru": "В обществе гурмукхов человек уничтожает свои грехи,"
+    },
+    {
+      "verse_id": 12060,
+      "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਨਰਕ ਪਰਹਰੈ ॥",
+      "roman": "sādh kē sang narak parharē",
+      "sahib_singh_pa": "(ਤੇ ਇਸ ਤਰ੍ਹਾਂ) ਨਰਕਾਂ ਤੋਂ ਬਚ ਜਾਂਦਾ ਹੈ।",
+      "translation_ru": "и так спасается от адов."
+    },
+    {
+      "verse_id": 12061,
+      "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਈਹਾ ਊਹਾ ਸੁਹੇਲਾ ॥",
+      "roman": "sādh kē sang īhā ūhā suhēlā",
+      "sahib_singh_pa": "ਸੰਤਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਹਿ ਕੇ (ਮਨੁੱਖ) ਇਸ ਲੋਕ ਤੇ ਪਰਲੋਕ ਵਿਚ ਸੌਖਾ ਹੋ ਜਾਂਦਾ ਹੈ,",
+      "translation_ru": "Живя в обществе святых, человек обретает лёгкость и здесь, и в ином мире,"
+    },
+    {
+      "verse_id": 12062,
+      "gurmukhi": "ਸਾਧਸੰਗਿ ਬਿਛੁਰਤ ਹਰਿ ਮੇਲਾ ॥",
+      "roman": "sādhsang bichhurat har melā",
+      "sahib_singh_pa": "ਅਤੇ ਪ੍ਰਭੂ ਤੋਂ ਵਿਛੁੜਿਆ ਹੋਇਆ (ਮੁੜ) ਉਸ ਨੂੰ ਮਿਲ ਪੈਂਦਾ ਹੈ।",
+      "translation_ru": "и, будучи разлучённым с Господом, вновь встречает Его."
+    },
+    {
+      "verse_id": 12063,
+      "gurmukhi": "ਜੋ ਇਛੈ ਸੋਈ ਫਲੁ ਪਾਵੈ ॥",
+      "roman": "jo ichhē soī phal pāvē",
+      "sahib_singh_pa": "ਗੁਰਮੁਖਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚੋਂ (ਮਨੁੱਖ) ਜੋ ਇੱਛਾ ਕਰਦਾ ਹੈ, ਓਹੀ ਫਲ ਪਾਉਂਦਾ ਹੈ,",
+      "translation_ru": "Что бы человек ни пожелал в обществе гурмукхов, тот плод он и получает,"
+    },
+    {
+      "verse_id": 12064,
+      "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਨ ਬਿਰਥਾ ਜਾਵੈ ॥",
+      "roman": "sādh kē sang na birthā jāvē",
+      "sahib_singh_pa": "ਬੇ-ਮੁਰਾਦ ਹੋ ਕੇ ਨਹੀਂ ਜਾਂਦਾ।",
+      "translation_ru": "он не уходит ни с чем."
+    },
+    {
+      "verse_id": 12065,
+      "gurmukhi": "ਪਾਰਬ੍ਰਹਮੁ ਸਾਧ ਰਿਦ ਬਸੈ ॥",
+      "roman": "pārbrahm sādh rid basē",
+      "sahib_singh_pa": "ਅਕਾਲ ਪੁਰਖ ਸੰਤ ਜਨਾਂ ਦੇ ਹਿਰਦੇ ਵਿਚ ਵੱਸਦਾ ਹੈ;",
+      "translation_ru": "Парабрахм пребывает в сердце святых,"
+    },
+    {
+      "verse_id": 12066,
+      "gurmukhi": "ਨਾਨਕ ਉਧਰੈ ਸਾਧ ਸੁਨਿ ਰਸੈ ॥੬॥",
+      "roman": "Nānak udharē sādh sun rasē. 6.",
+      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਮਨੁੱਖ) ਸਾਧੂ ਜਨਾਂ ਦੀ ਰਸਨਾ ਤੋਂ (ਉਪਦੇਸ਼) ਸੁਣ ਕੇ (ਵਿਕਾਰਾਂ ਤੋਂ) ਬਚ ਜਾਂਦਾ ਹੈ ॥੬॥",
+      "translation_ru": "и, о Нанак, слушая наставление с уст святых, человек спасается от пороков. 6."
+    },
+    {
+      "verse_id": 12067,
+      "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਸੁਨਉ ਹਰਿ ਨਾਉ ॥",
+      "roman": "sādh kē sang sunau har nāu",
+      "sahib_singh_pa": "ਮੈਂ ਗੁਰਮੁਖਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਹਿ ਕੇ ਪ੍ਰਭੂ ਦਾ ਨਾਮ ਸੁਣਾਂ,",
+      "translation_ru": "Пусть я, пребывая в обществе гурмукхов, слушаю Имя Господа,"
+    },
+    {
+      "verse_id": 12068,
+      "gurmukhi": "ਸਾਧਸੰਗਿ ਹਰਿ ਕੇ ਗੁਨ ਗਾਉ ॥",
+      "roman": "sādhsang har ke gun gāu",
+      "sahib_singh_pa": "ਤੇ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਵਾਂ (ਇਹ ਮੇਰੀ ਕਾਮਨਾ ਹੈ)।",
+      "translation_ru": "и пою качества Господа — таково моё желание."
+    },
+    {
+      "verse_id": 12069,
+      "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਨ ਮਨ ਤੇ ਬਿਸਰੈ ॥",
+      "roman": "sādh kē sang na man te bisrē",
+      "sahib_singh_pa": "ਸੰਤਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਿਹਾਂ ਪ੍ਰਭੂ ਮਨ ਤੋਂ ਭੁੱਲਦਾ ਨਹੀਂ,",
+      "translation_ru": "В обществе святых Господь не забывается умом,"
+    },
+    {
+      "verse_id": 12070,
+      "gurmukhi": "ਸਾਧਸੰਗਿ ਸਰਪਰ ਨਿਸਤਰੈ ॥",
+      "roman": "sādhsang sarpar nistarē",
+      "sahib_singh_pa": "ਸਾਧ ਜਨਾਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਮਨੁੱਖ ਜ਼ਰੂਰ (ਵਿਕਾਰਾਂ ਤੋਂ) ਬਚ ਨਿਕਲਦਾ ਹੈ।",
+      "translation_ru": "и в обществе святых человек непременно спасается от пороков."
+    },
+    {
+      "verse_id": 12071,
+      "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਲਗੈ ਪ੍ਰਭੁ ਮੀਠਾ ॥",
+      "roman": "sādh kē sang lagē prabh mīṭhā",
+      "sahib_singh_pa": "ਭਲਿਆਂ ਦੀ ਸੰਗਤਿ ਵਿਚ ਰਿਹਾਂ ਪ੍ਰਭੂ ਪਿਆਰਾ ਲੱਗਣ ਲੱਗ ਜਾਂਦਾ ਹੈ,",
+      "translation_ru": "В обществе благих Господь начинает казаться сладостным,"
+    },
+    {
+      "verse_id": 12072,
+      "gurmukhi": "ਸਾਧੂ ਕੈ ਸੰਗਿ ਘਟਿ ਘਟਿ ਡੀਠਾ ॥",
+      "roman": "sādhū kē sang ghaṭ ghaṭ ḍīṭhā",
+      "sahib_singh_pa": "ਅਤੇ ਉਹ ਹਰੇਕ ਸਰੀਰ ਵਿਚ ਦਿਖਾਈ ਦੇਣ ਲੱਗ ਜਾਂਦਾ ਹੈ।",
+      "translation_ru": "и становится видимым в каждом теле."
+    },
+    {
+      "verse_id": 12073,
+      "gurmukhi": "ਸਾਧਸੰਗਿ ਭਏ ਆਗਿਆਕਾਰੀ ॥",
+      "roman": "sādhsang bhae āgiākārī",
+      "sahib_singh_pa": "ਸਾਧੂਆਂ ਦੀ ਸੰਗਤਿ ਕੀਤਿਆਂ (ਅਸੀ) ਪ੍ਰਭੂ ਦਾ ਹੁਕਮ ਮੰਨਣ ਵਾਲੇ ਹੋ ਜਾਂਦੇ ਹਾਂ,",
+      "translation_ru": "В обществе святых мы становимся послушными Воле Господа,"
+    },
+    {
+      "verse_id": 12074,
+      "gurmukhi": "ਸਾਧਸੰਗਿ ਗਤਿ ਭਈ ਹਮਾਰੀ ॥",
+      "roman": "sādhsang gat bhaī hamārī",
+      "sahib_singh_pa": "ਅਤੇ ਸਾਡੀ ਆਤਮਕ ਅਵਸਥਾ ਸੁਧਰ ਜਾਂਦੀ ਹੈ।",
+      "translation_ru": "и наше духовное состояние улучшается."
+    },
+    {
+      "verse_id": 12075,
+      "gurmukhi": "ਸਾਧ ਕੈ ਸੰਗਿ ਮਿਟੇ ਸਭਿ ਰੋਗ ॥",
+      "roman": "sādh kē sang miṭe sabh rog",
+      "sahib_singh_pa": "ਸੰਤ ਜਨਾਂ ਦੀ ਸੁਹਬਤ ਵਿਚ (ਵਿਕਾਰ ਆਦਿਕ) ਸਾਰੇ ਰੋਗ ਮਿਟ ਜਾਂਦੇ ਹਨ;",
+      "translation_ru": "В общении со святыми исчезают все болезни, то есть пороки и всё подобное,"
+    },
+    {
+      "verse_id": 12076,
+      "gurmukhi": "ਨਾਨਕ ਸਾਧ ਭੇਟੇ ਸੰਜੋਗ ॥੭॥",
+      "roman": "Nānak sādh bheṭe sanjog. 7.",
+      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਵੱਡੇ) ਭਾਗਾਂ ਨਾਲ ਸਾਧ ਜਨ ਮਿਲਦੇ ਹਨ ॥੭॥",
+      "translation_ru": "о Нанак, святые встречаются по великой удаче. 7."
+    },
+    {
+      "verse_id": 12077,
+      "gurmukhi": "ਸਾਧ ਕੀ ਮਹਿਮਾ ਬੇਦ ਨ ਜਾਨਹਿ ॥",
+      "roman": "sādh kī mahimā bed na jānah",
+      "sahib_singh_pa": "ਸਾਧ ਦੀ ਵਡਿਆਈ ਵੇਦ (ਭੀ) ਨਹੀਂ ਜਾਣਦੇ,",
+      "translation_ru": "Даже Веды не знают величия святого,"
+    },
+    {
+      "verse_id": 12078,
+      "gurmukhi": "ਜੇਤਾ ਸੁਨਹਿ ਤੇਤਾ ਬਖਿਆਨਹਿ ॥",
+      "roman": "jetā sunah tetā bakhiānah",
+      "sahib_singh_pa": "ਉਹ ਤਾਂ ਜਿਤਨਾ ਸੁਣਦੇ ਹਨ, ਉਤਨਾ ਹੀ ਬਿਆਨ ਕਰਦੇ ਹਨ (ਪਰ ਸਾਧ ਦੀ ਮਹਿਮਾ ਬਿਆਨ ਤੋਂ ਪਰੇ ਹੈ)।",
+      "translation_ru": "они излагают лишь столько, сколько сами услышали."
+    },
+    {
+      "verse_id": 12079,
+      "gurmukhi": "ਸਾਧ ਕੀ ਉਪਮਾ ਤਿਹੁ ਗੁਣ ਤੇ ਦੂਰਿ ॥",
+      "roman": "sādh kī upmā tih guṇ te dūr",
+      "sahib_singh_pa": "ਸਾਧ ਦੀ ਸਮਾਨਤਾ ਤਿੰਨਾਂ ਗੁਣਾਂ ਤੋਂ ਪਰੇ ਹੈ (ਭਾਵ, ਜਗਤ ਦੀ ਰਚਨਾ ਵਿਚ ਕੋਈ ਅਜੇਹੀ ਹਸਤੀ ਨਹੀਂ ਜਿਸ ਨੂੰ ਸਾਧ ਵਰਗਾ ਕਿਹਾ ਜਾ ਸਕੇ; ਹਾਂ)",
+      "translation_ru": "Подобие святому находится за пределами трёх гун."
+    },
+    {
+      "verse_id": 12080,
+      "gurmukhi": "ਸਾਧ ਕੀ ਉਪਮਾ ਰਹੀ ਭਰਪੂਰਿ ॥",
+      "roman": "sādh kī upmā rahī bharpūr",
+      "sahib_singh_pa": "ਸਾਧ ਦੀ ਸਮਾਨਤਾ ਉਸ ਪ੍ਰਭੂ ਨਾਲ ਹੀ ਹੋ ਸਕਦੀ ਹੈ ਜੋ ਸਾਰੇ ਵਿਆਪਕ ਹੈ।",
+      "translation_ru": "Подобием святому может быть только тот Господь, Который наполняет всё."
+    },
+    {
+      "verse_id": 12081,
+      "gurmukhi": "ਸਾਧ ਕੀ ਸੋਭਾ ਕਾ ਨਾਹੀ ਅੰਤ ॥",
+      "roman": "sādh kī sobhā kā nāhī ant",
+      "sahib_singh_pa": "ਸਾਧੂ ਦੀ ਸੋਭਾ ਦਾ ਅੰਦਾਜ਼ਾ ਨਹੀਂ ਲੱਗ ਸਕਦਾ,",
+      "translation_ru": "Славу святого невозможно измерить,"
+    },
+    {
+      "verse_id": 12082,
+      "gurmukhi": "ਸਾਧ ਕੀ ਸੋਭਾ ਸਦਾ ਬੇਅੰਤ ॥",
+      "roman": "sādh kī sobhā sadā beant",
+      "sahib_singh_pa": "ਸਦਾ (ਇਸ ਨੂੰ) ਬੇਅੰਤ ਹੀ (ਕਿਹਾ ਜਾ ਸਕਦਾ) ਹੈ।",
+      "translation_ru": "её можно назвать лишь беспредельной."
+    },
+    {
+      "verse_id": 12083,
+      "gurmukhi": "ਸਾਧ ਕੀ ਸੋਭਾ ਊਚ ਤੇ ਊਚੀ ॥",
+      "roman": "sādh kī sobhā ūch te ūchī",
+      "sahib_singh_pa": "ਸਾਧੂ ਦੀ ਸੋਭਾ ਹੋਰ ਸਭ ਦੀ ਸੋਭਾ ਤੋਂ ਬਹੁਤ ਉੱਚੀ ਹੈ,",
+      "translation_ru": "Слава святого выше всякой иной славы,"
+    },
+    {
+      "verse_id": 12084,
+      "gurmukhi": "ਸਾਧ ਕੀ ਸੋਭਾ ਮੂਚ ਤੇ ਮੂਚੀ ॥",
+      "roman": "sādh kī sobhā mūch te mūchī",
+      "sahib_singh_pa": "ਤੇ ਬਹੁਤ ਵੱਡੀ ਹੈ।",
+      "translation_ru": "и она чрезвычайно велика."
+    },
+    {
+      "verse_id": 12085,
+      "gurmukhi": "ਸਾਧ ਕੀ ਸੋਭਾ ਸਾਧ ਬਨਿ ਆਈ ॥",
+      "roman": "sādh kī sobhā sādh ban āī",
+      "sahib_singh_pa": "ਸਾਧੂ ਦੀ ਸੋਭਾ ਸਾਧੂ ਨੂੰ ਹੀ ਫਬਦੀ ਹੈ,",
+      "translation_ru": "Слава святого подобает только святому,"
+    },
+    {
+      "verse_id": 12086,
+      "gurmukhi": "ਨਾਨਕ ਸਾਧ ਪ੍ਰਭ ਭੇਦੁ ਨ ਭਾਈ ॥੮॥੭॥",
+      "roman": "Nānak sādh prabh bhed na bhāī. 8. 7.",
+      "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਹੇ ਨਾਨਕ! (ਆਖ-) ਹੇ ਭਾਈ! ਸਾਧੂ ਤੇ ਪ੍ਰਭੂ ਵਿਚ (ਕੋਈ) ਫ਼ਰਕ ਨਹੀਂ ਹੈ ॥੮॥੭॥",
+      "translation_ru": "ибо, о Нанак, скажи, брат: между святым и Господом нет различия. 8. 7."
+    },
+    {
       "verse_id": 12087,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਸਲੋਕੁ ॥",
-      "site_roman": "salōk .",
-      "sahib_singh_pa": "None",
       "roman": "salok",
+      "sahib_singh_pa": "None",
       "translation_ru": ""
     },
     {
-      "index": 2,
       "verse_id": 12088,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਮਨਿ ਸਾਚਾ ਮੁਖਿ ਸਾਚਾ ਸੋਇ ॥",
-      "site_roman": "man sāchā mukh sāchā sōi .",
-      "sahib_singh_pa": "(ਜਿਸ ਮਨੁੱਖ ਦੇ) ਮਨ ਵਿਚ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਪ੍ਰਭੂ (ਵੱਸਦਾ ਹੈ), (ਜੋ) ਮੂੰਹੋਂ (ਭੀ) ਉਸੇ ਪ੍ਰਭੂ ਨੂੰ (ਜਪਦਾ ਹੈ),",
       "roman": "man sachā mukh sachā soi",
+      "sahib_singh_pa": "(ਜਿਸ ਮਨੁੱਖ ਦੇ) ਮਨ ਵਿਚ ਸਦਾ-ਥਿਰ ਰਹਿਣ ਵਾਲਾ ਪ੍ਰਭੂ (ਵੱਸਦਾ ਹੈ), (ਜੋ) ਮੂੰਹੋਂ (ਭੀ) ਉਸੇ ਪ੍ਰਭੂ ਨੂੰ (ਜਪਦਾ ਹੈ),",
       "translation_ru": "У кого в уме пребывает вечно-истинный Господь и кто устами тоже повторяет лишь Его,"
     },
     {
-      "index": 3,
       "verse_id": 12089,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਅਵਰੁ ਨ ਪੇਖੈ ਏਕਸੁ ਬਿਨੁ ਕੋਇ ॥",
-      "site_roman": "avar n pēkhai ēkas bin kōi .",
+      "roman": "avar na pekhē ekas bin koi",
       "sahib_singh_pa": "(ਜੋ ਮਨੁੱਖ) ਇਕ ਅਕਾਲ ਪੁਰਖ ਤੋਂ ਬਿਨਾ (ਕਿਤੇ ਭੀ) ਕਿਸੇ ਹੋਰ ਨੂੰ ਨਹੀਂ ਵੇਖਦਾ,",
-      "roman": "avar na pekhai ekas bin koi",
       "translation_ru": "кто, кроме Единого Акаал Пуракха, нигде никого другого не видит,"
     },
     {
-      "index": 4,
       "verse_id": 12090,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਨਾਨਕ ਇਹ ਲਛਣ ਬ੍ਰਹਮ ਗਿਆਨੀ ਹੋਇ ॥੧॥",
-      "site_roman": "nānak ih lashan braham giānī hōi .1.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਉਹ ਮਨੁੱਖ) ਇਹਨਾਂ ਗੁਣਾਂ ਦੇ ਕਾਰਣ ਬ੍ਰਹਮਗਿਆਨੀ ਹੋ ਜਾਂਦਾ ਹੈ ॥੧॥",
       "roman": "Nānak ih lachhaṇ brahm giānī hoi",
+      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਉਹ ਮਨੁੱਖ) ਇਹਨਾਂ ਗੁਣਾਂ ਦੇ ਕਾਰਣ ਬ੍ਰਹਮਗਿਆਨੀ ਹੋ ਜਾਂਦਾ ਹੈ ॥੧॥",
       "translation_ru": "О Нанак, по этим признакам человек становится брахмгьяни ॥1॥"
     },
     {
-      "index": 5,
       "verse_id": 12091,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਅਸਟਪਦੀ ॥",
-      "site_roman": "asatapadī .",
-      "sahib_singh_pa": "None",
       "roman": "asṭpadī",
+      "sahib_singh_pa": "None",
       "translation_ru": ""
     },
     {
-      "index": 6,
       "verse_id": 12092,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਸਦਾ ਨਿਰਲੇਪ ॥",
-      "site_roman": "braham giānī sadā niralēp .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ (ਮਨੁੱਖ ਵਿਕਾਰਾਂ ਵਲੋਂ) ਸਦਾ-ਬੇਦਾਗ਼ (ਰਹਿੰਦੇ ਹਨ)",
       "roman": "brahm giānī sadā nirlep",
+      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ (ਮਨੁੱਖ ਵਿਕਾਰਾਂ ਵਲੋਂ) ਸਦਾ-ਬੇਦਾਗ਼ (ਰਹਿੰਦੇ ਹਨ)",
       "translation_ru": "Брахмгьяни всегда остаются незапятнанными со стороны пороков,"
     },
     {
-      "index": 7,
       "verse_id": 12093,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਜੈਸੇ ਜਲ ਮਹਿ ਕਮਲ ਅਲੇਪ ॥",
-      "site_roman": "jaisē jal mah kamal alēp .",
+      "roman": "jēse jal mah kamal alep",
       "sahib_singh_pa": "ਜਿਵੇਂ ਪਾਣੀ ਵਿਚ (ਉੱਗੇ ਹੋਏ) ਕਉਲ ਫੁੱਲ (ਚਿੱਕੜ ਤੋਂ) ਸਾਫ਼ ਹੁੰਦੇ ਹਨ।",
-      "roman": "jaise jal mahi kamal alep",
       "translation_ru": "как лотос, выросший в воде, остаётся чистым от грязи."
     },
     {
-      "index": 8,
       "verse_id": 12094,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਸਦਾ ਨਿਰਦੋਖ ॥",
-      "site_roman": "braham giānī sadā niradōkh .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ (ਮਨੁੱਖ) (ਸਾਰੇ ਪਾਪਾਂ ਨੂੰ ਸਾੜ ਦੇਂਦੇ ਹਨ) ਪਾਪਾਂ ਤੋਂ ਬਚੇ ਰਹਿੰਦੇ ਹਨ,",
       "roman": "brahm giānī sadā nirdokh",
+      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ (ਮਨੁੱਖ) (ਸਾਰੇ ਪਾਪਾਂ ਨੂੰ ਸਾੜ ਦੇਂਦੇ ਹਨ) ਪਾਪਾਂ ਤੋਂ ਬਚੇ ਰਹਿੰਦੇ ਹਨ,",
       "translation_ru": "Брахмгьяни остаётся свободным от грехов,"
     },
     {
-      "index": 9,
       "verse_id": 12095,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਜੈਸੇ ਸੂਰੁ ਸਰਬ ਕਉ ਸੋਖ ॥",
-      "site_roman": "jaisē sūr sarab kau sōkh .",
+      "roman": "jēse sūr sarab kau sokh",
       "sahib_singh_pa": "ਜਿਵੇਂ ਸੂਰਜ ਸਾਰੇ (ਰਸਾਂ) ਨੂੰ ਸੁਕਾ ਦੇਂਦਾ ਹੈ।",
-      "roman": "jaise sūr sarab kau sokh",
       "translation_ru": "как солнце высушивает все соки."
     },
     {
-      "index": 10,
       "verse_id": 12096,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਦ੍ਰਿਸਟਿ ਸਮਾਨਿ ॥",
-      "site_roman": "braham giānī kai drisat samān .",
+      "roman": "brahm giānī kē drisaṭ samān",
       "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਦੇ ਅੰਦਰ (ਸਭ ਵਲ) ਇਕੋ ਜਿਹੀ ਨਜ਼ਰ (ਨਾਲ ਤੱਕਣ ਦਾ ਸੁਭਾਉ ਹੁੰਦਾ) ਹੈ,",
-      "roman": "brahm giānī kai drisaṭ samān",
       "translation_ru": "У брахмгьяни внутри есть одинаковый взгляд на всех,"
     },
     {
-      "index": 11,
       "verse_id": 12097,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਜੈਸੇ ਰਾਜ ਰੰਕ ਕਉ ਲਾਗੈ ਤੁਲਿ ਪਵਾਨ ॥",
-      "site_roman": "jaisē rāj rank kau lāgai tul pavān .",
+      "roman": "jēse rāj rank kau lāgē tul pavān",
       "sahib_singh_pa": "ਜਿਵੇਂ ਹਵਾ ਰਾਜੇ ਤੇ ਕੰਗਾਲ ਨੂੰ ਇਕੋ ਜਿਹੀ ਲੱਗਦੀ ਹੈ।",
-      "roman": "jaise rāj rank kau lāgai tul pavān",
       "translation_ru": "как ветер одинаково касается и царя, и нищего."
     },
     {
-      "index": 12,
       "verse_id": 12098,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਧੀਰਜੁ ਏਕ ॥",
-      "site_roman": "braham giānī kai dhīraj ēk .",
+      "roman": "brahm giānī kē dhīraj ek",
       "sahib_singh_pa": "(ਕੋਈ ਭਲਾ ਕਹੇ ਭਾਵੇਂ ਬੁਰਾ, ਪਰ) ਬ੍ਰਹਮਗਿਆਨੀ ਮਨੁੱਖਾਂ ਦੇ ਅੰਦਰ ਇਕ-ਤਾਰ ਹੌਸਲਾ (ਕਾਇਮ ਰਹਿੰਦਾ) ਹੈ,",
-      "roman": "brahm giānī kai dhīraj ek",
       "translation_ru": "У брахмгьяни внутри постоянно сохраняется ровная стойкость,"
     },
     {
-      "index": 13,
       "verse_id": 12099,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਜਿਉ ਬਸੁਧਾ ਕੋਊ ਖੋਦੈ ਕੋਊ ਚੰਦਨ ਲੇਪ ॥",
-      "site_roman": "jiu basudhā kōū khōdai kōū chandan lēp .",
+      "roman": "jio basudhā koū khodē koū chandan lep",
       "sahib_singh_pa": "ਜਿਵੇਂ ਧਰਤੀ ਨੂੰ ਕੋਈ ਤਾਂ ਖੋਤਰਦਾ ਹੈ, ਤੇ ਕੋਈ ਚੰਦਨ ਦੇ ਲੇਪਣ ਕਰਦਾ ਹੈ (ਪਰ ਧਰਤੀ ਨੂੰ ਪਰਵਾਹ ਨਹੀਂ)।",
-      "roman": "jio basudhā koū khodai koū chandan lep",
       "translation_ru": "как землю один роет, а другой покрывает сандалом, но земле всё равно."
     },
     {
-      "index": 14,
       "verse_id": 12100,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕਾ ਇਹੈ ਗੁਨਾਉ ॥",
-      "site_roman": "braham giānī kā ihai gunāu .",
+      "roman": "brahm giānī kā ihē guṇāu",
       "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਮਨੁੱਖਾਂ ਦਾ (ਭੀ) ਇਹੀ ਗੁਣ ਹੈ,",
-      "roman": "brahm giānī kā ihai guṇāu",
       "translation_ru": "Таково и это качество брахмгьяни,"
     },
     {
-      "index": 15,
       "verse_id": 12101,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਨਾਨਕ ਜਿਉ ਪਾਵਕ ਕਾ ਸਹਜ ਸੁਭਾਉ ॥੧॥",
-      "site_roman": "nānak jiu pāvak kā sahaj subhāu .1.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਜਿਵੇਂ ਅੱਗ ਦਾ ਕੁਦਰਤੀ ਸੁਭਾਉ ਹੈ (ਹਰੇਕ ਚੀਜ਼ ਦੀ ਮੈਲ ਸਾੜ ਦੇਣੀ) ॥੧॥",
       "roman": "Nānak jio pāvak kā sahaj subhāu",
+      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਜਿਵੇਂ ਅੱਗ ਦਾ ਕੁਦਰਤੀ ਸੁਭਾਉ ਹੈ (ਹਰੇਕ ਚੀਜ਼ ਦੀ ਮੈਲ ਸਾੜ ਦੇਣੀ) ॥੧॥",
       "translation_ru": "о Нанак, каков естественный нрав огня — сжигать всякую нечистоту ॥1॥"
     },
     {
-      "index": 16,
       "verse_id": 12102,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਨਿਰਮਲ ਤੇ ਨਿਰਮਲਾ ॥",
-      "site_roman": "braham giānī niramal tē niramalā .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਮਨੁੱਖ (ਵਿਕਾਰਾਂ ਦੀ ਮੈਲ ਤੋਂ ਸਦਾ ਬਚਿਆ ਰਹਿ ਕੇ) ਮਹਾ ਨਿਰਮਲ ਹੈ,",
       "roman": "brahm giānī nirmal te nirmalā",
+      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਮਨੁੱਖ (ਵਿਕਾਰਾਂ ਦੀ ਮੈਲ ਤੋਂ ਸਦਾ ਬਚਿਆ ਰਹਿ ਕੇ) ਮਹਾ ਨਿਰਮਲ ਹੈ,",
       "translation_ru": "Брахмгьяни, всегда оставаясь свободным от грязи пороков, предельно чист,"
     },
     {
-      "index": 17,
       "verse_id": 12103,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਜੈਸੇ ਮੈਲੁ ਨ ਲਾਗੈ ਜਲਾ ॥",
-      "site_roman": "jaisē mail n lāgai jalā .",
+      "roman": "jēse mēl na lāgē jalā",
       "sahib_singh_pa": "ਜਿਵੇਂ ਪਾਣੀ ਨੂੰ ਕਦੇ ਮੈਲ ਨਹੀਂ ਰਹਿ ਸਕਦੀ (ਬੁਖ਼ਾਰਾਤ ਆਦਿਕ ਬਣ ਕੇ ਮੁੜ ਸਾਫ਼ ਦਾ ਸਾਫ਼।)",
-      "roman": "jaise mail na lāgai jalā",
       "translation_ru": "как к воде никогда не пристаёт грязь и она снова становится совсем чистой."
     },
     {
-      "index": 18,
       "verse_id": 12104,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਮਨਿ ਹੋਇ ਪ੍ਰਗਾਸੁ ॥",
-      "site_roman": "braham giānī kai man hōi pragās .",
+      "roman": "brahm giānī kē man hoi pragās",
       "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਦੇ ਮਨ ਵਿਚ (ਇਹ) ਚਾਨਣ ਹੋ ਜਾਂਦਾ ਹੈ (ਕਿ ਪ੍ਰਭੂ ਹਰ ਥਾਂ ਮੌਜੂਦ ਹੈ)",
-      "roman": "brahm giānī kai man hoi pragās",
       "translation_ru": "В уме брахмгьяни возникает свет,"
     },
     {
-      "index": 19,
       "verse_id": 12105,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਜੈਸੇ ਧਰ ਊਪਰਿ ਆਕਾਸੁ ॥",
-      "site_roman": "jaisē dhar ūpar ākās .",
+      "roman": "jēse dhar ūpar ākās",
       "sahib_singh_pa": "ਜਿਵੇਂ ਧਰਤੀ ਉਤੇ ਆਕਾਸ਼ (ਸਭ ਥਾਂ ਵਿਆਪਕ ਹੈ।)",
-      "roman": "jaise dhar ūpar ākās",
       "translation_ru": "как небо простирается над всей землёй."
     },
     {
-      "index": 20,
       "verse_id": 12106,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਮਿਤ੍ਰ ਸਤ੍ਰੁ ਸਮਾਨਿ ॥",
-      "site_roman": "braham giānī kai mitr satr samān .",
+      "roman": "brahm giānī kē mitr satr samān",
       "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਨੂੰ ਸੱਜਣ ਤੇ ਵੈਰੀ ਇਕੋ ਜਿਹਾ ਹੈ,",
-      "roman": "brahm giānī kai mitr satr samān",
       "translation_ru": "Для брахмгьяни друг и враг одинаковы,"
     },
     {
-      "index": 21,
       "verse_id": 12107,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਨਾਹੀ ਅਭਿਮਾਨ ॥",
-      "site_roman": "braham giānī kai nāhī abhimān .",
+      "roman": "brahm giānī kē nāhī abhimān",
       "sahib_singh_pa": "(ਕਿਉਂਕ) ਉਸ ਦੇ ਅੰਦਰ ਅਹੰਕਾਰ ਨਹੀਂ ਹੈ (ਕਿਸੇ ਦੇ ਚੰਗੇ ਮੰਦੇ ਸਲੂਕ ਦਾ ਹਰਖ ਸੋਗ ਨਹੀਂ)।",
-      "roman": "brahm giānī kai nāhī abhimān",
       "translation_ru": "потому что в нём нет гордыни и нет ни радости, ни скорби от чьего-либо доброго или дурного обращения."
     },
     {
-      "index": 22,
       "verse_id": 12108,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਊਚ ਤੇ ਊਚਾ ॥",
-      "site_roman": "braham giānī ūch tē ūchā .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ (ਆਤਮਕ ਅਵਸਥਾ ਵਿਚ) ਸਭ ਤੋਂ ਉੱਚਾ ਹੈ,",
       "roman": "brahm giānī ūch te ūchā",
+      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ (ਆਤਮਕ ਅਵਸਥਾ ਵਿਚ) ਸਭ ਤੋਂ ਉੱਚਾ ਹੈ,",
       "translation_ru": "Брахмгьяни выше всех в духовном состоянии,"
     },
     {
-      "index": 23,
       "verse_id": 12109,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਮਨਿ ਅਪਨੈ ਹੈ ਸਭ ਤੇ ਨੀਚਾ ॥",
-      "site_roman": "man apanai hai sabh tē nīchā .",
+      "roman": "man apnē hē sabh te nīchā",
       "sahib_singh_pa": "(ਪਰ) ਆਪਣੇ ਮਨ ਵਿਚ (ਆਪਣੇ ਆਪ ਨੂੰ) ਸਭ ਤੋਂ ਨੀਵਾਂ (ਜਾਣਦਾ ਹੈ)।",
-      "roman": "man apnai hai sabh te nīchā",
       "translation_ru": "но в своём уме считает себя ниже всех."
     },
     {
-      "index": 24,
       "verse_id": 12110,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਸੇ ਜਨ ਭਏ ॥",
-      "site_roman": "braham giānī sē jan bhaē .",
-      "sahib_singh_pa": "ਉਹੀ ਮਨੁੱਖ ਬ੍ਰਹਮਗਿਆਨੀ ਬਣਦੇ ਹਨ,",
       "roman": "brahm giānī se jan bhae",
+      "sahib_singh_pa": "ਉਹੀ ਮਨੁੱਖ ਬ੍ਰਹਮਗਿਆਨੀ ਬਣਦੇ ਹਨ,",
       "translation_ru": "Брахмгьяни становятся только те люди,"
     },
     {
-      "index": 25,
       "verse_id": 12111,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਨਾਨਕ ਜਿਨ ਪ੍ਰਭੁ ਆਪਿ ਕਰੇਇ ॥੨॥",
-      "site_roman": "nānak jin prabh āp karēi .2.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਜਿਨ੍ਹਾਂ ਨੂੰ ਪ੍ਰਭੂ ਆਪ ਬਣਾਉਂਦਾ ਹੈ ॥੨॥",
       "roman": "Nānak jin prabh āp karei",
+      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਜਿਨ੍ਹਾਂ ਨੂੰ ਪ੍ਰਭੂ ਆਪ ਬਣਾਉਂਦਾ ਹੈ ॥੨॥",
       "translation_ru": "которых Сам Господь делает такими, о Нанак ॥2॥"
     },
     {
-      "index": 26,
       "verse_id": 12112,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਸਗਲ ਕੀ ਰੀਨਾ ॥",
-      "site_roman": "braham giānī sagal kī rīnā .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਸਾਰੇ (ਬੰਦਿਆਂ) ਦੇ ਪੈਰਾਂ ਦੀ ਖ਼ਾਕ (ਹੋ ਕੇ ਰਹਿੰਦਾ) ਹੈ;",
       "roman": "brahm giānī sagal kī rīnā",
+      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਸਾਰੇ (ਬੰਦਿਆਂ) ਦੇ ਪੈਰਾਂ ਦੀ ਖ਼ਾਕ (ਹੋ ਕੇ ਰਹਿੰਦਾ) ਹੈ;",
       "translation_ru": "Брахмгьяни становится пылью у ног всех людей,"
     },
     {
-      "index": 27,
       "verse_id": 12113,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਆਤਮ ਰਸੁ ਬ੍ਰਹਮ ਗਿਆਨੀ ਚੀਨਾ ॥",
-      "site_roman": "ātam ras braham giānī chīnā .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਨੇ ਆਤਮਕ ਆਨੰਦ ਨੂੰ ਪਛਾਣ ਲਿਆ ਹੈ।",
       "roman": "ātam ras brahm giānī chīnā",
+      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਨੇ ਆਤਮਕ ਆਨੰਦ ਨੂੰ ਪਛਾਣ ਲਿਆ ਹੈ।",
       "translation_ru": "ибо он познал духовное блаженство."
     },
     {
-      "index": 28,
       "verse_id": 12114,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੀ ਸਭ ਊਪਰਿ ਮਇਆ ॥",
-      "site_roman": "braham giānī kī sabh ūpar maiā .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਦੀ ਸਭ ਉਤੇ ਖ਼ੁਸ਼ੀ ਹੁੰਦੀ ਹੈ (ਭਾਵ, ਬ੍ਰਹਮ-ਗਿਆਨੀ ਸਭ ਨਾਲ ਹੱਸਦੇ-ਮੱਥੇ ਰਹਿੰਦਾ ਹੈ)",
       "roman": "brahm giānī kī sabh ūpar maiā",
+      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਦੀ ਸਭ ਉਤੇ ਖ਼ੁਸ਼ੀ ਹੁੰਦੀ ਹੈ (ਭਾਵ, ਬ੍ਰਹਮ-ਗਿਆਨੀ ਸਭ ਨਾਲ ਹੱਸਦੇ-ਮੱਥੇ ਰਹਿੰਦਾ ਹੈ)",
       "translation_ru": "Брахмгьяни радуется всем,"
     },
     {
-      "index": 29,
       "verse_id": 12115,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਤੇ ਕਛੁ ਬੁਰਾ ਨ ਭਇਆ ॥",
-      "site_roman": "braham giānī tē kash burā n bhaiā .",
-      "sahib_singh_pa": "ਅਤੇ ਉਹ ਕੋਈ ਮੰਦਾ ਕੰਮ ਨਹੀਂ ਕਰਦਾ।",
       "roman": "brahm giānī te kachh burā na bhaiā",
+      "sahib_singh_pa": "ਅਤੇ ਉਹ ਕੋਈ ਮੰਦਾ ਕੰਮ ਨਹੀਂ ਕਰਦਾ।",
       "translation_ru": "и он не делает ничего дурного."
     },
     {
-      "index": 30,
       "verse_id": 12116,
-      "shabad_num": 710,
-      "shabad_id": 710,
       "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਸਦਾ ਸਮਦਰਸੀ ॥",
-      "site_roman": "braham giānī sadā samadarasī .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਸਦਾ ਸਭ ਵਲ ਇਕੋ ਜਿਹੀ ਨਜ਼ਰ ਨਾਲ ਤੱਕਦਾ ਹੈ,",
       "roman": "brahm giānī sadā samdarsī",
+      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਸਦਾ ਸਭ ਵਲ ਇਕੋ ਜਿਹੀ ਨਜ਼ਰ ਨਾਲ ਤੱਕਦਾ ਹੈ,",
       "translation_ru": "Брахмгьяни всегда смотрит на всех одинаковым взглядом,"
-    },
-    {
-      "index": 31,
-      "verse_id": 12117,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੀ ਦ੍ਰਿਸਟਿ ਅੰਮ੍ਰਿਤੁ ਬਰਸੀ ॥",
-      "site_roman": "braham giānī kī drisat anmrit barasī .",
-      "sahib_singh_pa": "ਉਸ ਦੀ ਨਜ਼ਰ ਤੋਂ (ਸਭ ਉਤੇ) ਅੰਮ੍ਰਿਤ ਦੀ ਵਰਖਾ ਹੁੰਦੀ ਹੈ।",
-      "roman": "brahm giānī kī drisaṭ amrit barsī",
-      "translation_ru": "и из его взгляда на всех льётся дождь амриты."
-    },
-    {
-      "index": 32,
-      "verse_id": 12118,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਬੰਧਨ ਤੇ ਮੁਕਤਾ ॥",
-      "site_roman": "braham giānī bandhan tē mukatā .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ (ਮਾਇਆ ਦੇ) ਬੰਧਨਾਂ ਤੋਂ ਆਜ਼ਾਦ ਹੁੰਦਾ ਹੈ,",
-      "roman": "brahm giānī bandhan te muktā",
-      "translation_ru": "Брахмгьяни свободен от уз майи,"
-    },
-    {
-      "index": 33,
-      "verse_id": 12119,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੀ ਨਿਰਮਲ ਜੁਗਤਾ ॥",
-      "site_roman": "braham giānī kī niramal jugatā .",
-      "sahib_singh_pa": "ਅਤੇ ਉਸ ਦੀ ਜੀਵਨ-ਜੁਗਤੀ ਵਿਕਾਰਾਂ ਤੋਂ ਰਹਿਤ ਹੈ।",
-      "roman": "brahm giānī kī nirmal jugtā",
-      "translation_ru": "и его образ жизни чист от пороков."
-    },
-    {
-      "index": 34,
-      "verse_id": 12120,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕਾ ਭੋਜਨੁ ਗਿਆਨ ॥",
-      "site_roman": "braham giānī kā bhōjan giān .",
-      "sahib_singh_pa": "(ਰੱਬੀ-) ਗਿਆਨ ਬ੍ਰਹਮਗਿਆਨੀ ਦੀ ਖ਼ੁਰਾਕ ਹੈ (ਭਾਵ, ਬ੍ਰਹਮਗਿਆਨੀ ਦੀ ਆਤਮਕ ਜ਼ਿੰਦਗੀ ਦਾ ਆਸਰਾ ਹੈ),",
-      "roman": "brahm giānī kā bhojan giān",
-      "translation_ru": "Божественное знание — пища брахмгьяни,"
-    },
-    {
-      "index": 35,
-      "verse_id": 12121,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਨਾਨਕ ਬ੍ਰਹਮ ਗਿਆਨੀ ਕਾ ਬ੍ਰਹਮ ਧਿਆਨੁ ॥੩॥",
-      "site_roman": "nānak braham giānī kā braham dhiān .3.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਬ੍ਰਹਮਗਿਆਨੀ ਦੀ ਸੁਰਤ ਅਕਾਲ ਪੁਰਖ ਨਾਲ ਜੁੜੀ ਰਹਿੰਦੀ ਹੈ ॥੩॥",
-      "roman": "Nānak brahm giānī kā brahm dhiān",
-      "translation_ru": "о Нанак, сознание брахмгьяни связано с Акаал Пуракхом ॥3॥"
-    },
-    {
-      "index": 36,
-      "verse_id": 12122,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਏਕ ਊਪਰਿ ਆਸ ॥",
-      "site_roman": "braham giānī ēk ūpar ās .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਇਕ ਅਕਾਲ ਪੁਰਖ ਉਤੇ ਆਸ ਰੱਖਦਾ ਹੈ;",
-      "roman": "brahm giānī ek ūpar ās",
-      "translation_ru": "Брахмгьяни возлагает надежду на одного Акаал Пуракха,"
-    },
-    {
-      "index": 37,
-      "verse_id": 12123,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕਾ ਨਹੀ ਬਿਨਾਸ ॥",
-      "site_roman": "braham giānī kā nahī binās .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ (ਦੀ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ) ਦਾ ਕਦੇ ਨਾਸ ਨਹੀਂ ਹੁੰਦਾ।",
-      "roman": "brahm giānī kā nahī binās",
-      "translation_ru": "и его высокое духовное состояние никогда не разрушается."
-    },
-    {
-      "index": 38,
-      "verse_id": 12124,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਗਰੀਬੀ ਸਮਾਹਾ ॥",
-      "site_roman": "braham giānī kai garībī samāhā .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਦੇ ਹਿਰਦੇ ਵਿਚ ਗਰੀਬੀ ਟਿਕੀ ਰਹਿੰਦੀ ਹੈ,",
-      "roman": "brahm giānī kai garībī samāhā",
-      "translation_ru": "В сердце брахмгьяни пребывает смирение,"
-    },
-    {
-      "index": 39,
-      "verse_id": 12125,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਪਰਉਪਕਾਰ ਉਮਾਹਾ ॥",
-      "site_roman": "braham giānī paraupakār umāhā .",
-      "sahib_singh_pa": "ਅਤੇ ਉਸ ਨੂੰ ਦੂਜਿਆਂ ਦੀ ਭਲਾਈ ਕਰਨ ਦਾ (ਸਦਾ) ਚਾਉ (ਚੜ੍ਹਿਆ ਰਹਿੰਦਾ) ਹੈ।",
-      "roman": "brahm giānī parupkār umāhā",
-      "translation_ru": "и у него всегда есть горячее стремление творить благо другим."
-    },
-    {
-      "index": 40,
-      "verse_id": 12126,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਨਾਹੀ ਧੰਧਾ ॥",
-      "site_roman": "braham giānī kai nāhī dhandhā .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਦੇ ਮਨ ਵਿਚ (ਮਾਇਆ ਦਾ) ਜੰਜਾਲ ਨਹੀਂ ਵਿਆਪਦਾ,",
-      "roman": "brahm giānī kai nāhī dhanḍhā",
-      "translation_ru": "В уме брахмгьяни не разрастается путаница майи,"
-    },
-    {
-      "index": 41,
-      "verse_id": 12127,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਲੇ ਧਾਵਤੁ ਬੰਧਾ ॥",
-      "site_roman": "braham giānī lē dhāvat bandhā .",
-      "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਉਹ ਭਟਕਦੇ ਮਨ ਨੂੰ ਕਾਬੂ ਕਰ ਕੇ (ਮਾਇਆ ਵਲੋਂ) ਰੋਕ ਸਕਦਾ ਹੈ।",
-      "roman": "brahm giānī le dhāvat bandhā",
-      "translation_ru": "потому что он умеет обуздать блуждающий ум и удержать его от майи."
-    },
-    {
-      "index": 42,
-      "verse_id": 12128,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਹੋਇ ਸੁ ਭਲਾ ॥",
-      "site_roman": "braham giānī kai hōi s bhalā .",
-      "sahib_singh_pa": "ਜੋ ਕੁਝ (ਪ੍ਰਭੂ ਵਲੋਂ) ਹੁੰਦਾ ਹੈ, ਬ੍ਰਹਮਗਿਆਨੀ ਨੂੰ ਆਪਣੇ ਮਨ ਵਿਚ ਭਲਾ ਪ੍ਰਤੀਤ ਹੁੰਦਾ ਹੈ,",
-      "roman": "brahm giānī kai hoi su bhalā",
-      "translation_ru": "Что бы ни происходило по воле Господа, брахмгьяни считает это благим,"
-    },
-    {
-      "index": 43,
-      "verse_id": 12129,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਸੁਫਲ ਫਲਾ ॥",
-      "site_roman": "braham giānī suphal phalā .",
-      "sahib_singh_pa": "ਇਸ ਤਰ੍ਹਾਂ) ਉਸ ਦਾ ਮਨੁੱਖਾ ਜਨਮ ਚੰਗੀ ਤਰ੍ਹਾਂ ਕਾਮਯਾਬ ਹੁੰਦਾ ਹੈ।",
-      "roman": "brahm giānī suphal phalā",
-      "translation_ru": "и потому его человеческое рождение по-настоящему оказывается успешным."
-    },
-    {
-      "index": 44,
-      "verse_id": 12130,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਸੰਗਿ ਸਗਲ ਉਧਾਰੁ ॥",
-      "site_roman": "braham giānī sang sagal udhār .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਦੀ ਸੰਗਤਿ ਵਿਚ ਸਭ ਦਾ ਬੇੜਾ ਪਾਰ ਹੁੰਦਾ ਹੈ,",
-      "roman": "brahm giānī sang sagal udhār",
-      "translation_ru": "В обществе брахмгьяни все переправляются через мирской океан,"
-    },
-    {
-      "index": 45,
-      "verse_id": 12131,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਨਾਨਕ ਬ੍ਰਹਮ ਗਿਆਨੀ ਜਪੈ ਸਗਲ ਸੰਸਾਰੁ ॥੪॥",
-      "site_roman": "nānak braham giānī japai sagal sansār .4.",
-      "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਹੇ ਨਾਨਕ! ਬ੍ਰਹਮਗਿਆਨੀ ਦੀ ਰਾਹੀਂ ਸਾਰਾ ਜਗਤ (ਹੀ) (ਪ੍ਰਭੂ ਦਾ ਨਾਮ) ਜਪਣ ਲੱਗ ਪੈਂਦਾ ਹੈ ॥੪॥",
-      "roman": "Nānak brahm giānī japai sagal sansār",
-      "translation_ru": "потому что, о Нанак, через брахмгьяни весь мир начинает повторять Имя Господа ॥4॥"
-    },
-    {
-      "index": 46,
-      "verse_id": 12132,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਏਕੈ ਰੰਗ ॥",
-      "site_roman": "braham giānī kai ēkai rang .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਦੇ ਹਿਰਦੇ ਵਿਚ (ਸਦਾ) ਇਕ ਅਕਾਲ ਪੁਰਖ ਦਾ ਪਿਆਰ (ਵੱਸਦਾ ਹੈ),",
-      "roman": "brahm giānī kai ekai rang",
-      "translation_ru": "В сердце брахмгьяни живёт любовь только к одному Акаал Пуракху,"
-    },
-    {
-      "index": 47,
-      "verse_id": 12133,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਬਸੈ ਪ੍ਰਭੁ ਸੰਗ ॥",
-      "site_roman": "braham giānī kai basai prabh sang .",
-      "sahib_singh_pa": "(ਤਾਹੀਏਂ) ਪ੍ਰਭੂ ਬ੍ਰਹਮਗਿਆਨੀ ਦੇ ਅੰਗ-ਸੰਗ ਰਹਿੰਦਾ ਹੈ।",
-      "roman": "brahm giānī kai basai prabh sang",
-      "translation_ru": "и потому Господь пребывает рядом с ним."
-    },
-    {
-      "index": 48,
-      "verse_id": 12134,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਨਾਮੁ ਆਧਾਰੁ ॥",
-      "site_roman": "braham giānī kai nām ādhār .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਦੇ ਮਨ ਵਿਚ (ਪ੍ਰਭੂ ਦਾ) ਨਾਮ (ਹੀ) ਟੇਕ ਹੈ,",
-      "roman": "brahm giānī kai nām ādhār",
-      "translation_ru": "Для брахмгьяни Имя — опора,"
-    },
-    {
-      "index": 49,
-      "verse_id": 12135,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਨਾਮੁ ਪਰਵਾਰੁ ॥",
-      "site_roman": "braham giānī kai nām paravār .",
-      "sahib_singh_pa": "ਅਤੇ ਨਾਮ ਹੀ ਉਸ ਦਾ ਪਰਵਾਰ ਹੈ।",
-      "roman": "brahm giānī kai nām parvār",
-      "translation_ru": "и Имя — его семья."
-    },
-    {
-      "index": 50,
-      "verse_id": 12136,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਸਦਾ ਸਦ ਜਾਗਤ ॥",
-      "site_roman": "braham giānī sadā sad jāgat .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਸਦਾ (ਵਿਕਾਰਾਂ ਦੇ ਹਮਲੇ ਵਲੋਂ) ਸੁਚੇਤ ਰਹਿੰਦਾ ਹੈ,",
-      "roman": "brahm giānī sadā sad jāgat",
-      "translation_ru": "Брахмгьяни всегда остаётся настороже перед нападением пороков,"
-    },
-    {
-      "index": 51,
-      "verse_id": 12137,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਅਹੰਬੁਧਿ ਤਿਆਗਤ ॥",
-      "site_roman": "braham giānī ahanbudh tiāgat .",
-      "sahib_singh_pa": "ਅਤੇ 'ਮੈਂ ਮੈਂ' ਕਰਨ ਵਾਲੀ ਮੱਤ ਛੱਡ ਦੇਂਦਾ ਹੈ।",
-      "roman": "brahm giānī ahaṃbudh tiāgat",
-      "translation_ru": "и оставляет ум, говорящий «я, я»."
-    },
-    {
-      "index": 52,
-      "verse_id": 12138,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਮਨਿ ਪਰਮਾਨੰਦ ॥",
-      "site_roman": "braham giānī kai man paramānand .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਦੇ ਮਨ ਵਿਚ ਉੱਚੇ ਸੁਖ ਦਾ ਮਾਲਕ ਅਕਾਲ ਪੁਰਖ ਵੱਸਦਾ ਹੈ,",
-      "roman": "brahm giānī kai man parmānand",
-      "translation_ru": "В уме брахмгьяни пребывает Акаал Пуракх, владыка высшего блаженства,"
-    },
-    {
-      "index": 53,
-      "verse_id": 12139,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਘਰਿ ਸਦਾ ਅਨੰਦ ॥",
-      "site_roman": "braham giānī kai ghar sadā anand .",
-      "sahib_singh_pa": "(ਤਾਹੀਏਂ) ਉਸ ਦੇ ਹਿਰਦੇ-ਰੂਪ ਘਰ ਵਿਚ ਸਦਾ ਖ਼ੁਸ਼ੀ ਖਿੜਾਓ ਹੈ।",
-      "roman": "brahm giānī kai ghar sadā anand",
-      "translation_ru": "и потому в его доме-сердце всегда цветёт радость."
-    },
-    {
-      "index": 54,
-      "verse_id": 12140,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਸੁਖ ਸਹਜ ਨਿਵਾਸ ॥",
-      "site_roman": "braham giānī sukh sahaj nivās .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ (ਮਨੁੱਖ) ਸੁਖ ਤੇ ਸ਼ਾਂਤੀ ਵਿਚ ਟਿਕਿਆ ਰਹਿੰਦਾ ਹੈ;",
-      "roman": "brahm giānī sukh sahaj nivās",
-      "translation_ru": "Брахмгьяни пребывает в покое и мире,"
-    },
-    {
-      "index": 55,
-      "verse_id": 12141,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਨਾਨਕ ਬ੍ਰਹਮ ਗਿਆਨੀ ਕਾ ਨਹੀ ਬਿਨਾਸ ॥੫॥",
-      "site_roman": "nānak braham giānī kā nahī binās .5.",
-      "sahib_singh_pa": "(ਤੇ) ਹੇ ਨਾਨਕ! ਬ੍ਰਹਮਗਿਆਨੀ (ਦੀ ਇਸ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ) ਦਾ ਕਦੇ ਨਾਸ ਨਹੀਂ ਹੁੰਦਾ ॥੫॥",
-      "roman": "Nānak brahm giānī kā nahī binās",
-      "translation_ru": "и, о Нанак, это его высокое духовное состояние никогда не исчезает ॥5॥"
-    },
-    {
-      "index": 56,
-      "verse_id": 12142,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਬ੍ਰਹਮ ਕਾ ਬੇਤਾ ॥",
-      "site_roman": "braham giānī braham kā bētā .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ (ਮਨੁੱਖ) ਅਕਾਲ ਪੁਰਖ ਦਾ ਮਹਰਮ ਬਣ ਜਾਂਦਾ ਹੈ,",
-      "roman": "brahm giānī brahm kā betā",
-      "translation_ru": "Брахмгьяни становится близким к Акаал Пуракху,"
-    },
-    {
-      "index": 57,
-      "verse_id": 12143,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਏਕ ਸੰਗਿ ਹੇਤਾ ॥",
-      "site_roman": "braham giānī ēk sang hētā .",
-      "sahib_singh_pa": "ਅਤੇ ਉਹ ਇਕ ਪ੍ਰਭੂ ਨਾਲ ਹੀ ਪਿਆਰ ਕਰਦਾ ਹੈ।",
-      "roman": "brahm giānī ek sang hetā",
-      "translation_ru": "и любит лишь одного Господа."
-    },
-    {
-      "index": 58,
-      "verse_id": 12144,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਹੋਇ ਅਚਿੰਤ ॥",
-      "site_roman": "braham giānī kai hōi achint .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਦੇ ਮਨ ਵਿਚ (ਸਦਾ) ਬੇਫ਼ਿਕਰੀ ਰਹਿੰਦੀ ਹੈ,",
-      "roman": "brahm giānī kai hoi achint",
-      "translation_ru": "В уме брахмгьяни всегда есть беспечальность,"
-    },
-    {
-      "index": 59,
-      "verse_id": 12145,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕਾ ਨਿਰਮਲ ਮੰਤ ॥",
-      "site_roman": "braham giānī kā niramal mant .",
-      "sahib_singh_pa": "ਉਸ ਦਾ ਉਪਦੇਸ਼ (ਭੀ ਹੋਰਨਾਂ ਨੂੰ) ਪਵਿਤ੍ਰ ਕਰਨ ਵਾਲਾ ਹੁੰਦਾ ਹੈ।",
-      "roman": "brahm giānī kā nirmal mant",
-      "translation_ru": "и его наставление тоже очищает других."
-    },
-    {
-      "index": 60,
-      "verse_id": 12146,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਜਿਸੁ ਕਰੈ ਪ੍ਰਭੁ ਆਪਿ ॥",
-      "site_roman": "braham giānī jis karai prabh āp .",
-      "sahib_singh_pa": "(ਉਹੀ ਮਨੁੱਖ ਬ੍ਰਹਮਗਿਆਨੀ ਬਣਦਾ ਹੈ) ਜਿਸ ਨੂੰ ਪ੍ਰਭੂ ਆਪ ਬਣਾਉਂਦਾ ਹੈ,",
-      "roman": "brahm giānī jis karai prabh āp",
-      "translation_ru": "Брахмгьяни становится только тот, кого Сам Господь делает таким,"
-    },
-    {
-      "index": 61,
-      "verse_id": 12147,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕਾ ਬਡ ਪਰਤਾਪ ॥",
-      "site_roman": "braham giānī kā bad paratāp .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਦਾ ਬੜਾ ਨਾਮਣਾ ਹੋ ਜਾਂਦਾ ਹੈ।",
-      "roman": "brahm giānī kā baḍ partāp",
-      "translation_ru": "и слава брахмгьяни становится великой."
-    },
-    {
-      "index": 62,
-      "verse_id": 12148,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕਾ ਦਰਸੁ ਬਡਭਾਗੀ ਪਾਈਐ ॥",
-      "site_roman": "braham giānī kā daras badabhāgī pāīai .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਦਾ ਦੀਦਾਰ ਵੱਡੇ ਭਾਗਾਂ ਨਾਲ ਪਾਈਦਾ ਹੈ;",
-      "roman": "brahm giānī kā daras baḍbhāgī pāīai",
-      "translation_ru": "Увидеть брахмгьяни можно лишь по великой удаче,"
-    },
-    {
-      "index": 63,
-      "verse_id": 12149,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕਉ ਬਲਿ ਬਲਿ ਜਾਈਐ ॥",
-      "site_roman": "braham giānī kau bal bal jāīai .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਤੋਂ ਸਦਾ ਸਦਕੇ ਜਾਈਏ।",
-      "roman": "brahm giānī kau bal bal jāīai",
-      "translation_ru": "и нужно снова и снова посвящать себя ему."
-    },
-    {
-      "index": 64,
-      "verse_id": 12150,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕਉ ਖੋਜਹਿ ਮਹੇਸੁਰ ॥",
-      "site_roman": "braham giānī kau khōjah mahēsur .",
-      "sahib_singh_pa": "ਸ਼ਿਵ (ਆਦਿਕ ਦੇਵਤੇ ਭੀ) ਬ੍ਰਹਮਗਿਆਨੀ ਨੂੰ ਭਾਲਦੇ ਫਿਰਦੇ ਹਨ;",
-      "roman": "brahm giānī kau khojahi mahesur",
-      "translation_ru": "Даже Шива и другие божества ищут брахмгьяни,"
-    },
-    {
-      "index": 65,
-      "verse_id": 12151,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਨਾਨਕ ਬ੍ਰਹਮ ਗਿਆਨੀ ਆਪਿ ਪਰਮੇਸੁਰ ॥੬॥",
-      "site_roman": "nānak braham giānī āp paramēsur .6.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਅਕਾਲ ਪੁਰਖ ਆਪ ਬ੍ਰਹਮਗਿਆਨੀ (ਦਾ ਰੂਪ) ਹੈ ॥੬॥",
-      "roman": "Nānak brahm giānī āp parmesur",
-      "translation_ru": "ибо, о Нанак, Сам Акаал Пуракх и есть образ брахмгьяни ॥6॥"
-    },
-    {
-      "index": 66,
-      "verse_id": 12152,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੀ ਕੀਮਤਿ ਨਾਹਿ ॥",
-      "site_roman": "braham giānī kī kīmat nāh .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ (ਦੇ ਗੁਣਾਂ) ਦਾ ਮੁੱਲ ਨਹੀਂ ਪੈ ਸਕਦਾ,",
-      "roman": "brahm giānī kī kīmat nāhi",
-      "translation_ru": "Цены качествам брахмгьяни установить невозможно,"
-    },
-    {
-      "index": 67,
-      "verse_id": 12153,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੈ ਸਗਲ ਮਨ ਮਾਹਿ ॥",
-      "site_roman": "braham giānī kai sagal man māh .",
-      "sahib_singh_pa": "ਸਾਰੇ ਹੀ (ਗੁਣ) ਬ੍ਰਹਮਗਿਆਨੀ ਦੇ ਅੰਦਰ ਹਨ।",
-      "roman": "brahm giānī kai sagal man māhi",
-      "translation_ru": "потому что все качества пребывают в нём."
-    },
-    {
-      "index": 68,
-      "verse_id": 12154,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕਾ ਕਉਨ ਜਾਨੈ ਭੇਦੁ ॥",
-      "site_roman": "braham giānī kā kaun jānai bhēd .",
-      "sahib_singh_pa": "ਕੇਹੜਾ ਮਨੁੱਖ ਬ੍ਰਹਮਗਿਆਨੀ (ਦੀ ਉੱਚੀ ਜ਼ਿੰਦਗੀ) ਦਾ ਭੇਤ ਪਾ ਸਕਦਾ ਹੈ?",
-      "roman": "brahm giānī kā kaun jānai bhed",
-      "translation_ru": "Какой человек способен постичь тайну высокой жизни брахмгьяни?"
-    },
-    {
-      "index": 69,
-      "verse_id": 12155,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕਉ ਸਦਾ ਅਦੇਸੁ ॥",
-      "site_roman": "braham giānī kau sadā adēs .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਦੇ ਅੱਗੇ ਸਦਾ ਨਿਊਣਾ ਹੀ (ਫੱਬਦਾ) ਹੈ।",
-      "roman": "brahm giānī kau sadā ades",
-      "translation_ru": "Перед брахмгьяни всегда подобает склоняться."
-    },
-    {
-      "index": 70,
-      "verse_id": 12156,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕਾ ਕਥਿਆ ਨ ਜਾਇ ਅਧਾਖ੍ਯਰੁ ॥",
-      "site_roman": "braham giānī kā kathiā n jāi adhākhyar .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ (ਦੀ ਮਹਿਮਾ) ਦਾ ਅੱਧਾ ਅੱਖਰ ਭੀ ਨਹੀਂ ਕਿਹਾ ਜਾ ਸਕਦਾ;",
-      "roman": "brahm giānī kā kathia na jāi adhākhyar",
-      "translation_ru": "О славе брахмгьяни нельзя сказать даже половины буквы,"
-    },
-    {
-      "index": 71,
-      "verse_id": 12157,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਸਰਬ ਕਾ ਠਾਕੁਰੁ ॥",
-      "site_roman": "braham giānī sarab kā thākur .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਸਾਰੇ (ਜੀਵਾਂ) ਦਾ ਪੂਜ੍ਯ ਹੈ।",
-      "roman": "brahm giānī sarab kā ṭhākur",
-      "translation_ru": "брахмгьяни почитаем всеми живыми существами."
-    },
-    {
-      "index": 72,
-      "verse_id": 12158,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੀ ਮਿਤਿ ਕਉਨੁ ਬਖਾਨੈ ॥",
-      "site_roman": "braham giānī kī mit kaun bakhānai .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ (ਦੀ ਉੱਚੀ ਜ਼ਿੰਦਗੀ) ਦਾ ਅੰਦਾਜ਼ਾ ਕੌਣ ਲਾ ਸਕਦਾ ਹੈ?",
-      "roman": "brahm giānī kī mit kaun bakhānai",
-      "translation_ru": "Кто может определить меру высокой жизни брахмгьяни?"
-    },
-    {
-      "index": 73,
-      "verse_id": 12159,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੀ ਗਤਿ ਬ੍ਰਹਮ ਗਿਆਨੀ ਜਾਨੈ ॥",
-      "site_roman": "braham giānī kī gat braham giānī jānai .",
-      "sahib_singh_pa": "ਉਸ ਦੀ ਹਾਲਤ (ਉਸ ਵਰਗਾ) ਬ੍ਰਹਮਗਿਆਨੀ ਹੀ ਜਾਣਦਾ ਹੈ।",
-      "roman": "brahm giānī kī gat brahm giānī jānai",
-      "translation_ru": "Его состояние знает только такой же брахмгьяни."
-    },
-    {
-      "index": 74,
-      "verse_id": 12160,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕਾ ਅੰਤੁ ਨ ਪਾਰੁ ॥",
-      "site_roman": "braham giānī kā ant n pār .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ (ਦੇ ਗੁਣਾਂ ਦੇ ਸਮੁੰਦਰ) ਦਾ ਕੋਈ ਹੱਦ ਬੰਨਾ ਨਹੀਂ;",
-      "roman": "brahm giānī kā ant na pār",
-      "translation_ru": "У океана качеств брахмгьяни нет ни конца, ни предела,"
-    },
-    {
-      "index": 75,
-      "verse_id": 12161,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਨਾਨਕ ਬ੍ਰਹਮ ਗਿਆਨੀ ਕਉ ਸਦਾ ਨਮਸਕਾਰੁ ॥੭॥",
-      "site_roman": "nānak braham giānī kau sadā namasakār .7.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਸਦਾ ਬ੍ਰਹਮਗਿਆਨੀ ਦੇ ਚਰਨਾਂ ਤੇ ਪਿਆ ਰਹੁ ॥੭॥",
-      "roman": "Nānak brahm giānī kau sadā namaskār",
-      "translation_ru": "о Нанак, всегда лежи у стоп брахмгьяни ॥7॥"
-    },
-    {
-      "index": 76,
-      "verse_id": 12162,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਸਭ ਸ੍ਰਿਸਟਿ ਕਾ ਕਰਤਾ ॥",
-      "site_roman": "braham giānī sabh srisat kā karatā .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਸਾਰੇ ਜਗਤ ਦਾ ਬਣਾਉਣ ਵਾਲਾ ਹੈ,",
-      "roman": "brahm giānī sabh srisṭ kā kartā",
-      "translation_ru": "Брахмгьяни — создатель всего мира,"
-    },
-    {
-      "index": 77,
-      "verse_id": 12163,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਸਦ ਜੀਵੈ ਨਹੀ ਮਰਤਾ ॥",
-      "site_roman": "braham giānī sad jīvai nahī maratā .",
-      "sahib_singh_pa": "ਸਦਾ ਹੀ ਜਿਊਂਦਾ ਹੈ, ਕਦੇ (ਜਨਮ) ਮਰਨ ਦੇ ਗੇੜ ਵਿਚ ਨਹੀਂ ਆਉਂਦਾ।",
-      "roman": "brahm giānī sad jīvai nahī martā",
-      "translation_ru": "он вечно жив и никогда не входит в круг рождения и смерти."
-    },
-    {
-      "index": 78,
-      "verse_id": 12164,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਮੁਕਤਿ ਜੁਗਤਿ ਜੀਅ ਕਾ ਦਾਤਾ ॥",
-      "site_roman": "braham giānī mukat jugat jī kā dātā .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਮੁਕਤੀ ਦਾ ਰਾਹ (ਦੱਸਣ ਵਾਲਾ ਤੇ ਉੱਚੀ ਆਤਮਕ) ਜ਼ਿੰਦਗੀ ਦਾ ਦੇਣ ਵਾਲਾ ਹੈ,",
-      "roman": "brahm giānī mukat jugat jīa kā dātā",
-      "translation_ru": "Брахмгьяни показывает путь освобождения и дарует высокую духовную жизнь,"
-    },
-    {
-      "index": 79,
-      "verse_id": 12165,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਪੂਰਨ ਪੁਰਖੁ ਬਿਧਾਤਾ ॥",
-      "site_roman": "braham giānī pūran purakh bidhātā .",
-      "sahib_singh_pa": "ਉਹੀ ਪੂਰਨ ਪੁਰਖ ਤੇ ਕਾਦਰ ਹੈ।",
-      "roman": "brahm giānī pūran purakh bidhātā",
-      "translation_ru": "он же совершенный Пурукх и Творец."
-    },
-    {
-      "index": 80,
-      "verse_id": 12166,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਅਨਾਥ ਕਾ ਨਾਥੁ ॥",
-      "site_roman": "braham giānī anāth kā nāth .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਨਿਖ਼ਸਮਿਆਂ ਦਾ ਖ਼ਸਮ ਹੈ,",
-      "roman": "brahm giānī anāth kā nāth",
-      "translation_ru": "Брахмгьяни — господин беззащитных,"
-    },
-    {
-      "index": 81,
-      "verse_id": 12167,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕਾ ਸਭ ਊਪਰਿ ਹਾਥੁ ॥",
-      "site_roman": "braham giānī kā sabh ūpar hāth .",
-      "sahib_singh_pa": "ਸਭ ਦੀ ਸਹਾਇਤਾ ਕਰਦਾ ਹੈ।",
-      "roman": "brahm giānī kā sabh ūpar hāth",
-      "translation_ru": "он помогает всем."
-    },
-    {
-      "index": 82,
-      "verse_id": 12168,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕਾ ਸਗਲ ਅਕਾਰੁ ॥",
-      "site_roman": "braham giānī kā sagal akār .",
-      "sahib_singh_pa": "ਸਾਰਾ ਦਿੱਸਦਾ ਜਗਤ ਬ੍ਰਹਮਗਿਆਨੀ ਦਾ (ਆਪਣਾ) ਹੈ,",
-      "roman": "brahm giānī kā sagal akār",
-      "translation_ru": "Весь видимый мир принадлежит брахмгьяни,"
-    },
-    {
-      "index": 83,
-      "verse_id": 12169,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਆਪਿ ਨਿਰੰਕਾਰੁ ॥",
-      "site_roman": "braham giānī āp nirankār .",
-      "sahib_singh_pa": "ਉਹ (ਤਾਂ ਪ੍ਰਤੱਖ) ਆਪ ਹੀ ਰੱਬ ਹੈ।",
-      "roman": "brahm giānī āp nirankār",
-      "translation_ru": "ведь он сам есть Сам Нираṅкар."
-    },
-    {
-      "index": 84,
-      "verse_id": 12170,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਬ੍ਰਹਮ ਗਿਆਨੀ ਕੀ ਸੋਭਾ ਬ੍ਰਹਮ ਗਿਆਨੀ ਬਨੀ ॥",
-      "site_roman": "braham giānī kī sōbhā braham giānī banī .",
-      "sahib_singh_pa": "ਬ੍ਰਹਮਗਿਆਨੀ ਦੀ ਮਹਿਮਾ (ਕੋਈ) ਬ੍ਰਹਮਗਿਆਨੀ ਹੀ ਕਰ ਸਕਦਾ ਹੈ;",
-      "roman": "brahm giānī kī sobhā brahm giānī banī",
-      "translation_ru": "Славу брахмгьяни может по-настоящему выразить только брахмгьяни,"
-    },
-    {
-      "index": 85,
-      "verse_id": 12171,
-      "shabad_num": 710,
-      "shabad_id": 710,
-      "gurmukhi": "ਨਾਨਕ ਬ੍ਰਹਮ ਗਿਆਨੀ ਸਰਬ ਕਾ ਧਨੀ ॥੮॥੮॥",
-      "site_roman": "nānak braham giānī sarab kā dhanī .8.8.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਬ੍ਰਹਮਗਿਆਨੀ ਸਭ ਜੀਵਾਂ ਦਾ ਮਾਲਕ ਹੈ ॥੮॥੮॥",
-      "roman": "Nānak brahm giānī sarab kā dhanī",
-      "translation_ru": "о Нанак, брахмгьяни — владыка всех существ ॥8॥8॥"
     }
   ]
 }

@@ -1,930 +1,418 @@
 {
   "ang": 280,
-  "line_count": 84,
   "lines": [
     {
-      "index": 1,
-      "verse_id": 12510,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸਲੋਕੁ ॥",
-      "site_roman": "salōk .",
-      "sahib_singh_pa": "None",
-      "roman": "salok",
-      "translation_ru": ""
-    },
-    {
-      "index": 2,
-      "verse_id": 12511,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸੰਤ ਸਰਨਿ ਜੋ ਜਨੁ ਪਰੈ ਸੋ ਜਨੁ ਉਧਰਨਹਾਰ ॥",
-      "site_roman": "sant saran jō jan parai sō jan udharanahār .",
-      "sahib_singh_pa": "ਜੋ ਮਨੁੱਖ ਸੰਤਾਂ ਦੀ ਸਰਨ ਪੈਂਦਾ ਹੈ, ਉਹ ਮਾਇਆ ਦੇ ਬੰਧਨਾਂ ਤੋਂ ਬਚ ਜਾਂਦਾ ਹੈ;",
-      "roman": "sant saran jo jan parai so jan udharanhār",
-      "translation_ru": "Тот человек, который приходит под защиту святых, спасается от уз майи;"
-    },
-    {
-      "index": 3,
-      "verse_id": 12512,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸੰਤ ਕੀ ਨਿੰਦਾ ਨਾਨਕਾ ਬਹੁਰਿ ਬਹੁਰਿ ਅਵਤਾਰ ॥੧॥",
-      "site_roman": "sant kī nindā nānakā bahur bahur avatār .1.",
-      "sahib_singh_pa": "(ਪਰ) ਹੇ ਨਾਨਕ! ਸੰਤਾਂ ਦੀ ਨਿੰਦਿਆ ਕਰਨ ਨਾਲ ਮੁੜ ਮੁੜ ਜੰਮੀਦਾ ਹੈ (ਭਾਵ, ਜਨਮ ਮਰਨ ਦੇ ਚੱਕ੍ਰ ਵਿਚ ਪੈ ਜਾਈਦਾ ਹੈ) ॥੧॥",
-      "roman": "sant kī nindā Nānakā bahur bahur avtār",
-      "translation_ru": "Но, о Нанак, из-за поношения святых человек вновь и вновь рождается, то есть попадает в круг рождений и смертей. 1."
-    },
-    {
-      "index": 4,
-      "verse_id": 12513,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਅਸਟਪਦੀ ॥",
-      "site_roman": "asatapadī .",
-      "sahib_singh_pa": "None",
-      "roman": "asṭpadī",
-      "translation_ru": ""
-    },
-    {
-      "index": 5,
-      "verse_id": 12514,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸੰਤ ਕੈ ਦੂਖਨਿ ਆਰਜਾ ਘਟੈ ॥",
-      "site_roman": "sant kai dūkhan ārajā ghatai .",
-      "sahib_singh_pa": "ਸੰਤ ਦੀ ਨਿੰਦਿਆ ਕਰਨ ਨਾਲ (ਮਨੁੱਖ ਦੀ) ਉਮਰ (ਵਿਅਰਥ ਹੀ) ਗੁਜ਼ਰਦੀ ਜਾਂਦੀ ਹੈ,",
-      "roman": "sant kai dūkhan ārjā ghaṭai",
-      "translation_ru": "Из-за поношения святого жизнь человека проходит впустую,"
-    },
-    {
-      "index": 6,
-      "verse_id": 12515,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸੰਤ ਕੈ ਦੂਖਨਿ ਜਮ ਤੇ ਨਹੀ ਛੁਟੈ ॥",
-      "site_roman": "sant kai dūkhan jam tē nahī shutai .",
-      "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਸੰਤ ਦੀ ਨਿੰਦਿਆ ਕੀਤਿਆਂ ਮਨੁੱਖ ਜਮਾਂ ਤੋਂ ਬਚ ਨਹੀਂ ਸਕਦਾ।",
-      "roman": "sant kai dūkhan jam te nahī chhuṭai",
-      "translation_ru": "потому что, понося святого, человек не может спастись от ямов."
-    },
-    {
-      "index": 7,
-      "verse_id": 12516,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸੰਤ ਕੈ ਦੂਖਨਿ ਸੁਖੁ ਸਭੁ ਜਾਇ ॥",
-      "site_roman": "sant kai dūkhan sukh sabh jāi .",
-      "sahib_singh_pa": "ਸੰਤ ਦੀ ਨਿੰਦਿਆ ਕੀਤਿਆਂ ਸਾਰਾ (ਹੀ) ਸੁਖ (ਨਾਸ ਹੋ) ਜਾਂਦਾ ਹੈ,",
-      "roman": "sant kai dūkhan sukh sabh jāi",
-      "translation_ru": "Из-за поношения святого уходит всякое счастье,"
-    },
-    {
-      "index": 8,
-      "verse_id": 12517,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸੰਤ ਕੈ ਦੂਖਨਿ ਨਰਕ ਮਹਿ ਪਾਇ ॥",
-      "site_roman": "sant kai dūkhan narak mah pāi .",
-      "sahib_singh_pa": "ਅਤੇ ਮਨੁੱਖ ਨਰਕ ਵਿਚ (ਭਾਵ, ਘੋਰ ਦੁਖਾਂ ਵਿਚ) ਪੈ ਜਾਂਦਾ ਹੈ।",
-      "roman": "sant kai dūkhan narak mahi pāi",
-      "translation_ru": "и человек попадает в ад, то есть в тяжкие страдания."
-    },
-    {
-      "index": 9,
-      "verse_id": 12518,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸੰਤ ਕੈ ਦੂਖਨਿ ਮਤਿ ਹੋਇ ਮਲੀਨ ॥",
-      "site_roman": "sant kai dūkhan mat hōi malīn .",
-      "sahib_singh_pa": "ਸੰਤ ਦੀ ਨਿੰਦਿਆ ਕਰਨ ਨਾਲ (ਮਨੁੱਖ ਦੀ) ਮਤਿ ਮੈਲੀ ਹੋ ਜਾਂਦੀ ਹੈ,",
-      "roman": "sant kai dūkhan mat hoi malīn",
-      "translation_ru": "Из-за поношения святого разум человека становится грязным,"
-    },
-    {
-      "index": 10,
-      "verse_id": 12519,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸੰਤ ਕੈ ਦੂਖਨਿ ਸੋਭਾ ਤੇ ਹੀਨ ॥",
-      "site_roman": "sant kai dūkhan sōbhā tē hīn .",
-      "sahib_singh_pa": "ਤੇ (ਜਗਤ ਵਿਚ) ਮਨੁੱਖ ਸੋਭਾ ਤੋਂ ਸੱਖਣਾ ਰਹਿ ਜਾਂਦਾ ਹੈ।",
-      "roman": "sant kai dūkhan sobhā te hīn",
-      "translation_ru": "и в мире человек остаётся лишённым чести."
-    },
-    {
-      "index": 11,
-      "verse_id": 12520,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸੰਤ ਕੇ ਹਤੇ ਕਉ ਰਖੈ ਨ ਕੋਇ ॥",
-      "site_roman": "sant kē hatē kau rakhai n kōi .",
-      "sahib_singh_pa": "ਸੰਤ ਦੇ ਫਿਟਕਾਰੇ ਹੋਏ ਬੰਦੇ ਦੀ ਕੋਈ ਮਨੁੱਖ ਸਹੈਤਾ ਨਹੀਂ ਕਰ ਸਕਦਾ,",
-      "roman": "sant ke hate kau rakhai na koi",
-      "translation_ru": "Никто не может помочь человеку, которого проклял святой,"
-    },
-    {
-      "index": 12,
-      "verse_id": 12521,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸੰਤ ਕੈ ਦੂਖਨਿ ਥਾਨ ਭ੍ਰਸਟੁ ਹੋਇ ॥",
-      "site_roman": "sant kai dūkhan thān bhrasat hōi .",
-      "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਸੰਤ ਦੀ ਨਿੰਦਾ ਕੀਤਿਆਂ (ਨਿੰਦਕ ਦਾ) ਹਿਰਦਾ ਗੰਦਾ ਹੋ ਜਾਂਦਾ ਹੈ।",
-      "roman": "sant kai dūkhan thān bhraṣṭ hoi",
-      "translation_ru": "потому что из-за поношения святого сердце поносителя становится нечистым."
-    },
-    {
-      "index": 13,
-      "verse_id": 12522,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸੰਤ ਕ੍ਰਿਪਾਲ ਕ੍ਰਿਪਾ ਜੇ ਕਰੈ ॥",
-      "site_roman": "sant kripāl kripā jē karai .",
-      "sahib_singh_pa": "(ਪਰ) ਜੇ ਕ੍ਰਿਪਾਲ ਸੰਤ ਆਪ ਕਿਰਪਾ ਕਰੇ,",
-      "roman": "sant kripāl kripā je karai",
-      "translation_ru": "Но если милостивый святой сам окажет милость,"
-    },
-    {
-      "index": 14,
-      "verse_id": 12523,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਨਾਨਕ ਸੰਤਸੰਗਿ ਨਿੰਦਕੁ ਭੀ ਤਰੈ ॥੧॥",
-      "site_roman": "nānak santasang nindak bhī tarai .1.",
-      "sahib_singh_pa": "ਤਾਂ ਹੇ ਨਾਨਕ! ਸੰਤ ਦੀ ਸੰਗਤਿ ਵਿਚ ਨਿੰਦਕ ਭੀ (ਪਾਪਾਂ ਤੋਂ) ਬਚ ਜਾਂਦਾ ਹੈ ॥੧॥",
-      "roman": "Nānak santsang nindak bhī tarai",
-      "translation_ru": "тогда, о Нанак, даже поноситель в обществе святого спасается от грехов. 1."
-    },
-    {
-      "index": 15,
-      "verse_id": 12524,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸੰਤ ਕੇ ਦੂਖਨ ਤੇ ਮੁਖੁ ਭਵੈ ॥",
-      "site_roman": "sant kē dūkhan tē mukh bhavai .",
-      "sahib_singh_pa": "ਸੰਤ ਦੀ ਨਿੰਦਾ ਕਰਨ ਨਾਲ (ਨਿੰਦਕ ਦਾ) ਚੇਹਰਾ ਹੀ ਭ੍ਰਸ਼ਟਿਆ ਜਾਂਦਾ ਹੈ,",
-      "roman": "sant ke dūkhan te mukh bhavai",
-      "translation_ru": "Из-за поношения святого даже лицо поносителя становится обезображенным,"
-    },
-    {
-      "index": 16,
-      "verse_id": 12525,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸੰਤਨ ਕੈ ਦੂਖਨਿ ਕਾਗ ਜਿਉ ਲਵੈ ॥",
-      "site_roman": "santan kai dūkhan kāg jiu lavai .",
-      "sahib_singh_pa": "(ਤੇ ਨਿੰਦਕ) (ਥਾਂ ਥਾਂ) ਕਾਂ ਵਾਂਗ ਲਉਂ ਲਉਂ ਕਰਦਾ ਹੈ (ਨਿੰਦਾ ਦੇ ਬਚਨ ਬੋਲਦਾ ਫਿਰਦਾ ਹੈ)।",
-      "roman": "santan kai dūkhan kāg jiu lavai",
-      "translation_ru": "и поноситель, словно ворона, каркает повсюду, произнося слова поношения."
-    },
-    {
-      "index": 17,
-      "verse_id": 12526,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸੰਤਨ ਕੈ ਦੂਖਨਿ ਸਰਪ ਜੋਨਿ ਪਾਇ ॥",
-      "site_roman": "santan kai dūkhan sarap jōn pāi .",
-      "sahib_singh_pa": "ਸੰਤ ਦੀ ਨਿੰਦਾ ਕੀਤਿਆਂ (ਖੋਟਾ ਸੁਭਾਉ ਬਣ ਜਾਣ ਤੇ) ਮਨੁੱਖ ਸੱਪ ਦੀ ਜੂਨੇ ਜਾ ਪੈਂਦਾ ਹੈ,",
-      "roman": "santan kai dūkhan sarap jon pāi",
-      "translation_ru": "Из-за поношения святого человек, приобретя дурной нрав, попадает в змеиное рождение,"
-    },
-    {
-      "index": 18,
-      "verse_id": 12527,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸੰਤ ਕੈ ਦੂਖਨਿ ਤ੍ਰਿਗਦ ਜੋਨਿ ਕਿਰਮਾਇ ॥",
-      "site_roman": "sant kai dūkhan trigad jōn kiramāi .",
-      "sahib_singh_pa": "ਤੇ, ਕਿਰਮ ਆਦਿਕ ਨਿੱਕੀਆਂ ਜੂਨਾਂ ਵਿਚ (ਭਟਕਦਾ ਹੈ)।",
-      "roman": "sant kai dūkhan trigad jon kirmāi",
-      "translation_ru": "и блуждает в малых рождениях, подобных червям и другим."
-    },
-    {
-      "index": 19,
-      "verse_id": 12528,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸੰਤਨ ਕੈ ਦੂਖਨਿ ਤ੍ਰਿਸਨਾ ਮਹਿ ਜਲੈ ॥",
-      "site_roman": "santan kai dūkhan trisanā mah jalai .",
-      "sahib_singh_pa": "ਸੰਤ ਦੀ ਨਿੰਦਿਆ ਦੇ ਕਾਰਨ (ਨਿੰਦਕ) ਤ੍ਰਿਸਨਾ (ਦੀ ਅੱਗ) ਵਿਚ ਸੜਦਾ ਭੁੱਜਦਾ ਹੈ,",
-      "roman": "santan kai dūkhan trisanā mahi jalai",
-      "translation_ru": "Из-за поношения святого поноситель горит и обжигается в огне жажды,"
-    },
-    {
-      "index": 20,
-      "verse_id": 12529,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸੰਤ ਕੈ ਦੂਖਨਿ ਸਭੁ ਕੋ ਛਲੈ ॥",
-      "site_roman": "sant kai dūkhan sabh kō shalai .",
-      "sahib_singh_pa": "ਤੇ, ਹਰੇਕ ਮਨੁੱਖ ਨੂੰ ਧੋਖਾ ਦੇਂਦਾ ਫਿਰਦਾ ਹੈ।",
-      "roman": "sant kai dūkhan sabh ko chhalai",
-      "translation_ru": "и обманывает каждого человека."
-    },
-    {
-      "index": 21,
-      "verse_id": 12530,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸੰਤ ਕੈ ਦੂਖਨਿ ਤੇਜੁ ਸਭੁ ਜਾਇ ॥",
-      "site_roman": "sant kai dūkhan tēj sabh jāi .",
-      "sahib_singh_pa": "ਸੰਤ ਦੀ ਨਿੰਦਿਆ ਕੀਤਿਆਂ ਮਨੁੱਖ ਦਾ ਸਾਰਾ ਤੇਜ ਪ੍ਰਤਾਪ ਹੀ ਨਸ਼ਟ ਹੋ ਜਾਂਦਾ ਹੈ,",
-      "roman": "sant kai dūkhan tej sabh jāi",
-      "translation_ru": "Из-за поношения святого весь блеск и величие человека исчезают,"
-    },
-    {
-      "index": 22,
-      "verse_id": 12531,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸੰਤ ਕੈ ਦੂਖਨਿ ਨੀਚੁ ਨੀਚਾਇ ॥",
-      "site_roman": "sant kai dūkhan nīch nīchāi .",
-      "sahib_singh_pa": "ਅਤੇ (ਨਿੰਦਕ) ਮਹਾ ਨੀਚ ਬਣ ਜਾਂਦਾ ਹੈ।",
-      "roman": "sant kai dūkhan nīch nīchāi",
-      "translation_ru": "и поноситель становится совсем низким."
-    },
-    {
-      "index": 23,
-      "verse_id": 12532,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਸੰਤ ਦੋਖੀ ਕਾ ਥਾਉ ਕੋ ਨਾਹਿ ॥",
-      "site_roman": "sant dōkhī kā thāu kō nāh .",
-      "sahib_singh_pa": "ਸੰਤਾਂ ਦੀ ਨਿੰਦਾ ਕਰਨ ਵਾਲਿਆਂ ਦਾ ਕੋਈ ਆਸਰਾ ਨਹੀਂ ਰਹਿੰਦਾ;",
-      "roman": "sant dokhī kā thāu ko nāhi",
-      "translation_ru": "У поносителей святых не остаётся никакой опоры;"
-    },
-    {
-      "index": 24,
       "verse_id": 12533,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਨਾਨਕ ਸੰਤ ਭਾਵੈ ਤਾ ਓਇ ਭੀ ਗਤਿ ਪਾਹਿ ॥੨॥",
-      "site_roman": "nānak sant bhāvai tā ōi bhī gat pāh .2.",
+      "roman": "nānak sant bhāvē tā oi bhī gat pāhi ॥2॥",
       "sahib_singh_pa": "(ਹਾਂ) ਹੇ ਨਾਨਕ! ਜੇ ਸੰਤਾਂ ਨੂੰ ਭਾਵੇ ਤਾਂ ਉਹ ਨਿੰਦਕ ਭੀ ਚੰਗੀ ਅਵਸਥਾ ਤੇ ਅੱਪੜ ਜਾਂਦੇ ਹਨ ॥੨॥",
-      "roman": "Nānak sant bhāvai tā oi bhī gat pāhi",
-      "translation_ru": "да, о Нанак, если это угодно святым, то и такие поносители достигают доброго состояния. 2."
+      "translation_ru": "Да, о Нанак, если святые того пожелают, то и эти хулители достигают доброго состояния ॥2॥"
     },
     {
-      "index": 25,
       "verse_id": 12534,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਨਿੰਦਕੁ ਮਹਾ ਅਤਤਾਈ ॥",
-      "site_roman": "sant kā nindak mahā atatāī .",
+      "roman": "sant kā nindak mahā attāī",
       "sahib_singh_pa": "ਸੰਤ ਦੀ ਨਿੰਦਿਆ ਕਰਨ ਵਾਲਾ ਸਦਾ ਅੱਤ ਚੁੱਕੀ ਰੱਖਦਾ ਹੈ,",
-      "roman": "sant kā nindak mahā atatāī",
-      "translation_ru": "Поноситель святого всегда держится крайнего беззакония,"
+      "translation_ru": "Хулитель святого всегда творит крайности,"
     },
     {
-      "index": 26,
       "verse_id": 12535,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਨਿੰਦਕੁ ਖਿਨੁ ਟਿਕਨੁ ਨ ਪਾਈ ॥",
-      "site_roman": "sant kā nindak khin tikan n pāī .",
-      "sahib_singh_pa": "ਤੇ ਇਕ ਪਲਕ ਭਰ ਭੀ (ਅੱਤ ਚੁੱਕਣ ਵਲੋਂ) ਆਰਾਮ ਨਹੀਂ ਲੈਂਦਾ।",
       "roman": "sant kā nindak khin ṭikan na pāī",
-      "translation_ru": "и ни на миг не получает передышки от этого беззакония."
+      "sahib_singh_pa": "ਤੇ ਇਕ ਪਲਕ ਭਰ ਭੀ (ਅੱਤ ਚੁੱਕਣ ਵਲੋਂ) ਆਰਾਮ ਨਹੀਂ ਲੈਂਦਾ।",
+      "translation_ru": "и ни на одно мгновение не знает покоя от этого."
     },
     {
-      "index": 27,
       "verse_id": 12536,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਨਿੰਦਕੁ ਮਹਾ ਹਤਿਆਰਾ ॥",
-      "site_roman": "sant kā nindak mahā hatiārā .",
-      "sahib_singh_pa": "ਸੰਤ ਦਾ ਨਿੰਦਕ ਵੱਡਾ ਜ਼ਾਲਮ ਬਣ ਜਾਂਦਾ ਹੈ,",
       "roman": "sant kā nindak mahā hatiārā",
-      "translation_ru": "Поноситель святого становится великим жестоким человеком,"
+      "sahib_singh_pa": "ਸੰਤ ਦਾ ਨਿੰਦਕ ਵੱਡਾ ਜ਼ਾਲਮ ਬਣ ਜਾਂਦਾ ਹੈ,",
+      "translation_ru": "Хулитель святого становится великим злодеем,"
     },
     {
-      "index": 28,
       "verse_id": 12537,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਨਿੰਦਕੁ ਪਰਮੇਸੁਰਿ ਮਾਰਾ ॥",
-      "site_roman": "sant kā nindak paramēsur mārā .",
-      "sahib_singh_pa": "ਤੇ ਰੱਬ ਵਲੋਂ ਫਿਟਕਾਰਿਆ ਜਾਂਦਾ ਹੈ।",
       "roman": "sant kā nindak parmesur mārā",
+      "sahib_singh_pa": "ਤੇ ਰੱਬ ਵਲੋਂ ਫਿਟਕਾਰਿਆ ਜਾਂਦਾ ਹੈ।",
       "translation_ru": "и оказывается проклят Богом."
     },
     {
-      "index": 29,
       "verse_id": 12538,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਨਿੰਦਕੁ ਰਾਜ ਤੇ ਹੀਨੁ ॥",
-      "site_roman": "sant kā nindak rāj tē hīn .",
-      "sahib_singh_pa": "ਸੰਤ ਦਾ ਨਿੰਦਕ ਰਾਜ (ਭਾਵ, ਦੁਨੀਆ ਦੇ ਸੁਖਾਂ) ਤੋਂ ਵਾਂਜਿਆਂ ਰਹਿੰਦਾ ਹੈ,",
       "roman": "sant kā nindak rāj te hīn",
-      "translation_ru": "Поноситель святого остаётся лишённым царства, то есть мирских радостей,"
+      "sahib_singh_pa": "ਸੰਤ ਦਾ ਨਿੰਦਕ ਰਾਜ (ਭਾਵ, ਦੁਨੀਆ ਦੇ ਸੁਖਾਂ) ਤੋਂ ਵਾਂਜਿਆਂ ਰਹਿੰਦਾ ਹੈ,",
+      "translation_ru": "Хулитель святого лишён царства, то есть мирских наслаждений,"
     },
     {
-      "index": 30,
       "verse_id": 12539,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਨਿੰਦਕੁ ਦੁਖੀਆ ਅਰੁ ਦੀਨੁ ॥",
-      "site_roman": "sant kā nindak dukhīā ar dīn .",
+      "roman": "sant kā nindak dukhī aru dīn",
       "sahib_singh_pa": "(ਸਦਾ) ਦੁਖੀ ਤੇ ਆਤੁਰ ਰਹਿੰਦਾ ਹੈ।",
-      "roman": "sant kā nindak dukhī ar dīn",
-      "translation_ru": "и всегда пребывает в страдании и подавленности."
+      "translation_ru": "и всегда остаётся страдающим и измученным."
     },
     {
-      "index": 31,
       "verse_id": 12540,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕੇ ਨਿੰਦਕ ਕਉ ਸਰਬ ਰੋਗ ॥",
-      "site_roman": "sant kē nindak kau sarab rōg .",
-      "sahib_singh_pa": "ਸੰਤਾਂ ਦੀ ਨਿੰਦਿਆ ਕਰਨ ਵਾਲੇ ਨੂੰ ਸਾਰੇ ਰੋਗ ਵਿਆਪਦੇ ਹਨ,",
       "roman": "sant ke nindak kau sarab rog",
-      "translation_ru": "Поносителя святых поражают все болезни,"
+      "sahib_singh_pa": "ਸੰਤਾਂ ਦੀ ਨਿੰਦਿਆ ਕਰਨ ਵਾਲੇ ਨੂੰ ਸਾਰੇ ਰੋਗ ਵਿਆਪਦੇ ਹਨ,",
+      "translation_ru": "Того, кто поносит святых, поражают все болезни,"
     },
     {
-      "index": 32,
       "verse_id": 12541,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕੇ ਨਿੰਦਕ ਕਉ ਸਦਾ ਬਿਜੋਗ ॥",
-      "site_roman": "sant kē nindak kau sadā bijōg .",
-      "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਉਸ ਨੂੰ (ਸੁਖਾਂ ਦੇ ਸੋਮੇ ਪ੍ਰਭੂ ਤੋਂ) ਸਦਾ ਵਿਛੋੜਾ ਰਹਿੰਦਾ ਹੈ।",
       "roman": "sant ke nindak kau sadā bijog",
-      "translation_ru": "потому что он всегда отделён от Бога, источника счастья."
+      "sahib_singh_pa": "(ਕਿਉਂਕਿ) ਉਸ ਨੂੰ (ਸੁਖਾਂ ਦੇ ਸੋਮੇ ਪ੍ਰਭੂ ਤੋਂ) ਸਦਾ ਵਿਛੋੜਾ ਰਹਿੰਦਾ ਹੈ।",
+      "translation_ru": "потому что он всегда пребывает в разлуке с Богом, источником счастья."
     },
     {
-      "index": 33,
       "verse_id": 12542,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕੀ ਨਿੰਦਾ ਦੋਖ ਮਹਿ ਦੋਖੁ ॥",
-      "site_roman": "sant kī nindā dōkh mah dōkh .",
+      "roman": "sant kī nindā dokh meh dokh",
       "sahib_singh_pa": "ਸੰਤਾਂ ਦੀ ਨਿੰਦਿਆ ਕਰਨੀ ਬਹੁਤ ਹੀ ਮਾੜਾ ਕੰਮ ਹੈ।",
-      "roman": "sant kī nindā dokh mahi dokh",
       "translation_ru": "Поносить святых — очень дурное дело."
     },
     {
-      "index": 34,
       "verse_id": 12543,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਨਾਨਕ ਸੰਤ ਭਾਵੈ ਤਾ ਉਸ ਕਾ ਭੀ ਹੋਇ ਮੋਖੁ ॥੩॥",
-      "site_roman": "nānak sant bhāvai tā us kā bhī hōi mōkh .3.",
+      "roman": "nānak sant bhāvē tā us kā bhī hoi mokh ॥3॥",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਜੇ ਸੰਤਾਂ ਨੂੰ ਭਾਵੇ ਤਾਂ ਉਸ (ਨਿੰਦਕ) ਦਾ ਭੀ (ਨਿੰਦਿਆ ਤੋਂ) ਛੁਟਕਾਰਾ ਹੋ ਜਾਂਦਾ ਹੈ ॥੩॥",
-      "roman": "Nānak sant bhāvai tā us kā bhī hoi mokh",
-      "translation_ru": "О Нанак, если это угодно святым, то и этот поноситель освобождается от поношения. 3."
+      "translation_ru": "О Нанак, если это угодно святым, то и он, хулитель, освобождается от поношения ॥3॥"
     },
     {
-      "index": 35,
       "verse_id": 12544,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਦੋਖੀ ਸਦਾ ਅਪਵਿਤੁ ॥",
-      "site_roman": "sant kā dōkhī sadā apavit .",
+      "roman": "sant kā dokhī sadā apavit",
       "sahib_singh_pa": "ਸੰਤ ਦਾ ਨਿੰਦਕ ਸਦਾ ਮੈਲੇ ਮਨ ਵਾਲਾ ਹੈ,",
-      "roman": "sant kā dokhī sadā apvit",
-      "translation_ru": "Поноситель святого всегда человек с грязным умом,"
+      "translation_ru": "Хулитель святого всегда человек с грязным умом,"
     },
     {
-      "index": 36,
       "verse_id": 12545,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਦੋਖੀ ਕਿਸੈ ਕਾ ਨਹੀ ਮਿਤੁ ॥",
-      "site_roman": "sant kā dōkhī kisai kā nahī mit .",
+      "roman": "sant kā dokhī kisē kā nahī mit",
       "sahib_singh_pa": "(ਤਾਹੀਏਂ) ਉਹ (ਕਦੇ) ਕਿਸੇ ਦਾ ਸੱਜਣ ਨਹੀਂ ਬਣਦਾ।",
-      "roman": "sant kā dokhī kisai kā nahī mit",
       "translation_ru": "поэтому он никогда не становится никому другом."
     },
     {
-      "index": 37,
       "verse_id": 12546,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕੇ ਦੋਖੀ ਕਉ ਡਾਨੁ ਲਾਗੈ ॥",
-      "site_roman": "sant kē dōkhī kau dān lāgai .",
+      "roman": "sant ke dokhī kau ḍān lāgē",
       "sahib_singh_pa": "(ਅੰਤ ਵੇਲੇ) ਸੰਤ ਦੇ ਨਿੰਦਕ ਨੂੰ (ਧਰਮਰਾਜ ਤੋਂ) ਸਜ਼ਾ ਮਿਲਦੀ ਹੈ,",
-      "roman": "sant ke dokhī kau ḍān lāgai",
-      "translation_ru": "В конце поноситель святого получает наказание от Дхармараджа,"
+      "translation_ru": "В конце хулитель святого получает наказание от Дхармараджа,"
     },
     {
-      "index": 38,
       "verse_id": 12547,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕੇ ਦੋਖੀ ਕਉ ਸਭ ਤਿਆਗੈ ॥",
-      "site_roman": "sant kē dōkhī kau sabh tiāgai .",
+      "roman": "sant ke dokhī kau sabh tiāgē",
       "sahib_singh_pa": "ਤੇ ਸਾਰੇ ਉਸ ਦਾ ਸਾਥ ਛੱਡ ਜਾਂਦੇ ਹਨ।",
-      "roman": "sant ke dokhī kau sabh tiāgai",
       "translation_ru": "и все оставляют его."
     },
     {
-      "index": 39,
       "verse_id": 12548,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਦੋਖੀ ਮਹਾ ਅਹੰਕਾਰੀ ॥",
-      "site_roman": "sant kā dōkhī mahā ahankārī .",
+      "roman": "sant kā dokhī mahā ahankārī",
       "sahib_singh_pa": "ਸੰਤ ਦੀ ਨਿੰਦਿਆ ਕਰਨ ਵਾਲਾ ਬੜਾ ਆਕੜ-ਖਾਨ ਬਣ ਜਾਂਦਾ ਹੈ,",
-      "roman": "sant kā dokhī mahā ahaṅkārī",
-      "translation_ru": "Поносящий святого становится очень заносчивым,"
+      "translation_ru": "Тот, кто поносит святого, становится очень заносчивым,"
     },
     {
-      "index": 40,
       "verse_id": 12549,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਦੋਖੀ ਸਦਾ ਬਿਕਾਰੀ ॥",
-      "site_roman": "sant kā dōkhī sadā bikārī .",
-      "sahib_singh_pa": "ਤੇ ਸਦਾ ਮੰਦੇ ਕੰਮ ਕਰਦਾ ਹੈ।",
       "roman": "sant kā dokhī sadā bikārī",
+      "sahib_singh_pa": "ਤੇ ਸਦਾ ਮੰਦੇ ਕੰਮ ਕਰਦਾ ਹੈ।",
       "translation_ru": "и всегда делает дурные дела."
     },
     {
-      "index": 41,
       "verse_id": 12550,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਦੋਖੀ ਜਨਮੈ ਮਰੈ ॥",
-      "site_roman": "sant kā dōkhī janamai marai .",
+      "roman": "sant kā dokhī janmē marē",
       "sahib_singh_pa": "(ਇਹਨੀਂ ਔਗੁਣੀਂ) ਸੰਤ ਦਾ ਨਿੰਦਕ ਜੰਮਦਾ ਮਰਦਾ ਰਹਿੰਦਾ ਹੈ,",
-      "roman": "sant kā dokhī janmai marai",
-      "translation_ru": "Из-за этих пороков поноситель святого продолжает рождаться и умирать,"
+      "translation_ru": "Из-за этих пороков хулитель святого продолжает рождаться и умирать,"
     },
     {
-      "index": 42,
       "verse_id": 12551,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕੀ ਦੂਖਨਾ ਸੁਖ ਤੇ ਟਰੈ ॥",
-      "site_roman": "sant kī dūkhanā sukh tē tarai .",
+      "roman": "sant kī dūkhnā sukh te ṭarē",
       "sahib_singh_pa": "ਤੇ ਸੰਤ ਦੀ ਨਿੰਦਿਆ ਦੇ ਕਾਰਨ ਸੁਖਾਂ ਤੋਂ ਵਾਂਜਿਆ ਜਾਂਦਾ ਹੈ।",
-      "roman": "sant kī dūkhnā sukh te ṭarai",
-      "translation_ru": "и из-за поношения святого остаётся лишённым счастья."
+      "translation_ru": "и из-за поношения святого лишается счастья."
     },
     {
-      "index": 43,
       "verse_id": 12552,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕੇ ਦੋਖੀ ਕਉ ਨਾਹੀ ਠਾਉ ॥",
-      "site_roman": "sant kē dōkhī kau nāhī thāu .",
-      "sahib_singh_pa": "ਸੰਤ ਦੇ ਨਿੰਦਕ ਨੂੰ ਕੋਈ ਸਹਾਰਾ ਨਹੀਂ ਮਿਲਦਾ,",
       "roman": "sant ke dokhī kau nāhī ṭhāu",
-      "translation_ru": "Поноситель святого не находит никакой опоры,"
+      "sahib_singh_pa": "ਸੰਤ ਦੇ ਨਿੰਦਕ ਨੂੰ ਕੋਈ ਸਹਾਰਾ ਨਹੀਂ ਮਿਲਦਾ,",
+      "translation_ru": "Хулитель святого не находит никакой опоры,"
     },
     {
-      "index": 44,
       "verse_id": 12553,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਨਾਨਕ ਸੰਤ ਭਾਵੈ ਤਾ ਲਏ ਮਿਲਾਇ ॥੪॥",
-      "site_roman": "nānak sant bhāvai tā laē milāi .4.",
+      "roman": "nānak sant bhāvē tā lae milāi ॥4॥",
       "sahib_singh_pa": "(ਪਰ ਹਾਂ), ਹੇ ਨਾਨਕ! ਜੇ ਸੰਤ ਚਾਹੇ ਤਾਂ ਆਪਣੇ ਨਾਲ ਉਸ (ਨਿੰਦਕ) ਨੂੰ ਮਿਲਾ ਲੈਂਦਾ ਹੈ ॥੪॥",
-      "roman": "Nānak sant bhāvai tā lae milāi",
-      "translation_ru": "но, о Нанак, если святой пожелает, то принимает его к себе. 4."
+      "translation_ru": "но, о Нанак, если святой пожелает, то может принять и соединить его с собой ॥4॥"
     },
     {
-      "index": 45,
       "verse_id": 12554,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਦੋਖੀ ਅਧ ਬੀਚ ਤੇ ਟੂਟੈ ॥",
-      "site_roman": "sant kā dōkhī adh bīch tē tūtai .",
+      "roman": "sant kā dokhī adh bīch te ṭūṭē",
       "sahib_singh_pa": "ਸੰਤ ਦੀ ਨਿੰਦਿਆ ਕਰਨ ਵਾਲਾ ਅੱਧ ਵਿਚੋਂ ਹੀ ਰਹਿ ਜਾਂਦਾ ਹੈ,",
-      "roman": "sant kā dokhī adh bīch te ṭūṭai",
-      "translation_ru": "Поносящий святого остаётся на полпути,"
+      "translation_ru": "Тот, кто поносит святого, обрывается на полпути,"
     },
     {
-      "index": 46,
       "verse_id": 12555,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਦੋਖੀ ਕਿਤੈ ਕਾਜਿ ਨ ਪਹੂਚੈ ॥",
-      "site_roman": "sant kā dōkhī kitai kāj n pahūchai .",
+      "roman": "sant kā dokhī kitē kāj na pahūchē",
       "sahib_singh_pa": "ਕਿਸੇ ਕੰਮ ਵਿਚ ਨੇਪਰੇ ਨਹੀਂ ਚੜ੍ਹਦਾ।",
-      "roman": "sant kā dokhī kitai kāj na pahūchai",
       "translation_ru": "и ни в каком деле не достигает завершения."
     },
     {
-      "index": 47,
       "verse_id": 12556,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕੇ ਦੋਖੀ ਕਉ ਉਦਿਆਨ ਭ੍ਰਮਾਈਐ ॥",
-      "site_roman": "sant kē dōkhī kau udiān bhramāīai .",
-      "sahib_singh_pa": "ਸੰਤ ਦੇ ਨਿੰਦਕ ਨੂੰ, (ਮਾਨੋ) ਜੰਗਲਾਂ ਵਿਚ ਖ਼ੁਆਰ ਕਰੀਦਾ ਹੈ,",
       "roman": "sant ke dokhī kau udiān bhramāīai",
-      "translation_ru": "Поносителя святого, словно, гоняют по лесам в скитании,"
+      "sahib_singh_pa": "ਸੰਤ ਦੇ ਨਿੰਦਕ ਨੂੰ, (ਮਾਨੋ) ਜੰਗਲਾਂ ਵਿਚ ਖ਼ੁਆਰ ਕਰੀਦਾ ਹੈ,",
+      "translation_ru": "Хулителя святого словно заставляют скитаться по лесам,"
     },
     {
-      "index": 48,
       "verse_id": 12557,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਦੋਖੀ ਉਝੜਿ ਪਾਈਐ ॥",
-      "site_roman": "sant kā dōkhī ujhar pāīai .",
-      "sahib_singh_pa": "ਤੇ (ਰਾਹੋਂ ਖੁੰਝਾ ਕੇ) ਔੜਦੇ ਪਾ ਦੇਈਦਾ ਹੈ।",
       "roman": "sant kā dokhī ujhaṛ pāīai",
-      "translation_ru": "и, сбив с пути, бросают в пустошь."
+      "sahib_singh_pa": "ਤੇ (ਰਾਹੋਂ ਖੁੰਝਾ ਕੇ) ਔੜਦੇ ਪਾ ਦੇਈਦਾ ਹੈ।",
+      "translation_ru": "и, сбив с пути, бросают в пустыню."
     },
     {
-      "index": 49,
       "verse_id": 12558,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਦੋਖੀ ਅੰਤਰ ਤੇ ਥੋਥਾ ॥",
-      "site_roman": "sant kā dōkhī antar tē thōthā .",
-      "sahib_singh_pa": "ਸੰਤ ਦਾ ਨਿੰਦਕ ਅੰਦਰੋਂ (ਅਸਲੀ ਜ਼ਿੰਦਗੀ ਤੋਂ ਜੋ ਮਨੁੱਖ ਦਾ ਆਧਾਰ ਹੈ) ਖ਼ਾਲੀ ਹੁੰਦਾ ਹੈ,",
       "roman": "sant kā dokhī antar te thothā",
-      "translation_ru": "Поноситель святого внутри пуст, лишён той истинной жизни, что служит опорой человеку,"
+      "sahib_singh_pa": "ਸੰਤ ਦਾ ਨਿੰਦਕ ਅੰਦਰੋਂ (ਅਸਲੀ ਜ਼ਿੰਦਗੀ ਤੋਂ ਜੋ ਮਨੁੱਖ ਦਾ ਆਧਾਰ ਹੈ) ਖ਼ਾਲੀ ਹੁੰਦਾ ਹੈ,",
+      "translation_ru": "Хулитель святого внутри пуст, лишён той подлинной жизни, которая является опорой человека,"
     },
     {
-      "index": 50,
       "verse_id": 12559,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਜਿਉ ਸਾਸ ਬਿਨਾ ਮਿਰਤਕ ਕੀ ਲੋਥਾ ॥",
-      "site_roman": "jiu sās binā miratak kī lōthā .",
-      "sahib_singh_pa": "ਜਿਵੇਂ ਪ੍ਰਾਣਾਂ ਤੋਂ ਬਿਨਾ ਮੁਰਦਾ ਲੋਥ ਹੈ।",
       "roman": "jiu sās binā mirtak kī lothā",
-      "translation_ru": "как мёртвое тело без дыхания."
+      "sahib_singh_pa": "ਜਿਵੇਂ ਪ੍ਰਾਣਾਂ ਤੋਂ ਬਿਨਾ ਮੁਰਦਾ ਲੋਥ ਹੈ।",
+      "translation_ru": "как бездыханный труп."
     },
     {
-      "index": 51,
       "verse_id": 12560,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕੇ ਦੋਖੀ ਕੀ ਜੜ ਕਿਛੁ ਨਾਹਿ ॥",
-      "site_roman": "sant kē dōkhī kī jar kish nāh .",
+      "roman": "sant ke dokhī kī jaṛ kichh nāh",
       "sahib_singh_pa": "ਸੰਤ ਦੇ ਨਿੰਦਕਾਂ ਦੀ (ਨੇਕ ਕਮਾਈ ਤੇ ਸਿਮਰਨ ਵਾਲੀ) ਕੋਈ ਪੱਕੀ ਨੀਂਹ ਨਹੀਂ ਹੁੰਦੀ,",
-      "roman": "sant ke dokhī kī jaṛ kichh nāhi",
-      "translation_ru": "У поносителей святого нет прочного основания в доброй карме и симране,"
+      "translation_ru": "У хулителей святого нет прочного основания в добрых делах и поминании,"
     },
     {
-      "index": 52,
       "verse_id": 12561,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਆਪਨ ਬੀਜਿ ਆਪੇ ਹੀ ਖਾਹਿ ॥",
-      "site_roman": "āpan bīj āpē hī khāh .",
+      "roman": "āpan bīj āpe hī khāh",
       "sahib_singh_pa": "ਆਪ ਹੀ (ਨਿੰਦਿਆ ਦੀ) ਕਮਾਈ ਕਰ ਕੇ ਆਪ ਹੀ (ਉਸ ਦਾ ਮੰਦਾ ਫਲ) ਖਾਂਦੇ ਹਨ।",
-      "roman": "āpan bīj āpe hī khāhi",
-      "translation_ru": "сами сеют поношение и сами же пожинают его дурной плод."
+      "translation_ru": "они сами сеют поношение и сами же пожинают его дурной плод."
     },
     {
-      "index": 53,
       "verse_id": 12562,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕੇ ਦੋਖੀ ਕਉ ਅਵਰੁ ਨ ਰਾਖਨਹਾਰੁ ॥",
-      "site_roman": "sant kē dōkhī kau avar n rākhanahār .",
-      "sahib_singh_pa": "ਸੰਤ ਦੀ ਨਿੰਦਿਆ ਕਰਨ ਵਾਲੇ ਨੂੰ ਕੋਈ ਹੋਰ ਮਨੁੱਖ (ਨਿੰਦਿਆ ਦੀ ਵਾਦੀ ਤੋਂ) ਬਚਾ ਨਹੀਂ ਸਕਦਾ,",
       "roman": "sant ke dokhī kau avar na rākhanhār",
-      "translation_ru": "Поносящего святого никакой другой человек не может спасти от привычки к поношению,"
+      "sahib_singh_pa": "ਸੰਤ ਦੀ ਨਿੰਦਿਆ ਕਰਨ ਵਾਲੇ ਨੂੰ ਕੋਈ ਹੋਰ ਮਨੁੱਖ (ਨਿੰਦਿਆ ਦੀ ਵਾਦੀ ਤੋਂ) ਬਚਾ ਨਹੀਂ ਸਕਦਾ,",
+      "translation_ru": "Того, кто поносит святого, никакой другой человек не может спасти от этой привычки к поношению,"
     },
     {
-      "index": 54,
       "verse_id": 12563,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਨਾਨਕ ਸੰਤ ਭਾਵੈ ਤਾ ਲਏ ਉਬਾਰਿ ॥੫॥",
-      "site_roman": "nānak sant bhāvai tā laē ubār .5.",
+      "roman": "nānak sant bhāvē tā lae ubār ॥5॥",
       "sahib_singh_pa": "(ਪਰ) ਹੇ ਨਾਨਕ! ਜੇ ਸੰਤ ਚਾਹੇ ਤਾਂ (ਨਿੰਦਕ ਨੂੰ ਨਿੰਦਿਆ ਦੇ ਸੁਭਾਉ ਤੋਂ) ਬਚਾ ਸਕਦਾ ਹੈ ॥੫॥",
-      "roman": "Nānak sant bhāvai tā lae ubār",
-      "translation_ru": "но, о Нанак, если святой пожелает, то может спасти поносителя от этого нрава. 5."
+      "translation_ru": "но, о Нанак, если святой пожелает, то может спасти хулителя от такого нрава ॥5॥"
     },
     {
-      "index": 55,
       "verse_id": 12564,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਦੋਖੀ ਇਉ ਬਿਲਲਾਇ ॥",
-      "site_roman": "sant kā dōkhī iu bilalāi .",
-      "sahib_singh_pa": "ਸੰਤ ਦਾ ਨਿੰਦਕ ਇਉਂ ਵਿਲਕਦਾ ਹੈ,",
       "roman": "sant kā dokhī iu billāi",
-      "translation_ru": "Поноситель святого так стонет,"
+      "sahib_singh_pa": "ਸੰਤ ਦਾ ਨਿੰਦਕ ਇਉਂ ਵਿਲਕਦਾ ਹੈ,",
+      "translation_ru": "Хулитель святого так стенает,"
     },
     {
-      "index": 56,
       "verse_id": 12565,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਜਿਉ ਜਲ ਬਿਹੂਨ ਮਛੁਲੀ ਤੜਫੜਾਇ ॥",
-      "site_roman": "jiu jal bihūn mashulī tarapharāi .",
-      "sahib_singh_pa": "ਜਿਵੇਂ ਪਾਣੀ ਤੋਂ ਬਿਨਾ ਮੱਛੀ ਤੜਫ਼ਦੀ ਹੈ।",
       "roman": "jiu jal bihūn machhulī taṛphaṛāi",
-      "translation_ru": "как мечется рыба без воды."
+      "sahib_singh_pa": "ਜਿਵੇਂ ਪਾਣੀ ਤੋਂ ਬਿਨਾ ਮੱਛੀ ਤੜਫ਼ਦੀ ਹੈ।",
+      "translation_ru": "как рыба, которая бьётся без воды."
     },
     {
-      "index": 57,
       "verse_id": 12566,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਦੋਖੀ ਭੂਖਾ ਨਹੀ ਰਾਜੈ ॥",
-      "site_roman": "sant kā dōkhī bhūkhā nahī rājai .",
+      "roman": "sant kā dokhī bhūkhā nahī rājē",
       "sahib_singh_pa": "ਸੰਤ ਦਾ ਨਿੰਦਕ ਤ੍ਰਿਸ਼ਨਾ ਦਾ ਮਾਰਿਆ ਹੋਇਆ ਕਦੇ ਰੱਜਦਾ ਨਹੀਂ,",
-      "roman": "sant kā dokhī bhūkhā nahī rājai",
-      "translation_ru": "Поноситель святого, измученный жаждой, никогда не насыщается,"
+      "translation_ru": "Хулитель святого, поражённый жаждой, никогда не насыщается,"
     },
     {
-      "index": 58,
       "verse_id": 12567,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਜਿਉ ਪਾਵਕੁ ਈਧਨਿ ਨਹੀ ਧ੍ਰਾਪੈ ॥",
-      "site_roman": "jiu pāvak īdhan nahī dhrāpai .",
+      "roman": "jiu pāvak īdhan nahī dhrāpē",
       "sahib_singh_pa": "ਜਿਵੇਂ ਅੱਗ ਬਾਲਣ ਨਾਲ ਨਹੀਂ ਰੱਜਦੀ (ਭਾਵ, ਸੰਤ ਦੀ ਸੋਭਾ ਦਾ ਸੜਿਆ ਹੋਇਆ ਈਰਖਾ ਦੇ ਕਾਰਨ ਨਿੰਦਿਆ ਕਰਦਾ ਹੈ ਤੇ ਇਹ ਈਰਖਾ ਘਟਦੀ ਨਹੀਂ)।",
-      "roman": "jiu pāvak īdhan nahī dhrāpai",
-      "translation_ru": "как огонь не насыщается топливом, то есть, сгорая от славы святого, он из зависти поносит, и эта зависть не убывает."
+      "translation_ru": "как огонь не насыщается топливом, то есть, сгорая от зависти к славе святого, он поносит его, и эта зависть не убывает."
     },
     {
-      "index": 59,
       "verse_id": 12568,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਦੋਖੀ ਛੁਟੈ ਇਕੇਲਾ ॥",
-      "site_roman": "sant kā dōkhī shutai ikēlā .",
+      "roman": "sant kā dokhī chhuṭē ikelā",
       "sahib_singh_pa": "ਸੰਤ ਦਾ ਨਿੰਦਕ ਭੀ ਇਕੱਲਾ ਛੁੱਟੜ ਪਿਆ ਰਹਿੰਦਾ ਹੈ (ਕੋਈ ਉਸ ਦੇ ਨੇੜੇ ਨਹੀਂ ਆਉਂਦਾ),",
-      "roman": "sant kā dokhī chhuṭai ikelā",
-      "translation_ru": "Поноситель святого остаётся одиноким и оторванным, к нему никто не приближается,"
+      "translation_ru": "Хулитель святого остаётся совсем один, отверженный,"
     },
     {
-      "index": 60,
       "verse_id": 12569,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਜਿਉ ਬੂਆੜੁ ਤਿਲੁ ਖੇਤ ਮਾਹਿ ਦੁਹੇਲਾ ॥",
-      "site_roman": "jiu būār til khēt māh duhēlā .",
+      "roman": "jiu būāṛ til khet māh duhelā",
       "sahib_singh_pa": "ਜਿਵੇਂ ਅੰਦਰੋਂ ਸੜਿਆ ਹੋਇਆ ਤਿਲ ਦਾ ਬੂਟਾ ਪੈਲੀ ਵਿਚ ਹੀ ਨਿਮਾਣਾ ਪਿਆ ਰਹਿੰਦਾ ਹੈ।",
-      "roman": "jiu būāṛ til khet māhi duhelā",
-      "translation_ru": "как изнутри сгоревшее растение кунжута лежит жалким прямо в поле."
+      "translation_ru": "как изнутри сгнившее кунжутное растение, жалко лежащее в поле."
     },
     {
-      "index": 61,
       "verse_id": 12570,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਦੋਖੀ ਧਰਮ ਤੇ ਰਹਤ ॥",
-      "site_roman": "sant kā dōkhī dharam tē rahat .",
-      "sahib_singh_pa": "ਸੰਤ ਦਾ ਨਿੰਦਕ ਧਰਮੋਂ ਹੀਣ ਹੁੰਦਾ ਹੈ,",
       "roman": "sant kā dokhī dharam te rahat",
-      "translation_ru": "Поноситель святого лишён дхармы,"
+      "sahib_singh_pa": "ਸੰਤ ਦਾ ਨਿੰਦਕ ਧਰਮੋਂ ਹੀਣ ਹੁੰਦਾ ਹੈ,",
+      "translation_ru": "Хулитель святого лишён дхармы,"
     },
     {
-      "index": 62,
       "verse_id": 12571,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਦੋਖੀ ਸਦ ਮਿਥਿਆ ਕਹਤ ॥",
-      "site_roman": "sant kā dōkhī sad mithiā kahat .",
-      "sahib_singh_pa": "ਤੇ ਸਦਾ ਝੂਠ ਬੋਲਦਾ ਹੈ।",
       "roman": "sant kā dokhī sad mithiā kahat",
+      "sahib_singh_pa": "ਤੇ ਸਦਾ ਝੂਠ ਬੋਲਦਾ ਹੈ।",
       "translation_ru": "и всегда говорит ложь."
     },
     {
-      "index": 63,
       "verse_id": 12572,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਕਿਰਤੁ ਨਿੰਦਕ ਕਾ ਧੁਰਿ ਹੀ ਪਇਆ ॥",
-      "site_roman": "kirat nindak kā dhur hī paiā .",
-      "sahib_singh_pa": "(ਪਰ) ਪਹਿਲੀ ਕੀਤੀ ਹੋਈ ਨਿੰਦਿਆ ਦਾ ਇਹ ਫਲ (-ਰੂਪ ਸੁਭਾਉ) ਨਿੰਦਕ ਦਾ ਮੁੱਢ ਤੋਂ ਹੀ (ਜਦੋਂ ਉਸ ਨਿੰਦਿਆ ਦਾ ਕੰਮ ਫੜਿਆ) ਤੁਰਿਆ ਆ ਰਿਹਾ ਹੈ (ਸੋ, ਉਸ ਸੁਭਾਉ ਦੇ ਕਾਰਣ ਵਿਚਾਰਾ ਹੋਰ ਕਰੇ ਭੀ ਕੀਹ?)",
       "roman": "kirat nindak kā dhur hī paiā",
-      "translation_ru": "Но этот плод, то есть такой нрав, достался поносителю ещё изначально от прежде совершённого поношения, с того самого времени, как он взялся за это дело."
+      "sahib_singh_pa": "(ਪਰ) ਪਹਿਲੀ ਕੀਤੀ ਹੋਈ ਨਿੰਦਿਆ ਦਾ ਇਹ ਫਲ (-ਰੂਪ ਸੁਭਾਉ) ਨਿੰਦਕ ਦਾ ਮੁੱਢ ਤੋਂ ਹੀ (ਜਦੋਂ ਉਸ ਨਿੰਦਿਆ ਦਾ ਕੰਮ ਫੜਿਆ) ਤੁਰਿਆ ਆ ਰਿਹਾ ਹੈ (ਸੋ, ਉਸ ਸੁਭਾਉ ਦੇ ਕਾਰਣ ਵਿਚਾਰਾ ਹੋਰ ਕਰੇ ਭੀ ਕੀਹ?)",
+      "translation_ru": "Но такой плод раннего поношения, ставший его нравом, с самого начала идёт вместе с хулителем, с того времени как он взялся за это дело, так что из-за такого нрава бедняга и не может поступать иначе."
     },
     {
-      "index": 64,
       "verse_id": 12573,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਨਾਨਕ ਜੋ ਤਿਸੁ ਭਾਵੈ ਸੋਈ ਥਿਆ ॥੬॥",
-      "site_roman": "nānak jō tis bhāvai sōī thiā .6.",
+      "roman": "nānak jo tis bhāvē soī thiā ॥6॥",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਇਹ ਮਾਲਕ ਦੀ ਰਜ਼ਾ ਹੈ) ਜੋ ਉਸ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ ਉਹੀ ਹੁੰਦਾ ਹੈ ॥੬॥",
-      "roman": "Nānak jo tis bhāvai soī thiā",
-      "translation_ru": "О Нанак, это воля Владыки: происходит только то, что Ему угодно. 6."
+      "translation_ru": "О Нанак, это воля Владыки: происходит только то, что Ему угодно ॥6॥"
     },
     {
-      "index": 65,
       "verse_id": 12574,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਦੋਖੀ ਬਿਗੜ ਰੂਪੁ ਹੋਇ ਜਾਇ ॥",
-      "site_roman": "sant kā dōkhī bigar rūp hōi jāi .",
-      "sahib_singh_pa": "ਸੰਤਾਂ ਦੀ ਨਿੰਦਿਆ ਕਰਨ ਵਾਲਾ ਭ੍ਰਿਸ਼ਟਿਆ ਜਾਂਦਾ ਹੈ,",
       "roman": "sant kā dokhī bigaṛ rūp hoi jāi",
-      "translation_ru": "Поносящий святых становится испорченным,"
+      "sahib_singh_pa": "ਸੰਤਾਂ ਦੀ ਨਿੰਦਿਆ ਕਰਨ ਵਾਲਾ ਭ੍ਰਿਸ਼ਟਿਆ ਜਾਂਦਾ ਹੈ,",
+      "translation_ru": "Тот, кто поносит святых, становится испорченным,"
     },
     {
-      "index": 66,
       "verse_id": 12575,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕੇ ਦੋਖੀ ਕਉ ਦਰਗਹ ਮਿਲੈ ਸਜਾਇ ॥",
-      "site_roman": "sant kē dōkhī kau daragah milai sajāi .",
+      "roman": "sant ke dokhī kau dargah milē sajāi",
       "sahib_singh_pa": "ਪ੍ਰਭੂ ਦੀ ਦਰਗਾਹ ਵਿਚ ਉਸ ਨੂੰ ਸਜ਼ਾ ਮਿਲਦੀ ਹੈ।",
-      "roman": "sant ke dokhī kau dargeh milai sajāi",
       "translation_ru": "и в Божьем дворе получает наказание."
     },
     {
-      "index": 67,
       "verse_id": 12576,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਦੋਖੀ ਸਦਾ ਸਹਕਾਈਐ ॥",
-      "site_roman": "sant kā dōkhī sadā sahakāīai .",
-      "sahib_singh_pa": "ਸੰਤਾਂ ਦਾ ਨਿੰਦਕ ਸਦਾ ਆਤੁਰ ਰਹਿੰਦਾ ਹੈ,",
       "roman": "sant kā dokhī sadā sahkāīai",
-      "translation_ru": "Поноситель святых всегда пребывает в тревоге,"
+      "sahib_singh_pa": "ਸੰਤਾਂ ਦਾ ਨਿੰਦਕ ਸਦਾ ਆਤੁਰ ਰਹਿੰਦਾ ਹੈ,",
+      "translation_ru": "Хулитель святых всегда остаётся беспокойным,"
     },
     {
-      "index": 68,
       "verse_id": 12577,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਦੋਖੀ ਨ ਮਰੈ ਨ ਜੀਵਾਈਐ ॥",
-      "site_roman": "sant kā dōkhī n marai n jīvāīai .",
+      "roman": "sant kā dokhī na marē na jīvāīē",
       "sahib_singh_pa": "ਨਾਹ ਉਹ ਜੀਊਂਦਿਆਂ ਵਿਚ ਤੇ ਨਾਹ ਮੋਇਆਂ ਵਿਚ ਹੁੰਦਾ ਹੈ।",
-      "roman": "sant kā dokhī na marai na jīvāīai",
-      "translation_ru": "он не принадлежит ни к живым, ни к мёртвым."
+      "translation_ru": "он не числится ни среди живых, ни среди мёртвых."
     },
     {
-      "index": 69,
       "verse_id": 12578,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕੇ ਦੋਖੀ ਕੀ ਪੁਜੈ ਨ ਆਸਾ ॥",
-      "site_roman": "sant kē dōkhī kī pujai n āsā .",
+      "roman": "sant ke dokhī kī pujē na āsā",
       "sahib_singh_pa": "ਸੰਤ ਦੇ ਨਿੰਦਕ ਦੀ ਆਸ ਕਦੇ ਸਿਰੇ ਨਹੀਂ ਚੜ੍ਹਦੀ,",
-      "roman": "sant ke dokhī kī pujai na āsā",
-      "translation_ru": "Надежда поносителя святого никогда не исполняется,"
+      "translation_ru": "Надежда хулителя святого никогда не исполняется,"
     },
     {
-      "index": 70,
       "verse_id": 12579,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕਾ ਦੋਖੀ ਉਠਿ ਚਲੈ ਨਿਰਾਸਾ ॥",
-      "site_roman": "sant kā dōkhī uth chalai nirāsā .",
+      "roman": "sant kā dokhī uṭh chalē nirāsā",
       "sahib_singh_pa": "ਜਗਤ ਤੋਂ ਨਿਰਾਸ ਹੀ ਚੱਲ ਜਾਂਦਾ (ਭਲਾ, ਸੰਤਾਂ ਵਾਲੀ ਸੋਭਾ ਉਸ ਨੂੰ ਕਿਵੇਂ ਮਿਲੇ?)।",
-      "roman": "sant kā dokhī uṭh chalai nirāsā",
-      "translation_ru": "и из мира он уходит ни с чем, без надежды."
+      "translation_ru": "и он уходит из мира ни с чем, в разочаровании. Как же он может получить славу, подобную славе святых?"
     },
     {
-      "index": 71,
       "verse_id": 12580,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸੰਤ ਕੈ ਦੋਖਿ ਨ ਤ੍ਰਿਸਟੈ ਕੋਇ ॥",
-      "site_roman": "sant kai dōkh n trisatai kōi .",
+      "roman": "sant kē dokh na trisaṭē koi",
       "sahib_singh_pa": "ਸੰਤ ਦੀ ਨਿੰਦਿਆ ਕਰਨ ਨਾਲ ਕੋਈ ਮਨੁੱਖ (ਨਿੰਦਿਆ ਦੀ) ਇਸ ਤ੍ਰੇਹ ਤੋਂ ਬਚਦਾ ਨਹੀਂ।",
-      "roman": "sant kai dokh na trisṭai koi",
-      "translation_ru": "Из-за поношения святого ни один человек не избавляется от этой жажды поношения."
+      "translation_ru": "Из-за поношения святого никто не избавляется от этой жажды к поношению."
     },
     {
-      "index": 72,
       "verse_id": 12581,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਜੈਸਾ ਭਾਵੈ ਤੈਸਾ ਕੋਈ ਹੋਇ ॥",
-      "site_roman": "jaisā bhāvai taisā kōī hōi .",
+      "roman": "jēsā bhāvē tēsā koī hoi",
       "sahib_singh_pa": "ਜਿਹੋ ਜਿਹੀ ਮਨੁੱਖ ਦੀ ਨੀਅਤ ਹੁੰਦੀ ਹੈ, ਤਿਹੋ ਜਿਹਾ ਉਸ ਦਾ ਸੁਭਾਉ ਬਣ ਜਾਂਦਾ ਹੈ।",
-      "roman": "jaisā bhāvai taisā koī hoi",
-      "translation_ru": "Каково намерение человека, таков и его нрав."
+      "translation_ru": "Каково намерение человека, таков и становится его нрав."
     },
     {
-      "index": 73,
       "verse_id": 12582,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਪਇਆ ਕਿਰਤੁ ਨ ਮੇਟੈ ਕੋਇ ॥",
-      "site_roman": "paiā kirat n mētai kōi .",
+      "roman": "pēā kirat na meṭē koi",
       "sahib_singh_pa": "(ਬਚੇ ਭੀ ਕਿਵੇਂ?) ਪਿਛਲੀ ਕੀਤੀ (ਮੰਦ) ਕਮਾਈ ਦੇ ਇਕੱਠੇ ਹੋਏ (ਸੁਭਾਉ-ਰੂਪ) ਫਲ ਨੂੰ ਕੋਈ ਮਿਟਾ ਨਹੀਂ ਸਕਦਾ।",
-      "roman": "paiā kirat na meṭai koi",
-      "translation_ru": "Никто не может стереть накопленный плод прежде совершённой дурной кармы, ставший нравом."
+      "translation_ru": "Как же спастись? Никто не может уничтожить плод прежних дурных дел, накопившийся и ставший нравом."
     },
     {
-      "index": 74,
       "verse_id": 12583,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਨਾਨਕ ਜਾਨੈ ਸਚਾ ਸੋਇ ॥੭॥",
-      "site_roman": "nānak jānai sachā sōi .7.",
+      "roman": "nānak jānē sachā soi ॥7॥",
       "sahib_singh_pa": "ਹੇ ਨਾਨਕ! (ਇਸ ਭੇਤ ਨੂੰ) ਉਹ ਸੱਚਾ ਪ੍ਰਭੂ ਜਾਣਦਾ ਹੈ ॥੭॥",
-      "roman": "Nānak jānai sachā soi",
-      "translation_ru": "О Нанак, эту тайну знает тот Истинный Господь. 7."
+      "translation_ru": "О Нанак, эту тайну знает только Истинный Господь ॥7॥"
     },
     {
-      "index": 75,
       "verse_id": 12584,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸਭ ਘਟ ਤਿਸ ਕੇ ਓਹੁ ਕਰਨੈਹਾਰੁ ॥",
-      "site_roman": "sabh ghat tis kē ōh karanaihār .",
+      "roman": "sabh ghaṭ tis ke oh karṇēhār",
       "sahib_singh_pa": "ਸਾਰੇ ਜੀਅ ਜੰਤ ਉਸ ਪ੍ਰਭੂ ਦੇ ਹਨ, ਉਹੀ ਸਭ ਕੁਝ ਕਰਨ ਦੇ ਸਮਰੱਥ ਹੈ,",
-      "roman": "sabh ghaṭ tis ke oh karnaihār",
-      "translation_ru": "Все существа принадлежат тому Богу, и только Он способен всё совершать,"
+      "translation_ru": "Все живые существа принадлежат тому Господу, и только Он способен делать всё,"
     },
     {
-      "index": 76,
       "verse_id": 12585,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸਦਾ ਸਦਾ ਤਿਸ ਕਉ ਨਮਸਕਾਰੁ ॥",
-      "site_roman": "sadā sadā tis kau namasakār .",
-      "sahib_singh_pa": "ਸਦਾ ਉਸ ਪ੍ਰਭੂ ਅੱਗੇ ਸਿਰ ਨਿਵਾਓ।",
       "roman": "sadā sadā tis kau namaskār",
-      "translation_ru": "всегда и вечно склоняйтесь перед Ним."
+      "sahib_singh_pa": "ਸਦਾ ਉਸ ਪ੍ਰਭੂ ਅੱਗੇ ਸਿਰ ਨਿਵਾਓ।",
+      "translation_ru": "всегда и всегда склоняйтесь перед Ним."
     },
     {
-      "index": 77,
       "verse_id": 12586,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਪ੍ਰਭ ਕੀ ਉਸਤਤਿ ਕਰਹੁ ਦਿਨੁ ਰਾਤਿ ॥",
-      "site_roman": "prabh kī usatat karah din rāt .",
+      "roman": "prabh kī ustat karah din rāt",
       "sahib_singh_pa": "ਦਿਨ ਰਾਤਿ ਪ੍ਰਭੂ ਦੇ ਗੁਣ ਗਾਓ,",
-      "roman": "prabh kī ustat karahu din rāt",
-      "translation_ru": "Днём и ночью воспевайте достоинства Бога,"
+      "translation_ru": "Днём и ночью пойте достоинства Бога,"
     },
     {
-      "index": 78,
       "verse_id": 12587,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਤਿਸਹਿ ਧਿਆਵਹੁ ਸਾਸਿ ਗਿਰਾਸਿ ॥",
-      "site_roman": "tisah dhiāvah sās girās .",
+      "roman": "tiseh dhiāvah sās girās",
       "sahib_singh_pa": "ਦਮ-ਬ-ਦਮ ਉਸੇ ਨੂੰ ਯਾਦ ਕਰੋ।",
-      "roman": "tisehi dhyāvahu sās girās",
-      "translation_ru": "с каждым дыханием и с каждым куском пищи помните только Его."
+      "translation_ru": "при каждом дыхании и при каждом глотке пищи помните только Его."
     },
     {
-      "index": 79,
       "verse_id": 12588,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਸਭੁ ਕਛੁ ਵਰਤੈ ਤਿਸ ਕਾ ਕੀਆ ॥",
-      "site_roman": "sabh kash varatai tis kā kīā .",
+      "roman": "sabh kachh vartē tis kā kīā",
       "sahib_singh_pa": "(ਜਗਤ ਵਿਚ) ਹਰੇਕ ਖੇਡ ਉਸੇ ਦੀ ਵਰਤਾਈ ਵਰਤ ਰਹੀ ਹੈ,",
-      "roman": "sabh kachh vartai tis kā kīā",
-      "translation_ru": "В мире каждая игра совершается по Его устроению,"
+      "translation_ru": "В мире каждая игра разворачивается по Его установлению,"
     },
     {
-      "index": 80,
       "verse_id": 12589,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਜੈਸਾ ਕਰੇ ਤੈਸਾ ਕੋ ਥੀਆ ॥",
-      "site_roman": "jaisā karē taisā kō thīā .",
+      "roman": "jēsā karē tēsā ko thīā",
       "sahib_singh_pa": "ਪ੍ਰਭੂ (ਜੀਵ ਨੂੰ) ਜਿਹੋ ਜਿਹਾ ਬਣਾਉਂਦਾ ਹੈ ਉਹੋ ਜਿਹਾ ਹਰੇਕ ਜੀਵ ਬਣ ਜਾਂਦਾ ਹੈ।",
-      "roman": "jaisā kre taisā ko thīā",
-      "translation_ru": "каким Бог делает живое существо, таким каждый и становится."
+      "translation_ru": "каким Бог делает живое существо, таким оно и становится."
     },
     {
-      "index": 81,
       "verse_id": 12590,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਅਪਨਾ ਖੇਲੁ ਆਪਿ ਕਰਨੈਹਾਰੁ ॥",
-      "site_roman": "apanā khēl āp karanaihār .",
+      "roman": "apnā khel āp karṇēhār",
       "sahib_singh_pa": "(ਜਗਤ-ਰੂਪ) ਆਪਣੀ ਖੇਡ ਆਪ ਹੀ ਕਰਨ ਜੋਗਾ ਹੈ।",
-      "roman": "apnā khel āp karnaihār",
-      "translation_ru": "Он Сам способен совершать Свою игру мира."
+      "translation_ru": "Он Сам способен вести Свою собственную игру мира."
     },
     {
-      "index": 82,
       "verse_id": 12591,
-      "shabad_num": 715,
-      "shabad_id": 715,
       "gurmukhi": "ਦੂਸਰ ਕਉਨੁ ਕਹੈ ਬੀਚਾਰੁ ॥",
-      "site_roman": "dūsar kaun kahai bīchār .",
+      "roman": "dūsar kaun kahē bīchār",
       "sahib_singh_pa": "ਕੌਣ ਕੋਈ ਦੂਜਾ ਸਲਾਹ ਦੱਸ ਸਕਦਾ ਹੈ?",
-      "roman": "dūsar kaun kahai bīchār",
-      "translation_ru": "Кто другой может дать совет?"
-    },
-    {
-      "index": 83,
-      "verse_id": 12592,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਜਿਸ ਨੋ ਕ੍ਰਿਪਾ ਕਰੈ ਤਿਸੁ ਆਪਨ ਨਾਮੁ ਦੇਇ ॥",
-      "site_roman": "jis nō kripā karai tis āpan nām dēi .",
-      "sahib_singh_pa": "ਜਿਸ ਜਿਸ ਜੀਵ ਉਤੇ ਮੇਹਰ ਕਰਦਾ ਹੈ ਉਸ ਉਸ ਨੂੰ ਆਪਣਾ ਨਾਮ ਬਖ਼ਸ਼ਦਾ ਹੈ;",
-      "roman": "jis no kripā karai tis āpan nām dei",
-      "translation_ru": "Тому существу, на кого Он простирает милость, Он дарует Своё Имя;"
-    },
-    {
-      "index": 84,
-      "verse_id": 12593,
-      "shabad_num": 715,
-      "shabad_id": 715,
-      "gurmukhi": "ਬਡਭਾਗੀ ਨਾਨਕ ਜਨ ਸੇਇ ॥੮॥੧੩॥",
-      "site_roman": "badabhāgī nānak jan sēi .8.13.",
-      "sahib_singh_pa": "(ਤੇ) ਹੇ ਨਾਨਕ! ਉਹ ਮਨੁੱਖ ਵੱਡੇ ਭਾਗਾਂ ਵਾਲੇ ਹੋ ਜਾਂਦੇ ਹਨ ॥੮॥੧੩॥",
-      "roman": "baḍbhāgī Nānak jan sei",
-      "translation_ru": "и, о Нанак, такие люди становятся очень удачливыми. 8. 13."
+      "translation_ru": "Кто другой может дать Ему совет?"
     }
   ]
 }

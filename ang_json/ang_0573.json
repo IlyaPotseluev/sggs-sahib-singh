@@ -1,281 +1,236 @@
 {
   "ang": 573,
-  "line_count": 25,
   "lines": [
     {
-      "index": 1,
+      "verse_id": 25093,
+      "gurmukhi": "ਏਕ ਦ੍ਰਿਸ੍ਟਿ ਹਰਿ ਏਕੋ ਜਾਤਾ ਹਰਿ ਆਤਮ ਰਾਮੁ ਪਛਾਣੀ ॥",
+      "roman": "ek driṣṭ har eko jātā har ātam rām pachhāṇī",
+      "sahib_singh_pa": "ਮੈਂ ਇਕ ਨਿਗਾਹ ਨਾਲ ਇਕ ਪਰਮਾਤਮਾ ਨੂੰ (ਹਰ ਥਾਂ ਵੱਸਦਾ) ਸਮਝ ਲਿਆ, ਮੈਂ ਸਰਬ-ਵਿਆਪਕ ਰਾਮ ਨੂੰ ਪਛਾਣ ਲਿਆ।",
+      "translation_ru": "Я увидела Единого во всём и познала всепроникающего Рама."
+    },
+    {
+      "verse_id": 25094,
+      "gurmukhi": "ਹੰਉ ਗੁਰ ਬਿਨੁ ਹੰਉ ਗੁਰ ਬਿਨੁ ਖਰੀ ਨਿਮਾਣੀ ॥੧॥",
+      "roman": "haṅu gur bin haṅu gur bin kharī nimāṇī",
+      "sahib_singh_pa": "ਮੈਂ ਗੁਰੂ ਤੋਂ ਬਿਨਾ, ਮੈਂ ਗੁਰੂ ਤੋਂ ਬਿਨਾ ਬਹੁਤ ਹੀ ਵਿਚਾਰੀ ਸਾਂ ॥੧॥",
+      "translation_ru": "Без Гуру я была совершенно беспомощна."
+    },
+    {
+      "verse_id": 25095,
+      "gurmukhi": "ਜਿਨਾ ਸਤਿਗੁਰੁ ਜਿਨ ਸਤਿਗੁਰੁ ਪਾਇਆ ਤਿਨ ਹਰਿ ਪ੍ਰਭੁ ਮੇਲਿ ਮਿਲਾਏ ਰਾਮ ॥",
+      "roman": "jinā satgur jin satgur pāiā tin har prabh mel milāē rām",
+      "sahib_singh_pa": "ਜਿਨ੍ਹਾਂ (ਵਡਭਾਗੀਆਂ) ਨੇ ਗੁਰੂ ਲੱਭ ਲਿਆ, ਉਹਨਾਂ ਨੂੰ ਹਰਿ-ਪ੍ਰਭੂ ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ ਜੋੜ ਲੈਂਦਾ ਹੈ।",
+      "translation_ru": "Тех, кто нашёл Гуру, Бог соединяет с Собой."
+    },
+    {
+      "verse_id": 25096,
+      "gurmukhi": "ਤਿਨ ਚਰਣ ਤਿਨ ਚਰਣ ਸਰੇਵਹ ਹਮ ਲਾਗਹ ਤਿਨ ਕੈ ਪਾਏ ਰਾਮ ॥",
+      "roman": "tin charan tin charan sarevah ham lāgah tin kē pāē rām",
+      "sahib_singh_pa": "ਮੈਂ ਉਹਨਾਂ ਦੇ ਚਰਨਾਂ ਦੀ ਸੇਵਾ ਕਰਨ ਨੂੰ ਤਿਆਰ ਹਾਂ, ਉਹਨਾਂ ਦੀ ਚਰਨੀਂ ਲੱਗਣ ਨੂੰ ਤਿਆਰ ਹਾਂ।",
+      "translation_ru": "Я готов служить им и склониться к их стопам."
+    },
+    {
+      "verse_id": 25097,
+      "gurmukhi": "ਹਰਿ ਹਰਿ ਚਰਣ ਸਰੇਵਹ ਤਿਨ ਕੇ ਜਿਨ ਸਤਿਗੁਰੁ ਪੁਰਖੁ ਪ੍ਰਭੁ ਧੵਾਇਆ ॥",
+      "roman": "har har charan sarevah tin ke jin satgur purakh prabh dhiāiā",
+      "sahib_singh_pa": "ਹੇ ਹਰੀ! ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ ਗੁਰੂ ਨੂੰ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਵਸਾ ਲਿਆ ਹੈ ਤੇ (ਤੈਨੂੰ) ਪ੍ਰਭੂ ਨੂੰ ਹਿਰਦੇ ਵਿਚ ਟਿਕਾ ਲਿਆ ਹੈ, ਮੈਂ ਉਹਨਾਂ ਦੀ ਸੇਵਾ ਕਰਨੀ ਚਾਹੁੰਦਾ ਹਾਂ।",
+      "translation_ru": "Я хочу служить тем, кто держит Гуру и Бога в сердце."
+    },
+    {
+      "verse_id": 25098,
+      "gurmukhi": "ਤੂ ਵਡਦਾਤਾ ਅੰਤਰਜਾਮੀ ਮੇਰੀ ਸਰਧਾ ਪੂਰਿ ਹਰਿ ਰਾਇਆ ॥",
+      "roman": "tū vaḍdātā antarjāmī merī sardhā pūr har rāiā",
+      "sahib_singh_pa": "ਹੇ ਪ੍ਰਭੂ ਪਾਤਸ਼ਾਹ! ਤੂੰ ਵੱਡਾ ਦਾਤਾਰ ਹੈਂ, ਤੂੰ ਸਭ ਦੇ ਦਿਲ ਦੀ ਜਾਣਨ ਵਾਲਾ ਹੈਂ, ਮੇਰੀ ਇਹ ਤਾਂਘ ਪੂਰੀ ਕਰ, ਹੇ ਪ੍ਰਭੂ!",
+      "translation_ru": "О Господь, великий даритель и знающий сердца, исполни моё стремление."
+    },
+    {
+      "verse_id": 25099,
+      "gurmukhi": "ਗੁਰਸਿਖ ਮੇਲਿ ਮੇਰੀ ਸਰਧਾ ਪੂਰੀ ਅਨਦਿਨੁ ਰਾਮ ਗੁਣ ਗਾਏ ॥",
+      "roman": "gursikh mel merī sardhā pūrī andin rām guṇ gāē",
+      "sahib_singh_pa": "ਮੇਰੀ ਇਹ ਤਾਂਘ ਪੂਰੀ ਕਰ ਕਿ ਗੁਰਸਿੱਖਾਂ ਦੀ ਸੰਗਤ ਵਿਚ ਮੈਂ ਹਰ ਵੇਲੇ ਪਰਮਾਤਮਾ ਦੇ ਗੁਣ ਗਾਣ ਲੱਗ ਪਵਾਂ।",
+      "translation_ru": "Исполни моё желание — быть среди гурcикхов и воспевать Бога."
+    },
+    {
+      "verse_id": 25100,
+      "gurmukhi": "ਜਿਨ ਸਤਿਗੁਰੁ ਜਿਨ ਸਤਿਗੁਰੁ ਪਾਇਆ ਤਿਨ ਹਰਿ ਪ੍ਰਭੁ ਮੇਲਿ ਮਿਲਾਏ ॥੨॥",
+      "roman": "jin satgur jin satgur pāiā tin har prabh mel milāē",
+      "sahib_singh_pa": "ਜਿਨ੍ਹਾਂ (ਵਡ-ਭਾਗੀਆਂ) ਨੇ ਗੁਰੂ ਲੱਭ ਲਿਆ, ਉਹਨਾਂ ਨੂੰ ਹਰਿ-ਪ੍ਰਭੂ ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ ਜੋੜ ਲੈਂਦਾ ਹੈ ॥੨॥",
+      "translation_ru": "Тех, кто нашёл Гуру, Бог соединяет с Собой."
+    },
+    {
+      "verse_id": 25101,
+      "gurmukhi": "ਹੰਉ ਵਾਰੀ ਹੰਉ ਵਾਰੀ ਗੁਰਸਿਖ ਮੀਤ ਪਿਆਰੇ ਰਾਮ ॥",
+      "roman": "haṅu vārī haṅu vārī gursikh mīt piārē rām",
+      "sahib_singh_pa": "ਮੈਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ, ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ ਉਸ ਪਿਆਰੇ ਮਿੱਤਰ ਗੁਰ-ਸਿੱਖ ਤੋਂ,",
+      "translation_ru": "Я жертвую собой ради дорогого гурсикха."
+    },
+    {
+      "verse_id": 25102,
+      "gurmukhi": "ਹਰਿ ਨਾਮੋ ਹਰਿ ਨਾਮੁ ਸੁਣਾਏ ਮੇਰਾ ਪ੍ਰੀਤਮੁ ਨਾਮੁ ਅਧਾਰੇ ਰਾਮ ॥",
+      "roman": "har nāmo har nām suṇāē merā prītam nām adhārē rām",
+      "sahib_singh_pa": "ਜੇਹੜਾ ਮੈਨੂੰ ਸਦਾ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ, ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸੁਣਾਂਦਾ ਰਹੇ। ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹੀ ਮੇਰਾ ਆਸਰਾ ਹੈ।",
+      "translation_ru": "Того, кто постоянно даёт мне слышать Имя — моя опора."
+    },
+    {
+      "verse_id": 25103,
+      "gurmukhi": "ਹਰਿ ਹਰਿ ਨਾਮੁ ਮੇਰਾ ਪ੍ਰਾਨ ਸਖਾਈ ਤਿਸੁ ਬਿਨੁ ਘੜੀ ਨਿਮਖ ਨਹੀ ਜੀਵਾਂ ॥",
+      "roman": "har har nām merā prān sakhāī tis bin ghaṛī nimakh nahī jīvāṅ",
+      "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਮੇਰੀ ਜਿੰਦ ਦਾ ਸਾਥੀ ਹੈ, ਉਸ (ਨਾਮ) ਤੋਂ ਬਿਨਾ ਮੈਂ ਇਕ ਘੜੀ ਭਰ ਅੱਖ ਦੇ ਝਮਕਣ ਜਿਤਨੇ ਸਮੇ ਲਈ ਭੀ ਨਹੀਂ ਰਹਿ ਸਕਦਾ।",
+      "translation_ru": "Имя — спутник моей жизни; без него я не могу жить ни мгновение."
+    },
+    {
+      "verse_id": 25104,
+      "gurmukhi": "ਹਰਿ ਹਰਿ ਕ੍ਰਿਪਾ ਕਰੇ ਸੁਖਦਾਤਾ ਗੁਰਮੁਖਿ ਅੰਮ੍ਰਿਤੁ ਪੀਵਾਂ ॥",
+      "roman": "har har kirpā karē sukhdātā gurmukh amrit pīvāṅ",
+      "sahib_singh_pa": "ਸੁਖਾਂ ਦੇ ਦੇਣ ਵਾਲਾ ਪ੍ਰਭੂ ਜੇ ਮੇਹਰ ਕਰੇ, ਤਾਂ ਹੀ ਮੈਂ ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਰਹਿ ਕੇ ਆਤਮਕ ਜੀਵਨ ਦੇਣ ਵਾਲਾ ਨਾਮ-ਜਲ ਪੀ ਸਕਦਾ ਹਾਂ।",
+      "translation_ru": "По милости Бога я могу пить нектар Имени, пребывая с Гуру."
+    },
+    {
+      "verse_id": 25105,
+      "gurmukhi": "ਹਰਿ ਆਪੇ ਸਰਧਾ ਲਾਇ ਮਿਲਾਏ ਹਰਿ ਆਪੇ ਆਪਿ ਸਵਾਰੇ ॥",
+      "roman": "har āpē sardhā lāi milāē har āpē āp savārē",
+      "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਆਪਣੇ (ਮਿਲਾਪ ਦੀ) ਤਾਂਘ ਪੈਦਾ ਕਰਦਾ ਹੈ ਤੇ ਆਪਣੇ ਚਰਨਾਂ ਵਿਚ ਜੋੜਦਾ ਹੈ ਤੇ ਪਰਮਾਤਮਾ ਆਪ ਹੀ (ਆਪਣਾ ਨਾਮ ਦੇ ਕੇ ਮਨੁੱਖ ਦਾ ਜੀਵਨ) ਸੋਹਣਾ ਬਣਾਂਦਾ ਹੈ।",
+      "translation_ru": "Сам Бог создаёт стремление и соединяет, и Сам украшает жизнь."
+    },
+    {
+      "verse_id": 25106,
+      "gurmukhi": "ਹੰਉ ਵਾਰੀ ਹੰਉ ਵਾਰੀ ਗੁਰਸਿਖ ਮੀਤ ਪਿਆਰੇ ॥੩॥",
+      "roman": "haṅu vārī haṅu vārī gursikh mīt piārē",
+      "sahib_singh_pa": "ਮੈਂ ਗੁਰੂ ਦੇ ਸਿੱਖ ਤੋਂ ਪਿਆਰੇ ਮਿੱਤਰ ਤੋਂ ਸਦਕੇ ਜਾਂਦਾ ਹਾਂ, ਕੁਰਬਾਨ ਜਾਂਦਾ ਹਾਂ ॥੩॥",
+      "translation_ru": "Я жертвую собой ради дорогого гурсикха."
+    },
+    {
+      "verse_id": 25107,
+      "gurmukhi": "ਹਰਿ ਆਪੇ ਹਰਿ ਆਪੇ ਪੁਰਖੁ ਨਿਰੰਜਨੁ ਸੋਈ ਰਾਮ ॥",
+      "roman": "har āpē har āpē purakh niranjan soī rām",
+      "sahib_singh_pa": "ਪ੍ਰਭੁ ਆਪ ਹੀ, ਆਪ ਹੀ ਸਰਬ-ਵਿਆਪਕ ਤੇ ਮਾਇਆ ਦੇ ਪ੍ਰਭਾਵ ਤੋਂ ਰਹਿਤ ਹੈ।",
+      "translation_ru": "Сам Бог — всепроникающий и вне майи."
+    },
+    {
+      "verse_id": 25108,
+      "gurmukhi": "ਹਰਿ ਆਪੇ ਹਰਿ ਆਪੇ ਮੇਲੈ ਕਰੈ ਸੋ ਹੋਈ ਰਾਮ ॥",
+      "roman": "har āpē har āpē melē karē so hoī rām",
+      "sahib_singh_pa": "ਪ੍ਰਭੁ ਆਪ ਹੀ, ਆਪ ਹੀ ਜਿਵਾਂ ਨੂੰ ਮਿਲਾਂਦਾ ਹੈ, ਜੋ ਕੁਝ ਉਹ ਕਰਦਾ ਹੈ ਉਹੀ ਵਰਤਦਾ ਹੈ।",
+      "translation_ru": "Сам Бог соединяет; всё происходит по Его воле."
+    },
+    {
+      "verse_id": 25109,
+      "gurmukhi": "ਜੋ ਹਰਿ ਪ੍ਰਭ ਭਾਵੈ ਸੋਈ ਹੋਵੈ ਅਵਰੁ ਨ ਕਰਣਾ ਜਾਈ ॥",
+      "roman": "jo har prabh bhāvē soī hovē avar na karaṇā jāī",
+      "sahib_singh_pa": "ਜੋ ਕੁਝ ਪਰਮਾਤਮਾ ਨੂੰ ਚੰਗਾ ਲੱਗਦਾ ਹੈ ਉਹੀ ਹੁੰਦਾ ਹੈ, (ਉਸ ਦੀ ਰਜ਼ਾ ਦੇ ਉਲਟ) ਹੋਰ ਕੁਝ ਭੀ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ।",
+      "translation_ru": "То, что угодно Богу, то и происходит; иначе быть не может."
+    },
+    {
+      "verse_id": 25110,
+      "gurmukhi": "ਬਹੁਤੁ ਸਿਆਣਪ ਲਇਆ ਨ ਜਾਈ ਕਰਿ ਥਾਕੇ ਸਭਿ ਚਤੁਰਾਈ ॥",
+      "roman": "bahut siāṇap laiā na jāī kar thākē sabh chaturāī",
+      "sahib_singh_pa": "ਭਾਵੇਂ ਮਨੁੱਖ ਕਿਨੀ ਵੀ ਸਿਆਣਪ ਦੀ ਵਰਤੋਂ ਕਰੇ (ਪ੍ਰਭੂ ਦੀ ਰਜ਼ਾ ਦੇ ਉਲਟ ਕੁਝ ਨਹੀਂ ਕਰ ਸਕਦਾ) ਆਖਰ ਇਨਸਾਨ ਥਕ ਜਾਂਦਾ ਹੈ।",
+      "translation_ru": "Сколько ни применяй хитрость, человек в итоге устаёт."
+    },
+    {
+      "verse_id": 25111,
+      "gurmukhi": "ਗੁਰ ਪ੍ਰਸਾਦਿ ਜਨ ਨਾਨਕ ਦੇਖਿਆ ਮੈ ਹਰਿ ਬਿਨੁ ਅਵਰੁ ਨ ਕੋਈ ॥",
+      "roman": "gur prasād jan nānak dekhia mē har bin avar na koī",
+      "sahib_singh_pa": "ਹੇ ਦਾਸ ਨਾਨਕ! ਮੈਂ ਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ (ਉਸ ਪਰਮਾਤਮਾ ਦਾ) ਦਰਸਨ ਕੀਤਾ ਹੈ, ਤੇ ਮੈਨੂੰ ਪਰਮਾਤਮਾ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕੋਈ (ਸਹਾਰਾ) ਨਹੀਂ (ਦਿੱਸਦਾ)।",
+      "translation_ru": "По милости Гуру Нанак узрел, что кроме Бога нет иного."
+    },
+    {
+      "verse_id": 25112,
+      "gurmukhi": "ਹਰਿ ਆਪੇ ਹਰਿ ਆਪੇ ਪੁਰਖੁ ਨਿਰੰਜਨੁ ਸੋਈ ॥੪॥੨॥",
+      "roman": "har āpē har āpē purakh niranjan soī",
+      "sahib_singh_pa": "ਪ੍ਰਭੁ ਆਪ ਹੀ, ਆਪ ਹੀ ਸਰਬ-ਵਿਆਪਕ ਤੇ ਮਾਇਆ ਦੇ ਪ੍ਰਭਾਵ ਤੋਂ ਰਹਿਤ ਹੈ ॥੪॥੨॥",
+      "translation_ru": "Сам Бог — всепроникающий и вне майи."
+    },
+    {
       "verse_id": 25113,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
       "gurmukhi": "ਵਡਹੰਸੁ ਮਹਲਾ ੪ ॥",
-      "site_roman": "vadahans mahalā 4 .",
-      "sahib_singh_pa": "None",
       "roman": "vadhaṅs mehlā 4",
+      "sahib_singh_pa": "None",
       "translation_ru": ""
     },
     {
-      "index": 2,
       "verse_id": 25114,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
       "gurmukhi": "ਹਰਿ ਸਤਿਗੁਰ ਹਰਿ ਸਤਿਗੁਰ ਮੇਲਿ ਹਰਿ ਸਤਿਗੁਰ ਚਰਣ ਹਮ ਭਾਇਆ ਰਾਮ ॥",
-      "site_roman": "har satigur har satigur mēl har satigur charan ham bhāiā rām .",
-      "sahib_singh_pa": "ਹੇ ਹਰੀ! ਮੈਨੂੰ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਰੱਖ, ਮੈਨੂੰ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਰੱਖ, ਗੁਰੂ ਦੇ ਚਰਨ ਮੈਨੂੰ ਪਿਆਰੇ ਲੱਗਦੇ ਹਨ।",
       "roman": "har satgur har satgur mel har satgur charaṇ ham bhāiā rām",
+      "sahib_singh_pa": "ਹੇ ਹਰੀ! ਮੈਨੂੰ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਰੱਖ, ਮੈਨੂੰ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਰੱਖ, ਗੁਰੂ ਦੇ ਚਰਨ ਮੈਨੂੰ ਪਿਆਰੇ ਲੱਗਦੇ ਹਨ।",
       "translation_ru": "О Хари! Помести меня у стоп Гуру, помести меня у стоп Гуру, стопы Гуру мне дороги."
     },
     {
-      "index": 3,
       "verse_id": 25115,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
       "gurmukhi": "ਤਿਮਰ ਅਗਿਆਨੁ ਗਵਾਇਆ ਗੁਰ ਗਿਆਨੁ ਅੰਜਨੁ ਗੁਰਿ ਪਾਇਆ ਰਾਮ ॥",
-      "site_roman": "timar agiān gavāiā gur giān anjan gur pāiā rām .",
-      "sahib_singh_pa": "ਜਿਸ ਨੇ ਗੁਰੂ ਦੀ ਰਾਹੀਂ ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ (ਦਾ) ਸੁਰਮਾ ਹਾਸਲ ਕਰ ਲਿਆ, ਉਸ ਦਾ ਆਤਮਕ ਜੀਵਨ ਵਲੋਂ ਬੇਸਮਝੀ (ਦਾ) ਹਨੇਰਾ ਦੂਰ ਹੋ ਗਿਆ।",
       "roman": "timar agiān gavāiā gur giān añjan gur pāiā rām",
+      "sahib_singh_pa": "ਜਿਸ ਨੇ ਗੁਰੂ ਦੀ ਰਾਹੀਂ ਆਤਮਕ ਜੀਵਨ ਦੀ ਸੂਝ (ਦਾ) ਸੁਰਮਾ ਹਾਸਲ ਕਰ ਲਿਆ, ਉਸ ਦਾ ਆਤਮਕ ਜੀਵਨ ਵਲੋਂ ਬੇਸਮਝੀ (ਦਾ) ਹਨੇਰਾ ਦੂਰ ਹੋ ਗਿਆ।",
       "translation_ru": "Тот, кто через Гуру получил сурьму знания духовной жизни, у того исчезла тьма невежества."
     },
     {
-      "index": 4,
       "verse_id": 25116,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
       "gurmukhi": "ਗੁਰ ਗਿਆਨ ਅੰਜਨੁ ਸਤਿਗੁਰੂ ਪਾਇਆ ਅਗਿਆਨ ਅੰਧੇਰ ਬਿਨਾਸੇ ॥",
-      "site_roman": "gur giān anjan satigurū pāiā agiān andhēr bināsē .",
-      "sahib_singh_pa": "ਜਿਸ ਨੇ ਗੁਰੂ ਪਾਸੋਂ ਗਿਆਨ ਦਾ ਸੁਰਮਾ ਲੈ ਲਿਆ ਉਸ ਦੇ ਅਗਿਆਨ ਦੇ ਹਨੇਰੇ ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ,",
       "roman": "gur giān añjan satgurū pāiā agiān andher bināse",
+      "sahib_singh_pa": "ਜਿਸ ਨੇ ਗੁਰੂ ਪਾਸੋਂ ਗਿਆਨ ਦਾ ਸੁਰਮਾ ਲੈ ਲਿਆ ਉਸ ਦੇ ਅਗਿਆਨ ਦੇ ਹਨੇਰੇ ਨਾਸ ਹੋ ਜਾਂਦੇ ਹਨ,",
       "translation_ru": "Тот, кто получил у Гуру сурьму знания, у того уничтожается тьма невежества,"
     },
     {
-      "index": 5,
       "verse_id": 25117,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
       "gurmukhi": "ਸਤਿਗੁਰ ਸੇਵਿ ਪਰਮ ਪਦੁ ਪਾਇਆ ਹਰਿ ਜਪਿਆ ਸਾਸ ਗਿਰਾਸੇ ॥",
-      "site_roman": "satigur sēv param pad pāiā har japiā sās girāsē .",
-      "sahib_singh_pa": "ਤੇ ਗੁਰੂ ਦੀ ਦੱਸੀ ਸੇਵਾ ਕਰ ਕੇ ਉਸ ਨੂੰ ਸਭ ਤੋਂ ਉੱਚਾ ਆਤਮਕ ਦਰਜਾ ਹਾਸਲ ਕਰ ਹੁੰਦਾ ਹੈ, ਅਤੇ ਉਹ ਹਰੇਕ ਸਾਹ ਤੇ ਹਰੇਕ ਗਿਰਾਹੀ ਨਾਲ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਦਾ ਰਹਿੰਦਾ ਹੈ।",
       "roman": "satgur sev param pad pāiā har japiā sās girāse",
+      "sahib_singh_pa": "ਤੇ ਗੁਰੂ ਦੀ ਦੱਸੀ ਸੇਵਾ ਕਰ ਕੇ ਉਸ ਨੂੰ ਸਭ ਤੋਂ ਉੱਚਾ ਆਤਮਕ ਦਰਜਾ ਹਾਸਲ ਕਰ ਹੁੰਦਾ ਹੈ, ਅਤੇ ਉਹ ਹਰੇਕ ਸਾਹ ਤੇ ਹਰੇਕ ਗਿਰਾਹੀ ਨਾਲ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਜਪਦਾ ਰਹਿੰਦਾ ਹੈ।",
       "translation_ru": "и, служа Гуру, он достигает высшего духовного состояния и с каждым дыханием и каждым куском пищи повторяет Имя Бога."
     },
     {
-      "index": 6,
       "verse_id": 25118,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
       "gurmukhi": "ਜਿਨ ਕੰਉ ਹਰਿ ਪ੍ਰਭਿ ਕਿਰਪਾ ਧਾਰੀ ਤੇ ਸਤਿਗੁਰ ਸੇਵਾ ਲਾਇਆ ॥",
-      "site_roman": "jin kanu har prabh kirapā dhārī tē satigur sēvā lāiā .",
-      "sahib_singh_pa": "ਹਰਿ-ਪ੍ਰਭੂ ਨੇ ਜਿਨ੍ਹਾਂ ਉਤੇ ਮੇਹਰ ਕੀਤੀ, ਉਹਨਾਂ ਨੂੰ ਗੁਰੂ ਦੀ ਸੇਵਾ ਵਿਚ ਜੋੜ ਦਿੱਤਾ।",
       "roman": "jin kau har prabh kirpā dhārī te satgur sevā lāiā",
+      "sahib_singh_pa": "ਹਰਿ-ਪ੍ਰਭੂ ਨੇ ਜਿਨ੍ਹਾਂ ਉਤੇ ਮੇਹਰ ਕੀਤੀ, ਉਹਨਾਂ ਨੂੰ ਗੁਰੂ ਦੀ ਸੇਵਾ ਵਿਚ ਜੋੜ ਦਿੱਤਾ।",
       "translation_ru": "Тех, на кого Господь проявил милость, Он соединил со служением Гуру."
     },
     {
-      "index": 7,
       "verse_id": 25119,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
       "gurmukhi": "ਹਰਿ ਸਤਿਗੁਰ ਹਰਿ ਸਤਿਗੁਰ ਮੇਲਿ ਹਰਿ ਸਤਿਗੁਰ ਚਰਣ ਹਮ ਭਾਇਆ ॥੧॥",
-      "site_roman": "har satigur har satigur mēl har satigur charan ham bhāiā .1.",
-      "sahib_singh_pa": "ਹੇ ਹਰੀ! ਮੈਨੂੰ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਰੱਖ, ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਰੱਖ, ਗੁਰੂ ਦੇ ਚਰਨ ਮੈਨੂੰ ਪਿਆਰੇ ਲੱਗਦੇ ਹਨ ॥੧॥",
       "roman": "har satgur har satgur mel har satgur charaṇ ham bhāiā",
+      "sahib_singh_pa": "ਹੇ ਹਰੀ! ਮੈਨੂੰ ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਰੱਖ, ਗੁਰੂ ਦੇ ਚਰਨਾਂ ਵਿਚ ਰੱਖ, ਗੁਰੂ ਦੇ ਚਰਨ ਮੈਨੂੰ ਪਿਆਰੇ ਲੱਗਦੇ ਹਨ ॥੧॥",
       "translation_ru": "О Хари! Помести меня у стоп Гуру, у стоп Гуру, стопы Гуру мне дороги."
     },
     {
-      "index": 8,
       "verse_id": 25120,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
       "gurmukhi": "ਮੇਰਾ ਸਤਿਗੁਰੁ ਮੇਰਾ ਸਤਿਗੁਰੁ ਪਿਆਰਾ ਮੈ ਗੁਰ ਬਿਨੁ ਰਹਣੁ ਨ ਜਾਈ ਰਾਮ ॥",
-      "site_roman": "mērā satigur mērā satigur piārā mai gur bin rahan n jāī rām .",
+      "roman": "merā satgur merā satgur piārā mē gur bin rahan na jāī rām",
       "sahib_singh_pa": "ਮੇਰਾ ਸਤਿਗੁਰੂ, ਮੇਰਾ ਸਤਿਗੁਰੂ ਮੈਨੂੰ ਬਹੁਤ ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ, ਗੁਰੂ ਤੋਂ ਬਿਨਾ ਮੈਥੋਂ ਰਿਹਾ ਨਹੀਂ ਜਾ ਸਕਦਾ।",
-      "roman": "merā satgur merā satgur piārā mai gur bin rahan na jāī rām",
       "translation_ru": "Мой Сатгуру, мой Сатгуру мне очень дорог, без Гуру я не могу жить."
     },
     {
-      "index": 9,
       "verse_id": 25121,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
       "gurmukhi": "ਹਰਿ ਨਾਮੋ ਹਰਿ ਨਾਮੁ ਦੇਵੈ ਮੇਰਾ ਅੰਤਿ ਸਖਾਈ ਰਾਮ ॥",
-      "site_roman": "har nāmō har nām dēvai mērā ant sakhāī rām .",
+      "roman": "har nāmo har nām devē merā ant sakhāī rām",
       "sahib_singh_pa": "ਗੁਰੂ ਮੈਨੂੰ ਉਹ ਹਰਿ-ਨਾਮ ਦੇਂਦਾ ਹੈ ਜੇਹੜਾ ਅੰਤ ਵੇਲੇ ਮੇਰਾ ਸਾਥੀ ਬਣੇਗਾ।",
-      "roman": "har nāmo har nām devai merā ant sakhāī rām",
       "translation_ru": "Гуру даёт мне Имя Хари, которое станет моим спутником в конце."
     },
     {
-      "index": 10,
       "verse_id": 25122,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
       "gurmukhi": "ਹਰਿ ਹਰਿ ਨਾਮੁ ਮੇਰਾ ਅੰਤਿ ਸਖਾਈ ਗੁਰਿ ਸਤਿਗੁਰਿ ਨਾਮੁ ਦ੍ਰਿੜਾਇਆ ॥",
-      "site_roman": "har har nām mērā ant sakhāī gur satigur nām drirāiā .",
-      "sahib_singh_pa": "ਸਤਿਗੁਰੂ ਨੇ ਮੇਰੇ ਅੰਦਰ ਹਰਿ-ਨਾਮ ਪੱਕਾ ਕਰ ਦਿੱਤਾ ਹੈ ਤੇ ਹਰਿ-ਹਰਿ-ਨਾਮ ਅੰਤ ਵੇਲੇ ਮੇਰਾ ਸਾਥੀ ਬਣੇਗਾ,",
       "roman": "har har nām merā ant sakhāī gur satgur nām driṛhāiā",
+      "sahib_singh_pa": "ਸਤਿਗੁਰੂ ਨੇ ਮੇਰੇ ਅੰਦਰ ਹਰਿ-ਨਾਮ ਪੱਕਾ ਕਰ ਦਿੱਤਾ ਹੈ ਤੇ ਹਰਿ-ਹਰਿ-ਨਾਮ ਅੰਤ ਵੇਲੇ ਮੇਰਾ ਸਾਥੀ ਬਣੇਗਾ,",
       "translation_ru": "Сатгуру утвердил во мне Имя Хари, и Имя Хари станет моим спутником в конце,"
     },
     {
-      "index": 11,
       "verse_id": 25123,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
       "gurmukhi": "ਜਿਥੈ ਪੁਤੁ ਕਲਤ੍ਰੁ ਕੋਈ ਬੇਲੀ ਨਾਹੀ ਤਿਥੈ ਹਰਿ ਹਰਿ ਨਾਮਿ ਛਡਾਇਆ ॥",
-      "site_roman": "jithai put kalatr kōī bēlī nāhī tithai har har nām shadāiā .",
+      "roman": "jithē put kalatr koī belī nāhī tithē har har nām chhaḍāiā",
       "sahib_singh_pa": "ਜਿਥੇ ਪੁਤ੍ਰ ਜਾਂ ਇਸਤ੍ਰੀ ਕੋਈ ਭੀ ਮਦਦਗਾਰ ਨਹੀਂ ਬਣਦਾ, ਉਥੇ ਹਰਿ-ਹਰਿ-ਨਾਮ ਨੇ ਹੀ ਛੁਡਾਣਾ ਹੈ।",
-      "roman": "jithai put kalatr koī belī nāhī tithai har har nām chhaḍāiā",
       "translation_ru": "там, где ни сын, ни жена не помогут, там спасает только Имя Хари."
     },
     {
-      "index": 12,
       "verse_id": 25124,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
       "gurmukhi": "ਧਨੁ ਧਨੁ ਸਤਿਗੁਰੁ ਪੁਰਖੁ ਨਿਰੰਜਨੁ ਜਿਤੁ ਮਿਲਿ ਹਰਿ ਨਾਮੁ ਧਿਆਈ ॥",
-      "site_roman": "dhan dhan satigur purakh niranjan jit mil har nām dhiāī .",
-      "sahib_singh_pa": "ਸਤਿਗੁਰੂ ਧੰਨ ਧੰਨ ਹੈ, ਨਿਰਲੇਪ ਪਰਮਾਤਮਾ ਦਾ ਰੂਪ ਹੈ, ਜਿਸ ਵਿਚ ਲੀਨ ਹੋ ਕੇ ਮੈਂ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਹਾਂ।",
       "roman": "dhan dhan satgur purakh nirañjan jit mil har nām dhiāī",
+      "sahib_singh_pa": "ਸਤਿਗੁਰੂ ਧੰਨ ਧੰਨ ਹੈ, ਨਿਰਲੇਪ ਪਰਮਾਤਮਾ ਦਾ ਰੂਪ ਹੈ, ਜਿਸ ਵਿਚ ਲੀਨ ਹੋ ਕੇ ਮੈਂ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਿਮਰਦਾ ਹਾਂ।",
       "translation_ru": "Благословен Сатгуру, образ безупречного Бога, сливаясь с которым я медитирую на Имя Бога."
     },
     {
-      "index": 13,
       "verse_id": 25125,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
       "gurmukhi": "ਮੇਰਾ ਸਤਿਗੁਰੁ ਮੇਰਾ ਸਤਿਗੁਰੁ ਪਿਆਰਾ ਮੈ ਗੁਰ ਬਿਨੁ ਰਹਣੁ ਨ ਜਾਈ ॥੨॥",
-      "site_roman": "mērā satigur mērā satigur piārā mai gur bin rahan n jāī .2.",
+      "roman": "merā satgur merā satgur piārā mē gur bin rahan na jāī",
       "sahib_singh_pa": "ਮੇਰਾ ਸਤਿਗੁਰੂ, ਮੇਰਾ ਸਤਿਗੁਰੂ ਮੈਨੂੰ ਬਹੁਤ ਪਿਆਰਾ ਲੱਗਦਾ ਹੈ, ਗੁਰੂ ਤੋਂ ਬਿਨਾ ਮੈਂ ਰਹਿ ਨਹੀਂ ਸਕਦਾ ॥੨॥",
-      "roman": "merā satgur merā satgur piārā mai gur bin rahan na jāī",
       "translation_ru": "Мой Сатгуру, мой Сатгуру мне очень дорог, без Гуру я не могу жить."
-    },
-    {
-      "index": 14,
-      "verse_id": 25126,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
-      "gurmukhi": "ਜਿਨੀ ਦਰਸਨੁ ਜਿਨੀ ਦਰਸਨੁ ਸਤਿਗੁਰ ਪੁਰਖ ਨ ਪਾਇਆ ਰਾਮ ॥",
-      "site_roman": "jinī darasan jinī darasan satigur purakh n pāiā rām .",
-      "sahib_singh_pa": "ਜਿਨ੍ਹਾਂ ਨੇ, ਜਿਨ੍ਹਾਂ ਨੇ ਗੁਰੂ ਮਹਾਪੁਰਖ ਦਾ ਦਰਸਨ ਨਹੀਂ ਕੀਤਾ,",
-      "roman": "jinī darsan jinī darsan satgur purakh na pāiā rām",
-      "translation_ru": "Те, кто не получил даршан Сатгуру — великого существа,"
-    },
-    {
-      "index": 15,
-      "verse_id": 25127,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
-      "gurmukhi": "ਤਿਨ ਨਿਹਫਲੁ ਤਿਨ ਨਿਹਫਲੁ ਜਨਮੁ ਸਭੁ ਬ੍ਰਿਥਾ ਗਵਾਇਆ ਰਾਮ ॥",
-      "site_roman": "tin nihaphal tin nihaphal janam sabh brithā gavāiā rām .",
-      "sahib_singh_pa": "ਉਹਨਾਂ ਦਾ ਜਨਮ ਬੇ-ਫ਼ਾਇਦਾ, ਬੇ-ਫ਼ਾਇਦਾ ਗਿਆ, ਤੇ ਉਹਨਾਂ ਨੇ ਜੀਵਨ ਵਿਅਰਥ ਗਵਾ ਲਿਆ।",
-      "roman": "tin nihphal tin nihphal janam sabh brithā gavāiā rām",
-      "translation_ru": "их жизнь прошла напрасно, совершенно напрасно, они потратили её впустую."
-    },
-    {
-      "index": 16,
-      "verse_id": 25128,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
-      "gurmukhi": "ਨਿਹਫਲੁ ਜਨਮੁ ਤਿਨ ਬ੍ਰਿਥਾ ਗਵਾਇਆ ਤੇ ਸਾਕਤ ਮੁਏ ਮਰਿ ਝੂਰੇ ॥",
-      "site_roman": "nihaphal janam tin brithā gavāiā tē sākat muē mar jhūrē .",
-      "sahib_singh_pa": "ਉਹਨਾਂ ਨੇ ਆਪਣਾ ਜਨਮ ਵਿਅਰਥ ਅਕਾਰਥ ਗਵਾ ਲਿਆ, ਪਰਮਾਤਮਾ ਨਾਲੋਂ ਟੁੱਟੇ ਹੋਏ ਉਹ ਮਨੁੱਖ ਆਤਮਕ ਮੌਤੇ ਮਰ ਗਏ।",
-      "roman": "nihphal janam tin brithā gavāiā te sākāt muē mar jhūre",
-      "translation_ru": "Они потратили свою жизнь напрасно, оторванные от Бога, они духовно умерли."
-    },
-    {
-      "index": 17,
-      "verse_id": 25129,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
-      "gurmukhi": "ਘਰਿ ਹੋਦੈ ਰਤਨਿ ਪਦਾਰਥਿ ਭੂਖੇ ਭਾਗਹੀਣ ਹਰਿ ਦੂਰੇ ॥",
-      "site_roman": "ghar hōdai ratan padārath bhūkhē bhāgahīn har dūrē .",
-      "sahib_singh_pa": "ਹਿਰਦੇ-ਘਰ ਵਿਚ ਕੀਮਤੀ ਨਾਮ-ਰਤਨ ਹੁੰਦਿਆਂ ਭੀ ਉਹ ਬਦ-ਨਸੀਬ ਮਰੂੰ-ਮਰੂੰ ਕਰਦੇ ਰਹੇ, ਤੇ, ਪਰਮਾਤਮਾ ਤੋਂ ਵਿਛੁੜੇ ਰਹੇ।",
-      "roman": "ghar hodai ratan padārath bhūkhe bhāghahīṇ har dūre",
-      "translation_ru": "Имея драгоценность Имени в сердце, они оставались голодными, несчастные, вдали от Бога."
-    },
-    {
-      "index": 18,
-      "verse_id": 25130,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
-      "gurmukhi": "ਹਰਿ ਹਰਿ ਤਿਨ ਕਾ ਦਰਸੁ ਨ ਕਰੀਅਹੁ ਜਿਨੀ ਹਰਿ ਹਰਿ ਨਾਮੁ ਨ ਧਿਆਇਆ ॥",
-      "site_roman": "har har tin kā daras n karīah jinī har har nām n dhiāiā .",
-      "sahib_singh_pa": "ਰੱਬ ਕਰ ਕੇ ਤੁਸਾਂ ਉਹਨਾਂ ਦਾ ਦਰਸਨ ਨਾਹ ਕਰਨਾ ਜਿਨ੍ਹਾਂ ਮਨੁੱਖਾਂ ਨੇ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਨਹੀਂ ਸਿਮਰਿਆ,",
-      "roman": "har har tin kā daras na karīahu jinī har har nām na dhiāiā",
-      "translation_ru": "Да не встречайтесь с теми, кто не медитировал на Имя Бога,"
-    },
-    {
-      "index": 19,
-      "verse_id": 25131,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
-      "gurmukhi": "ਜਿਨੀ ਦਰਸਨੁ ਜਿਨੀ ਦਰਸਨੁ ਸਤਿਗੁਰ ਪੁਰਖ ਨ ਪਾਇਆ ॥੩॥",
-      "site_roman": "jinī darasan jinī darasan satigur purakh n pāiā .3.",
-      "sahib_singh_pa": "ਤੇ ਜਿਨ੍ਹਾਂ ਨੇ ਗੁਰੂ ਮਹਾਪੁਰਖ ਦਾ ਦਰਸਨ, ਦਰਸਨ ਨਹੀਂ ਕੀਤਾ ॥੩॥",
-      "roman": "jinī darsan jinī darsan satgur purakh na pāiā",
-      "translation_ru": "и кто не получил даршан Сатгуру — великого существа."
-    },
-    {
-      "index": 20,
-      "verse_id": 25132,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
-      "gurmukhi": "ਹਮ ਚਾਤ੍ਰਿਕ ਹਮ ਚਾਤ੍ਰਿਕ ਦੀਨ ਹਰਿ ਪਾਸਿ ਬੇਨੰਤੀ ਰਾਮ ॥",
-      "site_roman": "ham chātrik ham chātrik dīn har pās bēnantī rām .",
-      "sahib_singh_pa": "ਮੈਂ ਨਿਮਾਣਾ ਪਪੀਹਾ, ਨਿਮਾਣਾ ਪਪੀਹਾ ਹਾਂ ਤੇ ਮੈਂ ਪਰਮਾਤਮਾ ਪਾਸ ਬੇਨਤੀ ਕਰਦਾ ਹਾਂ,",
-      "roman": "ham chātrik ham chātrik dīn har pās benantī rām",
-      "translation_ru": "Я — смирённый папиха, смирённый папиха, и я обращаюсь с просьбой к Богу,"
-    },
-    {
-      "index": 21,
-      "verse_id": 25133,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
-      "gurmukhi": "ਗੁਰ ਮਿਲਿ ਗੁਰ ਮੇਲਿ ਮੇਰਾ ਪਿਆਰਾ ਹਮ ਸਤਿਗੁਰ ਕਰਹ ਭਗਤੀ ਰਾਮ ॥",
-      "site_roman": "gur mil gur mēl mērā piārā ham satigur karah bhagatī rām .",
-      "sahib_singh_pa": "ਕਿ ਮੈਨੂੰ ਮੇਰਾ ਪਿਆਰਾ ਗੁਰੂ ਮਿਲਾ, ਗੁਰੂ ਸਤਿਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ ਮੈਂ ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ ਕਰਾਂਗਾ।",
-      "roman": "gur mil gur mel merā piārā ham satgur karah bhagtī rām",
-      "translation_ru": "соедини меня с моим любимым Гуру, встретив Сатгуру, я буду поклоняться Богу."
-    },
-    {
-      "index": 22,
-      "verse_id": 25134,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
-      "gurmukhi": "ਹਰਿ ਹਰਿ ਸਤਿਗੁਰ ਕਰਹ ਭਗਤੀ ਜਾਂ ਹਰਿ ਪ੍ਰਭੁ ਕਿਰਪਾ ਧਾਰੇ ॥",
-      "site_roman": "har har satigur karah bhagatī jānh har prabh kirapā dhārē .",
-      "sahib_singh_pa": "ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ ਪਰਮਾਤਮਾ ਦੀ ਭਗਤੀ ਅਸੀਂ ਤਦੋਂ ਹੀ ਕਰ ਸਕਦੇ ਹਾਂ ਜਦੋਂ ਪਰਮਾਤਮਾ ਕਿਰਪਾ ਕਰਦਾ ਹੈ।",
-      "roman": "har har satgur karah bhagtī jā har prabh kirpā dhāre",
-      "translation_ru": "Поклоняться Богу через Гуру можно только тогда, когда Бог проявляет милость."
-    },
-    {
-      "index": 23,
-      "verse_id": 25135,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
-      "gurmukhi": "ਮੈ ਗੁਰ ਬਿਨੁ ਅਵਰੁ ਨ ਕੋਈ ਬੇਲੀ ਗੁਰੁ ਸਤਿਗੁਰੁ ਪ੍ਰਾਣ ਹਮ੍ਹਾਰੇ ॥",
-      "site_roman": "mai gur bin avar n kōī bēlī gur satigur prān hamhārē .",
-      "sahib_singh_pa": "ਗੁਰੂ ਤੋਂ ਬਿਨਾ ਮੈਨੂੰ ਕੋਈ ਹੋਰ ਮਦਦਗਾਰ ਨਹੀਂ ਦਿੱਸਦਾ, ਗੁਰੂ ਹੀ ਮੇਰੀ ਜ਼ਿੰਦਗੀ (ਦਾ ਆਸਰਾ) ਹੈ।",
-      "roman": "mai gur bin avar na koī belī gur satgur prāṇ hamhāre",
-      "translation_ru": "Без Гуру у меня нет другого помощника, Гуру — опора моей жизни."
-    },
-    {
-      "index": 24,
-      "verse_id": 25136,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
-      "gurmukhi": "ਕਹੁ ਨਾਨਕ ਗੁਰਿ ਨਾਮੁ ਦ੍ਰਿੜ੍ਹਾਇਆ ਹਰਿ ਹਰਿ ਨਾਮੁ ਹਰਿ ਸਤੀ ॥",
-      "site_roman": "kah nānak gur nām drirhāiā har har nām har satī .",
-      "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ- ਕਿ ਗੁਰੂ ਨੇ ਮੇਰੇ ਹਿਰਦੇ ਹਰਿ-ਨਾਮ ਪੱਕਾ ਕੀਤਾ ਹੈ ਜੋ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲਾ ਹੈ।",
-      "roman": "kahu nānak gur nām driṛhāiā har har nām har satī",
-      "translation_ru": "Нанак говорит: Гуру утвердил в моём сердце Имя Хари, которое вечно."
-    },
-    {
-      "index": 25,
-      "verse_id": 25137,
-      "shabad_num": 1496,
-      "shabad_id": 1496,
-      "gurmukhi": "ਹਮ ਚਾਤ੍ਰਿਕ ਹਮ ਚਾਤ੍ਰਿਕ ਦੀਨ ਹਰਿ ਪਾਸਿ ਬੇਨੰਤੀ ॥੪॥੩॥",
-      "site_roman": "ham chātrik ham chātrik dīn har pās bēnantī .4.3.",
-      "sahib_singh_pa": "ਮੈਂ ਨਿਮਾਣਾ ਪਪੀਹਾ, ਨਿਮਾਣਾ ਪਪੀਹਾ ਹਾਂ ਤੇ ਮੈਂ ਪਰਮਾਤਮਾ ਪਾਸ ਬੇਨਤੀ ਕਰਦਾ ਹਾਂ ॥੪॥੩॥",
-      "roman": "ham chātrik ham chātrik dīn har pās benantī",
-      "translation_ru": "Я — смирённый папиха, смирённый папиха, и я обращаюсь с просьбой к Богу."
     }
   ]
 }

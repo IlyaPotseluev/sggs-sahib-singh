@@ -6,3 +6,7 @@ __pycache__/
 .DS_Store
 .progress_*.txt
 .~lock.*
+validation_log.db
+diagnose_timing.py
+corrupted.txt
+*-backup.py

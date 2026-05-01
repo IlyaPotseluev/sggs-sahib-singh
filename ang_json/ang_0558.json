@@ -1,258 +1,263 @@
 {
   "ang": 558,
-  "line_count": 23,
   "lines": [
     {
-      "index": 1,
+      "verse_id": 24512,
+      "gurmukhi": "ਨਾ ਮਨੀਆਰੁ ਨ ਚੂੜੀਆ ਨਾ ਸੇ ਵੰਗੁੜੀਆਹਾ ॥",
+      "roman": "nā manīār na chūṛīā nā se vaṅguṛīāhā",
+      "sahib_singh_pa": "ਕਿਉਂਕਿ ਨਾਹ ਇਹਨਾਂ ਬਾਹਾਂ ਨੂੰ ਸਜਾਣ ਵਾਲਾ ਮਨਿਆਰ ਹੀ ਤੇਰਾ ਕੁਝ ਸਵਾਰ ਸਕਿਆ, ਨਾਹ ਹੀ ਉਸ ਦੀਆਂ ਦਿੱਤੀਆਂ ਚੂੜੀਆਂ ਤੇ ਵੰਗਾਂ ਕਿਸੇ ਕੰਮ ਆਈਆਂ।",
+      "translation_ru": "Ни ювелир, ни браслеты не принесли пользы."
+    },
+    {
+      "verse_id": 24513,
+      "gurmukhi": "ਜੋ ਸਹ ਕੰਠਿ ਨ ਲਗੀਆ ਜਲਨੁ ਸਿ ਬਾਹੜੀਆਹਾ ॥",
+      "roman": "jo sah kaṇṭh na lagīā jalan s bāhṛīāhā",
+      "sahib_singh_pa": "ਸੜ ਜਾਣ ਉਹ (ਸਜਾਈਆਂ) ਬਾਹਾਂ ਜੋ ਖਸਮ ਦੇ ਗਲ ਨਾਹ ਲੱਗ ਸਕੀਆਂ।",
+      "translation_ru": "Пусть сгорят те руки, которые не смогли обнять Господа."
+    },
+    {
+      "verse_id": 24514,
+      "gurmukhi": "ਸਭਿ ਸਹੀਆ ਸਹੁ ਰਾਵਣਿ ਗਈਆ ਹਉ ਦਾਧੀ ਕੈ ਦਰਿ ਜਾਵਾ ॥",
+      "roman": "sabh sahīā sah rāvaṇ gaīā hau dādhī kē dar jāva",
+      "sahib_singh_pa": "ਸਾਰੀਆਂ ਸਹੇਲੀਆਂ (ਤਾਂ) ਪ੍ਰਭੂ-ਪਤੀ ਨੂੰ ਪ੍ਰਸੰਨ ਕਰਨ ਦੇ ਜਤਨ ਕਰ ਰਹੀਆਂ ਹਨ ਤੇ ਮੈਂ ਸੜੇ ਕਰਮਾਂ ਵਾਲੀ ਕਿਸ ਦੇ ਦਰ ਤੇ ਜਾਵਾਂ?",
+      "translation_ru": "Все подруги стараются угодить Господу, а я, несчастная, к кому пойду?"
+    },
+    {
+      "verse_id": 24515,
+      "gurmukhi": "ਅੰਮਾਲੀ ਹਉ ਖਰੀ ਸੁਚਜੀ ਤੈ ਸਹ ਏਕਿ ਨ ਭਾਵਾ ॥",
+      "roman": "aṃmālī hau kharī suchjī tē sah ek na bhāvā",
+      "sahib_singh_pa": "ਹੇ ਸਖੀ! ਮੈਂ ਆਪਣੇ ਵਲੋਂ ਤਾਂ ਬੜੀ ਚੰਗੀ ਕਰਤੂਤ ਵਾਲੀ ਬਣੀ ਬੈਠੀ ਹਾਂ, ਪਰ, ਪ੍ਰਭੂ ਪਤੀ ਨੂੰ ਮੇਰਾ ਇੱਕ ਭੀ ਗੁਣ ਪਸੰਦ ਨਹੀਂ ਆਇਆ।",
+      "translation_ru": "Я считаю себя добродетельной, но Господу не нравится ни одно моё качество."
+    },
+    {
+      "verse_id": 24516,
+      "gurmukhi": "ਮਾਠਿ ਗੁੰਦਾੲਂੀ ਪਟੀਆ ਭਰੀਐ ਮਾਗ ਸੰਧੂਰੇ ॥",
+      "roman": "māṭh guṇdāīṅ paṭīā bharīai māg sandhūre",
+      "sahib_singh_pa": "ਮੈਂ ਸਵਾਰ ਸਵਾਰ ਕੇ ਪੱਟੀਆਂ ਗੁੰਦਾਂਦੀ ਹਾਂ, ਮੇਰੀਆਂ ਪੱਟੀਆਂ ਦੇ ਚੀਰ ਵਿਚ ਸੰਧੂਰ ਭੀ ਭਰਿਆ ਜਾਂਦਾ ਹੈ,",
+      "translation_ru": "Я украшаю себя, заплетаю волосы и наполняю пробор синдуром,"
+    },
+    {
+      "verse_id": 24517,
+      "gurmukhi": "ਅਗੈ ਗਈ ਨ ਮੰਨੀਆ ਮਰਉ ਵਿਸੂਰਿ ਵਿਸੂਰੇ ॥",
+      "roman": "agē gaī na manīā marau visūr visūre",
+      "sahib_singh_pa": "ਪਰ ਤੇਰੀ ਹਜ਼ੂਰੀ ਵਿਚ ਮੈਂ ਫਿਰ ਭੀ ਪ੍ਰਵਾਨ ਨਹੀਂ ਹੋ ਰਹੀ, (ਇਸ ਵਾਸਤੇ) ਝੂਰ ਝੂਰ ਕੇ ਮਰ ਰਹੀ ਹਾਂ।",
+      "translation_ru": "но перед Тобой не принимаюсь и умираю в страдании."
+    },
+    {
+      "verse_id": 24518,
+      "gurmukhi": "ਮੈ ਰੋਵੰਦੀ ਸਭੁ ਜਗੁ ਰੁਨਾ ਰੁੰਨੜੇ ਵਣਹੁ ਪੰਖੇਰੂ ॥",
+      "roman": "mē rovandī sabh jag runā ruṇaṛe vaṇah paṅkherū",
+      "sahib_singh_pa": "ਮੈਂ ਇਤਨੀ ਦੁਖੀ ਹੋ ਰਹੀ ਹਾਂ (ਕਿ) ਸਾਰਾ ਜਗਤ ਮੇਰੇ ਉਤੇ ਤਰਸ ਕਰ ਰਿਹਾ ਹੈ, ਜੰਗਲ ਦੇ ਪੰਛੀ ਭੀ ਮੇਰੇ ਤੇ ਤਰਸ ਕਰ ਰਹੇ ਹਨ।",
+      "translation_ru": "Я так страдаю, что весь мир сочувствует мне, даже птицы в лесу."
+    },
+    {
+      "verse_id": 24519,
+      "gurmukhi": "ਇਕੁ ਨ ਰੁਨਾ ਮੇਰੇ ਤਨ ਕਾ ਬਿਰਹਾ ਜਿਨਿ ਹਉ ਪਿਰਹੁ ਵਿਛੋੜੀ ॥",
+      "roman": "ik na runā mere tan kā birhā jin hau pirah vichhoṛī",
+      "sahib_singh_pa": "ਸਿਰਫ਼ ਇਹ ਮੇਰੇ ਅੰਦਰਲਾ ਵਿਛੋੜਾ ਹੀ ਹੈ ਜੋ ਤਰਸ ਨਹੀਂ ਕਰਦਾ, ਇਸੇ ਨੇ ਮੈਨੂੰ ਪ੍ਰਭੂ-ਪਤੀ ਤੋਂ ਵਿਛੋੜਿਆ ਹੋਇਆ ਹੈ।",
+      "translation_ru": "Только разлука во мне не жалеет меня — она и разлучила меня с Господом."
+    },
+    {
+      "verse_id": 24520,
+      "gurmukhi": "ਸੁਪਨੈ ਆਇਆ ਭੀ ਗਇਆ ਮੈ ਜਲੁ ਭਰਿਆ ਰੋਇ ॥",
+      "roman": "supnē āiā bhī gēā mē jal bhariā roi",
+      "sahib_singh_pa": "ਮੈਨੂੰ ਤੂੰ ਸੁਪਨੇ ਵਿਚ ਮਿਲਿਆ (ਸੁਪਨਾ ਮੁੱਕਿਆ, ਤੇ ਤੂੰ) ਫਿਰ ਚਲਾ ਗਿਆ, (ਵਿਛੋੜੇ ਦੇ ਦੁੱਖ ਵਿਚ) ਮੈਂ ਹੰਝੂ ਭਰ ਕੇ ਰੋਈ।",
+      "translation_ru": "Ты пришёл во сне и ушёл, и я плакала, наполняя глаза слезами."
+    },
+    {
+      "verse_id": 24521,
+      "gurmukhi": "ਆਇ ਨ ਸਕਾ ਤੁਝ ਕਨਿ ਪਿਆਰੇ ਭੇਜਿ ਨ ਸਕਾ ਕੋਇ ॥",
+      "roman": "āi na sakā tuj kan piāre bhej na sakā koi",
+      "sahib_singh_pa": "ਹੇ ਪਿਆਰੇ! ਮੈਂ (ਨਿਮਾਣੀ) ਤੇਰੇ ਪਾਸ ਅੱਪੜ ਨਹੀਂ ਸਕਦੀ, ਤੇ ਮੈਂ (ਗ਼ਰੀਬ) ਕਿਸੇ ਨੂੰ ਤੇਰੇ ਪਾਸ ਘੱਲ ਨਹੀਂ ਸਕਦੀ (ਜੋ ਮੇਰੀ ਹਾਲਤ ਤੈਨੂੰ ਦੱਸੇ)।",
+      "translation_ru": "О возлюбленный! Я не могу прийти к Тебе и не могу послать никого."
+    },
+    {
+      "verse_id": 24522,
+      "gurmukhi": "ਆਉ ਸਭਾਗੀ ਨੀਦੜੀਏ ਮਤੁ ਸਹੁ ਦੇਖਾ ਸੋਇ ॥",
+      "roman": "āu sabhāgī nīḍṛīe mat sah dekhā soi",
+      "sahib_singh_pa": "ਨੀਂਦ ਅੱਗੇ ਹੀ ਤਰਲੇ ਕਰਦੀ ਹਾਂ ਕਿ ਹੇ ਭਾਗਾਂ ਵਾਲੀ ਸੋਹਣੀ ਨੀਂਦ ਤੂੰ (ਮੇਰੇ ਕੋਲ ਆ) ਸ਼ਾਇਦ (ਤੇਰੀ ਰਾਹੀਂ ਹੀ) ਮੈਂ ਆਪਣੇ ਖਸਮ-ਪ੍ਰਭੂ ਦਾ ਦੀਦਾਰ ਕਰ ਸਕਾਂ।",
+      "translation_ru": "О благословенный сон, приди, чтобы я могла увидеть Господа."
+    },
+    {
+      "verse_id": 24523,
+      "gurmukhi": "ਤੈ ਸਾਹਿਬ ਕੀ ਬਾਤ ਜਿ ਆਖੈ ਕਹੁ ਨਾਨਕ ਕਿਆ ਦੀਜੈ ॥",
+      "roman": "tē sāhib kī bāt j ākhē kah nānak kiā dījē",
+      "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ ਕਿ ਜੇ ਕੋਈ ਗੁਰਮੁਖਿ ਮੈਨੂੰ ਤੇਰੀ ਕੋਈ ਗੱਲ ਸੁਣਾਵੇ ਤਾਂ ਮੈਂ ਉਸ ਅੱਗੇ ਕੇਹੜੀ ਭੇਟ ਧਰਾਂ!",
+      "translation_ru": "Говорит Нанак: если кто-то расскажет мне о Тебе, что я могу ему дать?"
+    },
+    {
+      "verse_id": 24524,
+      "gurmukhi": "ਸੀਸੁ ਵਢੇ ਕਰਿ ਬੈਸਣੁ ਦੀਜੈ ਵਿਣੁ ਸਿਰ ਸੇਵ ਕਰੀਜੈ ॥",
+      "roman": "sīs vaḍhe kar bēsan dījē viṇ sir sev karījē",
+      "sahib_singh_pa": "ਆਪਣਾ ਸਿਰ ਵੱਢ ਕੇ ਮੈਂ ਉਸ ਦੇ ਬੈਠਣ ਲਈ ਆਸਣ ਬਣਾ ਦਿਆਂ (ਭਾਵ,) ਆਪਾ-ਭਾਵ ਦੂਰ ਕਰ ਕੇ ਮੈਂ ਉਸ ਦੀ ਸੇਵਾ ਕਰਾਂ।",
+      "translation_ru": "Я бы отдал свою голову, сделав из неё место для сидения, и служил бы без эго."
+    },
+    {
+      "verse_id": 24525,
+      "gurmukhi": "ਕਿਉ ਨ ਮਰੀਜੈ ਜੀਅੜਾ ਨ ਦੀਜੈ ਜਾ ਸਹੁ ਭਇਆ ਵਿਡਾਣਾ ॥੧॥੩॥",
+      "roman": "kiu na marījē jīaṛā na dījē jā sah bhaeā viḍāṇā",
+      "sahib_singh_pa": "ਜਦੋਂ ਸਾਡਾ ਪ੍ਰਭੂ-ਪਤੀ ਸਾਥੋਂ ਓਪਰਾ ਹੋ ਜਾਏ ਤਾਂ ਅਸੀਂ ਆਪਾ-ਭਾਵ ਕਿਉਂ ਨਾ ਮਾਰ ਦੇਈਏ ਤੇ ਆਪਣੀ ਜਿੰਦ ਉਸ ਤੋਂ ਸਦਕੇ ਕਰ ਦੇਈਏ ॥੧॥੩॥",
+      "translation_ru": "Когда Господь становится чужим, почему не умертвить эго и не отдать жизнь Ему?"
+    },
+    {
       "verse_id": 24526,
-      "shabad_num": 1463,
-      "shabad_id": 1463,
       "gurmukhi": "ਵਡਹੰਸੁ ਮਹਲਾ ੩ ਘਰੁ ੧",
-      "site_roman": "vadahans mahalā 3 ghar 1",
-      "sahib_singh_pa": "ਰਾਗ ਵਡਹੰਸ, ਘਰ ੧ ਵਿੱਚ ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ ਦੀ ਬਾਣੀ।",
       "roman": "vadhaṅs mahalā 3 ghar 1",
+      "sahib_singh_pa": "ਰਾਗ ਵਡਹੰਸ, ਘਰ ੧ ਵਿੱਚ ਗੁਰੂ ਅਮਰਦਾਸ ਜੀ ਦੀ ਬਾਣੀ।",
       "translation_ru": "Раг Вадханс, дом 1, бани Гуру Амар Дас Джи."
     },
     {
-      "index": 2,
       "verse_id": 24527,
-      "shabad_num": 1463,
-      "shabad_id": 1463,
       "gurmukhi": "ੴ ਸਤਿਗੁਰ ਪ੍ਰਸਾਦਿ ॥",
-      "site_roman": "ik ōunkār satigur prasād .",
-      "sahib_singh_pa": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ ਅਤੇ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।",
       "roman": "ik ōaṅkār satgur prasād",
+      "sahib_singh_pa": "ਅਕਾਲ ਪੁਰਖ ਇੱਕ ਹੈ ਅਤੇ ਸਤਿਗੁਰੂ ਦੀ ਕਿਰਪਾ ਨਾਲ ਮਿਲਦਾ ਹੈ।",
       "translation_ru": "Акаал Пуракх один и достигается по милости Сатгуру."
     },
     {
-      "index": 3,
       "verse_id": 24528,
-      "shabad_num": 1463,
-      "shabad_id": 1463,
       "gurmukhi": "ਮਨਿ ਮੈਲੈ ਸਭੁ ਕਿਛੁ ਮੈਲਾ ਤਨਿ ਧੋਤੈ ਮਨੁ ਹਛਾ ਨ ਹੋਇ ॥",
-      "site_roman": "man mailai sabh kish mailā tan dhōtai man hashā n hōi .",
+      "roman": "man mēlē sabh kichh mēlā tan dhoṯē man hachhā na hoi",
       "sahib_singh_pa": "ਜੇ ਮਨੁੱਖ ਦਾ ਮਨ (ਵਿਕਾਰਾਂ ਨਾਲ) ਮੈਲਾ ਹੈ ਤਾਂ ਸਭ ਕੁਝ ਮੈਲਾ ਹੈ ਅਤੇ ਇਸ਼ਨਾਨ ਕਰਾਣ ਨਾਲ ਮਨ ਪਵਿਤ੍ਰ ਨਹੀਂ ਹੋ ਸਕਦਾ।",
-      "roman": "man mailai sabh kichh mailā tan dhoṯai man hachhā na hoi",
       "translation_ru": "Если ум человека загрязнён пороками, то всё загрязнено, и омовением тело не может сделать ум чистым."
     },
     {
-      "index": 4,
       "verse_id": 24529,
-      "shabad_num": 1463,
-      "shabad_id": 1463,
       "gurmukhi": "ਇਹ ਜਗਤੁ ਭਰਮਿ ਭੁਲਾਇਆ ਵਿਰਲਾ ਬੂਝੈ ਕੋਇ ॥੧॥",
-      "site_roman": "ih jagat bharam bhulāiā viralā būjhai kōi .1.",
+      "roman": "ih jagat bharam bhulāiā virlā būjhē koi",
       "sahib_singh_pa": "ਪਰ ਇਹ ਸੰਸਾਰ ਭੁਲੇਖੇ ਵਿਚ ਪੈ ਕੇ ਕੁਰਾਹੇ ਤੁਰਿਆ ਜਾ ਰਿਹਾ ਹੈ, ਕੋਈ ਵਿਰਲਾ ਹੀ (ਇਸ ਸੱਚਾਈ ਨੂੰ) ਸਮਝਦਾ ਹੈ ॥੧॥",
-      "roman": "ih jagat bharam bhulāiā virlā būjhai koi",
       "translation_ru": "Этот мир, введённый в заблуждение иллюзией, идёт по ложному пути, и лишь редкий понимает эту истину."
     },
     {
-      "index": 5,
       "verse_id": 24530,
-      "shabad_num": 1463,
-      "shabad_id": 1463,
       "gurmukhi": "ਜਪਿ ਮਨ ਮੇਰੇ ਤੂ ਏਕੋ ਨਾਮੁ ॥",
-      "site_roman": "jap man mērē tū ēkō nām .",
-      "sahib_singh_pa": "ਹੇ ਮੇਰੇ ਮਨ! ਤੂੰ ਸਿਰਫ਼ ਪਰਮਾਤਮਾ ਦਾ ਇਕ ਨਾਮ ਹੀ ਜਪਿਆ ਕਰ।",
       "roman": "jap man mere tū eko nām",
+      "sahib_singh_pa": "ਹੇ ਮੇਰੇ ਮਨ! ਤੂੰ ਸਿਰਫ਼ ਪਰਮਾਤਮਾ ਦਾ ਇਕ ਨਾਮ ਹੀ ਜਪਿਆ ਕਰ।",
       "translation_ru": "О мой ум, повторяй только одно Имя Бога."
     },
     {
-      "index": 6,
       "verse_id": 24531,
-      "shabad_num": 1463,
-      "shabad_id": 1463,
       "gurmukhi": "ਸਤਿਗੁਰਿ ਦੀਆ ਮੋ ਕਉ ਏਹੁ ਨਿਧਾਨੁ ॥੧॥ ਰਹਾਉ ॥",
-      "site_roman": "satigur dīā mō kau ēh nidhān .1. rahāu .",
-      "sahib_singh_pa": "ਇਹ (ਨਾਮ-) ਖ਼ਜ਼ਾਨਾ ਮੈਨੂੰ ਗੁਰੂ ਨੇ ਬਖ਼ਸ਼ਿਆ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "roman": "satgur dīā mo kau eh nidhān",
+      "sahib_singh_pa": "ਇਹ (ਨਾਮ-) ਖ਼ਜ਼ਾਨਾ ਮੈਨੂੰ ਗੁਰੂ ਨੇ ਬਖ਼ਸ਼ਿਆ ਹੈ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Это сокровище Имени даровано мне Гуру."
     },
     {
-      "index": 7,
       "verse_id": 24532,
-      "shabad_num": 1463,
-      "shabad_id": 1463,
       "gurmukhi": "ਸਿਧਾ ਕੇ ਆਸਣ ਜੇ ਸਿਖੈ ਇੰਦ੍ਰੀ ਵਸਿ ਕਰਿ ਕਮਾਇ ॥",
-      "site_roman": "sidhā kē āsan jē sikhai indrī vas kar kamāi .",
+      "roman": "sidhā ke āsan je sikhē indri vas kar kamāi",
       "sahib_singh_pa": "ਜੇ ਮਨੁੱਖ ਕਰਾਮਾਤੀ ਜੋਗੀਆਂ ਵਾਲੇ ਆਸਣ ਕਰਨੇ ਸਿੱਖ ਲਏ ਤੇ ਕਾਮ-ਵਾਸਨਾ ਨੂੰ ਜਿੱਤ ਕੇ (ਆਸਣਾਂ ਦੇ ਅੱਭਿਆਸ ਦੀ) ਕਮਾਈ ਕਰਨ ਲੱਗ ਪਏ,",
-      "roman": "sidhā ke āsan je sikhai indri vas kar kamāi",
       "translation_ru": "Если человек научится позам йогов и обуздает чувства, практикуя их,"
     },
     {
-      "index": 8,
       "verse_id": 24533,
-      "shabad_num": 1463,
-      "shabad_id": 1463,
       "gurmukhi": "ਮਨ ਕੀ ਮੈਲੁ ਨ ਉਤਰੈ ਹਉਮੈ ਮੈਲੁ ਨ ਜਾਇ ॥੨॥",
-      "site_roman": "man kī mail n utarai haumai mail n jāi .2.",
+      "roman": "man kī mēl na uṯarē haumē mēl na jāi",
       "sahib_singh_pa": "ਤਾਂ ਭੀ ਮਨ ਦੀ ਮੈਲ ਨਹੀਂ ਲਹਿੰਦੀ ਤੇ (ਮਨ ਵਿਚੋਂ) ਹਉਮੈ ਦੀ ਮੈਲ ਨਹੀਂ ਜਾਂਦੀ ॥੨॥",
-      "roman": "man kī mail na uṯarai haumai mail na jāi",
       "translation_ru": "всё равно грязь ума не исчезает, и грязь эго не уходит."
     },
     {
-      "index": 9,
       "verse_id": 24534,
-      "shabad_num": 1463,
-      "shabad_id": 1463,
       "gurmukhi": "ਇਸੁ ਮਨ ਕਉ ਹੋਰੁ ਸੰਜਮੁ ਕੋ ਨਾਹੀ ਵਿਣੁ ਸਤਿਗੁਰ ਕੀ ਸਰਣਾਇ ॥",
-      "site_roman": "is man kau hōr sanjam kō nāhī vin satigur kī saranāi .",
-      "sahib_singh_pa": "ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਣ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕੋਈ ਜਤਨ ਇਸ ਮਨ ਨੂੰ ਪਵਿਤ੍ਰ ਨਹੀਂ ਕਰ ਸਕਦਾ।",
       "roman": "is man kau hor sanjam ko nāhī viṇ satgur kī saraṇāi",
+      "sahib_singh_pa": "ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਣ ਤੋਂ ਬਿਨਾ ਹੋਰ ਕੋਈ ਜਤਨ ਇਸ ਮਨ ਨੂੰ ਪਵਿਤ੍ਰ ਨਹੀਂ ਕਰ ਸਕਦਾ।",
       "translation_ru": "Без прибежища у Гуру нет другого средства очистить этот ум."
     },
     {
-      "index": 10,
       "verse_id": 24535,
-      "shabad_num": 1463,
-      "shabad_id": 1463,
       "gurmukhi": "ਸਤਗੁਰਿ ਮਿਲਿਐ ਉਲਟੀ ਭਈ ਕਹਣਾ ਕਿਛੂ ਨ ਜਾਇ ॥੩॥",
-      "site_roman": "satagur miliai ulatī bhaī kahanā kishū n jāi .3.",
-      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਮਨ ਦੀ ਬ੍ਰਿਤੀ ਸੰਸਾਰ ਵਲੋਂ ਉਲਟ ਜਾਂਦੀ ਹੈ ਤੇ ਐਸੀ ਬਣ ਜਾਂਦੀ ਹੈ ਜੋ ਬਿਆਨ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ ॥੩॥",
       "roman": "satgur mili-ai ulṭī bhaī kahṇā kichhū na jāi",
+      "sahib_singh_pa": "ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਮਨ ਦੀ ਬ੍ਰਿਤੀ ਸੰਸਾਰ ਵਲੋਂ ਉਲਟ ਜਾਂਦੀ ਹੈ ਤੇ ਐਸੀ ਬਣ ਜਾਂਦੀ ਹੈ ਜੋ ਬਿਆਨ ਨਹੀਂ ਕੀਤੀ ਜਾ ਸਕਦੀ ॥੩॥",
       "translation_ru": "При встрече с Гуру состояние ума полностью меняется, и это невозможно описать."
     },
     {
-      "index": 11,
       "verse_id": 24536,
-      "shabad_num": 1463,
-      "shabad_id": 1463,
       "gurmukhi": "ਭਣਤਿ ਨਾਨਕੁ ਸਤਿਗੁਰ ਕਉ ਮਿਲਦੋ ਮਰੈ ਗੁਰ ਕੈ ਸਬਦਿ ਫਿਰਿ ਜੀਵੈ ਕੋਇ ॥",
-      "site_roman": "bhanat nānak satigur kau miladō marai gur kai sabad phir jīvai kōi .",
+      "roman": "bhaṇat nānak satgur kau mildo marē gur kē sabad phir jīvē koi",
       "sahib_singh_pa": "ਨਾਨਕ ਆਖਦਾ ਹੈ ਕਿ ਜੇਹੜਾ ਮਨੁੱਖ ਗੁਰੂ ਨੂੰ ਮਿਲ ਕੇ (ਵਿਕਾਰਾਂ ਵਲੋਂ) ਅਛੋਹ ਹੋ ਜਾਂਦਾ ਹੈ, ਤੇ, ਫਿਰ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਵਿਚ ਜੁੜ ਕੇ ਆਤਮਕ ਜੀਵਨ ਹਾਸਲ ਕਰ ਲੈਂਦਾ ਹੈ,",
-      "roman": "bhaṇat nānak satgur kau mildo marai gur kai sabad phir jīvai koi",
       "translation_ru": "Нанак говорит: тот, кто встречает Гуру, умирает для пороков и затем оживает, соединяясь со Словом Гуру."
     },
     {
-      "index": 12,
       "verse_id": 24537,
-      "shabad_num": 1463,
-      "shabad_id": 1463,
       "gurmukhi": "ਮਮਤਾ ਕੀ ਮਲੁ ਉਤਰੈ ਇਹੁ ਮਨੁ ਹਛਾ ਹੋਇ ॥੪॥੧॥",
-      "site_roman": "mamatā kī mal utarai ih man hashā hōi .4.1.",
+      "roman": "mamtā kī mal uṯarē ih man hachhā hoi",
       "sahib_singh_pa": "(ਉਸ ਦੇ ਅੰਦਰੋਂ ਮਾਇਆ ਦੀ) ਮਮਤਾ ਦੀ ਮੈਲ ਲਹਿ ਜਾਂਦੀ ਹੈ, ਉਸ ਦਾ ਇਹ ਮਨ ਪਵਿਤ੍ਰ ਹੋ ਜਾਂਦਾ ਹੈ ॥੪॥੧॥",
-      "roman": "mamtā kī mal uṯarai ih man hachhā hoi",
       "translation_ru": "Грязь привязанности исчезает, и ум становится чистым."
     },
     {
-      "index": 13,
       "verse_id": 24538,
-      "shabad_num": 1464,
-      "shabad_id": 1464,
       "gurmukhi": "ਵਡਹੰਸੁ ਮਹਲਾ ੩ ॥",
-      "site_roman": "vadahans mahalā 3 .",
-      "sahib_singh_pa": "None",
       "roman": "vadhaṅs mahalā 3",
+      "sahib_singh_pa": "None",
       "translation_ru": ""
     },
     {
-      "index": 14,
       "verse_id": 24539,
-      "shabad_num": 1464,
-      "shabad_id": 1464,
       "gurmukhi": "ਨਦਰੀ ਸਤਗੁਰੁ ਸੇਵੀਐ ਨਦਰੀ ਸੇਵਾ ਹੋਇ ॥",
-      "site_roman": "nadarī satagur sēvīai nadarī sēvā hōi .",
-      "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਦੀ ਮੇਹਰ ਦੀ ਨਿਗਾਹ ਨਾਲ ਹੀ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਸਕੀਦਾ ਹੈ, ਮੇਹਰ ਦੀ ਨਜ਼ਰ ਨਾਲ ਹੀ ਪਰਮਾਤਮਾ ਦੀ ਸੇਵਾ-ਭਗਤੀ ਹੋ ਸਕਦੀ ਹੈ।",
       "roman": "nadrī satgur sevīai nadrī sevā hoi",
+      "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਦੀ ਮੇਹਰ ਦੀ ਨਿਗਾਹ ਨਾਲ ਹੀ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਸਕੀਦਾ ਹੈ, ਮੇਹਰ ਦੀ ਨਜ਼ਰ ਨਾਲ ਹੀ ਪਰਮਾਤਮਾ ਦੀ ਸੇਵਾ-ਭਗਤੀ ਹੋ ਸਕਦੀ ਹੈ।",
       "translation_ru": "Только по милостивому взгляду Бога можно служить Гуру, и по Его милости происходит служение."
     },
     {
-      "index": 15,
       "verse_id": 24540,
-      "shabad_num": 1464,
-      "shabad_id": 1464,
       "gurmukhi": "ਨਦਰੀ ਇਹੁ ਮਨੁ ਵਸਿ ਆਵੈ ਨਦਰੀ ਮਨੁ ਨਿਰਮਲੁ ਹੋਇ ॥੧॥",
-      "site_roman": "nadarī ih man vas āvai nadarī man niramal hōi .1.",
+      "roman": "nadrī ih man vas āvē nadrī man nirmal hoi",
       "sahib_singh_pa": "ਮੇਹਰ ਦੀ ਨਿਗਾਹ ਨਾਲ ਹੀ ਇਹ ਮਨ ਕਾਬੂ ਵਿਚ ਆਉਂਦਾ ਹੈ, ਤੇ, ਪਵਿਤ੍ਰ ਹੋ ਜਾਂਦਾ ਹੈ ॥੧॥",
-      "roman": "nadrī ih man vas āvai nadrī man nirmal hoi",
       "translation_ru": "По милости этот ум приходит под контроль и становится чистым."
     },
     {
-      "index": 16,
       "verse_id": 24541,
-      "shabad_num": 1464,
-      "shabad_id": 1464,
       "gurmukhi": "ਮੇਰੇ ਮਨ ਚੇਤਿ ਸਚਾ ਸੋਇ ॥",
-      "site_roman": "mērē man chēt sachā sōi .",
-      "sahib_singh_pa": "ਹੇ (ਮੇਰੇ) ਮਨ! ਉਸ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਨੂੰ ਯਾਦ ਕਰਿਆ ਕਰ।",
       "roman": "mere man chet sachā soi",
+      "sahib_singh_pa": "ਹੇ (ਮੇਰੇ) ਮਨ! ਉਸ ਸਦਾ ਕਾਇਮ ਰਹਿਣ ਵਾਲੇ ਪਰਮਾਤਮਾ ਨੂੰ ਯਾਦ ਕਰਿਆ ਕਰ।",
       "translation_ru": "О мой ум, помни вечного Бога."
     },
     {
-      "index": 17,
       "verse_id": 24542,
-      "shabad_num": 1464,
-      "shabad_id": 1464,
       "gurmukhi": "ਏਕੋ ਚੇਤਹਿ ਤਾ ਸੁਖੁ ਪਾਵਹਿ ਫਿਰਿ ਦੂਖੁ ਨ ਮੂਲੇ ਹੋਇ ॥੧॥ ਰਹਾਉ ॥",
-      "site_roman": "ēkō chētah tā sukh pāvah phir dūkh n mūlē hōi .1. rahāu .",
-      "sahib_singh_pa": "ਜੇ ਤੂੰ ਉਸ ਇਕ ਪਰਮਾਤਮਾ ਨੂੰ ਯਾਦ ਕਰਦਾ ਰਹੇਂਗਾ ਤਾਂ ਸੁਖ ਹਾਸਲ ਕਰੇਂਗਾ, ਤੇ, ਤੈਨੂੰ ਕਦੇ ਭੀ ਕੋਈ ਦੁੱਖ ਨਹੀਂ ਪੋਹ ਸਕੇਗਾ ॥੧॥ ਰਹਾਉ ॥",
       "roman": "eko chetah tā sukh pāvah phir dūkh na mūle hoi",
+      "sahib_singh_pa": "ਜੇ ਤੂੰ ਉਸ ਇਕ ਪਰਮਾਤਮਾ ਨੂੰ ਯਾਦ ਕਰਦਾ ਰਹੇਂਗਾ ਤਾਂ ਸੁਖ ਹਾਸਲ ਕਰੇਂਗਾ, ਤੇ, ਤੈਨੂੰ ਕਦੇ ਭੀ ਕੋਈ ਦੁੱਖ ਨਹੀਂ ਪੋਹ ਸਕੇਗਾ ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Если ты помнишь одного Бога, ты обретёшь счастье, и страдание больше не коснётся тебя."
     },
     {
-      "index": 18,
       "verse_id": 24543,
-      "shabad_num": 1464,
-      "shabad_id": 1464,
       "gurmukhi": "ਨਦਰੀ ਮਰਿ ਕੈ ਜੀਵੀਐ ਨਦਰੀ ਸਬਦੁ ਵਸੈ ਮਨਿ ਆਇ ॥",
-      "site_roman": "nadarī mar kai jīvīai nadarī sabad vasai man āi .",
+      "roman": "nadrī mar kē jīvīē nadrī sabad vasē man āi",
       "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਦੀ ਕਿਰਪਾ ਦੀ ਨਜ਼ਰ ਨਾਲ ਹੀ ਵਿਕਾਰਾਂ ਵਲੋਂ ਹਟ ਕੇ ਆਤਮਕ ਜੀਵਨ ਹਾਸਲ ਕਰੀਦਾ ਹੈ, ਤੇ, ਗੁਰੂ ਦਾ ਸ਼ਬਦ ਮਨ ਵਿਚ ਆ ਵੱਸਦਾ ਹੈ।",
-      "roman": "nadrī mar kai jīvīai nadrī sabad vasai man āi",
       "translation_ru": "По милости человек умирает для пороков и обретает духовную жизнь, и Слово Гуру поселяется в уме."
     },
     {
-      "index": 19,
       "verse_id": 24544,
-      "shabad_num": 1464,
-      "shabad_id": 1464,
       "gurmukhi": "ਨਦਰੀ ਹੁਕਮੁ ਬੁਝੀਐ ਹੁਕਮੇ ਰਹੈ ਸਮਾਇ ॥੨॥",
-      "site_roman": "nadarī hukam bujhīai hukamē rahai samāi .2.",
+      "roman": "nadrī hukam bujhīē hukme rahē samāi",
       "sahib_singh_pa": "ਮੇਹਰ ਦੀ ਨਿਗਾਹ ਨਾਲ ਹੀ ਪਰਮਾਤਮਾ ਦੀ ਰਜ਼ਾ ਨੂੰ ਸਮਝ ਸਕੀਦਾ ਹੈ, ਤੇ, ਰਜ਼ਾ ਵਿਚ ਹੀ ਸਦਾ ਟਿਕੇ ਰਹੀਦਾ ਹੈ ॥੨॥",
-      "roman": "nadrī hukam bujhīai hukme rahai samāi",
       "translation_ru": "По милости понимается Божественная воля, и человек пребывает в ней."
     },
     {
-      "index": 20,
       "verse_id": 24545,
-      "shabad_num": 1464,
-      "shabad_id": 1464,
       "gurmukhi": "ਜਿਨਿ ਜਿਹਵਾ ਹਰਿ ਰਸੁ ਨ ਚਖਿਓ ਸਾ ਜਿਹਵਾ ਜਲਿ ਜਾਉ ॥",
-      "site_roman": "jin jihavā har ras n chakhiō sā jihavā jal jāu .",
-      "sahib_singh_pa": "ਜਿਸ ਜੀਭ ਨੇ ਕਦੇ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਸੁਆਦ ਨਹੀਂ ਚੱਖਿਆ ਉਹ ਜੀਭ ਸੜਨ-ਜੋਗੀ ਹੀ ਹੈ,",
       "roman": "jin jihvā har ras na chakhiō sā jihvā jal jāu",
+      "sahib_singh_pa": "ਜਿਸ ਜੀਭ ਨੇ ਕਦੇ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਦਾ ਸੁਆਦ ਨਹੀਂ ਚੱਖਿਆ ਉਹ ਜੀਭ ਸੜਨ-ਜੋਗੀ ਹੀ ਹੈ,",
       "translation_ru": "Та речь, которая не вкусила вкус Имени Бога, достойна сгорания."
     },
     {
-      "index": 21,
       "verse_id": 24546,
-      "shabad_num": 1464,
-      "shabad_id": 1464,
       "gurmukhi": "ਅਨ ਰਸ ਸਾਦੇ ਲਗਿ ਰਹੀ ਦੁਖੁ ਪਾਇਆ ਦੂਜੈ ਭਾਇ ॥੩॥",
-      "site_roman": "an ras sādē lag rahī dukh pāiā dūjai bhāi .3.",
+      "roman": "an ras sāde lag rahī dukh pāiā dūjē bhāi",
       "sahib_singh_pa": "ਕਿਉਂਕਿ ਜਿਹੜੇ ਮਨੁੱਖ ਜੀਭ ਹੋਰ ਹੋਰ ਰਸਾਂ ਦੇ ਸੁਆਦ ਵਿਚ ਲੱਗੀ ਰਹਿੰਦੀ ਹੈ, ਉਹ ਮਨੁੱਖ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਫਸ ਕੇ ਦੁੱਖ (ਹੀ) ਪਾਂਦਾ ਰਹਿੰਦਾ ਹੈ ॥੩॥",
-      "roman": "an ras sāde lag rahī dukh pāiā dūjai bhāi",
       "translation_ru": "Потому что тот, кто привязан к другим вкусам, остаётся в привязанности к майе и испытывает страдание."
     },
     {
-      "index": 22,
       "verse_id": 24547,
-      "shabad_num": 1464,
-      "shabad_id": 1464,
       "gurmukhi": "ਸਭਨਾ ਨਦਰਿ ਏਕ ਹੈ ਆਪੇ ਫਰਕੁ ਕਰੇਇ ॥",
-      "site_roman": "sabhanā nadar ēk hai āpē pharak karēi .",
+      "roman": "sabhnā nadr ek hē āpe farak karei",
       "sahib_singh_pa": "ਸਭ ਜੀਵਾਂ ਉਤੇ ਇਕ ਪਰਮਾਤਮਾ ਦੀ ਹੀ ਕਿਰਪਾ ਦੀ ਨਜ਼ਰ ਰਹਿੰਦੀ ਹੈ, ਫ਼ਰਕ (ਭੀ) ਪਰਮਾਤਮਾ ਆਪ ਹੀ ਬਣਾਂਦਾ ਹੈ,",
-      "roman": "sabhnā nadr ek hai āpe farak karei",
       "translation_ru": "На всех существах пребывает один и тот же милостивый взгляд Бога, и различия Он создаёт Сам."
     },
     {
-      "index": 23,
       "verse_id": 24548,
-      "shabad_num": 1464,
-      "shabad_id": 1464,
       "gurmukhi": "ਨਾਨਕ ਸਤਗੁਰਿ ਮਿਲਿਐ ਫਲੁ ਪਾਇਆ ਨਾਮੁ ਵਡਾਈ ਦੇਇ ॥੪॥੨॥",
-      "site_roman": "nānak satagur miliai phal pāiā nām vadāī dēi .4.2.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਹੀ ਨਾਮ ਦਾ ਫਲ ਮਿਲਦਾ ਹੈ ਜਿਸ ਰਾਹੀਂ ਸਭ ਤੋਂ ਵੱਡੀ ਇੱਜ਼ਤ ਮਿਲਦੀ ਹੈ ॥੪॥੨॥",
       "roman": "nānak satgur mili-ai phal pāiā nām vaḍāī dei",
+      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਜੇ ਗੁਰੂ ਮਿਲ ਪਏ ਤਾਂ ਹੀ ਨਾਮ ਦਾ ਫਲ ਮਿਲਦਾ ਹੈ ਜਿਸ ਰਾਹੀਂ ਸਭ ਤੋਂ ਵੱਡੀ ਇੱਜ਼ਤ ਮਿਲਦੀ ਹੈ ॥੪॥੨॥",
       "translation_ru": "О Нанак, встретив Гуру, человек получает плод Имени, которое приносит высшую честь."
     }
   ]

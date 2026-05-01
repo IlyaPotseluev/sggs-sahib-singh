@@ -1,303 +1,278 @@
 {
   "ang": 906,
-  "line_count": 27,
   "lines": [
     {
-      "index": 1,
+      "verse_id": 38705,
+      "gurmukhi": "ਤੀਰਥਿ ਭਰਮਸਿ ਬਿਆਧਿ ਨ ਜਾਵੈ ॥",
+      "roman": "tīrath bharmas biādh na jāvē",
+      "sahib_singh_pa": "ਕਿਸੇ ਤੀਰਥ ਉਤੇ (ਭੀ ਇਸ਼ਨਾਨ ਵਾਸਤੇ) ਜਾਂਦਾ ਹੈ (ਇਸ ਤਰ੍ਹਾਂ) ਉਸ ਦਾ ਕਾਮਾਦਿਕ ਰੋਗ ਦੂਰ ਨਹੀਂ ਹੋ ਸਕਦਾ।",
+      "translation_ru": "Даже паломничества не избавляют от внутренних болезней."
+    },
+    {
+      "verse_id": 38706,
+      "gurmukhi": "ਨਾਮ ਬਿਨਾ ਕੈਸੇ ਸੁਖੁ ਪਾਵੈ ॥੪॥",
+      "roman": "nām binā kēse sukh pāvē",
+      "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਕੋਈ ਮਨੁੱਖ ਆਤਮਕ ਆਨੰਦ ਨਹੀਂ ਮਾਣ ਸਕਦਾ ॥੪॥",
+      "translation_ru": "Без Имени невозможно обрести духовное счастье."
+    },
+    {
+      "verse_id": 38707,
+      "gurmukhi": "ਜਤਨ ਕਰੈ ਬਿੰਦੁ ਕਿਵੈ ਨ ਰਹਾਈ ॥",
+      "roman": "jatan karē bind kivē na rahāī",
+      "sahib_singh_pa": "(ਬਨ-ਵਾਸ, ਡੂਗਰ-ਵਾਸ, ਹਠ, ਨਿਗ੍ਰਹ, ਤੀਰਥ-ਇਸ਼ਨਾਨ ਆਦਿਕ) ਜਤਨ ਮਨੁੱਖ ਕਰਦਾ ਹੈ, ਅਜੇਹੇ ਕਿਸੇ ਭੀ ਤਰੀਕੇ ਨਾਲ ਕਾਮ-ਵਾਸਨਾ ਰੋਕੀ ਨਹੀਂ ਜਾ ਸਕਦੀ,",
+      "translation_ru": "Сколько ни старайся, страсть невозможно удержать такими методами."
+    },
+    {
+      "verse_id": 38708,
+      "gurmukhi": "ਮਨੂਆ ਡੋਲੈ ਨਰਕੇ ਪਾਈ ॥",
+      "roman": "manūā ḍolē narake pāī",
+      "sahib_singh_pa": "ਮਨ ਡੋਲਦਾ ਹੀ ਰਹਿੰਦਾ ਹੈ ਤੇ ਜੀਵ ਨਰਕ ਵਿਚ ਹੀ ਪਿਆ ਰਹਿੰਦਾ ਹੈ।",
+      "translation_ru": "Ум колеблется и падает в ад."
+    },
+    {
+      "verse_id": 38709,
+      "gurmukhi": "ਜਮ ਪੁਰਿ ਬਾਧੋ ਲਹੈ ਸਜਾਈ ॥",
+      "roman": "jam pur bādh lahē sajāī",
+      "sahib_singh_pa": "ਕਾਮ-ਵਾਸ਼ਨਾ ਆਦਿਕ ਵਿਕਾਰਾਂ ਵਿਚ ਬੱਝਾ ਹੋਇਆ ਜਮਰਾਜ ਦੀ ਪੁਰੀ ਵਿਚ (ਆਤਮਕ ਕਲੇਸ਼ਾਂ ਦੀ) ਸਜ਼ਾ ਭੁਗਤਦਾ ਹੈ।",
+      "translation_ru": "Связанный пороками, человек получает наказание."
+    },
+    {
+      "verse_id": 38710,
+      "gurmukhi": "ਬਿਨੁ ਨਾਵੈ ਜੀਉ ਜਲਿ ਬਲਿ ਜਾਈ ॥੫॥",
+      "roman": "bin nāvē jīu jal bal jāī",
+      "sahib_singh_pa": "ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਬਿਨਾ ਜਿੰਦ ਵਿਕਾਰਾਂ ਵਿਚ ਸੜਦੀ ਭੁੱਜਦੀ ਰਹਿੰਦੀ ਹੈ ॥੫॥",
+      "translation_ru": "Без Имени душа горит в пороках."
+    },
+    {
+      "verse_id": 38711,
+      "gurmukhi": "ਸਿਧ ਸਾਧਿਕ ਕੇਤੇ ਮੁਨਿ ਦੇਵਾ ॥",
+      "roman": "sidh sādhik kete mun devā",
+      "sahib_singh_pa": "ਅਨੇਕਾਂ ਸਿੱਧ ਸਾਧਿਕ ਰਿਸ਼ੀ ਮੁਨੀ (ਹਠ ਨਿਗ੍ਰਹ ਆਦਿਕ ਕਰਦੇ ਹਨ ਪਰ)",
+      "translation_ru": "Многие сиддхи, садху и мудрецы (практикуют аскезы)."
+    },
+    {
+      "verse_id": 38712,
+      "gurmukhi": "ਹਠਿ ਨਿਗ੍ਰਹਿ ਨ ਤ੍ਰਿਪਤਾਵਹਿ ਭੇਵਾ ॥",
+      "roman": "haṭh nigrah na triptāvah bhevā",
+      "sahib_singh_pa": "ਹਠ ਨਿਗ੍ਰਹ ਨਾਲ ਅੰਦਰਲੀ ਵਿਖੇਪਤਾ ਨੂੰ ਮਿਟਾ ਨਹੀਂ ਸਕਦੇ।",
+      "translation_ru": "Но через такие усилия внутреннее беспокойство не исчезает."
+    },
+    {
+      "verse_id": 38713,
+      "gurmukhi": "ਸਬਦੁ ਵੀਚਾਰਿ ਗਹਹਿ ਗੁਰ ਸੇਵਾ ॥",
+      "roman": "sabad vīchār gahah gur sevā",
+      "sahib_singh_pa": "ਜੇਹੜੇ ਮਨੁੱਖ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਨੂੰ ਆਪਣੇ ਵਿਚਾਰ-ਮੰਡਲ ਵਿਚ ਟਿਕਾ ਕੇ ਗੁਰੂ ਦੀ (ਦੱਸੀ) ਸੇਵਾ (ਦਾ ਉੱਦਮ) ਗ੍ਰਹਿਣ ਕਰਦੇ ਹਨ,",
+      "translation_ru": "Те, кто размышляют над Шабдом и служат Гуру,"
+    },
+    {
+      "verse_id": 38714,
+      "gurmukhi": "ਮਨਿ ਤਨਿ ਨਿਰਮਲ ਅਭਿਮਾਨ ਅਭੇਵਾ ॥੬॥",
+      "roman": "man tan nirmal abhimān abhevā",
+      "sahib_singh_pa": "ਉਹਨਾਂ ਦੇ ਮਨ ਵਿਚ ਉਹਨਾਂ ਦੇ ਸਰੀਰ ਵਿਚ (ਭਾਵ, ਇੰਦ੍ਰਿਆਂ ਵਿਚ) ਪਵਿਤ੍ਰਤਾ ਆ ਜਾਂਦੀ ਹੈ, ਉਹਨਾਂ ਦੇ ਅੰਦਰ ਅਹੰਕਾਰ ਦਾ ਅਭਾਵ ਹੋ ਜਾਂਦਾ ਹੈ ॥੬॥",
+      "translation_ru": "очищают ум и тело и избавляются от гордости."
+    },
+    {
+      "verse_id": 38715,
+      "gurmukhi": "ਕਰਮਿ ਮਿਲੈ ਪਾਵੈ ਸਚੁ ਨਾਉ ॥",
+      "roman": "karam milē pāvē sach nāu",
+      "sahib_singh_pa": "ਜਿਸ ਮਨੁੱਖ ਨੂੰ ਆਪਣੀ ਮੇਹਰ ਨਾਲ ਪਰਮਾਤਮਾ ਮਿਲਦਾ ਹੈ ਉਹ ਸਦਾ-ਥਿਰ ਪ੍ਰਭੂ-ਨਾਮ (ਦੀ ਦਾਤਿ) ਪ੍ਰਾਪਤ ਕਰਦਾ ਹੈ।",
+      "translation_ru": "По милости Бога человек получает Истинное Имя."
+    },
+    {
+      "verse_id": 38716,
+      "gurmukhi": "ਤੁਮ ਸਰਣਾਗਤਿ ਰਹਉ ਸੁਭਾਉ ॥",
+      "roman": "tum saraṇāgat rahau subhāu",
+      "sahib_singh_pa": "(ਹੇ ਪ੍ਰਭੂ!) ਮੈਂ ਭੀ ਤੇਰੀ ਸਰਨ ਆ ਟਿਕਿਆ ਹਾਂ (ਤਾ ਕਿ ਤੇਰੇ ਚਰਨਾਂ ਦਾ) ਸ੍ਰੇਸ਼ਟ ਪ੍ਰੇਮ (ਮੈਂ ਹਾਸਲ ਕਰ ਸਕਾਂ)।",
+      "translation_ru": "Я пребываю в Твоём прибежище, стремясь к любви к Тебе."
+    },
+    {
+      "verse_id": 38717,
+      "gurmukhi": "ਤੁਮ ਤੇ ਉਪਜਿਓ ਭਗਤੀ ਭਾਉ ॥",
+      "roman": "tum te upjio bhagti bhāu",
+      "sahib_singh_pa": "(ਜੀਵ ਦੇ ਅੰਦਰ) ਤੇਰੀ ਭਗਤੀ ਤੇਰਾ ਪ੍ਰੇਮ ਤੇਰੀ ਮੇਹਰ ਨਾਲ ਹੀ ਪੈਦਾ ਹੁੰਦੇ ਹਨ।",
+      "translation_ru": "Любовь и преданность рождаются только по Твоей милости."
+    },
+    {
+      "verse_id": 38718,
+      "gurmukhi": "ਜਪੁ ਜਾਪਉ ਗੁਰਮੁਖਿ ਹਰਿ ਨਾਉ ॥੭॥",
+      "roman": "jap japau gurmukh har nāu",
+      "sahib_singh_pa": "ਹੇ ਹਰੀ! (ਜੇ ਤੇਰੀ ਮੇਹਰ ਹੋਵੇ ਤਾਂ) ਮੈਂ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਤੇਰੇ ਨਾਮ ਦਾ ਜਾਪ ਜਪਦਾ ਰਹਾਂ ॥੭॥",
+      "translation_ru": "Пусть я, став гурумухом, повторяю Имя Бога."
+    },
+    {
+      "verse_id": 38719,
+      "gurmukhi": "ਹਉਮੈ ਗਰਬੁ ਜਾਇ ਮਨ ਭੀਨੈ ॥",
+      "roman": "haumē garab jāi man bhīnē",
+      "sahib_singh_pa": "ਜੇ ਜੀਵ ਦਾ ਮਨ ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ-ਰਸ ਵਿਚ ਭਿੱਜ ਜਾਏ ਤਾਂ ਅੰਦਰੋਂ ਹਉਮੈ ਅਹੰਕਾਰ ਦੂਰ ਹੋ ਜਾਂਦਾ ਹੈ,",
+      "translation_ru": "Когда ум пропитывается Имени, эго исчезает."
+    },
+    {
+      "verse_id": 38720,
+      "gurmukhi": "ਝੂਠਿ ਨ ਪਾਵਸਿ ਪਾਖੰਡਿ ਕੀਨੈ ॥",
+      "roman": "jhūṭh na pāvas pākhṇḍ kīnē",
+      "sahib_singh_pa": "ਪਰ (ਨਾਮ-ਰਸ ਵਿਚ ਭਿੱਜਣ ਦੀ ਇਹ ਦਾਤਿ) ਝੂਠ ਦੀ ਰਾਹੀਂ ਜਾਂ ਪਖੰਡ ਕੀਤਿਆਂ ਕੋਈ ਭੀ ਨਹੀਂ ਪ੍ਰਾਪਤ ਕਰ ਸਕਦਾ।",
+      "translation_ru": "Но через ложь и притворство этого не достичь."
+    },
+    {
+      "verse_id": 38721,
+      "gurmukhi": "ਬਿਨੁ ਗੁਰ ਸਬਦ ਨਹੀ ਘਰੁ ਬਾਰੁ ॥",
+      "roman": "bin gur sabad nahī ghar bār",
+      "sahib_singh_pa": "ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਤੋਂ ਬਿਨਾ ਪਰਮਾਤਮਾ ਦਾ ਦਰਬਾਰ ਨਹੀਂ ਲੱਭ ਸਕਦਾ।",
+      "translation_ru": "Без Шабда Гуру невозможно найти обитель Бога."
+    },
+    {
+      "verse_id": 38722,
+      "gurmukhi": "ਨਾਨਕ ਗੁਰਮੁਖਿ ਤਤੁ ਬੀਚਾਰੁ ॥੮॥੬॥",
+      "roman": "nānak gurmukh tat bīchār",
+      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਜੇਹੜਾ ਮਨੁੱਖ ਗੁਰੂ ਦੇ ਸਨਮੁਖ ਹੁੰਦਾ ਹੈ ਉਹ ਜਗਤ ਦੇ ਮੂਲ ਪ੍ਰਭੂ ਨੂੰ ਮਿਲ ਪੈਂਦਾ ਹੈ, ਉਹ ਪ੍ਰਭੂ ਦੇ ਗੁਣਾਂ ਦੀ ਵਿਚਾਰ (ਦਾ ਸੁਭਾਉ) ਪ੍ਰਾਪਤ ਕਰ ਲੈਂਦਾ ਹੈ ॥੮॥੬॥",
+      "translation_ru": "О Нанак, гурумух постигает сущность и размышляет о Боге."
+    },
+    {
       "verse_id": 38723,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਰਾਮਕਲੀ ਮਹਲਾ ੧ ॥",
-      "site_roman": "rāmakalī mahalā 1 .",
-      "sahib_singh_pa": "None",
       "roman": "rāmkali mehlā 1",
+      "sahib_singh_pa": "None",
       "translation_ru": ""
     },
     {
-      "index": 2,
       "verse_id": 38724,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਜਿਉ ਆਇਆ ਤਿਉ ਜਾਵਹਿ ਬਉਰੇ ਜਿਉ ਜਨਮੇ ਤਿਉ ਮਰਣੁ ਭਇਆ ॥",
-      "site_roman": "jiu āiā tiu jāvah baurē jiu janamē tiu maran bhaiā .",
+      "roman": "jio āiā tio jāvah baure jio janmey tio maran bhaeā",
       "sahib_singh_pa": "ਹੇ ਝੱਲੇ ਜੀਵ! ਜਿਵੇਂ ਤੂੰ (ਜਗਤ ਵਿਚ) ਆਇਆ ਹੈਂ ਤਿਵੇਂ (ਇਥੋਂ) ਚਲਾ ਭੀ ਜਾਵੇਂਗਾ, ਜਿਵੇਂ ਤੈਨੂੰ ਜਨਮ ਮਿਲਿਆ ਹੈ ਤਿਵੇਂ ਮੌਤ ਭੀ ਹੋ ਜਾਇਗੀ (ਇਥੇ ਕਿਸੇ ਹਾਲਤ ਵਿਚ ਸਦਾ ਬੈਠ ਨਹੀਂ ਰਹਿਣਾ)।",
-      "roman": "jio āiā tio jāvahi baure jio janmey tio maran bhaeā",
       "translation_ru": "О безумная душа! Как ты пришёл в этот мир, так и уйдёшь; как получил рождение, так же неизбежно придёт и смерть — здесь нельзя остаться навсегда."
     },
     {
-      "index": 3,
       "verse_id": 38725,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਜਿਉ ਰਸ ਭੋਗ ਕੀਏ ਤੇਤਾ ਦੁਖੁ ਲਾਗੈ ਨਾਮੁ ਵਿਸਾਰਿ ਭਵਜਲਿ ਪਇਆ ॥੧॥",
-      "site_roman": "jiu ras bhōg kīē tētā dukh lāgai nām visār bhavajal paiā .1.",
+      "roman": "jio ras bhog kie tetā dukh lāgē nām visār bhavjal paēā",
       "sahib_singh_pa": "ਜਿਉਂ ਜਿਉਂ ਤੂੰ ਦੁਨੀਆ ਦੇ ਰਸਾਂ ਦੇ ਭੋਗ ਮਾਣਦਾ ਹੈਂ, ਤਿਉਂ ਤਿਉਂ ਉਤਨਾ ਹੀ (ਤੇਰੇ ਸਰੀਰ ਨੂੰ ਤੇ ਆਤਮਾ ਨੂੰ) ਦੁੱਖ-ਰੋਗ ਚੰਬੜ ਰਿਹਾ ਹੈ। (ਇਹਨਾਂ ਭੋਗਾਂ ਵਿਚ ਮਸਤ ਹੋ ਕੇ) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਵਿਸਾਰ ਕੇ ਤੂੰ ਜਨਮ ਮਰਨ ਦੇ ਚੱਕਰ ਵਿਚ ਪਿਆ ਸਮਝ ॥੧॥",
-      "roman": "jio ras bhog kie tetā dukh lāgai nām visār bhavjal paēā",
       "translation_ru": "Чем больше ты наслаждаешься мирскими удовольствиями, тем сильнее к телу и душе прилипают страдания; забыв Имя Бога, ты попал в круг рождения и смерти."
     },
     {
-      "index": 4,
       "verse_id": 38726,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਤਨੁ ਧਨੁ ਦੇਖਤ ਗਰਬਿ ਗਇਆ ॥",
-      "site_roman": "tan dhan dēkhat garab gaiā .",
-      "sahib_singh_pa": "(ਹੇ ਜੀਵ!) ਆਪਣਾ ਸਰੀਰ ਤੇ ਧਨ ਵੇਖ ਵੇਖ ਕੇ ਤੂੰ ਅਹੰਕਾਰ ਵਿਚ ਆਇਆ ਰਹਿੰਦਾ ਹੈਂ।",
       "roman": "tan dhan dekhāt garab gaeā",
+      "sahib_singh_pa": "(ਹੇ ਜੀਵ!) ਆਪਣਾ ਸਰੀਰ ਤੇ ਧਨ ਵੇਖ ਵੇਖ ਕੇ ਤੂੰ ਅਹੰਕਾਰ ਵਿਚ ਆਇਆ ਰਹਿੰਦਾ ਹੈਂ।",
       "translation_ru": "О душа! Глядя на своё тело и богатство, ты пребываешь в гордыне."
     },
     {
-      "index": 5,
       "verse_id": 38727,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਕਨਿਕ ਕਾਮਨੀ ਸਿਉ ਹੇਤੁ ਵਧਾਇਹਿ ਕੀ ਨਾਮੁ ਵਿਸਾਰਹਿ ਭਰਮਿ ਗਇਆ ॥੧॥ ਰਹਾਉ ॥",
-      "site_roman": "kanik kāmanī siu hēt vadhāih kī nām visārah bharam gaiā .1. rahāu .",
-      "sahib_singh_pa": "ਸੋਨੇ ਤੇ ਇਸਤ੍ਰੀ ਨਾਲ ਤੂੰ ਮੋਹ ਵਧਾਈ ਜਾ ਰਿਹਾ ਹੈਂ। ਤੂੰ ਕਿਉਂ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਵਿਸਾਰ ਰਿਹਾ ਹੈਂ, ਤੇ, ਕਿਉਂ ਭਟਕਣਾ ਵਿਚ ਪੈ ਗਿਆ ਹੈਂ? ॥੧॥ ਰਹਾਉ ॥",
       "roman": "kanak kāmnī sio het vadhāihi kī nām visārahi bharam gaeā",
+      "sahib_singh_pa": "ਸੋਨੇ ਤੇ ਇਸਤ੍ਰੀ ਨਾਲ ਤੂੰ ਮੋਹ ਵਧਾਈ ਜਾ ਰਿਹਾ ਹੈਂ। ਤੂੰ ਕਿਉਂ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਵਿਸਾਰ ਰਿਹਾ ਹੈਂ, ਤੇ, ਕਿਉਂ ਭਟਕਣਾ ਵਿਚ ਪੈ ਗਿਆ ਹੈਂ? ॥੧॥ ਰਹਾਉ ॥",
       "translation_ru": "Ты усиливаешь привязанность к золоту и женщине; почему ты забываешь Имя Бога и почему погрузился в заблуждение?"
     },
     {
-      "index": 6,
       "verse_id": 38728,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਜਤੁ ਸਤੁ ਸੰਜਮੁ ਸੀਲੁ ਨ ਰਾਖਿਆ ਪ੍ਰੇਤ ਪਿੰਜਰ ਮਹਿ ਕਾਸਟੁ ਭਇਆ ॥",
-      "site_roman": "jat sat sanjam sīl n rākhiā prēt pinjar mah kāsat bhaiā .",
-      "sahib_singh_pa": "(ਹੇ ਜੀਵ! ਤੂੰ ਆਪਣੇ ਆਪ ਨੂੰ) ਕਾਮ-ਵਾਸਨਾ ਵਲੋਂ ਨਹੀਂ ਬਚਾਇਆ, ਤੂੰ ਉੱਚਾ ਆਚਰਨ ਨਹੀਂ ਬਣਾਇਆ, ਤੂੰ ਇੰਦ੍ਰਿਆਂ ਨੂੰ ਮੰਦੇ ਪਾਸੇ ਵਲੋਂ ਰੋਕਣ ਦਾ ਉੱਦਮ ਨਹੀਂ ਕੀਤਾ, ਤੂੰ ਮਿੱਠਾ ਸੁਭਾਉ ਨਹੀਂ ਬਣਾਇਆ। (ਵਿਕਾਰਾਂ ਦੇ ਕਾਰਨ) ਅਪਵਿਤ੍ਰ ਹੋਏ ਸਰੀਰ-ਪਿੰਜਰ ਵਿਚ ਤੂੰ ਲੱਕੜ (ਵਰਗਾ ਕੁਰਖ਼ਤ-ਦਿਲ) ਹੋ ਚੁਕਾ ਹੈਂ।",
       "roman": "jat sat sanjam sīl na rākhiā pret pinjar meh kāsat bhaeā",
+      "sahib_singh_pa": "(ਹੇ ਜੀਵ! ਤੂੰ ਆਪਣੇ ਆਪ ਨੂੰ) ਕਾਮ-ਵਾਸਨਾ ਵਲੋਂ ਨਹੀਂ ਬਚਾਇਆ, ਤੂੰ ਉੱਚਾ ਆਚਰਨ ਨਹੀਂ ਬਣਾਇਆ, ਤੂੰ ਇੰਦ੍ਰਿਆਂ ਨੂੰ ਮੰਦੇ ਪਾਸੇ ਵਲੋਂ ਰੋਕਣ ਦਾ ਉੱਦਮ ਨਹੀਂ ਕੀਤਾ, ਤੂੰ ਮਿੱਠਾ ਸੁਭਾਉ ਨਹੀਂ ਬਣਾਇਆ। (ਵਿਕਾਰਾਂ ਦੇ ਕਾਰਨ) ਅਪਵਿਤ੍ਰ ਹੋਏ ਸਰੀਰ-ਪਿੰਜਰ ਵਿਚ ਤੂੰ ਲੱਕੜ (ਵਰਗਾ ਕੁਰਖ਼ਤ-ਦਿਲ) ਹੋ ਚੁਕਾ ਹੈਂ।",
       "translation_ru": "Ты не защитил себя от страстей, не развил добродетель, не удержал чувства от зла, не приобрёл мягкого характера; из-за пороков в осквернённом теле ты стал как дерево — грубым сердцем."
     },
     {
-      "index": 7,
       "verse_id": 38729,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਪੁੰਨੁ ਦਾਨੁ ਇਸਨਾਨੁ ਨ ਸੰਜਮੁ ਸਾਧਸੰਗਤਿ ਬਿਨੁ ਬਾਦਿ ਜਇਆ ॥੨॥",
-      "site_roman": "punn dān isanān n sanjam sādhasangat bin bād jaiā .2.",
-      "sahib_singh_pa": "ਤੇਰੇ ਅੰਦਰ ਨਾਹ ਦੂਜਿਆਂ ਦੀ ਭਲਾਈ ਦਾ ਖ਼ਿਆਲ ਹੈ, ਨਾਹ ਦੂਜਿਆਂ ਦੀ ਸੇਵਾ ਦੀ ਤਾਂਘ ਹੈ, ਨਾਹ ਆਚਰਨਿਕ ਪਵਿਤ੍ਰਤਾ ਹੈ, ਨਾਹ ਕੋਈ ਬੰਧੇਜ ਹੈ। ਸਾਧ ਸੰਗਤ ਤੋਂ ਵਾਂਜਿਆਂ ਰਹਿ ਕੇ ਤੇਰਾ ਮਨੁੱਖਾ ਜਨਮ ਵਿਅਰਥ ਜਾ ਰਿਹਾ ਹੈ ॥੨॥",
       "roman": "punn dān isnān na sanjam sādh sangat bin bād jaeā",
+      "sahib_singh_pa": "ਤੇਰੇ ਅੰਦਰ ਨਾਹ ਦੂਜਿਆਂ ਦੀ ਭਲਾਈ ਦਾ ਖ਼ਿਆਲ ਹੈ, ਨਾਹ ਦੂਜਿਆਂ ਦੀ ਸੇਵਾ ਦੀ ਤਾਂਘ ਹੈ, ਨਾਹ ਆਚਰਨਿਕ ਪਵਿਤ੍ਰਤਾ ਹੈ, ਨਾਹ ਕੋਈ ਬੰਧੇਜ ਹੈ। ਸਾਧ ਸੰਗਤ ਤੋਂ ਵਾਂਜਿਆਂ ਰਹਿ ਕੇ ਤੇਰਾ ਮਨੁੱਖਾ ਜਨਮ ਵਿਅਰਥ ਜਾ ਰਿਹਾ ਹੈ ॥੨॥",
       "translation_ru": "В тебе нет ни заботы о благе других, ни стремления служить, ни чистоты поведения, ни сдержанности; без святого общества твоя человеческая жизнь проходит напрасно."
     },
     {
-      "index": 8,
       "verse_id": 38730,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਲਾਲਚਿ ਲਾਗੈ ਨਾਮੁ ਬਿਸਾਰਿਓ ਆਵਤ ਜਾਵਤ ਜਨਮੁ ਗਇਆ ॥",
-      "site_roman": "lālach lāgai nām bisāriō āvat jāvat janam gaiā .",
+      "roman": "lālach lāgē nām bisāriō āvat jāvat janam gaeā",
       "sahib_singh_pa": "(ਹੇ ਜੀਵ!) ਤੂੰ ਮਾਇਆ ਦੇ ਲਾਲਚ ਵਿਚ ਲੱਗਾ ਪਿਆ ਹੈਂ, ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਤੂੰ ਭੁਲਾ ਦਿੱਤਾ ਹੈ। ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ ਦੌੜਦਿਆਂ ਭੱਜਦਿਆਂ ਤੇਰਾ ਜੀਵਨ (ਅਜਾਈਂ) ਜਾਂਦਾ ਹੈ।",
-      "roman": "lālach lāgai nām bisāriō āvat jāvat janam gaeā",
       "translation_ru": "О душа! Ты погружён в жадность к майе и забыл Имя Бога; в беготне за ней твоя жизнь проходит впустую."
     },
     {
-      "index": 9,
       "verse_id": 38731,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਜਾ ਜਮੁ ਧਾਇ ਕੇਸ ਗਹਿ ਮਾਰੈ ਸੁਰਤਿ ਨਹੀ ਮੁਖਿ ਕਾਲ ਗਇਆ ॥੩॥",
-      "site_roman": "jā jam dhāi kēs gah mārai surat nahī mukh kāl gaiā .3.",
-      "sahib_singh_pa": "ਜਦੋਂ ਜਮ ਅਚਨਚੇਤ ਆ ਕੇ ਤੈਨੂੰ ਕੇਸਾਂ ਤੋਂ ਫੜ ਕੇ ਪਟਕਾ ਕੇ ਮਾਰੇਗਾ, ਕਾਲ ਦੇ ਮੂੰਹ ਵਿਚ ਪਹੁੰਚੇ ਹੋਏ ਨੂੰ ਤੈਨੂੰ (ਸਿਮਰਨ ਦੀ) ਸੁਰਤ ਨਹੀਂ ਆ ਸਕੇਗੀ ॥੩॥",
       "roman": "jā jam dhāe kes gah mārē surat nahī mukh kāl gaeā",
+      "sahib_singh_pa": "ਜਦੋਂ ਜਮ ਅਚਨਚੇਤ ਆ ਕੇ ਤੈਨੂੰ ਕੇਸਾਂ ਤੋਂ ਫੜ ਕੇ ਪਟਕਾ ਕੇ ਮਾਰੇਗਾ, ਕਾਲ ਦੇ ਮੂੰਹ ਵਿਚ ਪਹੁੰਚੇ ਹੋਏ ਨੂੰ ਤੈਨੂੰ (ਸਿਮਰਨ ਦੀ) ਸੁਰਤ ਨਹੀਂ ਆ ਸਕੇਗੀ ॥੩॥",
       "translation_ru": "Когда Ям внезапно придёт, схватит тебя за волосы и повергнет, тогда, попав в пасть смерти, ты уже не сможешь вспомнить Бога."
     },
     {
-      "index": 10,
       "verse_id": 38732,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਅਹਿਨਿਸਿ ਨਿੰਦਾ ਤਾਤਿ ਪਰਾਈ ਹਿਰਦੈ ਨਾਮੁ ਨ ਸਰਬ ਦਇਆ ॥",
-      "site_roman": "ahinis nindā tāt parāī hiradai nām n sarab daiā .",
+      "roman": "ahinis nindā tāt parāī hirdē nām na sarab daeā",
       "sahib_singh_pa": "ਦਿਨ ਰਾਤ ਤੂੰ ਪਰਾਈ ਨਿੰਦਾ ਕਰਦਾ ਹੈਂ ਦੂਜਿਆਂ ਨਾਲ ਈਰਖਾ ਕਰਦਾ ਹੈਂ। ਤੇਰੇ ਹਿਰਦੇ ਵਿਚ ਨਾਹ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਹੈ ਤੇ ਨਾਹ ਸਭ ਜੀਵਾਂ ਵਾਸਤੇ ਦਇਆ-ਪਿਆਰ।",
-      "roman": "ahinis nindā tāt parāī hirdai nām na sarab daeā",
       "translation_ru": "Днём и ночью ты клевещешь на других и завидуешь; в твоём сердце нет ни Имени Бога, ни сострадания ко всем существам."
     },
     {
-      "index": 11,
       "verse_id": 38733,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਬਿਨੁ ਗੁਰ ਸਬਦ ਨ ਗਤਿ ਪਤਿ ਪਾਵਹਿ ਰਾਮ ਨਾਮ ਬਿਨੁ ਨਰਕਿ ਗਇਆ ॥੪॥",
-      "site_roman": "bin gur sabad n gat pat pāvah rām nām bin narak gaiā .4.",
-      "sahib_singh_pa": "ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਤੋਂ ਬਿਨਾ ਨਾਹ ਤੂੰ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ ਹਾਸਲ ਕਰ ਸਕੇਂਗਾ ਨਾਹ ਹੀ (ਲੋਕ ਪਰਲੋਕ ਦੀ) ਇੱਜ਼ਤ। ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਖੁੰਝ ਕੇ ਤੂੰ ਨਰਕ ਵਿਚ ਪਿਆ ਹੋਇਆ ਹੈਂ ॥੪॥",
       "roman": "bin gur sabad na gat pat pāvahi rām nām bin narak gaeā",
+      "sahib_singh_pa": "ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਤੋਂ ਬਿਨਾ ਨਾਹ ਤੂੰ ਉੱਚੀ ਆਤਮਕ ਅਵਸਥਾ ਹਾਸਲ ਕਰ ਸਕੇਂਗਾ ਨਾਹ ਹੀ (ਲੋਕ ਪਰਲੋਕ ਦੀ) ਇੱਜ਼ਤ। ਪਰਮਾਤਮਾ ਦੇ ਨਾਮ ਤੋਂ ਖੁੰਝ ਕੇ ਤੂੰ ਨਰਕ ਵਿਚ ਪਿਆ ਹੋਇਆ ਹੈਂ ॥੪॥",
       "translation_ru": "Без Слова Гуру ты не достигнешь духовного состояния и чести; лишившись Имени Бога, ты пребываешь в аду."
     },
     {
-      "index": 12,
       "verse_id": 38734,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਖਿਨ ਮਹਿ ਵੇਸ ਕਰਹਿ ਨਟੂਆ ਜਿਉ ਮੋਹ ਪਾਪ ਮਹਿ ਗਲਤੁ ਗਇਆ ॥",
-      "site_roman": "khin mah vēs karah natūā jiu mōh pāp mah galat gaiā .",
+      "roman": "khin meh ves karah naṭūā jio moh pāp meh galat gaeā",
       "sahib_singh_pa": "(ਹੇ ਜੀਵ! ਮਾਇਆ ਦੀ ਖ਼ਾਤਰ) ਤੂੰ ਖਿਨ-ਪਲ ਵਿਚ ਸ੍ਵਾਂਗੀ ਵਾਂਗ ਕਈ ਰੂਪ ਧਾਰਦਾ ਹੈਂ। ਤੂੰ ਮੋਹ ਵਿਚ ਪਾਪਾਂ ਵਿਚ ਗ਼ਲਤਾਨ ਹੋਇਆ ਪਿਆ ਹੈਂ।",
-      "roman": "khin meh ves karahi naṭūā jio moh pāp meh galat gaeā",
       "translation_ru": "Ради майи ты за мгновение меняешь обличья, как актёр; ты погружён в привязанность и грехи."
     },
     {
-      "index": 13,
       "verse_id": 38735,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਇਤ ਉਤ ਮਾਇਆ ਦੇਖਿ ਪਸਾਰੀ ਮੋਹ ਮਾਇਆ ਕੈ ਮਗਨੁ ਭਇਆ ॥੫॥",
-      "site_roman": "it ut māiā dēkh pasārī mōh māiā kai magan bhaiā .5.",
+      "roman": "it ut māiā dekh pasārī moh māiā kē magan bhaeā",
       "sahib_singh_pa": "ਹਰ ਪਾਸੇ ਮਾਇਆ ਦਾ ਖਿਲਾਰਾ ਵੇਖ ਕੇ ਤੂੰ ਮਾਇਆ ਦੇ ਮੋਹ ਵਿਚ ਮਸਤ ਹੋ ਰਿਹਾ ਹੈਂ ॥੫॥",
-      "roman": "it ut māiā dekh pasārī moh māiā kai magan bhaeā",
       "translation_ru": "Видя повсюду развернувшуюся майю, ты опьянён её привязанностью."
     },
     {
-      "index": 14,
       "verse_id": 38736,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਕਰਹਿ ਬਿਕਾਰ ਵਿਥਾਰ ਘਨੇਰੇ ਸੁਰਤਿ ਸਬਦ ਬਿਨੁ ਭਰਮਿ ਪਇਆ ॥",
-      "site_roman": "karah bikār vithār ghanērē surat sabad bin bharam paiā .",
+      "roman": "karah bikār vithār ghanere surat sabad bin bharam paēā",
       "sahib_singh_pa": "(ਹੇ ਝੱਲੇ ਜੀਵ!) ਤੂੰ ਵਿਕਾਰਾਂ ਦੀ ਖ਼ਾਤਰ ਅਨੇਕਾਂ ਖਿਲਾਰੇ ਖਿਲਾਰਦਾ ਹੈਂ ਗੁਰੂ ਦੇ ਸ਼ਬਦ ਦੀ ਲਗਨ ਤੋਂ ਬਿਨਾ ਤੂੰ (ਵਿਕਾਰਾਂ ਦੀ) ਭਟਕਣਾ ਵਿਚ ਭਟਕਦਾ ਹੈਂ।",
-      "roman": "karahi bikār vithār ghanere surat sabad bin bharam paēā",
       "translation_ru": "О безумная душа! Ты распространяешь множество пороков; без связи со Словом Гуру блуждаешь в заблуждении."
     },
     {
-      "index": 15,
       "verse_id": 38737,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਹਉਮੈ ਰੋਗੁ ਮਹਾ ਦੁਖੁ ਲਾਗਾ ਗੁਰਮਤਿ ਲੇਵਹੁ ਰੋਗੁ ਗਇਆ ॥੬॥",
-      "site_roman": "haumai rōg mahā dukh lāgā guramat lēvah rōg gaiā .6.",
+      "roman": "haumē rog mahā dukh lāgā gurmat levah rog gaeā",
       "sahib_singh_pa": "ਤੈਨੂੰ ਹਉਮੈ ਦਾ ਵੱਡਾ ਰੋਗ ਵੱਡਾ ਦੁੱਖ ਚੰਬੜਿਆ ਹੋਇਆ ਹੈ। ਜੇ ਤੂੰ ਚਾਹੁੰਦਾ ਹੈਂ ਇਹ ਰੋਗ ਦੂਰ ਹੋ ਜਾਏ ਤਾਂ ਗੁਰੂ ਦੀ ਸਿੱਖਿਆ ਲੈ ॥੬॥",
-      "roman": "haumai rog mahā dukh lāgā gurmat levahu rog gaeā",
       "translation_ru": "Тебя поразила великая болезнь эго и страдания; если хочешь избавиться, прими учение Гуру."
     },
     {
-      "index": 16,
       "verse_id": 38738,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਸੁਖ ਸੰਪਤਿ ਕਉ ਆਵਤ ਦੇਖੈ ਸਾਕਤ ਮਨਿ ਅਭਿਮਾਨੁ ਭਇਆ ॥",
-      "site_roman": "sukh sanpat kau āvat dēkhai sākat man abhimān bhaiā .",
+      "roman": "sukh sampat kau āvat dekhē sākat man abhimān bhaeā",
       "sahib_singh_pa": "ਮਾਇਆ-ਵੇੜ੍ਹਿਆ ਜੀਵ ਜਦੋਂ ਸੁਖਾਂ ਨੂੰ ਤੇ ਧਨ ਨੂੰ ਆਉਂਦਾ ਵੇਖਦਾ ਹੈ ਤਾਂ ਇਸ ਦੇ ਮਨ ਵਿਚ ਅਹੰਕਾਰ ਪੈਦਾ ਹੁੰਦਾ ਹੈ।",
-      "roman": "sukh sampat kau āvat dekhai sākat man abhimān bhaeā",
       "translation_ru": "Когда погружённый в майю человек видит приход счастья и богатства, в его уме возникает гордыня."
     },
     {
-      "index": 17,
       "verse_id": 38739,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਜਿਸ ਕਾ ਇਹੁ ਤਨੁ ਧਨੁ ਸੋ ਫਿਰਿ ਲੇਵੈ ਅੰਤਰਿ ਸਹਸਾ ਦੂਖੁ ਪਇਆ ॥੭॥",
-      "site_roman": "jis kā ih tan dhan sō phir lēvai antar sahasā dūkh paiā .7.",
+      "roman": "jis kā ih tan dhan so fir levē antar sahsā dūkh paēā",
       "sahib_singh_pa": "ਪਰ ਜਿਸ ਪਰਮਾਤਮਾ ਦਾ ਦਿੱਤਾ ਹੋਇਆ ਇਹ ਸਰੀਰ ਤੇ ਧਨ ਹੈ ਉਹ ਮੁੜ ਮੋੜ ਲੈਂਦਾ ਹੈ। ਮਾਇਆ-ਵੇੜ੍ਹੇ ਜੀਵ ਨੂੰ ਸਦਾ ਇਹੀ ਸਹਿਮ ਦਾ ਰੋਗ ਖਾਈ ਜਾਂਦਾ ਹੈ ॥੭॥",
-      "roman": "jis kā ih tan dhan so fir levai antar sahsā dūkh paēā",
       "translation_ru": "Но Тот, кому принадлежит это тело и богатство, снова забирает их; и в душе такого человека остаётся страх и страдание."
     },
     {
-      "index": 18,
       "verse_id": 38740,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਅੰਤਿ ਕਾਲਿ ਕਿਛੁ ਸਾਥਿ ਨ ਚਾਲੈ ਜੋ ਦੀਸੈ ਸਭੁ ਤਿਸਹਿ ਮਇਆ ॥",
-      "site_roman": "ant kāl kish sāth n chālai jō dīsai sabh tisah maiā .",
+      "roman": "ant kāl kichh sāth na chālē jo dīsē sabh tisah maeā",
       "sahib_singh_pa": "(ਹੇ ਜੀਵ! ਇਹ ਸਰੀਰ, ਇਹ ਧਨ, ਇਹ ਸੋਨਾ, ਇਹ ਇਸਤ੍ਰੀ) ਜੋ ਕੁਝ ਦਿੱਸ ਰਿਹਾ ਹੈ, ਇਹ ਸਭ ਕੁਝ ਉਸ ਪਰਮਾਤਮਾ ਦੀ ਮੇਹਰ ਸਦਕਾ ਮਿਲਿਆ ਹੋਇਆ ਹੈ, ਪਰ ਅੰਤ ਵੇਲੇ ਇਹਨਾਂ ਵਿਚੋਂ ਭੀ (ਕਿਸੇ ਦੇ) ਨਾਲ ਨਹੀਂ ਜਾ ਸਕਦਾ।",
-      "roman": "ant kāl kichh sāth na chālai jo dīsai sabh tisahi maeā",
       "translation_ru": "В конце ничто не пойдёт с тобой; всё, что видно, дано милостью Бога, но ничто из этого не сопровождает."
     },
     {
-      "index": 19,
       "verse_id": 38741,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਆਦਿ ਪੁਰਖੁ ਅਪਰੰਪਰੁ ਸੋ ਪ੍ਰਭੁ ਹਰਿ ਨਾਮੁ ਰਿਦੈ ਲੈ ਪਾਰਿ ਪਇਆ ॥੮॥",
-      "site_roman": "ād purakh aparanpar sō prabh har nām ridai lai pār paiā .8.",
+      "roman": "ād purakh aparampar so prabh har nām ridē lē pār paēā",
       "sahib_singh_pa": "(ਦੁਨੀਆ ਦੇ ਇਹ ਪਦਾਰਥ ਦੇਣ ਵਾਲਾ) ਉਹ ਪਰਮਾਤਮਾ ਸਾਰੇ ਜਗਤ ਦਾ ਮੂਲ ਹੈ, ਸਭ ਵਿਚ ਵਿਆਪਕ ਹੈ, ਬੇਅੰਤ ਹੈ। ਜੇਹੜਾ ਮਨੁੱਖ ਉਸ ਦਾ ਨਾਮ ਆਪਣੇ ਹਿਰਦੇ ਵਿਚ ਟਿਕਾਂਦਾ ਹੈ, ਉਹ (ਸੰਸਾਰ-ਸਮੁੰਦਰ ਦੀਆਂ ਮੋਹ ਦੀਆਂ ਲਹਿਰਾਂ ਵਿਚੋਂ) ਪਾਰ ਲੰਘ ਜਾਂਦਾ ਹੈ ॥੮॥",
-      "roman": "ād purakh aparampar so prabh har nām ridai lai pār paēā",
       "translation_ru": "Этот Бог — изначальный, беспредельный, присутствующий во всём; тот, кто удерживает Его Имя в сердце, переправляется через океан мира."
     },
     {
-      "index": 20,
       "verse_id": 38742,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਮੂਏ ਕਉ ਰੋਵਹਿ ਕਿਸਹਿ ਸੁਣਾਵਹਿ ਭੈ ਸਾਗਰ ਅਸਰਾਲਿ ਪਇਆ ॥",
-      "site_roman": "mūē kau rōvah kisah sunāvah bhai sāgar asarāl paiā .",
+      "roman": "mūe kau rovah kisah sunāvah bhē sāgar asrāl paēā",
       "sahib_singh_pa": "(ਹੇ ਸਾਕਤ ਜੀਵ! ਮਰਨਾ ਤਾਂ ਸਭਨਾਂ ਨੇ ਹੈ, ਫਿਰ ਤੂੰ ਆਪਣੇ ਕਿਸੇ) ਮਰੇ ਸੰਬੰਧੀ ਨੂੰ ਰੋਂਦਾ ਹੈਂ ਤੇ (ਰੋ ਰੋ ਕੇ) ਕਿਸ ਨੂੰ ਸੁਣਾਂਦਾ ਹੈ? (ਪਰਮਾਤਮਾ ਦੀ ਯਾਦ ਤੋਂ ਖੁੰਝ ਕੇ) ਤੂੰ ਬੜੇ ਡਰਾਉਣੇ ਸੰਸਾਰ-ਸਮੁੰਦਰ ਵਿਚ ਗੋਤੇ ਖਾ ਰਿਹਾ ਹੈਂ।",
-      "roman": "mūe kau rovahi kisahi sunāvahi bhai sāgar asrāl paēā",
       "translation_ru": "О погружённый в майю! Все должны умереть — зачем ты плачешь о мёртвых и кому жалуешься? Забыв Бога, ты тонешь в страшном океане мира."
     },
     {
-      "index": 21,
       "verse_id": 38743,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
       "gurmukhi": "ਦੇਖਿ ਕੁਟੰਬੁ ਮਾਇਆ ਗ੍ਰਿਹ ਮੰਦਰੁ ਸਾਕਤੁ ਜੰਜਾਲਿ ਪਰਾਲਿ ਪਇਆ ॥੯॥",
-      "site_roman": "dēkh kutanb māiā grih mandar sākat janjāl parāl paiā .9.",
-      "sahib_singh_pa": "ਮਾਇਆ-ਵੇੜ੍ਹਿਆ ਜੀਵ ਆਪਣੇ ਪਰਵਾਰ ਨੂੰ, ਧਨ ਨੂੰ, ਸੋਹਣੇ ਘਰਾਂ ਨੂੰ ਵੇਖ ਵੇਖ ਕੇ ਨਿਕੰਮੇ ਜੰਜਾਲ ਵਿਚ ਫਸਿਆ ਪਿਆ ਹੈ ॥੯॥",
       "roman": "dekh kuṭamb māiā grih mandar sākat janjāl parāl paēā",
+      "sahib_singh_pa": "ਮਾਇਆ-ਵੇੜ੍ਹਿਆ ਜੀਵ ਆਪਣੇ ਪਰਵਾਰ ਨੂੰ, ਧਨ ਨੂੰ, ਸੋਹਣੇ ਘਰਾਂ ਨੂੰ ਵੇਖ ਵੇਖ ਕੇ ਨਿਕੰਮੇ ਜੰਜਾਲ ਵਿਚ ਫਸਿਆ ਪਿਆ ਹੈ ॥੯॥",
       "translation_ru": "Погружённый в майю человек, глядя на семью, богатство и дома, запутался в бесполезных узах."
-    },
-    {
-      "index": 22,
-      "verse_id": 38744,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
-      "gurmukhi": "ਜਾ ਆਏ ਤਾ ਤਿਨਹਿ ਪਠਾਏ ਚਾਲੇ ਤਿਨੈ ਬੁਲਾਇ ਲਇਆ ॥",
-      "site_roman": "jā āē tā tinah pathāē chālē tinai bulāi laiā .",
-      "sahib_singh_pa": "ਅਸੀਂ ਜੀਵ ਜਦੋਂ ਸੰਸਾਰ ਵਿਚ ਆਉਂਦੇ ਹਾਂ ਤਾਂ ਉਸ ਪਰਮਾਤਮਾ ਨੇ ਹੀ ਸਾਨੂੰ ਭੇਜਿਆ ਹੁੰਦਾ ਹੈ, ਇਥੋਂ ਜਾਂਦੇ ਹਾਂ ਤਦੋਂ ਭੀ ਉਸੇ ਨੇ ਬੁਲਾ ਭੇਜਿਆ ਹੁੰਦਾ ਹੈ।",
-      "roman": "jā āe tā tinh pathāe chāle tinai bulāe laeā",
-      "translation_ru": "Когда мы приходим в мир, это Он посылает нас; когда уходим, Он же зовёт обратно."
-    },
-    {
-      "index": 23,
-      "verse_id": 38745,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
-      "gurmukhi": "ਜੋ ਕਿਛੁ ਕਰਣਾ ਸੋ ਕਰਿ ਰਹਿਆ ਬਖਸਣਹਾਰੈ ਬਖਸਿ ਲਇਆ ॥੧੦॥",
-      "site_roman": "jō kish karanā sō kar rahiā bakhasanahārai bakhas laiā .10.",
-      "sahib_singh_pa": "ਜੋ ਕੁਝ ਉਹ ਪ੍ਰਭੂ ਕਰਨਾ ਚਾਹੁੰਦਾ ਹੈ ਉਹ ਕਰ ਰਿਹਾ ਹੈ। (ਅਸੀਂ ਜੀਵ ਉਸ ਦੀ ਰਜ਼ਾ ਨੂੰ ਭੁੱਲ ਜਾਂਦੇ ਹਾਂ, ਪਰ) ਉਹ ਬਖ਼ਸ਼ਣਹਾਰ ਹੈ ਉਹ ਬਖ਼ਸ਼ ਲੈਂਦਾ ਹੈ ॥੧੦॥",
-      "roman": "jo kichh karṇā so kar rahiā bakhsaṇhārai bakhas laeā",
-      "translation_ru": "Всё, что Он хочет сделать, Он делает; Он прощающий и прощает."
-    },
-    {
-      "index": 24,
-      "verse_id": 38746,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
-      "gurmukhi": "ਜਿਨਿ ਏਹੁ ਚਾਖਿਆ ਰਾਮ ਰਸਾਇਣੁ ਤਿਨ ਕੀ ਸੰਗਤਿ ਖੋਜੁ ਭਇਆ ॥",
-      "site_roman": "jin ēh chākhiā rām rasāin tin kī sangat khōj bhaiā .",
-      "sahib_singh_pa": "(ਜੇ ਜੀਵ!) ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ ਸਾਰੇ ਆਨੰਦ ਰਸ ਦੇਣ ਵਾਲਾ ਹੈ, ਜਿਸ ਜਿਸ ਬੰਦੇ ਨੇ ਇਹ ਨਾਮ-ਰਸ ਚੱਖ ਲਿਆ ਹੈ ਉਹਨਾਂ ਦੀ ਸੰਗਤ ਵਿਚ ਰਿਹਾਂ ਇਸ ਭੇਤ ਦੀ ਸਮਝ ਆਉਂਦੀ ਹੈ।",
-      "roman": "jin eh chākhiā rām rasāeṇ tin kī sangat khoj bhaeā",
-      "translation_ru": "Имя Бога — источник высшего блаженства; те, кто вкусили этот нектар, — в их обществе приходит понимание этой тайны."
-    },
-    {
-      "index": 25,
-      "verse_id": 38747,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
-      "gurmukhi": "ਰਿਧਿ ਸਿਧਿ ਬੁਧਿ ਗਿਆਨੁ ਗੁਰੂ ਤੇ ਪਾਇਆ ਮੁਕਤਿ ਪਦਾਰਥੁ ਸਰਣਿ ਪਇਆ ॥੧੧॥",
-      "site_roman": "ridh sidh budh giān gurū tē pāiā mukat padārath saran paiā .11.",
-      "sahib_singh_pa": "ਗੁਰੂ ਦੀ ਸਰਨ ਪੈ ਕੇ ਗੁਰੂ ਤੋਂ ਹੀ ਪਰਮਾਤਮਾ ਦਾ ਨਾਮ-ਪਦਾਰਥ ਮਿਲਦਾ ਹੈ, ਇਸ ਨਾਮ ਵਿਚ ਸਭ ਕਰਾਮਾਤੀ ਤਾਕਤਾਂ ਹਨ, ਉੱਚੀ ਅਕਲ ਹੈ, ਸਹੀ ਜੀਵਨ-ਰਾਹ ਦੀ ਸੂਝ ਹੈ, ਤੇ ਇਸ ਨਾਮ ਨਾਲ ਹੀ ਮਾਇਆ ਦੇ ਮੋਹ ਤੋਂ ਖ਼ਲਾਸੀ ਮਿਲਦੀ ਹੈ ॥੧੧॥",
-      "roman": "ridh sidh budh giān gurū te pāiā mukat padārath saran paēā",
-      "translation_ru": "В прибежище у Гуру получают Имя Бога; в нём есть силы, мудрость, истинное знание и освобождение от привязанности к майе."
-    },
-    {
-      "index": 26,
-      "verse_id": 38748,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
-      "gurmukhi": "ਦੁਖੁ ਸੁਖੁ ਗੁਰਮੁਖਿ ਸਮ ਕਰਿ ਜਾਣਾ ਹਰਖ ਸੋਗ ਤੇ ਬਿਰਕਤੁ ਭਇਆ ॥",
-      "site_roman": "dukh sukh guramukh sam kar jānā harakh sōg tē birakat bhaiā .",
-      "sahib_singh_pa": "ਜੇਹੜਾ ਮਨੁੱਖ ਗੁਰੂ ਦੀ ਸਰਨ ਪੈਂਦਾ ਹੈ ਉਹ (ਵਾਪਰਦੇ) ਦੁੱਖ ਸੁਖ ਨੂੰ ਇਕੋ ਜਿਹਾ ਜਾਣਦਾ ਹੈ, ਉਹ ਖ਼ੁਸ਼ੀ ਗ਼ਮੀ ਤੋਂ ਨਿਰਲੇਪ ਰਹਿੰਦਾ ਹੈ।",
-      "roman": "dukh sukh gurmukh sam kar jāṇā harakh sog te birkat bhaeā",
-      "translation_ru": "Тот, кто следует Гуру, воспринимает радость и страдание одинаково и остаётся отрешённым от счастья и горя."
-    },
-    {
-      "index": 27,
-      "verse_id": 38749,
-      "shabad_num": 2465,
-      "shabad_id": 2465,
-      "gurmukhi": "ਆਪੁ ਮਾਰਿ ਗੁਰਮੁਖਿ ਹਰਿ ਪਾਏ ਨਾਨਕ ਸਹਜਿ ਸਮਾਇ ਲਇਆ ॥੧੨॥੭॥",
-      "site_roman": "āp mār guramukh har pāē nānak sahaj samāi laiā .12.7.",
-      "sahib_singh_pa": "ਹੇ ਨਾਨਕ! ਗੁਰੂ ਦੀ ਸਰਨ ਪਿਆ ਮਨੁੱਖ ਆਪਾ-ਭਾਵ ਮਾਰ ਕੇ ਪਰਮਾਤਮਾ ਨੂੰ ਮਿਲ ਪੈਂਦਾ ਹੈ ਤੇ ਅਡੋਲ ਆਤਮਕ ਅਵਸਥਾ ਵਿਚ ਰਹਿੰਦਾ ਹੈ ॥੧੨॥੭॥",
-      "roman": "āp mār gurmukh har pāe nānak sahaj samāe laeā",
-      "translation_ru": "О Нанак! Убив эго и следуя Гуру, человек находит Бога и пребывает в устойчивом духовном равновесии."
     }
   ]
 }

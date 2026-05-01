@@ -32,6 +32,7 @@ HEADERS = {
 
 DEFAULT_CHAT_URL = "https://chatgpt.com/"
 BOT_PROFILE = Path(__file__).parent / "bot_profile"
+SHABAD_MAP_PATH = Path(__file__).parent / "shabad_map.json"
 
 TITLE_TEXT = "Шри Гуру Грантх Сахиб — перевод на русский"
 SUBTITLE_TEXT = "Источник: KhojGurbani · Prof. Sahib Singh"
@@ -253,6 +254,8 @@ class RuntimeConfig:
     raw_log_dir: Path | None
     json_dir: Path
     keep_chat_tabs: bool
+    chunk_size: int = 0  # 0 = disabled; >0 = split large angs into chunks of this size
+    banidb_path: Path | None = None  # if set, filter collected verse_ids to only those in banidb
 
 
 @dataclass
@@ -298,11 +301,78 @@ def reset_progress(progress_file: Path) -> None:
         progress_file.unlink()
 
 
+def load_shabad_map() -> dict[int, int]:
+    if not SHABAD_MAP_PATH.exists():
+        return {}
+    try:
+        raw = json.loads(SHABAD_MAP_PATH.read_text(encoding="utf-8"))
+        return {int(k): int(v) for k, v in raw.items()}
+    except Exception:
+        return {}
+
+
+def save_shabad_map(shabad_map: dict[int, int]) -> None:
+    SHABAD_MAP_PATH.write_text(
+        json.dumps({str(k): v for k, v in sorted(shabad_map.items())}, indent=2, ensure_ascii=False),
+        encoding="utf-8",
+    )
+
+
+def build_shabad_map_from_json(json_dir: Path) -> dict[int, int]:
+    shabad_map: dict[int, int] = {}
+    for p in sorted(json_dir.glob("ang_*.json")):
+        stem = p.stem[4:]
+        if not stem.isdigit():
+            continue
+        ang = int(stem)
+        data = load_ang_json(json_dir, ang)
+        if data and data.lines:
+            shabad_map[ang] = min(line.shabad_num for line in data.lines)
+    return shabad_map
+
+
+def estimate_start_probe(ang: int, shabad_map: dict[int, int]) -> int:
+    if ang in shabad_map:
+        return shabad_map[ang]
+
+    sorted_entries = sorted(shabad_map.items())
+    lower = [(a, s) for a, s in sorted_entries if a < ang]
+    if not lower:
+        return 1
+
+    ref_ang, ref_shabad = lower[-1]
+    first_ang, first_shabad = sorted_entries[0]
+
+    # Overall rate from first to last known entry — much more stable than local rate
+    if ref_ang != first_ang:
+        rate = (ref_shabad - first_shabad) / (ref_ang - first_ang)
+    else:
+        rate = ref_shabad / max(1, ref_ang)
+
+    estimate = int(ref_shabad + (ang - ref_ang) * rate)
+    # Start 100 below estimate: estimate tends to overshoot slightly
+    return max(1, estimate - 100)
+
+
 def save_raw_text(raw_log_dir: Path | None, filename: str, text: str) -> None:
     if raw_log_dir is None:
         return
     raw_log_dir.mkdir(parents=True, exist_ok=True)
     (raw_log_dir / filename).write_text(text, encoding="utf-8")
+
+
+def banidb_verse_ids_for_ang(banidb_path: Path, ang: int) -> set[int]:
+    """Return the set of verse_ids that banidb assigns to this ang."""
+    import sqlite3
+    try:
+        conn = sqlite3.connect(str(banidb_path))
+        cur = conn.cursor()
+        cur.execute("SELECT verse_id FROM verses WHERE ang = ?", (ang,))
+        result = {row[0] for row in cur.fetchall()}
+        conn.close()
+        return result
+    except Exception:
+        return set()
 
 
 def api_get(path: str) -> dict[str, Any]:
@@ -342,6 +412,7 @@ def discover_shabad_numbers_for_ang(
     ang: int,
     max_probe: int = 1500,
     start_probe: int = 1,
+    initial_miss_limit: int = 10,
 ) -> list[int]:
     found_by_scan: list[int] = []
     misses_after_first = 0
@@ -365,17 +436,22 @@ def discover_shabad_numbers_for_ang(
                 break
         else:
             initial_misses += 1
-            if initial_misses >= 10:
+            if initial_misses >= initial_miss_limit:
                 break
 
     return found_by_scan
 
 
-def fetch_ang_source_lines(ang: int, start_probe: int = 1) -> list[SourceLine]:
+def fetch_ang_source_lines(
+    ang: int,
+    start_probe: int = 1,
+    initial_miss_limit: int = 10,
+    valid_verse_ids: set[int] | None = None,
+) -> list[SourceLine]:
     if start_probe > 1:
         print(f"  → Зондирование шабадов с №{start_probe}")
 
-    shabad_numbers = discover_shabad_numbers_for_ang(ang, start_probe=start_probe)
+    shabad_numbers = discover_shabad_numbers_for_ang(ang, start_probe=start_probe, initial_miss_limit=initial_miss_limit)
     if not shabad_numbers:
         print(f"  ✗ Не удалось определить шабады для анга {ang}")
         return []
@@ -400,6 +476,9 @@ def fetch_ang_source_lines(ang: int, start_probe: int = 1) -> list[SourceLine]:
                 continue
 
             if verse_id in seen_verse_ids:
+                continue
+
+            if valid_verse_ids is not None and verse_id not in valid_verse_ids:
                 continue
 
             gurmukhi = normalize_text(str(verse.get("Scripture", "")))
@@ -1262,8 +1341,78 @@ def parse_args() -> argparse.Namespace:
         action="store_true",
         help="Показать интерактивное меню для выбора режима работы.",
     )
+    parser.add_argument(
+        "--update-shabad-map",
+        action="store_true",
+        help="Пересобрать shabad_map.json из ang_json/ и сохранить.",
+    )
+    parser.add_argument(
+        "--banidb",
+        type=str,
+        default="",
+        help=(
+            "Путь к sggs.db (banidb). Если указан, при сборе строк из KhojGurbani "
+            "оставляет только те verse_id, которые banidb относит к данному ангу. "
+            "Устраняет проблему сбора 400+ строк и дублей."
+        ),
+    )
+    parser.add_argument(
+        "--chunk-size",
+        type=int,
+        default=0,
+        help=(
+            "Дробить анг на чанки по N строк если строк больше N (0 = отключено). "
+            "Рекомендуется 50 для больших ангов: --chunk-size 50"
+        ),
+    )
 
     return parser.parse_args()
+
+
+def _translate_source_lines(
+    context,
+    chat_url: str,
+    ang: int,
+    source_lines: list[SourceLine],
+    cfg: RuntimeConfig,
+) -> AngTranslation | None:
+    """Translate source_lines for an ang, splitting into chunks if cfg.chunk_size is set."""
+    chunk_size = cfg.chunk_size
+    if chunk_size <= 0 or len(source_lines) <= chunk_size:
+        page = open_chat_tab(context, chat_url, cfg.page_timeout_ms)
+        page.bring_to_front()
+        try:
+            return request_structured_translation(page, ang, source_lines, cfg)
+        finally:
+            if not cfg.keep_chat_tabs:
+                try:
+                    page.close()
+                except Exception:
+                    pass
+
+    chunks = [source_lines[i:i + chunk_size] for i in range(0, len(source_lines), chunk_size)]
+    total_chunks = len(chunks)
+    print(f"  → Дробим на {total_chunks} чанков по ≤{chunk_size} строк")
+
+    all_lines: list[OutputLine] = []
+    for chunk_idx, chunk in enumerate(chunks, 1):
+        print(f"  → Чанк {chunk_idx}/{total_chunks} (строки {chunk[0].index}–{chunk[-1].index}, {len(chunk)} строк)")
+        page = open_chat_tab(context, chat_url, cfg.page_timeout_ms)
+        page.bring_to_front()
+        try:
+            result = request_structured_translation(page, ang, chunk, cfg)
+        finally:
+            if not cfg.keep_chat_tabs:
+                try:
+                    page.close()
+                except Exception:
+                    pass
+        if result is None:
+            print(f"  ⚠ Чанк {chunk_idx}/{total_chunks} не удался — отменяю анг {ang}")
+            return None
+        all_lines.extend(result.lines)
+
+    return AngTranslation(ang=ang, lines=all_lines)
 
 
 def run_browser_session(
@@ -1316,12 +1465,21 @@ def run_browser_session(
         print(f"Файл прогресса: {progress_file}")
         print(f"Папка JSON: {cfg.json_dir}")
 
-        # Определяем стартовый шабад: из JSON предыдущего анга или с 1
+        # Загружаем карту шабадов и обновляем из уже существующих JSON
+        shabad_map = load_shabad_map()
+        map_from_json = build_shabad_map_from_json(cfg.json_dir)
+        if map_from_json != {k: shabad_map.get(k) for k in map_from_json}:
+            shabad_map.update(map_from_json)
+            save_shabad_map(shabad_map)
+
+        # Ищем стартовый шабад: сначала карта, затем ближайший предыдущий JSON
         last_shabad = 0
         if args.start > 1:
-            prev = load_ang_json(cfg.json_dir, args.start - 1)
-            if prev and prev.lines:
-                last_shabad = max(line.shabad_num for line in prev.lines)
+            for look_back in range(args.start - 1, max(0, args.start - 100), -1):
+                prev = load_ang_json(cfg.json_dir, look_back)
+                if prev and prev.lines:
+                    last_shabad = max(line.shabad_num for line in prev.lines)
+                    break
 
         for ang in range(args.start, args.end + 1):
             print(f"\n══ Анг {ang}/{args.end} ══")
@@ -1332,43 +1490,57 @@ def run_browser_session(
                     existing_json.unlink()
                     print(f"  ↺ Перевожу заново анг {ang}: удалён старый {existing_json.name}")
                 else:
-                    # Обновляем last_shabad из существующего JSON чтобы не потерять позицию
                     cached = load_ang_json(cfg.json_dir, ang)
                     if cached and cached.lines:
                         last_shabad = max(line.shabad_num for line in cached.lines)
                     print(f"  ↷ JSON уже существует, пропускаю анг {ang}: {existing_json.name}")
                     continue
 
-            start_probe = max(1, last_shabad)
-            source_lines = fetch_ang_source_lines(ang, start_probe=start_probe)
+            # Определяем start_probe: точно из карты, иначе last_shabad, иначе интерполяция
+            if ang in shabad_map:
+                start_probe = shabad_map[ang]
+                miss_limit = 10
+            elif last_shabad > 0:
+                start_probe = last_shabad
+                miss_limit = 10
+            else:
+                start_probe = estimate_start_probe(ang, shabad_map)
+                miss_limit = 300
+                print(f"  → Интерполированный старт шабада: №{start_probe} (окно +300)")
+
+            valid_verse_ids: set[int] | None = None
+            if cfg.banidb_path:
+                valid_verse_ids = banidb_verse_ids_for_ang(cfg.banidb_path, ang)
+                if valid_verse_ids:
+                    print(f"  → banidb: ожидается {len(valid_verse_ids)} verse_id для анга {ang}")
+
+            source_lines = fetch_ang_source_lines(
+                ang,
+                start_probe=start_probe,
+                initial_miss_limit=miss_limit,
+                valid_verse_ids=valid_verse_ids,
+            )
             if not source_lines:
                 print(f"  ⚠ Не удалось собрать строки из KhojGurbani для анга {ang}, пропускаю")
                 continue
 
             print(f"  → Собрано строк: {len(source_lines)}")
 
-            chat_page = open_chat_tab(context, chat_url, cfg.page_timeout_ms)
-            chat_page.bring_to_front()
+            ang_data = _translate_source_lines(context, chat_url, ang, source_lines, cfg)
 
-            ang_data = None
-            try:
-                ang_data = request_structured_translation(chat_page, ang, source_lines, cfg)
+            if ang_data:
+                json_path = save_ang_json(cfg.json_dir, ang_data)
+                print(f"  ✓ JSON сохранён: {json_path.name}")
+                append_ang_to_docx(output_path, ang_data)
+                save_progress(progress_file, ang)
 
-                if ang_data:
-                    json_path = save_ang_json(cfg.json_dir, ang_data)
-                    print(f"  ✓ JSON сохранён: {json_path.name}")
-                    append_ang_to_docx(output_path, ang_data)
-                    save_progress(progress_file, ang)
-            finally:
-                if not cfg.keep_chat_tabs:
-                    try:
-                        chat_page.close()
-                    except Exception:
-                        pass
-
-            # Обновляем курсор шабадов для следующего анга
+            # Обновляем last_shabad и карту
             if source_lines:
                 last_shabad = max(line.shabad_num for line in source_lines)
+                min_sh = min(line.shabad_num for line in source_lines)
+                if shabad_map.get(ang) != min_sh:
+                    shabad_map[ang] = min_sh
+                    save_shabad_map(shabad_map)
 
             if not ang_data:
                 print(f"  ⚠ Не удалось получить валидный результат для анга {ang}, пропускаю")
@@ -1398,7 +1570,11 @@ def run_interactive_menu(
     existing_count = sum(
         1 for a in range(1, 1431) if ang_json_path(cfg.json_dir, a).exists()
     )
-    last_done = progress or 0
+    found_angs = sorted(
+        int(p.stem[4:]) for p in cfg.json_dir.glob("ang_*.json") if p.stem[4:].isdigit()
+    )
+    highest_json = found_angs[-1] if found_angs else 0
+    last_done = max(progress, highest_json)
     next_ang = last_done + 1 if last_done < 1430 else None
     default_end = min(last_done + 15, 1430) if next_ang else None
     scan_up_to = max(last_done, 1)
@@ -1549,7 +1725,16 @@ def main() -> None:
         raw_log_dir=raw_log_dir,
         json_dir=json_dir,
         keep_chat_tabs=args.keep_chat_tabs,
+        chunk_size=args.chunk_size,
+        banidb_path=Path(args.banidb) if args.banidb.strip() else None,
     )
+
+    if args.update_shabad_map:
+        print("Пересобираю shabad_map.json из ang_json/...")
+        shabad_map = build_shabad_map_from_json(json_dir)
+        save_shabad_map(shabad_map)
+        print(f"✓ Сохранено {len(shabad_map)} записей в {SHABAD_MAP_PATH}")
+        return
 
     if args.menu:
         run_interactive_menu(args, cfg, output_path, progress_file)
